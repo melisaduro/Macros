@@ -1,0 +1,95 @@
+Cliente: Sharing
+Scope :	Ok
+Control de Acciones: 
+
+20170408_POC_INDOOR_RM-STD_1_4G	Prepartido 
+20170408_POC_INDOOR_RM-STD_1_4G	"Partido // 16.23 reiniciamos todo voz por haber muchos drops de todos
+16.35 reiniciamos yoigo datos pq daba todo error
+16.50 orange datos se para solo"
+20170408_POC_INDOOR_RM-STD_1_4G	Postpartido  // 18.18 hay muchos drops de mov, y lo reiniciamos
+	
+Invalidaciones: Invalidación por fallo drops llamadas. Url el pais. Un duplicado YOI. 
+Invalidación Ráfagas en Vdf y Osp, para el Prepartido, y primera parte respectivamente:
+
+15.22 -> 16.15 VDF
+16.44 -> 17.55 OSP
+
+Tras invalidar, el número de tests en DL se queda en 
+
+Nueva	Anterior
+
+46	78
+60	70
+38	78
+46	42
+	
+Mallado	final: OK
+
+Cobertura: 	
+---------
+-- VOZ --
+---------
+ - CCSR	: OK, 2 Acces fail mov
+ - CDR	: OK
+ - SQNS : OK
+ - MOS  : OK
+ - CST	: OK, un poco alto para MOV
+
+
+-----------
+-- DATOS --
+-----------	
+ - D1: Bajan todos salvo MOV, aunque se siguen manteniendo buenos TH en general.
+Vodafone en concreto, baja un 90% de CA con 80% de 40Mhz a un 33% de CA en 40Mhz.
+
+ 21,094   	 25,803   
+ 15,865   	 10,553   
+ 12,296   	 15,279   
+ 5,112   	 11,979   
+  
+
+ - D2: Ok para MOV y VDF, Baja sobretodo para YOI
+ - D3: Bajan sobretodo YOI y VDF. 
+ - DL_NC: Baja mucho (20mb) VDF, YOI 4mb. Mov sube.
+Vodafone en concreto pierde también mucho CA, Baja desde un 80% a un 55%. Además tenemos leves aumentos en QPSK y LT800. 
+No obstante, en las medidas actuales en las que existe CA, el th medio es de 55mb. 
+
+ 26,758   	45906
+ 22,318   	13538
+ 28,605   	30753
+ 7,951   	12557
+
+ - UL_NC: Empeoran todos salvo MOV.
+
+ 15,931   	21778
+ 14,729   	11844
+ 16,825   	19783
+ 9,101   	9995
+
+ - LATENCIA: 
+ - WEB: oK en general, 4 caidas VDF. YOI mal con casi el 20% con 16 caidas RET. 
+ - D5_ HTTP : OK salvo YOI, con 10/69 RET
+ - D5_HTTPS : Mal YOI, 23/92 errores RET, el resto ~5.
+ - B2: Bajo ~75% para YOI y VDF
+ - B5: Bajo en general, pero aceptable teniendo en cuenta la congestión de la zona:
+
+494p
+469p
+508p
+417p
+
+
+Hay que tener en cuenta que el partido que tenía lugar en esta medida, era el RM-ATM siendo 
+el anterior partido RM-"Cultural leonesa"
+
+En general la medida está muy regular para todos los operadores, MOV sube bastante, aún así, VDF es mejor en todo (salvo D3) que MOV.
+
+**** Se ha comprobado la medida y en Network capability (DL) y cuando funciona con CA, el TH Medio es de 55mb
+
+------------------------------------------------------------------------------------------------------------
+
+2º rev :
+
+	voz : VERDE
+
+	datos : AMARILLO

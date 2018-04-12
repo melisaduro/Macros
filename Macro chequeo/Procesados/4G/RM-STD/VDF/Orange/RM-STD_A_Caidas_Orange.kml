@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="IconoBlockCall">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoDropCall">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <heading>45</heading>
+  <Icon>
+     http://maps.google.com/mapfiles/kml/shapes/arrow.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoEndCall">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <heading>45</heading>
+  <Icon>
+     http://maps.google.com/mapfiles/kml/shapes/arrow.png
+  </Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>11558</name>
+<styleUrl>#IconoDropCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Cause: Dropped, Disconnect received (Interworking, unspecified-Interworking-public network serving the local user)</font></p>
+ <p><font color="Black">Dropped Call</font></p>
+ <p><font color="Black"> Date: 08/04/2017 16:03:54</font></p>
+ <hr>
+ <h3> A Side </h3>
+ <p><font color="Black"> End PCI: 25</font></p>
+ <p><font color="Black"> End EARFCN: 3050</font></p>
+ <p><font color="Black"> End RSRP: -92.2</font></p>
+ <p><font color="Black"> End RSRQ: -17.2</font></p>
+ <p><font color="Black"> Worst RSRP: -86.8</font></p>
+ <p><font color="Black"> Worst RSRQ: -11.8</font></p>
+ <hr>
+ <h3> B Side </h3>
+ <p><font color="Black"> End BCCH/PSC/PCI: </font></p>
+ <p><font color="Black"> End Channel: </font></p>
+ <p><font color="Black"> End Level: 0</font></p>
+ <p><font color="Black"> End Quality: 0</font></p>
+ <hr>
+ <p><font color="Black"> CSFB: Yes </font></p>
+ <p><font color="Black"> CSFB Device Side: A</font></p>
+ <p><font color="Black"> End Call Technology A: LTE 800</font></p>
+ <p><font color="Black"> End Call Technology B: </font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-3.6895,40.4522</coordinates>
+</Point>
+</Placemark>
+<ScreenOverlay>
+<name>Absolute Positioning: Top Left</name>
+<Icon>
+<href>Leyenda_Llamadas.jpg</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="0.86" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="IconoBlockCall">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoDropCall">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <heading>45</heading>
+  <Icon>
+     http://maps.google.com/mapfiles/kml/shapes/arrow.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoEndCall">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <heading>45</heading>
+  <Icon>
+     http://maps.google.com/mapfiles/kml/shapes/arrow.png
+  </Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>72330</name>
+<styleUrl>#IconoBlockCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MTC</font></p>
+ <p><font color="Black"> Cause: </font><font color="Red"><i>Failed, No Progress after DCCH assignment </i></font></p>
+ <p><font color="Black">Failed Call</font></p>
+ <p><font color="Black"> Date: 01/04/2017 13:40:36</font></p>
+ <hr>
+ <h3> A Side </h3>
+ <p><font color="Black"> End PCI: 274</font></p>
+ <p><font color="Black"> End EARFCN: 6400</font></p>
+ <p><font color="Black"> End RSRP: -98.34</font></p>
+ <p><font color="Black"> End RSRQ: -15.37</font></p>
+ <p><font color="Black"> Worst RSRP: 0</font></p>
+ <p><font color="Black"> Worst RSRQ: 0</font></p>
+ <hr>
+ <h3> B Side </h3>
+ <p><font color="Black"> End PCI: 274</font></p>
+ <p><font color="Black"> End EARFCN: 6400</font></p>
+ <p><font color="Black"> End RSRP: -106.97</font></p>
+ <p><font color="Black"> End RSRQ: -15.76</font></p>
+ <hr>
+ <p><font color="Black"> CSFB: Yes </font></p>
+ <p><font color="Black"> CSFB Device Side: AB</font></p>
+ <p><font color="Black"> End Call Technology A: LTE 800</font></p>
+ <p><font color="Black"> End Call Technology B: LTE 800</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4284,27.9204</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>72340</name>
+<styleUrl>#IconoBlockCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MTC</font></p>
+ <p><font color="Black"> Cause: </font><font color="Red"><i>Failed, Called Party not reached </i></font></p>
+ <p><font color="Black">Failed Call</font></p>
+ <p><font color="Black"> Date: 01/04/2017 13:48:16</font></p>
+ <hr>
+ <h3> A Side </h3>
+ <p><font color="Black"> End PCI: 274</font></p>
+ <p><font color="Black"> End EARFCN: 6400</font></p>
+ <p><font color="Black"> End RSRP: -89.75</font></p>
+ <p><font color="Black"> End RSRQ: -13.94</font></p>
+ <p><font color="Black"> Worst RSRP: 0</font></p>
+ <p><font color="Black"> Worst RSRQ: 0</font></p>
+ <hr>
+ <h3> B Side </h3>
+ <p><font color="Black"> End PCI: 274</font></p>
+ <p><font color="Black"> End EARFCN: 6400</font></p>
+ <p><font color="Black"> End RSRP: -89.44</font></p>
+ <p><font color="Black"> End RSRQ: -15.12</font></p>
+ <hr>
+ <p><font color="Black"> CSFB: Yes </font></p>
+ <p><font color="Black"> CSFB Device Side: B</font></p>
+ <p><font color="Black"> End Call Technology A: LTE 800</font></p>
+ <p><font color="Black"> End Call Technology B: LTE 800</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4305,27.9303</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>72344</name>
+<styleUrl>#IconoBlockCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MTC</font></p>
+ <p><font color="Black"> Cause: </font><font color="Red"><i>Failed, No Progress after DCCH assignment , Low Total Ec/Io</i></font></p>
+ <p><font color="Black">Failed Call</font></p>
+ <p><font color="Black"> Date: 01/04/2017 13:52:06</font></p>
+ <hr>
+ <h3> A Side </h3>
+ <p><font color="Black"> End PCI: 335</font></p>
+ <p><font color="Black"> End EARFCN: </font></p>
+ <p><font color="Black"> End RSRP: 0</font></p>
+ <p><font color="Black"> End RSRQ: -8.79</font></p>
+ <p><font color="Black"> Worst RSRP: 0</font></p>
+ <p><font color="Black"> Worst RSRQ: 0</font></p>
+ <hr>
+ <h3> B Side </h3>
+ <p><font color="Black"> End PCI: 274</font></p>
+ <p><font color="Black"> End EARFCN: 6400</font></p>
+ <p><font color="Black"> End RSRP: -94.19</font></p>
+ <p><font color="Black"> End RSRQ: -14.12</font></p>
+ <hr>
+ <p><font color="Black"> CSFB: Yes </font></p>
+ <p><font color="Black"> CSFB Device Side: B</font></p>
+ <p><font color="Black"> End Call Technology A: LTE 800</font></p>
+ <p><font color="Black"> End Call Technology B: LTE 800</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4452,27.9276</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>72450</name>
+<styleUrl>#IconoBlockCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MOC</font></p>
+ <p><font color="Black"> Cause: </font><font color="Red"><i>Failed, No Progress after FallBack, High BLER, Low Total Ec/Io</i></font></p>
+ <p><font color="Black">Failed Call</font></p>
+ <p><font color="Black"> Date: 01/04/2017 15:33:43</font></p>
+ <hr>
+ <h3> A Side </h3>
+ <p><font color="Black"> End PCI: 274</font></p>
+ <p><font color="Black"> End EARFCN: 6400</font></p>
+ <p><font color="Black"> End RSRP: -115.99</font></p>
+ <p><font color="Black"> End RSRQ: -17.04</font></p>
+ <p><font color="Black"> Worst RSRP: 0</font></p>
+ <p><font color="Black"> Worst RSRQ: 0</font></p>
+ <hr>
+ <h3> B Side </h3>
+ <p><font color="Black"> End PCI: 274</font></p>
+ <p><font color="Black"> End EARFCN: </font></p>
+ <p><font color="Black"> End RSRP: 0</font></p>
+ <p><font color="Black"> End RSRQ: -17.02</font></p>
+ <hr>
+ <p><font color="Black"> CSFB: Yes </font></p>
+ <p><font color="Black"> CSFB Device Side: A</font></p>
+ <p><font color="Black"> End Call Technology A: LTE 800</font></p>
+ <p><font color="Black"> End Call Technology B: LTE 800</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4267,27.9343</coordinates>
+</Point>
+</Placemark>
+<ScreenOverlay>
+<name>Absolute Positioning: Top Left</name>
+<Icon>
+<href>Leyenda_Llamadas.jpg</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="0.86" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>

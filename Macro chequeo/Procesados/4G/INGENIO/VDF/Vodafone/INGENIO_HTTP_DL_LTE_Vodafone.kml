@@ -1,0 +1,3105 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="IconoAwful">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBad">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBad">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSo">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGood">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGood">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoAwfulM">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBadM">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBadM">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSoM">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGoodM">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGoodM">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoAwful3G">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/square.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBad3G">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/square.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBad3G">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/square.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSo3G">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/square.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGood3G">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/square.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGood3G">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/square.png
+  </Icon>
+</IconStyle>
+</Style>
+<Folder>
+<name>Customer Experience</name>
+<Folder>
+<name>muestras 4G</name>
+<Folder>
+<name>354201062974270</name>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 141222</font></p>
+ <p><font color="Black"> Throughput: 20435Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 23:18:00.855</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 23:18:00.855</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -98.7</font></p>
+ <p><font color="Black"> RSRQ: -9.6</font></p>
+ <p><font color="Black"> SINR: 6.5</font></p>
+ <p><font color="Black"> % QPSK: 2.2%</font></p>
+ <p><font color="Black"> % 16QAM: 49.3%</font></p>
+ <p><font color="Black"> % 64QAM: 48.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 60</font></p>
+ <p><font color="Black"> Resource Blocks Max: 71</font></p>
+ <p><font color="Black"> Resource Blocks Min: 55</font></p>
+ <p><font color="Black"> RBs When Allocated: 113</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 9</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89707523</font></p>
+ <p><font color="Black"> Celda final: 89707523</font></p>
+ <p><font color="Black"> PCI inicial: 99</font></p>
+ <p><font color="Black"> PCI final: 99</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3923433333333,27.9348266666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 148802</font></p>
+ <p><font color="Black"> Throughput: 2913Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 13:21:46.089</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 13:21:46.089</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -115.4</font></p>
+ <p><font color="Black"> RSRQ: -13.4</font></p>
+ <p><font color="Black"> SINR: 1</font></p>
+ <p><font color="Black"> % QPSK: 0.7%</font></p>
+ <p><font color="Black"> % 16QAM: 95.9%</font></p>
+ <p><font color="Black"> % 64QAM: 3.4%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 63</font></p>
+ <p><font color="Black"> Resource Blocks Max: 67</font></p>
+ <p><font color="Black"> Resource Blocks Min: 60</font></p>
+ <p><font color="Black"> RBs When Allocated: 126</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.1%</font></p>
+ <p><font color="Black"> CQI: 7</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89707529</font></p>
+ <p><font color="Black"> Celda final: 89707529</font></p>
+ <p><font color="Black"> PCI inicial: 99</font></p>
+ <p><font color="Black"> PCI final: 99</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4002116666667,27.91995</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 148820</font></p>
+ <p><font color="Black"> Throughput: 8563Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 13:25:57.147</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 13:25:57.147</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -104.9</font></p>
+ <p><font color="Black"> RSRQ: -8.9</font></p>
+ <p><font color="Black"> SINR: 7.2</font></p>
+ <p><font color="Black"> % QPSK: 6.2%</font></p>
+ <p><font color="Black"> % 16QAM: 45.3%</font></p>
+ <p><font color="Black"> % 64QAM: 48.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 22</font></p>
+ <p><font color="Black"> Resource Blocks Max: 24</font></p>
+ <p><font color="Black"> Resource Blocks Min: 18</font></p>
+ <p><font color="Black"> RBs When Allocated: 43</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.2%</font></p>
+ <p><font color="Black"> CQI: 8.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 92.4%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 7.6%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 7.6%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89707529</font></p>
+ <p><font color="Black"> Celda final: 89707529</font></p>
+ <p><font color="Black"> PCI inicial: 99</font></p>
+ <p><font color="Black"> PCI final: 99</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4016383333333,27.9171666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 148842</font></p>
+ <p><font color="Black"> Throughput: 12185Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 13:31:19.092</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 13:31:19.092</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -97.6</font></p>
+ <p><font color="Black"> RSRQ: -10.5</font></p>
+ <p><font color="Black"> SINR: 13.8</font></p>
+ <p><font color="Black"> % QPSK: 24.4%</font></p>
+ <p><font color="Black"> % 16QAM: 8.7%</font></p>
+ <p><font color="Black"> % 64QAM: 66.8%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 64</font></p>
+ <p><font color="Black"> Resource Blocks Max: 68</font></p>
+ <p><font color="Black"> Resource Blocks Min: 59</font></p>
+ <p><font color="Black"> RBs When Allocated: 125</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.2%</font></p>
+ <p><font color="Black"> CQI: 8.7</font></p>
+ <p><font color="Black"> Rank Indicator 1: 51.5%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 48.5%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 48.5%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89707529</font></p>
+ <p><font color="Black"> Celda final: 89707529</font></p>
+ <p><font color="Black"> PCI inicial: 99</font></p>
+ <p><font color="Black"> PCI final: 99</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.395835,27.9227766666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 148860</font></p>
+ <p><font color="Black"> Throughput: 9953Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 13:35:18.511</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 13:35:18.511</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -100</font></p>
+ <p><font color="Black"> RSRQ: -10.6</font></p>
+ <p><font color="Black"> SINR: 9.3</font></p>
+ <p><font color="Black"> % QPSK: 48.2%</font></p>
+ <p><font color="Black"> % 16QAM: 19%</font></p>
+ <p><font color="Black"> % 64QAM: 32.8%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 52</font></p>
+ <p><font color="Black"> Resource Blocks Max: 66</font></p>
+ <p><font color="Black"> Resource Blocks Min: 36</font></p>
+ <p><font color="Black"> RBs When Allocated: 101</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 7.1</font></p>
+ <p><font color="Black"> Rank Indicator 1: 62.6%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 37.4%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 37.4%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89707529</font></p>
+ <p><font color="Black"> Celda final: 89707529</font></p>
+ <p><font color="Black"> PCI inicial: 99</font></p>
+ <p><font color="Black"> PCI final: 99</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3998383333333,27.915775</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 148882</font></p>
+ <p><font color="Black"> Throughput: 8022Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 13:40:45.927</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 13:40:45.927</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -103.7</font></p>
+ <p><font color="Black"> RSRQ: -12.4</font></p>
+ <p><font color="Black"> SINR: 11.7</font></p>
+ <p><font color="Black"> % QPSK: 0.6%</font></p>
+ <p><font color="Black"> % 16QAM: 0.2%</font></p>
+ <p><font color="Black"> % 64QAM: 99.2%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 27</font></p>
+ <p><font color="Black"> Resource Blocks Max: 31</font></p>
+ <p><font color="Black"> Resource Blocks Min: 20</font></p>
+ <p><font color="Black"> RBs When Allocated: 55</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 11.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.42831,27.920225</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 148900</font></p>
+ <p><font color="Black"> Throughput: 15657Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 13:44:49.189</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 13:44:49.189</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -101.4</font></p>
+ <p><font color="Black"> RSRQ: -10</font></p>
+ <p><font color="Black"> SINR: 17.1</font></p>
+ <p><font color="Black"> % QPSK: 0.5%</font></p>
+ <p><font color="Black"> % 16QAM: 0%</font></p>
+ <p><font color="Black"> % 64QAM: 99.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 36</font></p>
+ <p><font color="Black"> Resource Blocks Max: 37</font></p>
+ <p><font color="Black"> Resource Blocks Min: 34</font></p>
+ <p><font color="Black"> RBs When Allocated: 69</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 12.7</font></p>
+ <p><font color="Black"> Rank Indicator 1: 67%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 33%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 33%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4325166666667,27.92444</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 148922</font></p>
+ <p><font color="Black"> Throughput: 7700Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 13:50:11.922</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 13:50:11.922</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -100.5</font></p>
+ <p><font color="Black"> RSRQ: -11.8</font></p>
+ <p><font color="Black"> SINR: 15</font></p>
+ <p><font color="Black"> % QPSK: 1.3%</font></p>
+ <p><font color="Black"> % 16QAM: 10.6%</font></p>
+ <p><font color="Black"> % 64QAM: 88.1%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 25</font></p>
+ <p><font color="Black"> Resource Blocks Max: 28</font></p>
+ <p><font color="Black"> Resource Blocks Min: 21</font></p>
+ <p><font color="Black"> RBs When Allocated: 46</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.2%</font></p>
+ <p><font color="Black"> CQI: 10.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 69%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 31%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 31%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4335966666667,27.9308433333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 148962</font></p>
+ <p><font color="Black"> Throughput: 15227Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 14:00:36.483</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 14:00:36.483</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -110.9</font></p>
+ <p><font color="Black"> RSRQ: -12.7</font></p>
+ <p><font color="Black"> SINR: 8.3</font></p>
+ <p><font color="Black"> % QPSK: 0.3%</font></p>
+ <p><font color="Black"> % 16QAM: 0.1%</font></p>
+ <p><font color="Black"> % 64QAM: 99.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 30</font></p>
+ <p><font color="Black"> Resource Blocks Max: 31</font></p>
+ <p><font color="Black"> Resource Blocks Min: 28</font></p>
+ <p><font color="Black"> RBs When Allocated: 60</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 11.3</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.44282,27.925885</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 148980</font></p>
+ <p><font color="Black"> Throughput: 17615Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 14:04:38.007</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 14:04:38.007</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -108.3</font></p>
+ <p><font color="Black"> RSRQ: -10.3</font></p>
+ <p><font color="Black"> SINR: 10.7</font></p>
+ <p><font color="Black"> % QPSK: 2.1%</font></p>
+ <p><font color="Black"> % 16QAM: 42.6%</font></p>
+ <p><font color="Black"> % 64QAM: 55.3%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 52</font></p>
+ <p><font color="Black"> Resource Blocks Max: 67</font></p>
+ <p><font color="Black"> Resource Blocks Min: 37</font></p>
+ <p><font color="Black"> RBs When Allocated: 80</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 10.7</font></p>
+ <p><font color="Black"> Rank Indicator 1: 85.1%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 14.9%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 14.9%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4359233333333,27.9218383333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 149020</font></p>
+ <p><font color="Black"> Throughput: 9446Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 14:14:43.125</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 14:14:43.125</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -114.5</font></p>
+ <p><font color="Black"> RSRQ: -12.6</font></p>
+ <p><font color="Black"> SINR: 6.7</font></p>
+ <p><font color="Black"> % QPSK: 0.4%</font></p>
+ <p><font color="Black"> % 16QAM: 33.6%</font></p>
+ <p><font color="Black"> % 64QAM: 66%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 24</font></p>
+ <p><font color="Black"> Resource Blocks Max: 29</font></p>
+ <p><font color="Black"> Resource Blocks Min: 16</font></p>
+ <p><font color="Black"> RBs When Allocated: 48</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.2%</font></p>
+ <p><font color="Black"> CQI: 9.1</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4481216666667,27.9180366666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 149042</font></p>
+ <p><font color="Black"> Throughput: 18610Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 14:20:39.140</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 14:20:39.140</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -108.7</font></p>
+ <p><font color="Black"> RSRQ: -9.7</font></p>
+ <p><font color="Black"> SINR: 11.4</font></p>
+ <p><font color="Black"> % QPSK: 9.6%</font></p>
+ <p><font color="Black"> % 16QAM: 14.1%</font></p>
+ <p><font color="Black"> % 64QAM: 76.3%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 42</font></p>
+ <p><font color="Black"> Resource Blocks Max: 43</font></p>
+ <p><font color="Black"> Resource Blocks Min: 38</font></p>
+ <p><font color="Black"> RBs When Allocated: 75</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 9.4</font></p>
+ <p><font color="Black"> Rank Indicator 1: 75.3%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 24.7%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 24.7%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.447505,27.9180116666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 149060</font></p>
+ <p><font color="Black"> Throughput: 16731Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 14:24:41.529</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 14:24:41.529</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -85.6</font></p>
+ <p><font color="Black"> RSRQ: -10.7</font></p>
+ <p><font color="Black"> SINR: 15.9</font></p>
+ <p><font color="Black"> % QPSK: 0%</font></p>
+ <p><font color="Black"> % 16QAM: 1.9%</font></p>
+ <p><font color="Black"> % 64QAM: 98.1%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 38</font></p>
+ <p><font color="Black"> Resource Blocks Max: 39</font></p>
+ <p><font color="Black"> Resource Blocks Min: 36</font></p>
+ <p><font color="Black"> RBs When Allocated: 75</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 14.4</font></p>
+ <p><font color="Black"> Rank Indicator 1: 91.8%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 8.2%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 8.2%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.441055,27.9111683333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 149082</font></p>
+ <p><font color="Black"> Throughput: 10221Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 14:30:09.695</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 14:30:09.695</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -103.6</font></p>
+ <p><font color="Black"> RSRQ: -10.9</font></p>
+ <p><font color="Black"> SINR: 14.4</font></p>
+ <p><font color="Black"> % QPSK: 3.9%</font></p>
+ <p><font color="Black"> % 16QAM: 9.2%</font></p>
+ <p><font color="Black"> % 64QAM: 86.9%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 30</font></p>
+ <p><font color="Black"> Resource Blocks Max: 39</font></p>
+ <p><font color="Black"> Resource Blocks Min: 25</font></p>
+ <p><font color="Black"> RBs When Allocated: 61</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 13</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4409416666667,27.91207</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 149100</font></p>
+ <p><font color="Black"> Throughput: 13217Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 14:34:11.628</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 14:34:11.628</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -95.1</font></p>
+ <p><font color="Black"> RSRQ: -11</font></p>
+ <p><font color="Black"> SINR: 15.9</font></p>
+ <p><font color="Black"> % QPSK: 2.6%</font></p>
+ <p><font color="Black"> % 16QAM: 8.7%</font></p>
+ <p><font color="Black"> % 64QAM: 88.7%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 33</font></p>
+ <p><font color="Black"> Resource Blocks Max: 36</font></p>
+ <p><font color="Black"> Resource Blocks Min: 31</font></p>
+ <p><font color="Black"> RBs When Allocated: 65</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 11.9</font></p>
+ <p><font color="Black"> Rank Indicator 1: 90.7%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 9.3%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 9.3%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.44078,27.9120783333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 149122</font></p>
+ <p><font color="Black"> Throughput: 9947Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 14:39:49.543</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 14:39:49.543</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -90.1</font></p>
+ <p><font color="Black"> RSRQ: -11.6</font></p>
+ <p><font color="Black"> SINR: 13.3</font></p>
+ <p><font color="Black"> % QPSK: 21.6%</font></p>
+ <p><font color="Black"> % 16QAM: 35.9%</font></p>
+ <p><font color="Black"> % 64QAM: 42.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 30</font></p>
+ <p><font color="Black"> Resource Blocks Max: 46</font></p>
+ <p><font color="Black"> Resource Blocks Min: 24</font></p>
+ <p><font color="Black"> RBs When Allocated: 53</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 9.6</font></p>
+ <p><font color="Black"> Rank Indicator 1: 71.3%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 28.7%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 28.7%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.437395,27.9129483333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 149140</font></p>
+ <p><font color="Black"> Throughput: 14620Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 14:43:56.232</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 14:43:56.232</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -94.7</font></p>
+ <p><font color="Black"> RSRQ: -10.5</font></p>
+ <p><font color="Black"> SINR: 15.8</font></p>
+ <p><font color="Black"> % QPSK: 7.3%</font></p>
+ <p><font color="Black"> % 16QAM: 37.2%</font></p>
+ <p><font color="Black"> % 64QAM: 55.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 41</font></p>
+ <p><font color="Black"> Resource Blocks Max: 44</font></p>
+ <p><font color="Black"> Resource Blocks Min: 38</font></p>
+ <p><font color="Black"> RBs When Allocated: 67</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 10.7</font></p>
+ <p><font color="Black"> Rank Indicator 1: 31.1%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 68.9%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 68.9%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4408883333333,27.916665</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 149162</font></p>
+ <p><font color="Black"> Throughput: 24192Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 14:49:27.584</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 14:49:27.584</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -98.9</font></p>
+ <p><font color="Black"> RSRQ: -8.1</font></p>
+ <p><font color="Black"> SINR: 14</font></p>
+ <p><font color="Black"> % QPSK: 1%</font></p>
+ <p><font color="Black"> % 16QAM: 0.6%</font></p>
+ <p><font color="Black"> % 64QAM: 98.4%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 46</font></p>
+ <p><font color="Black"> Resource Blocks Max: 47</font></p>
+ <p><font color="Black"> Resource Blocks Min: 45</font></p>
+ <p><font color="Black"> RBs When Allocated: 93</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 14.6</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4334266666667,27.91747</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 149180</font></p>
+ <p><font color="Black"> Throughput: 2537Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 14:53:39.515</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 14:53:39.515</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -116.3</font></p>
+ <p><font color="Black"> RSRQ: -10.8</font></p>
+ <p><font color="Black"> SINR: 4</font></p>
+ <p><font color="Black"> % QPSK: 41.7%</font></p>
+ <p><font color="Black"> % 16QAM: 37.1%</font></p>
+ <p><font color="Black"> % 64QAM: 21.2%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 25</font></p>
+ <p><font color="Black"> Resource Blocks Max: 27</font></p>
+ <p><font color="Black"> Resource Blocks Min: 21</font></p>
+ <p><font color="Black"> RBs When Allocated: 47</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 7.2</font></p>
+ <p><font color="Black"> Rank Indicator 1: 42.3%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 57.7%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 57.7%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89707529</font></p>
+ <p><font color="Black"> Celda final: 89707529</font></p>
+ <p><font color="Black"> PCI inicial: 99</font></p>
+ <p><font color="Black"> PCI final: 99</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.445245,27.9228516666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 149202</font></p>
+ <p><font color="Black"> Throughput: 21031Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 14:59:03.070</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 14:59:03.070</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -114</font></p>
+ <p><font color="Black"> RSRQ: -10.3</font></p>
+ <p><font color="Black"> SINR: 9.3</font></p>
+ <p><font color="Black"> % QPSK: 1.8%</font></p>
+ <p><font color="Black"> % 16QAM: 2.1%</font></p>
+ <p><font color="Black"> % 64QAM: 96.1%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 40</font></p>
+ <p><font color="Black"> Resource Blocks Max: 42</font></p>
+ <p><font color="Black"> Resource Blocks Min: 40</font></p>
+ <p><font color="Black"> RBs When Allocated: 81</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 10.7</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4429133333333,27.9181216666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 149242</font></p>
+ <p><font color="Black"> Throughput: 29914Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 15:09:59.807</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 15:09:59.807</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -102.5</font></p>
+ <p><font color="Black"> RSRQ: -8.4</font></p>
+ <p><font color="Black"> SINR: 17.3</font></p>
+ <p><font color="Black"> % QPSK: 1.9%</font></p>
+ <p><font color="Black"> % 16QAM: 13.6%</font></p>
+ <p><font color="Black"> % 64QAM: 84.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 71</font></p>
+ <p><font color="Black"> Resource Blocks Max: 92</font></p>
+ <p><font color="Black"> Resource Blocks Min: 57</font></p>
+ <p><font color="Black"> RBs When Allocated: 93</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.7%</font></p>
+ <p><font color="Black"> CQI: 11.9</font></p>
+ <p><font color="Black"> Rank Indicator 1: 46.4%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 53.6%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 53.6%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4275266666667,27.918075</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 149260</font></p>
+ <p><font color="Black"> Throughput: 28540Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 15:14:03.082</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 15:14:03.082</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -109.9</font></p>
+ <p><font color="Black"> RSRQ: -9.4</font></p>
+ <p><font color="Black"> SINR: 12.1</font></p>
+ <p><font color="Black"> % QPSK: 1.9%</font></p>
+ <p><font color="Black"> % 16QAM: 0.8%</font></p>
+ <p><font color="Black"> % 64QAM: 97.3%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 44</font></p>
+ <p><font color="Black"> Resource Blocks Max: 45</font></p>
+ <p><font color="Black"> Resource Blocks Min: 44</font></p>
+ <p><font color="Black"> RBs When Allocated: 89</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 12.1</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4280016666667,27.9181833333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 149282</font></p>
+ <p><font color="Black"> Throughput: 16069Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 15:19:37.185</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 15:19:37.185</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -114</font></p>
+ <p><font color="Black"> RSRQ: -11</font></p>
+ <p><font color="Black"> SINR: 5.4</font></p>
+ <p><font color="Black"> % QPSK: 1.1%</font></p>
+ <p><font color="Black"> % 16QAM: 59.4%</font></p>
+ <p><font color="Black"> % 64QAM: 39.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 43</font></p>
+ <p><font color="Black"> Resource Blocks Max: 44</font></p>
+ <p><font color="Black"> Resource Blocks Min: 42</font></p>
+ <p><font color="Black"> RBs When Allocated: 86</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 8.8</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4221283333333,27.9157016666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 149300</font></p>
+ <p><font color="Black"> Throughput: 8769Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 15:24:09.775</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 15:24:09.775</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -87.6</font></p>
+ <p><font color="Black"> RSRQ: -11.5</font></p>
+ <p><font color="Black"> SINR: 5.6</font></p>
+ <p><font color="Black"> % QPSK: 23.4%</font></p>
+ <p><font color="Black"> % 16QAM: 48.4%</font></p>
+ <p><font color="Black"> % 64QAM: 28.2%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 40</font></p>
+ <p><font color="Black"> Resource Blocks Max: 46</font></p>
+ <p><font color="Black"> Resource Blocks Min: 35</font></p>
+ <p><font color="Black"> RBs When Allocated: 79</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 9.1</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.440005,27.912375</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 149363</font></p>
+ <p><font color="Black"> Throughput: 12366Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 15:41:10.748</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 15:41:10.748</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -92.8</font></p>
+ <p><font color="Black"> RSRQ: -15.1</font></p>
+ <p><font color="Black"> SINR: 0.5</font></p>
+ <p><font color="Black"> % QPSK: 36.9%</font></p>
+ <p><font color="Black"> % 16QAM: 32.6%</font></p>
+ <p><font color="Black"> % 64QAM: 30.6%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 44</font></p>
+ <p><font color="Black"> Resource Blocks Max: 49</font></p>
+ <p><font color="Black"> Resource Blocks Min: 34</font></p>
+ <p><font color="Black"> RBs When Allocated: 88</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 6.7</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89809922</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 355</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.395435,27.9330683333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 149425</font></p>
+ <p><font color="Black"> Throughput: 1940Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 16:02:27.496</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 16:02:27.496</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -116.6</font></p>
+ <p><font color="Black"> RSRQ: -14.1</font></p>
+ <p><font color="Black"> SINR: 0.3</font></p>
+ <p><font color="Black"> % QPSK: 62.6%</font></p>
+ <p><font color="Black"> % 16QAM: 34.1%</font></p>
+ <p><font color="Black"> % 64QAM: 3.3%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 19</font></p>
+ <p><font color="Black"> Resource Blocks Max: 24</font></p>
+ <p><font color="Black"> Resource Blocks Min: 13</font></p>
+ <p><font color="Black"> RBs When Allocated: 38</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.2%</font></p>
+ <p><font color="Black"> CQI: 6.3</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 54.5%</font></p>
+ <p><font color="Black"> % TM 3: 45.5%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89707529</font></p>
+ <p><font color="Black"> Celda final: 89707529</font></p>
+ <p><font color="Black"> PCI inicial: 99</font></p>
+ <p><font color="Black"> PCI final: 99</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4084483333333,27.9143766666667</coordinates>
+</Point>
+</Placemark>
+<name>354201062974270</name>
+</Folder>
+<name>muestras 4G</name>
+</Folder>
+<Folder>
+<name>muestras 3G</name>
+<Folder>
+<name>354201062974270</name>
+<Placemark>
+<styleUrl>#IconoAwful3G</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 148940</font></p>
+ <p><font color="Black"> Throughput: 1020Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 13:54:51.983</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 13:54:51.983</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 16.3</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> % DTX DSCH: 46%</font></p>
+ <p><font color="Black"> % BLER: 22%</font></p>
+ <p><font color="Black"> % NACKs: 11.7%</font></p>
+ <p><font color="Black"> % SCCH: 51.5%</font></p>
+ <p><font color="Black"> % QPSK: 71.7%</font></p>
+ <p><font color="Black"> % 16QAM: 28.1%</font></p>
+ <p><font color="Black"> % 64QAM: 0.2%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -76.0235024301344</font></p>
+ <p><font color="Black"> EcIo AVG: -10.5716153337234</font></p>
+ <p><font color="Black"> CellId inicial: 30855</font></p>
+ <p><font color="Black"> CellId final: 30855</font></p>
+ <p><font color="Black"> SC inicial: 266</font></p>
+ <p><font color="Black"> SC final: 296</font></p>
+ <p><font color="Black"> LAC inicial: 55761</font></p>
+ <p><font color="Black"> LAC final: 55761</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4472533333333,27.9238566666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful3G</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 149002</font></p>
+ <p><font color="Black"> Throughput: 1205Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 14:10:31.215</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 14:10:31.215</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 18.4</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> % DTX DSCH: 51%</font></p>
+ <p><font color="Black"> % BLER: 32%</font></p>
+ <p><font color="Black"> % NACKs: 15.7%</font></p>
+ <p><font color="Black"> % SCCH: 45.7%</font></p>
+ <p><font color="Black"> % QPSK: 49.5%</font></p>
+ <p><font color="Black"> % 16QAM: 50.3%</font></p>
+ <p><font color="Black"> % 64QAM: 0.3%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -92.4356525807608</font></p>
+ <p><font color="Black"> EcIo AVG: -11.2459063175695</font></p>
+ <p><font color="Black"> CellId inicial: 12286</font></p>
+ <p><font color="Black"> CellId final: 12286</font></p>
+ <p><font color="Black"> SC inicial: 266</font></p>
+ <p><font color="Black"> SC final: 296</font></p>
+ <p><font color="Black"> LAC inicial: 55761</font></p>
+ <p><font color="Black"> LAC final: 55761</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.446225,27.9187583333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful3G</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 149220</font></p>
+ <p><font color="Black"> Throughput: 548Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 15:03:58.442</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 15:03:58.442</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 10%</font></p>
+ <p><font color="Black"> Uso WCDMA: 90%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 18</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> % DTX DSCH: 75%</font></p>
+ <p><font color="Black"> % BLER: 30.1%</font></p>
+ <p><font color="Black"> % NACKs: 7.6%</font></p>
+ <p><font color="Black"> % SCCH: 24.4%</font></p>
+ <p><font color="Black"> % QPSK: 58.4%</font></p>
+ <p><font color="Black"> % 16QAM: 40.6%</font></p>
+ <p><font color="Black"> % 64QAM: 1%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.1311168853156</font></p>
+ <p><font color="Black"> EcIo AVG: -11.5655759627189</font></p>
+ <p><font color="Black"> CellId inicial: 89631233</font></p>
+ <p><font color="Black"> CellId final: 12286</font></p>
+ <p><font color="Black"> SC inicial: </font></p>
+ <p><font color="Black"> SC final: 296</font></p>
+ <p><font color="Black"> LAC inicial: 4352</font></p>
+ <p><font color="Black"> LAC final: 55761</font></p>
+ <p><font color="Black"> UARFCN inicial: </font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4447233333333,27.918045</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful3G</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 149385</font></p>
+ <p><font color="Black"> Throughput: 2313Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 15:47:21.079</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 15:47:21.079</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.6</font></p>
+ <p><font color="Black"> HARQ: 4</font></p>
+ <p><font color="Black"> % DTX DSCH: 50%</font></p>
+ <p><font color="Black"> % BLER: 25.6%</font></p>
+ <p><font color="Black"> % NACKs: 12.5%</font></p>
+ <p><font color="Black"> % SCCH: 45.7%</font></p>
+ <p><font color="Black"> % QPSK: 48.9%</font></p>
+ <p><font color="Black"> % 16QAM: 49.6%</font></p>
+ <p><font color="Black"> % 64QAM: 1.5%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -102.683945966324</font></p>
+ <p><font color="Black"> EcIo AVG: -10.1554428217386</font></p>
+ <p><font color="Black"> CellId inicial: 9229</font></p>
+ <p><font color="Black"> CellId final: 9229</font></p>
+ <p><font color="Black"> SC inicial: 336</font></p>
+ <p><font color="Black"> SC final: 336</font></p>
+ <p><font color="Black"> LAC inicial: 55761</font></p>
+ <p><font color="Black"> LAC final: 55761</font></p>
+ <p><font color="Black"> UARFCN inicial: 10763</font></p>
+ <p><font color="Black"> UARFCN final: 10763</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4109383333333,27.909705</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fallo</name>
+<styleUrl>#IconoAwful3G</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 149403</font></p>
+ <p><font color="Black"> Throughput: 0Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 15:54:47.249</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 15:54:47.249</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 13</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> % DTX DSCH: 83%</font></p>
+ <p><font color="Black"> % BLER: 17.5%</font></p>
+ <p><font color="Black"> % NACKs: 2.5%</font></p>
+ <p><font color="Black"> % SCCH: 20.1%</font></p>
+ <p><font color="Black"> % QPSK: 91.7%</font></p>
+ <p><font color="Black"> % 16QAM: 7.2%</font></p>
+ <p><font color="Black"> % 64QAM: 1%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -90.069914763699</font></p>
+ <p><font color="Black"> EcIo AVG: -11.2189286357313</font></p>
+ <p><font color="Black"> CellId inicial: 9229</font></p>
+ <p><font color="Black"> CellId final: 30601</font></p>
+ <p><font color="Black"> SC inicial: 336</font></p>
+ <p><font color="Black"> SC final: 313</font></p>
+ <p><font color="Black"> LAC inicial: 55761</font></p>
+ <p><font color="Black"> LAC final: 55761</font></p>
+ <p><font color="Black"> UARFCN inicial: 10763</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4040833333333,27.9126816666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful3G</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 149443</font></p>
+ <p><font color="Black"> Throughput: 892Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 16:07:35.392</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 16:07:35.392</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 18.1</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> % DTX DSCH: 67%</font></p>
+ <p><font color="Black"> % BLER: 27.9%</font></p>
+ <p><font color="Black"> % NACKs: 9%</font></p>
+ <p><font color="Black"> % SCCH: 33%</font></p>
+ <p><font color="Black"> % QPSK: 42.9%</font></p>
+ <p><font color="Black"> % 16QAM: 55%</font></p>
+ <p><font color="Black"> % 64QAM: 2.1%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.105947366065</font></p>
+ <p><font color="Black"> EcIo AVG: -10.8590524900361</font></p>
+ <p><font color="Black"> CellId inicial: 30855</font></p>
+ <p><font color="Black"> CellId final: 30855</font></p>
+ <p><font color="Black"> SC inicial: 313</font></p>
+ <p><font color="Black"> SC final: 313</font></p>
+ <p><font color="Black"> LAC inicial: 55761</font></p>
+ <p><font color="Black"> LAC final: 55761</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.40112,27.91402</coordinates>
+</Point>
+</Placemark>
+<name>354201062974270</name>
+</Folder>
+</Folder>
+</Folder>
+<Folder>
+<name>Network Capability</name>
+<Folder>
+<name>muestras 4G</name>
+<Folder>
+<name>354201062974270</name>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 148811</font></p>
+ <p><font color="Black"> Throughput: 35375Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 13:23:31.153</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 13:23:31.153</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -90</font></p>
+ <p><font color="Black"> RSRQ: -10.8</font></p>
+ <p><font color="Black"> SINR: 12.2</font></p>
+ <p><font color="Black"> % QPSK: 0.2%</font></p>
+ <p><font color="Black"> % 16QAM: 5%</font></p>
+ <p><font color="Black"> % 64QAM: 94.8%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 49</font></p>
+ <p><font color="Black"> Resource Blocks Max: 50</font></p>
+ <p><font color="Black"> Resource Blocks Min: 48</font></p>
+ <p><font color="Black"> RBs When Allocated: 99</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 13.1</font></p>
+ <p><font color="Black"> Rank Indicator 1: 96.4%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 3.6%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 3.6%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 90117635</font></p>
+ <p><font color="Black"> Celda final: 90117635</font></p>
+ <p><font color="Black"> PCI inicial: 494</font></p>
+ <p><font color="Black"> PCI final: 494</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4030866666667,27.9193316666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 148829</font></p>
+ <p><font color="Black"> Throughput: 6239Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 13:27:36.243</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 13:27:36.243</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -109.4</font></p>
+ <p><font color="Black"> RSRQ: -11.9</font></p>
+ <p><font color="Black"> SINR: 4.4</font></p>
+ <p><font color="Black"> % QPSK: 14%</font></p>
+ <p><font color="Black"> % 16QAM: 48.1%</font></p>
+ <p><font color="Black"> % 64QAM: 37.8%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 64</font></p>
+ <p><font color="Black"> Resource Blocks Max: 74</font></p>
+ <p><font color="Black"> Resource Blocks Min: 56</font></p>
+ <p><font color="Black"> RBs When Allocated: 128</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.2%</font></p>
+ <p><font color="Black"> CQI: 8.3</font></p>
+ <p><font color="Black"> Rank Indicator 1: 96.5%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 3.5%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 3.5%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89707529</font></p>
+ <p><font color="Black"> Celda final: 89707529</font></p>
+ <p><font color="Black"> PCI inicial: 99</font></p>
+ <p><font color="Black"> PCI final: 99</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.400785,27.9202216666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 148851</font></p>
+ <p><font color="Black"> Throughput: 16141Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 13:32:54.126</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 13:32:54.126</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -89.8</font></p>
+ <p><font color="Black"> RSRQ: -11.5</font></p>
+ <p><font color="Black"> SINR: 9.9</font></p>
+ <p><font color="Black"> % QPSK: 0.3%</font></p>
+ <p><font color="Black"> % 16QAM: 2.5%</font></p>
+ <p><font color="Black"> % 64QAM: 97.2%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 28</font></p>
+ <p><font color="Black"> Resource Blocks Max: 40</font></p>
+ <p><font color="Black"> Resource Blocks Min: 18</font></p>
+ <p><font color="Black"> RBs When Allocated: 56</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 9.7</font></p>
+ <p><font color="Black"> Rank Indicator 1: 82.3%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 17.7%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 17.7%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89809922</font></p>
+ <p><font color="Black"> Celda final: 89809922</font></p>
+ <p><font color="Black"> PCI inicial: 355</font></p>
+ <p><font color="Black"> PCI final: 355</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3951316666667,27.9234616666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 148891</font></p>
+ <p><font color="Black"> Throughput: 15274Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 13:42:22.534</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 13:42:22.534</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -114.9</font></p>
+ <p><font color="Black"> RSRQ: -13</font></p>
+ <p><font color="Black"> SINR: 4.3</font></p>
+ <p><font color="Black"> % QPSK: 0.4%</font></p>
+ <p><font color="Black"> % 16QAM: 43.5%</font></p>
+ <p><font color="Black"> % 64QAM: 56.1%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 39</font></p>
+ <p><font color="Black"> Resource Blocks Max: 47</font></p>
+ <p><font color="Black"> Resource Blocks Min: 24</font></p>
+ <p><font color="Black"> RBs When Allocated: 78</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 8.2</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.43044,27.920585</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 148909</font></p>
+ <p><font color="Black"> Throughput: 10138Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 13:46:36.377</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 13:46:36.377</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -112.1</font></p>
+ <p><font color="Black"> RSRQ: -12.6</font></p>
+ <p><font color="Black"> SINR: 8</font></p>
+ <p><font color="Black"> % QPSK: 0.7%</font></p>
+ <p><font color="Black"> % 16QAM: 40.5%</font></p>
+ <p><font color="Black"> % 64QAM: 58.8%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 29</font></p>
+ <p><font color="Black"> Resource Blocks Max: 44</font></p>
+ <p><font color="Black"> Resource Blocks Min: 17</font></p>
+ <p><font color="Black"> RBs When Allocated: 58</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 9.4</font></p>
+ <p><font color="Black"> Rank Indicator 1: 96.1%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 3.9%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 3.9%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4347416666667,27.9256933333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 148949</font></p>
+ <p><font color="Black"> Throughput: 20288Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 13:56:35.661</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 13:56:35.661</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -106.5</font></p>
+ <p><font color="Black"> RSRQ: -11.5</font></p>
+ <p><font color="Black"> SINR: 12.9</font></p>
+ <p><font color="Black"> % QPSK: 1.1%</font></p>
+ <p><font color="Black"> % 16QAM: 4%</font></p>
+ <p><font color="Black"> % 64QAM: 94.9%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 36</font></p>
+ <p><font color="Black"> Resource Blocks Max: 51</font></p>
+ <p><font color="Black"> Resource Blocks Min: 20</font></p>
+ <p><font color="Black"> RBs When Allocated: 70</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 10.8</font></p>
+ <p><font color="Black"> Rank Indicator 1: 79%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 21%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 21%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4454616666667,27.9229116666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 148971</font></p>
+ <p><font color="Black"> Throughput: 20350Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 14:02:12.562</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 14:02:12.562</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -105.6</font></p>
+ <p><font color="Black"> RSRQ: -12.2</font></p>
+ <p><font color="Black"> SINR: 10.9</font></p>
+ <p><font color="Black"> % QPSK: 0.4%</font></p>
+ <p><font color="Black"> % 16QAM: 6.7%</font></p>
+ <p><font color="Black"> % 64QAM: 92.9%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 36</font></p>
+ <p><font color="Black"> Resource Blocks Max: 47</font></p>
+ <p><font color="Black"> Resource Blocks Min: 16</font></p>
+ <p><font color="Black"> RBs When Allocated: 73</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 10.7</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4383133333333,27.9252366666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 148989</font></p>
+ <p><font color="Black"> Throughput: 17754Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 14:06:19.483</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 14:06:19.483</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -116.2</font></p>
+ <p><font color="Black"> RSRQ: -11.7</font></p>
+ <p><font color="Black"> SINR: 5.9</font></p>
+ <p><font color="Black"> % QPSK: 0.7%</font></p>
+ <p><font color="Black"> % 16QAM: 45.4%</font></p>
+ <p><font color="Black"> % 64QAM: 53.9%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 45</font></p>
+ <p><font color="Black"> Resource Blocks Max: 58</font></p>
+ <p><font color="Black"> Resource Blocks Min: 31</font></p>
+ <p><font color="Black"> RBs When Allocated: 88</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 8.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 92.8%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 7.2%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 7.2%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4387966666667,27.9216616666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 149011</font></p>
+ <p><font color="Black"> Throughput: 27307Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 14:12:16.564</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 14:12:16.564</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -101.4</font></p>
+ <p><font color="Black"> RSRQ: -11</font></p>
+ <p><font color="Black"> SINR: 14.8</font></p>
+ <p><font color="Black"> % QPSK: 23.2%</font></p>
+ <p><font color="Black"> % 16QAM: 21.3%</font></p>
+ <p><font color="Black"> % 64QAM: 55.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 54</font></p>
+ <p><font color="Black"> Resource Blocks Max: 77</font></p>
+ <p><font color="Black"> Resource Blocks Min: 37</font></p>
+ <p><font color="Black"> RBs When Allocated: 84</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 10.7</font></p>
+ <p><font color="Black"> Rank Indicator 1: 29.3%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 70.7%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 70.7%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.447335,27.9181083333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 149029</font></p>
+ <p><font color="Black"> Throughput: 11913Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 14:16:27.280</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 14:16:27.280</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -108.9</font></p>
+ <p><font color="Black"> RSRQ: -13.2</font></p>
+ <p><font color="Black"> SINR: 6.6</font></p>
+ <p><font color="Black"> % QPSK: 19.2%</font></p>
+ <p><font color="Black"> % 16QAM: 30.4%</font></p>
+ <p><font color="Black"> % 64QAM: 50.4%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 39</font></p>
+ <p><font color="Black"> Resource Blocks Max: 46</font></p>
+ <p><font color="Black"> Resource Blocks Min: 27</font></p>
+ <p><font color="Black"> RBs When Allocated: 79</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 8.1</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.450055,27.9214533333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 149051</font></p>
+ <p><font color="Black"> Throughput: 18349Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 14:22:15.831</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 14:22:15.831</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -96.2</font></p>
+ <p><font color="Black"> RSRQ: -11.9</font></p>
+ <p><font color="Black"> SINR: 15</font></p>
+ <p><font color="Black"> % QPSK: 0.5%</font></p>
+ <p><font color="Black"> % 16QAM: 18.9%</font></p>
+ <p><font color="Black"> % 64QAM: 80.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 37</font></p>
+ <p><font color="Black"> Resource Blocks Max: 47</font></p>
+ <p><font color="Black"> Resource Blocks Min: 23</font></p>
+ <p><font color="Black"> RBs When Allocated: 74</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 11.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 94.5%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 5.5%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 5.5%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4429083333333,27.91509</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 149069</font></p>
+ <p><font color="Black"> Throughput: 15760Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 14:26:20.291</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 14:26:20.291</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -109.4</font></p>
+ <p><font color="Black"> RSRQ: -11.4</font></p>
+ <p><font color="Black"> SINR: 13</font></p>
+ <p><font color="Black"> % QPSK: 1.7%</font></p>
+ <p><font color="Black"> % 16QAM: 9.2%</font></p>
+ <p><font color="Black"> % 64QAM: 89.1%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 34</font></p>
+ <p><font color="Black"> Resource Blocks Max: 46</font></p>
+ <p><font color="Black"> Resource Blocks Min: 24</font></p>
+ <p><font color="Black"> RBs When Allocated: 69</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 12.3</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4429333333333,27.91434</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 149091</font></p>
+ <p><font color="Black"> Throughput: 22859Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 14:31:45.133</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 14:31:45.133</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -108.1</font></p>
+ <p><font color="Black"> RSRQ: -12</font></p>
+ <p><font color="Black"> SINR: 11.1</font></p>
+ <p><font color="Black"> % QPSK: 0.2%</font></p>
+ <p><font color="Black"> % 16QAM: 22%</font></p>
+ <p><font color="Black"> % 64QAM: 77.8%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 41</font></p>
+ <p><font color="Black"> Resource Blocks Max: 47</font></p>
+ <p><font color="Black"> Resource Blocks Min: 26</font></p>
+ <p><font color="Black"> RBs When Allocated: 82</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 11.9</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.440265,27.9129383333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 149109</font></p>
+ <p><font color="Black"> Throughput: 29153Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 14:35:53.096</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 14:35:53.096</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -86.3</font></p>
+ <p><font color="Black"> RSRQ: -11</font></p>
+ <p><font color="Black"> SINR: 18.6</font></p>
+ <p><font color="Black"> % QPSK: 0.1%</font></p>
+ <p><font color="Black"> % 16QAM: 12.7%</font></p>
+ <p><font color="Black"> % 64QAM: 87.2%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 58</font></p>
+ <p><font color="Black"> Resource Blocks Max: 82</font></p>
+ <p><font color="Black"> Resource Blocks Min: 25</font></p>
+ <p><font color="Black"> RBs When Allocated: 74</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.6%</font></p>
+ <p><font color="Black"> CQI: 12.1</font></p>
+ <p><font color="Black"> Rank Indicator 1: 68.5%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 31.5%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 31.5%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.438255,27.9133366666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 149131</font></p>
+ <p><font color="Black"> Throughput: 29474Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 14:41:29.069</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 14:41:29.069</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -94.4</font></p>
+ <p><font color="Black"> RSRQ: -10.9</font></p>
+ <p><font color="Black"> SINR: 17.7</font></p>
+ <p><font color="Black"> % QPSK: 0.1%</font></p>
+ <p><font color="Black"> % 16QAM: 7.8%</font></p>
+ <p><font color="Black"> % 64QAM: 92.1%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 42</font></p>
+ <p><font color="Black"> Resource Blocks Max: 85</font></p>
+ <p><font color="Black"> Resource Blocks Min: 26</font></p>
+ <p><font color="Black"> RBs When Allocated: 79</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 12.7</font></p>
+ <p><font color="Black"> Rank Indicator 1: 79.2%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 20.8%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 20.8%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.43803,27.9190666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 149149</font></p>
+ <p><font color="Black"> Throughput: 34614Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 14:45:37.592</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 14:45:37.592</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -90</font></p>
+ <p><font color="Black"> RSRQ: -10.1</font></p>
+ <p><font color="Black"> SINR: 18.1</font></p>
+ <p><font color="Black"> % QPSK: 2.1%</font></p>
+ <p><font color="Black"> % 16QAM: 17.8%</font></p>
+ <p><font color="Black"> % 64QAM: 80.1%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 57</font></p>
+ <p><font color="Black"> Resource Blocks Max: 93</font></p>
+ <p><font color="Black"> Resource Blocks Min: 34</font></p>
+ <p><font color="Black"> RBs When Allocated: 81</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.6%</font></p>
+ <p><font color="Black"> CQI: 11.6</font></p>
+ <p><font color="Black"> Rank Indicator 1: 34.2%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 65.8%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 65.8%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4344266666667,27.91498</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 149171</font></p>
+ <p><font color="Black"> Throughput: 12845Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 14:51:02.941</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 14:51:02.941</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -105.8</font></p>
+ <p><font color="Black"> RSRQ: -11.9</font></p>
+ <p><font color="Black"> SINR: 12.3</font></p>
+ <p><font color="Black"> % QPSK: 0.2%</font></p>
+ <p><font color="Black"> % 16QAM: 6.2%</font></p>
+ <p><font color="Black"> % 64QAM: 93.6%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 23</font></p>
+ <p><font color="Black"> Resource Blocks Max: 31</font></p>
+ <p><font color="Black"> Resource Blocks Min: 15</font></p>
+ <p><font color="Black"> RBs When Allocated: 44</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.2%</font></p>
+ <p><font color="Black"> CQI: 11.4</font></p>
+ <p><font color="Black"> Rank Indicator 1: 83%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 17%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 17%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4385366666667,27.92055</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 149189</font></p>
+ <p><font color="Black"> Throughput: 15495Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 14:55:32.191</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 14:55:32.191</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 98.0759637996%</font></p>
+ <p><font color="Black"> Uso WCDMA: 1.9240362004%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -113.8</font></p>
+ <p><font color="Black"> RSRQ: -11.1</font></p>
+ <p><font color="Black"> SINR: 8.3</font></p>
+ <p><font color="Black"> % QPSK: 3.6%</font></p>
+ <p><font color="Black"> % 16QAM: 58%</font></p>
+ <p><font color="Black"> % 64QAM: 38.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 44</font></p>
+ <p><font color="Black"> Resource Blocks Max: 49</font></p>
+ <p><font color="Black"> Resource Blocks Min: 29</font></p>
+ <p><font color="Black"> RBs When Allocated: 87</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 8.3</font></p>
+ <p><font color="Black"> Rank Indicator 1: 83.9%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 16.1%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 16.1%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: </font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.442795,27.9212066666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 149211</font></p>
+ <p><font color="Black"> Throughput: 9718Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 15:00:47.701</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 15:00:47.701</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -118.2</font></p>
+ <p><font color="Black"> RSRQ: -12.6</font></p>
+ <p><font color="Black"> SINR: 5</font></p>
+ <p><font color="Black"> % QPSK: 0.4%</font></p>
+ <p><font color="Black"> % 16QAM: 27.9%</font></p>
+ <p><font color="Black"> % 64QAM: 71.7%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 32</font></p>
+ <p><font color="Black"> Resource Blocks Max: 43</font></p>
+ <p><font color="Black"> Resource Blocks Min: 16</font></p>
+ <p><font color="Black"> RBs When Allocated: 64</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 8.7</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4439566666667,27.9183066666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 149229</font></p>
+ <p><font color="Black"> Throughput: 19223Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 15:06:10.912</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 15:06:10.912</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -108</font></p>
+ <p><font color="Black"> RSRQ: -10.8</font></p>
+ <p><font color="Black"> SINR: 10.6</font></p>
+ <p><font color="Black"> % QPSK: 4.3%</font></p>
+ <p><font color="Black"> % 16QAM: 7.1%</font></p>
+ <p><font color="Black"> % 64QAM: 88.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 39</font></p>
+ <p><font color="Black"> Resource Blocks Max: 51</font></p>
+ <p><font color="Black"> Resource Blocks Min: 29</font></p>
+ <p><font color="Black"> RBs When Allocated: 76</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 9.9</font></p>
+ <p><font color="Black"> Rank Indicator 1: 70.1%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 29.9%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 29.9%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.44155,27.9180366666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 149251</font></p>
+ <p><font color="Black"> Throughput: 24985Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 15:11:38.510</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 15:11:38.510</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -100.1</font></p>
+ <p><font color="Black"> RSRQ: -10.7</font></p>
+ <p><font color="Black"> SINR: 14.8</font></p>
+ <p><font color="Black"> % QPSK: 0.3%</font></p>
+ <p><font color="Black"> % 16QAM: 29.3%</font></p>
+ <p><font color="Black"> % 64QAM: 70.4%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 43</font></p>
+ <p><font color="Black"> Resource Blocks Max: 51</font></p>
+ <p><font color="Black"> Resource Blocks Min: 38</font></p>
+ <p><font color="Black"> RBs When Allocated: 85</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 11.2</font></p>
+ <p><font color="Black"> Rank Indicator 1: 76.9%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 23.1%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 23.1%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4298733333333,27.9187316666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 149269</font></p>
+ <p><font color="Black"> Throughput: 29097Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 15:15:45.575</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 15:15:45.575</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -85.9</font></p>
+ <p><font color="Black"> RSRQ: -11.1</font></p>
+ <p><font color="Black"> SINR: 22.2</font></p>
+ <p><font color="Black"> % QPSK: 0.2%</font></p>
+ <p><font color="Black"> % 16QAM: 3.2%</font></p>
+ <p><font color="Black"> % 64QAM: 96.6%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 53</font></p>
+ <p><font color="Black"> Resource Blocks Max: 81</font></p>
+ <p><font color="Black"> Resource Blocks Min: 25</font></p>
+ <p><font color="Black"> RBs When Allocated: 79</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 12.3</font></p>
+ <p><font color="Black"> Rank Indicator 1: 46.6%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 53.4%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 53.4%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4302816666667,27.9163183333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 149291</font></p>
+ <p><font color="Black"> Throughput: 39275Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 15:21:40.623</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 15:21:40.623</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -94.5</font></p>
+ <p><font color="Black"> RSRQ: -10.5</font></p>
+ <p><font color="Black"> SINR: 19.3</font></p>
+ <p><font color="Black"> % QPSK: 0.1%</font></p>
+ <p><font color="Black"> % 16QAM: 0%</font></p>
+ <p><font color="Black"> % 64QAM: 99.9%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 45</font></p>
+ <p><font color="Black"> Resource Blocks Max: 53</font></p>
+ <p><font color="Black"> Resource Blocks Min: 37</font></p>
+ <p><font color="Black"> RBs When Allocated: 89</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 13.3</font></p>
+ <p><font color="Black"> Rank Indicator 1: 79.1%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 20.9%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 20.9%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4200083333333,27.9136666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 149309</font></p>
+ <p><font color="Black"> Throughput: 26029Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 15:25:50.616</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 15:25:50.616</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -105.4</font></p>
+ <p><font color="Black"> RSRQ: -10.7</font></p>
+ <p><font color="Black"> SINR: 13.6</font></p>
+ <p><font color="Black"> % QPSK: 0%</font></p>
+ <p><font color="Black"> % 16QAM: 1.4%</font></p>
+ <p><font color="Black"> % 64QAM: 98.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 40</font></p>
+ <p><font color="Black"> Resource Blocks Max: 50</font></p>
+ <p><font color="Black"> Resource Blocks Min: 25</font></p>
+ <p><font color="Black"> RBs When Allocated: 80</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 12.2</font></p>
+ <p><font color="Black"> Rank Indicator 1: 92.8%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 7.2%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 7.2%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4350066666667,27.9192866666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 149372</font></p>
+ <p><font color="Black"> Throughput: 19432Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 15:42:51.916</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 15:42:51.916</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -108</font></p>
+ <p><font color="Black"> RSRQ: -12.1</font></p>
+ <p><font color="Black"> SINR: 4.6</font></p>
+ <p><font color="Black"> % QPSK: 0.2%</font></p>
+ <p><font color="Black"> % 16QAM: 43%</font></p>
+ <p><font color="Black"> % 64QAM: 56.8%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 43</font></p>
+ <p><font color="Black"> Resource Blocks Max: 49</font></p>
+ <p><font color="Black"> Resource Blocks Min: 24</font></p>
+ <p><font color="Black"> RBs When Allocated: 86</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 8.4</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89809922</font></p>
+ <p><font color="Black"> Celda final: 89809922</font></p>
+ <p><font color="Black"> PCI inicial: 355</font></p>
+ <p><font color="Black"> PCI final: 355</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3987583333333,27.92051</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 149452</font></p>
+ <p><font color="Black"> Throughput: 20150Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 16:09:24.371</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 16:09:24.371</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -104.8</font></p>
+ <p><font color="Black"> RSRQ: -11.3</font></p>
+ <p><font color="Black"> SINR: 10.7</font></p>
+ <p><font color="Black"> % QPSK: 1.5%</font></p>
+ <p><font color="Black"> % 16QAM: 15.3%</font></p>
+ <p><font color="Black"> % 64QAM: 83.2%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 39</font></p>
+ <p><font color="Black"> Resource Blocks Max: 46</font></p>
+ <p><font color="Black"> Resource Blocks Min: 25</font></p>
+ <p><font color="Black"> RBs When Allocated: 78</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 11</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89631233</font></p>
+ <p><font color="Black"> Celda final: 89631233</font></p>
+ <p><font color="Black"> PCI inicial: 311</font></p>
+ <p><font color="Black"> PCI final: 311</font></p>
+ <p><font color="Black"> TAC inicial: 4352</font></p>
+ <p><font color="Black"> TAC final: 4352</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4011183333333,27.914215</coordinates>
+</Point>
+</Placemark>
+<name>354201062974270</name>
+</Folder>
+<name>muestras 4G</name>
+</Folder>
+<Folder>
+<name>muestras 3G</name>
+<Folder>
+<name>354201062974270</name>
+<Placemark>
+<styleUrl>#IconoAwful3G</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 149394</font></p>
+ <p><font color="Black"> Throughput: 215Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 15:50:15.796</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 15:50:15.796</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 12.8</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> % DTX DSCH: 85%</font></p>
+ <p><font color="Black"> % BLER: 38.2%</font></p>
+ <p><font color="Black"> % NACKs: 5.3%</font></p>
+ <p><font color="Black"> % SCCH: 13.5%</font></p>
+ <p><font color="Black"> % QPSK: 81.8%</font></p>
+ <p><font color="Black"> % 16QAM: 14%</font></p>
+ <p><font color="Black"> % 64QAM: 4.1%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -88.2641092360951</font></p>
+ <p><font color="Black"> EcIo AVG: -11.1793933846344</font></p>
+ <p><font color="Black"> CellId inicial: 30601</font></p>
+ <p><font color="Black"> CellId final: 30601</font></p>
+ <p><font color="Black"> SC inicial: 313</font></p>
+ <p><font color="Black"> SC final: 342</font></p>
+ <p><font color="Black"> LAC inicial: 55761</font></p>
+ <p><font color="Black"> LAC final: 55761</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.406195,27.9121583333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful3G</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 149412</font></p>
+ <p><font color="Black"> Throughput: 187Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 15:57:32.168</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 15:57:32.168</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 11</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> % DTX DSCH: 87%</font></p>
+ <p><font color="Black"> % BLER: 28.1%</font></p>
+ <p><font color="Black"> % NACKs: 3.7%</font></p>
+ <p><font color="Black"> % SCCH: 16.6%</font></p>
+ <p><font color="Black"> % QPSK: 99%</font></p>
+ <p><font color="Black"> % 16QAM: 0.9%</font></p>
+ <p><font color="Black"> % 64QAM: 0.1%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -88.3974837571927</font></p>
+ <p><font color="Black"> EcIo AVG: -11.4482772414341</font></p>
+ <p><font color="Black"> CellId inicial: 13000</font></p>
+ <p><font color="Black"> CellId final: 13000</font></p>
+ <p><font color="Black"> SC inicial: 342</font></p>
+ <p><font color="Black"> SC final: 342</font></p>
+ <p><font color="Black"> LAC inicial: 55761</font></p>
+ <p><font color="Black"> LAC final: 55761</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4036816666667,27.91233</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful3G</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 149434</font></p>
+ <p><font color="Black"> Throughput: 680Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-01 16:04:30.099</font></p>
+ <p><font color="Black"> Hora: 2017-04-01 16:04:30.099</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170401_ADD_GC_INGENIO_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 16.6</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> % DTX DSCH: 76%</font></p>
+ <p><font color="Black"> % BLER: 34.6%</font></p>
+ <p><font color="Black"> % NACKs: 8%</font></p>
+ <p><font color="Black"> % SCCH: 23.8%</font></p>
+ <p><font color="Black"> % QPSK: 45.4%</font></p>
+ <p><font color="Black"> % 16QAM: 52.2%</font></p>
+ <p><font color="Black"> % 64QAM: 2.3%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.321045638205</font></p>
+ <p><font color="Black"> EcIo AVG: -11.3171884212338</font></p>
+ <p><font color="Black"> CellId inicial: 13000</font></p>
+ <p><font color="Black"> CellId final: 13000</font></p>
+ <p><font color="Black"> SC inicial: 342</font></p>
+ <p><font color="Black"> SC final: 342</font></p>
+ <p><font color="Black"> LAC inicial: 55761</font></p>
+ <p><font color="Black"> LAC final: 55761</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4070816666667,27.9099933333333</coordinates>
+</Point>
+</Placemark>
+<name>354201062974270</name>
+</Folder>
+</Folder>
+</Folder>
+<ScreenOverlay>
+<name>Absolute Positioning: Top Left</name>
+<Icon>
+<href>Leyenda_FTP_DL_2x2_LTE.jpg</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="0.86" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>

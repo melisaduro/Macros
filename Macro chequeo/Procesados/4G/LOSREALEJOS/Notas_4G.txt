@@ -1,0 +1,169 @@
+Scope			- OK
+Systems			- 04
+Med anterior		- 25
+Control de Acciones	- 
+
+		
+Invalidaciones
+
+ * Test el pais fallidos: "LCC NotReported"
+ * Test ICMP TTL: "LCC NotReported"
+ * Youtube HTTP en datos.
+
+Mallado	final	- OK.
+
+---------
+-- VOZ --	
+---------
+
+Uso de tecnología: YOI tiene cobertura baja: 65.75% attempts 4G PERO SUPERIOR A LA MEDIDA OLD.
+
+
+ - CSSR	- OK, empeoran todos en accesibilidad menos YOI que era muy mala y mejora un poco.
+
+ - CDR     - OK. mejora ligeramente en terminos generales desde la OLD.
+
+NEW		Access Errors	DCR	Success Rate
+VODAFONE		2.08%	0.00%	97.92%
+MOVISTAR		10.00%	0.00%	90.00%
+ORANGE			2.00%	5.10%	93.00%
+YOIGO			5.38%	0.00%	94.62%
+
+
+			
+			
+OLD		Access Errors	DCR	Success Rate
+VODAFONE		0.00%	1.69%	98.31%
+MOVISTAR		5.00%	1.75%	93.33%
+ORANGE			1.67%	3.39%	95.00%
+YOIGO			15.25%	2.00%	83.05%
+
+
+
+ - CST	- mejoran todos pero sobre todo OSP, aunque MOV y YOI siguen estando por encima de 7 seg.
+
+ - MOS	- OK. Todos se mantienen pero OSP mejora considerablemnte
+
+ - SQNS	- OK.
+
+* NOTA:
+VOZ EN AMARILLO, accesibilidad mala en terminos generales.
+
+
+*******************************************************************************************************************
+
+-----------
+-- DATOS --	
+-----------
+
+
+General: 
+
+ - D1: 	ok, bajan VDF y MOV aunque siguen teniendo buenos valores. OSP se mantiene y YOI mejora ligeramente.
+
+D1		D1 old
+VOD-18.4M	VOD-24.7M
+MOV-12.8M	MOV-13.1M
+ORA-8.3M	ORA-8.5M
+YOI-5.1M		YOI-3.8M
+
+
+
+ - D2: 	ok, subimos en todos excepto en VDF y empeora bastante MOV.
+
+D2 new		D2 old
+VOD-92.1%	VOD-100%
+MOV-56.8%	MOV-95%
+ORA-86.7%	ORA-79%
+YOI-58.1%	YOI-38%
+
+
+
+
+ - D3:  ok, empeora VDF, se mantienen MOV y OSP y mejora YOI.
+
+D3 new		D3 old
+VOD-6M		VOD-6.5M
+MOV-4.6M	MOV-4.7M
+ORA-4.4M	ORA-4.1M
+YOI-3.7M		YOI-2.1M
+
+
+
+
+
+ - DL_NC: ok, bajamos en VDF y OSP, mejora MOV y YOI..
+
+DL_NC new	DL_NC old
+VOD-30.5M	VOD-42.6M
+MOV-20.5M	MOV-16.9M
+ORA-14.8M	ORA-18.5M
+YOI-11.9M	YOI-5.1M
+
+
+
+
+	
+ - UL_NC: ok,mejoran todos los operadores.
+
+UL_NC new	UL_NC old
+VOD-21.7M	VOD-14M
+MOV-9.8M	MOV-7.2M
+ORA-16.5M	ORA-7.2M
+YOI-7M		YOI-2.4M
+
+
+
+
+
+ - LATENCIA: OK.
+
+MEDIANA new	MEDIANA old		MEDIA new	MEDIA old
+VOD-58ms	VOD-98ms		VOD-58ms	VOD-94ms
+MOV-63ms	MOV-88ms		MOV-91ms	MOV-139ms
+ORA-58ms	ORA-100ms		ORA-137ms	ORA-92ms
+YOI-64ms	YOI-111ms		YOI-67ms	YOI-157ms
+
+
+
+
+
+ - D5: ok.
+
+ - D5 HTTPS: ok.
+	
+ - D5 Publicas:	ok.
+
+
+*********************
+****YOUTUBE V.11*****
+*********************
+
+ - B1: ok.
+
+ - B2: ok.
+
+ - B3: ok.
+
+ - B4: ok.
+
+ - B5: ok.
+
+ - B6: ok
+	
+	
+B5 new		B5 old		B6 new	B6 old		B1 new		B1 old			B2 new		B2 old			%B3 new		%B3 old
+VOD-506p	720		VOD-2.9	VOD-1		VOD-100%	VOD-100%		VOD-94.6%	VOD-2200%		VOD-100%	VOD-4.6%
+MOV-470p	720		MOV-2.9	MOV-1		MOV-100%	MOV-100%		MOV-86.1%	MOV-1800%		MOV-97.2%	MOV-4.3%
+ORA-565p	720		ORA-3.1	ORA-1		ORA-100%	ORA-200%		ORA-96.7%	ORA-1500%		ORA-100%	ORA-4.5%
+YOI-509p		720		YOI-3	YOI-0.6		YOI-100%	YOI-100%		YOI-93.5%	YOI-200%		YOI-96.8%	YOI-6.3%
+
+
+
+
+
+*NOTAS:
+DATOS en AMARILLO por el d1
+
+
+

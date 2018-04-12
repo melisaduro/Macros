@@ -1,0 +1,2889 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="IconoAwful">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBad">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBad">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSo">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGood">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGood">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoAwfulM">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBadM">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBadM">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSoM">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGoodM">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGoodM">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Folder>
+<name>Customer Experience</name>
+<Folder>
+<name>358672057638417</name>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 7742Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 16:50:23.981</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 16:50:23.981</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.2</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 138%</font></p>
+ <p><font color="Black"> % BLER: 22.9%</font></p>
+ <p><font color="Black"> % NACKs: 12.4%</font></p>
+ <p><font color="Black"> % SCCH: 37.2%</font></p>
+ <p><font color="Black"> % QPSK: 17.2%</font></p>
+ <p><font color="Black"> % 16QAM: 75.3%</font></p>
+ <p><font color="Black"> % 64QAM: 7.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.42</font></p>
+ <p><font color="Black"> EcIo AVG: -7.32</font></p>
+ <p><font color="Black"> CellId inicial: 46622</font></p>
+ <p><font color="Black"> CellId final: 46623</font></p>
+ <p><font color="Black"> SC inicial: 128</font></p>
+ <p><font color="Black"> SC final: 136</font></p>
+ <p><font color="Black"> LAC inicial: 3802</font></p>
+ <p><font color="Black"> LAC final: 3802</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.578895,28.3909166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 10895Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 16:54:33.001</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 16:54:33.001</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.1</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 136%</font></p>
+ <p><font color="Black"> % BLER: 17.5%</font></p>
+ <p><font color="Black"> % NACKs: 10.2%</font></p>
+ <p><font color="Black"> % SCCH: 38.1%</font></p>
+ <p><font color="Black"> % QPSK: 6.2%</font></p>
+ <p><font color="Black"> % 16QAM: 91.2%</font></p>
+ <p><font color="Black"> % 64QAM: 2.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.45</font></p>
+ <p><font color="Black"> EcIo AVG: -7.45</font></p>
+ <p><font color="Black"> CellId inicial: 46623</font></p>
+ <p><font color="Black"> CellId final: 46623</font></p>
+ <p><font color="Black"> SC inicial: 136</font></p>
+ <p><font color="Black"> SC final: 136</font></p>
+ <p><font color="Black"> LAC inicial: 3802</font></p>
+ <p><font color="Black"> LAC final: 3802</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.578895,28.3909166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 6653Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:00:19.474</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:00:19.474</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.5</font></p>
+ <p><font color="Black"> HARQ: 4</font></p>
+ <p><font color="Black"> DTX DSCH: 59%</font></p>
+ <p><font color="Black"> % BLER: 8.7%</font></p>
+ <p><font color="Black"> % NACKs: 3.3%</font></p>
+ <p><font color="Black"> % SCCH: 54.5%</font></p>
+ <p><font color="Black"> % QPSK: 7.4%</font></p>
+ <p><font color="Black"> % 16QAM: 63.6%</font></p>
+ <p><font color="Black"> % 64QAM: 29%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -66.7</font></p>
+ <p><font color="Black"> EcIo AVG: -5.98</font></p>
+ <p><font color="Black"> CellId inicial: 56628</font></p>
+ <p><font color="Black"> CellId final: 56628</font></p>
+ <p><font color="Black"> SC inicial: 128</font></p>
+ <p><font color="Black"> SC final: 128</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 3011</font></p>
+ <p><font color="Black"> UARFCN final: 3011</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.578895,28.3909166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 6134Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:04:36.876</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:04:36.876</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.5</font></p>
+ <p><font color="Black"> HARQ: 4</font></p>
+ <p><font color="Black"> DTX DSCH: 51%</font></p>
+ <p><font color="Black"> % BLER: 11.8%</font></p>
+ <p><font color="Black"> % NACKs: 6%</font></p>
+ <p><font color="Black"> % SCCH: 48%</font></p>
+ <p><font color="Black"> % QPSK: 5.7%</font></p>
+ <p><font color="Black"> % 16QAM: 92%</font></p>
+ <p><font color="Black"> % 64QAM: 2.4%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -67.08</font></p>
+ <p><font color="Black"> EcIo AVG: -7.21</font></p>
+ <p><font color="Black"> CellId inicial: 56628</font></p>
+ <p><font color="Black"> CellId final: 56628</font></p>
+ <p><font color="Black"> SC inicial: 128</font></p>
+ <p><font color="Black"> SC final: 128</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 3011</font></p>
+ <p><font color="Black"> UARFCN final: 3011</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.578895,28.3909166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 6823Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:10:19.472</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:10:19.472</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.4</font></p>
+ <p><font color="Black"> HARQ: 3</font></p>
+ <p><font color="Black"> DTX DSCH: 60%</font></p>
+ <p><font color="Black"> % BLER: 10.3%</font></p>
+ <p><font color="Black"> % NACKs: 4.5%</font></p>
+ <p><font color="Black"> % SCCH: 36.7%</font></p>
+ <p><font color="Black"> % QPSK: 2.9%</font></p>
+ <p><font color="Black"> % 16QAM: 78.7%</font></p>
+ <p><font color="Black"> % 64QAM: 18.4%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -68.09</font></p>
+ <p><font color="Black"> EcIo AVG: -9.24</font></p>
+ <p><font color="Black"> CellId inicial: 56628</font></p>
+ <p><font color="Black"> CellId final: 56628</font></p>
+ <p><font color="Black"> SC inicial: 128</font></p>
+ <p><font color="Black"> SC final: 128</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 3011</font></p>
+ <p><font color="Black"> UARFCN final: 3011</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.578895,28.3909166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 9538Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:15:13.991</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:15:13.991</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.4</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 147%</font></p>
+ <p><font color="Black"> % BLER: 16.9%</font></p>
+ <p><font color="Black"> % NACKs: 9.9%</font></p>
+ <p><font color="Black"> % SCCH: 27.8%</font></p>
+ <p><font color="Black"> % QPSK: 7.9%</font></p>
+ <p><font color="Black"> % 16QAM: 47.8%</font></p>
+ <p><font color="Black"> % 64QAM: 44.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.04</font></p>
+ <p><font color="Black"> EcIo AVG: -7.93</font></p>
+ <p><font color="Black"> CellId inicial: 16582</font></p>
+ <p><font color="Black"> CellId final: 10121</font></p>
+ <p><font color="Black"> SC inicial: 221</font></p>
+ <p><font color="Black"> SC final: 221</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5770516666667,28.3890983333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 548Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:21:54.846</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:21:54.846</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 17.5</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 76%</font></p>
+ <p><font color="Black"> % BLER: 14.3%</font></p>
+ <p><font color="Black"> % NACKs: 3.8%</font></p>
+ <p><font color="Black"> % SCCH: 23.7%</font></p>
+ <p><font color="Black"> % QPSK: 14.9%</font></p>
+ <p><font color="Black"> % 16QAM: 64%</font></p>
+ <p><font color="Black"> % 64QAM: 21.1%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -75.02</font></p>
+ <p><font color="Black"> EcIo AVG: -12.56</font></p>
+ <p><font color="Black"> CellId inicial: 10127</font></p>
+ <p><font color="Black"> CellId final: 10127</font></p>
+ <p><font color="Black"> SC inicial: 221</font></p>
+ <p><font color="Black"> SC final: 221</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 3011</font></p>
+ <p><font color="Black"> UARFCN final: 3011</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5605733333333,28.3883083333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 4534Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:26:47.443</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:26:47.443</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.9</font></p>
+ <p><font color="Black"> HARQ: 4</font></p>
+ <p><font color="Black"> DTX DSCH: 44%</font></p>
+ <p><font color="Black"> % BLER: 31.5%</font></p>
+ <p><font color="Black"> % NACKs: 17.3%</font></p>
+ <p><font color="Black"> % SCCH: 58.2%</font></p>
+ <p><font color="Black"> % QPSK: 8.2%</font></p>
+ <p><font color="Black"> % 16QAM: 70.6%</font></p>
+ <p><font color="Black"> % 64QAM: 21.1%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -57.25</font></p>
+ <p><font color="Black"> EcIo AVG: -11.19</font></p>
+ <p><font color="Black"> CellId inicial: 10127</font></p>
+ <p><font color="Black"> CellId final: 10127</font></p>
+ <p><font color="Black"> SC inicial: 224</font></p>
+ <p><font color="Black"> SC final: 224</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 3011</font></p>
+ <p><font color="Black"> UARFCN final: 3011</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5754716666667,28.37889</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 815Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:33:17.988</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:33:17.988</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 73%</font></p>
+ <p><font color="Black"> % BLER: 16.3%</font></p>
+ <p><font color="Black"> % NACKs: 4.3%</font></p>
+ <p><font color="Black"> % SCCH: 26.4%</font></p>
+ <p><font color="Black"> % QPSK: 3.3%</font></p>
+ <p><font color="Black"> % 16QAM: 53.1%</font></p>
+ <p><font color="Black"> % 64QAM: 43.6%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -71.73</font></p>
+ <p><font color="Black"> EcIo AVG: -13.55</font></p>
+ <p><font color="Black"> CellId inicial: 10127</font></p>
+ <p><font color="Black"> CellId final: 10127</font></p>
+ <p><font color="Black"> SC inicial: 221</font></p>
+ <p><font color="Black"> SC final: 221</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 3011</font></p>
+ <p><font color="Black"> UARFCN final: 3011</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5830066666667,28.37164</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 5178Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:37:49.749</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:37:49.749</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.4</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 110%</font></p>
+ <p><font color="Black"> % BLER: 27.1%</font></p>
+ <p><font color="Black"> % NACKs: 24.7%</font></p>
+ <p><font color="Black"> % SCCH: 39.1%</font></p>
+ <p><font color="Black"> % QPSK: 34.9%</font></p>
+ <p><font color="Black"> % 16QAM: 61.2%</font></p>
+ <p><font color="Black"> % 64QAM: 4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.66</font></p>
+ <p><font color="Black"> EcIo AVG: -8.24</font></p>
+ <p><font color="Black"> CellId inicial: 10121</font></p>
+ <p><font color="Black"> CellId final: 10121</font></p>
+ <p><font color="Black"> SC inicial: 221</font></p>
+ <p><font color="Black"> SC final: 221</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.58564,28.3770566666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 11082Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:43:26.786</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:43:26.786</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 28.1</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 159%</font></p>
+ <p><font color="Black"> % BLER: 10.3%</font></p>
+ <p><font color="Black"> % NACKs: 6.8%</font></p>
+ <p><font color="Black"> % SCCH: 20.3%</font></p>
+ <p><font color="Black"> % QPSK: 5.8%</font></p>
+ <p><font color="Black"> % 16QAM: 15.3%</font></p>
+ <p><font color="Black"> % 64QAM: 78.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -56.03</font></p>
+ <p><font color="Black"> EcIo AVG: -5.3</font></p>
+ <p><font color="Black"> CellId inicial: 11171</font></p>
+ <p><font color="Black"> CellId final: 11171</font></p>
+ <p><font color="Black"> SC inicial: 240</font></p>
+ <p><font color="Black"> SC final: 240</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.58572,28.38097</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 601Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:48:30.786</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:48:30.786</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 8.8</font></p>
+ <p><font color="Black"> HARQ: 7</font></p>
+ <p><font color="Black"> DTX DSCH: 128%</font></p>
+ <p><font color="Black"> % BLER: 18.3%</font></p>
+ <p><font color="Black"> % NACKs: 9.7%</font></p>
+ <p><font color="Black"> % SCCH: 32.4%</font></p>
+ <p><font color="Black"> % QPSK: 96.1%</font></p>
+ <p><font color="Black"> % 16QAM: 3.7%</font></p>
+ <p><font color="Black"> % 64QAM: 0.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -99.66</font></p>
+ <p><font color="Black"> EcIo AVG: -11.54</font></p>
+ <p><font color="Black"> CellId inicial: 13212</font></p>
+ <p><font color="Black"> CellId final: 61113</font></p>
+ <p><font color="Black"> SC inicial: 224</font></p>
+ <p><font color="Black"> SC final: 47</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3802</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.57261,28.37428</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 996Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:55:47.335</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:55:47.335</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 11.2</font></p>
+ <p><font color="Black"> HARQ: 7</font></p>
+ <p><font color="Black"> DTX DSCH: 120%</font></p>
+ <p><font color="Black"> % BLER: 22.9%</font></p>
+ <p><font color="Black"> % NACKs: 14.7%</font></p>
+ <p><font color="Black"> % SCCH: 34.6%</font></p>
+ <p><font color="Black"> % QPSK: 84.7%</font></p>
+ <p><font color="Black"> % 16QAM: 15.3%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 88%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -87.08</font></p>
+ <p><font color="Black"> EcIo AVG: -9.97</font></p>
+ <p><font color="Black"> CellId inicial: 10122</font></p>
+ <p><font color="Black"> CellId final: 10122</font></p>
+ <p><font color="Black"> SC inicial: 229</font></p>
+ <p><font color="Black"> SC final: 229</font></p>
+ <p><font color="Black"> LAC inicial: 3802</font></p>
+ <p><font color="Black"> LAC final: 3802</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5704116666667,28.36811</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 562Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:01:36.500</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:01:36.500</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.5</font></p>
+ <p><font color="Black"> HARQ: 4</font></p>
+ <p><font color="Black"> DTX DSCH: 80%</font></p>
+ <p><font color="Black"> % BLER: 11.4%</font></p>
+ <p><font color="Black"> % NACKs: 2.3%</font></p>
+ <p><font color="Black"> % SCCH: 19.7%</font></p>
+ <p><font color="Black"> % QPSK: 3%</font></p>
+ <p><font color="Black"> % 16QAM: 51.3%</font></p>
+ <p><font color="Black"> % 64QAM: 45.7%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -72.7</font></p>
+ <p><font color="Black"> EcIo AVG: -13.63</font></p>
+ <p><font color="Black"> CellId inicial: 10127</font></p>
+ <p><font color="Black"> CellId final: 10127</font></p>
+ <p><font color="Black"> SC inicial: 221</font></p>
+ <p><font color="Black"> SC final: 221</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 3011</font></p>
+ <p><font color="Black"> UARFCN final: 3011</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5676566666667,28.3806816666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 6754Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:08:39.991</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:08:39.991</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.1</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 133%</font></p>
+ <p><font color="Black"> % BLER: 27%</font></p>
+ <p><font color="Black"> % NACKs: 19.3%</font></p>
+ <p><font color="Black"> % SCCH: 29%</font></p>
+ <p><font color="Black"> % QPSK: 5%</font></p>
+ <p><font color="Black"> % 16QAM: 62%</font></p>
+ <p><font color="Black"> % 64QAM: 33%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.68</font></p>
+ <p><font color="Black"> EcIo AVG: -10.68</font></p>
+ <p><font color="Black"> CellId inicial: 11172</font></p>
+ <p><font color="Black"> CellId final: 11172</font></p>
+ <p><font color="Black"> SC inicial: 221</font></p>
+ <p><font color="Black"> SC final: 221</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5759316666667,28.3915733333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 7151Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:12:56.656</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:12:56.656</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.9</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 121%</font></p>
+ <p><font color="Black"> % BLER: 30.6%</font></p>
+ <p><font color="Black"> % NACKs: 21.9%</font></p>
+ <p><font color="Black"> % SCCH: 38.8%</font></p>
+ <p><font color="Black"> % QPSK: 36.2%</font></p>
+ <p><font color="Black"> % 16QAM: 33.7%</font></p>
+ <p><font color="Black"> % 64QAM: 30.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.56</font></p>
+ <p><font color="Black"> EcIo AVG: -8.59</font></p>
+ <p><font color="Black"> CellId inicial: 10121</font></p>
+ <p><font color="Black"> CellId final: 10121</font></p>
+ <p><font color="Black"> SC inicial: 136</font></p>
+ <p><font color="Black"> SC final: 136</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5859183333333,28.3920383333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 16623Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:18:48.379</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:18:48.379</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 29.2</font></p>
+ <p><font color="Black"> HARQ: 7</font></p>
+ <p><font color="Black"> DTX DSCH: 155%</font></p>
+ <p><font color="Black"> % BLER: 9.2%</font></p>
+ <p><font color="Black"> % NACKs: 5.6%</font></p>
+ <p><font color="Black"> % SCCH: 27.2%</font></p>
+ <p><font color="Black"> % QPSK: 4.2%</font></p>
+ <p><font color="Black"> % 16QAM: 16.6%</font></p>
+ <p><font color="Black"> % 64QAM: 79.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -51.51</font></p>
+ <p><font color="Black"> EcIo AVG: -4.49</font></p>
+ <p><font color="Black"> CellId inicial: 11171</font></p>
+ <p><font color="Black"> CellId final: 11171</font></p>
+ <p><font color="Black"> SC inicial: 240</font></p>
+ <p><font color="Black"> SC final: 240</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.585695,28.380815</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3957Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:23:04.260</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:23:04.260</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.6</font></p>
+ <p><font color="Black"> HARQ: 4</font></p>
+ <p><font color="Black"> DTX DSCH: 164%</font></p>
+ <p><font color="Black"> % BLER: 20.3%</font></p>
+ <p><font color="Black"> % NACKs: 5%</font></p>
+ <p><font color="Black"> % SCCH: 20.8%</font></p>
+ <p><font color="Black"> % QPSK: 11.9%</font></p>
+ <p><font color="Black"> % 16QAM: 61.9%</font></p>
+ <p><font color="Black"> % 64QAM: 26.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.96</font></p>
+ <p><font color="Black"> EcIo AVG: -7.58</font></p>
+ <p><font color="Black"> CellId inicial: 11173</font></p>
+ <p><font color="Black"> CellId final: 13213</font></p>
+ <p><font color="Black"> SC inicial: 256</font></p>
+ <p><font color="Black"> SC final: 232</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5852366666667,28.3787483333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 11035Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:33:37.535</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:33:37.535</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 148%</font></p>
+ <p><font color="Black"> % BLER: 16.2%</font></p>
+ <p><font color="Black"> % NACKs: 9.2%</font></p>
+ <p><font color="Black"> % SCCH: 26.4%</font></p>
+ <p><font color="Black"> % QPSK: 7.3%</font></p>
+ <p><font color="Black"> % 16QAM: 15.2%</font></p>
+ <p><font color="Black"> % 64QAM: 77.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.36</font></p>
+ <p><font color="Black"> EcIo AVG: -7.35</font></p>
+ <p><font color="Black"> CellId inicial: 10731</font></p>
+ <p><font color="Black"> CellId final: 10121</font></p>
+ <p><font color="Black"> SC inicial: 36</font></p>
+ <p><font color="Black"> SC final: 221</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.6079933333333,28.3834833333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 7951Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:39:27.882</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:39:27.882</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.7</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 119%</font></p>
+ <p><font color="Black"> % BLER: 22.9%</font></p>
+ <p><font color="Black"> % NACKs: 20.6%</font></p>
+ <p><font color="Black"> % SCCH: 41.7%</font></p>
+ <p><font color="Black"> % QPSK: 42.3%</font></p>
+ <p><font color="Black"> % 16QAM: 53.2%</font></p>
+ <p><font color="Black"> % 64QAM: 4.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.06</font></p>
+ <p><font color="Black"> EcIo AVG: -5.51</font></p>
+ <p><font color="Black"> CellId inicial: 10732</font></p>
+ <p><font color="Black"> CellId final: 10732</font></p>
+ <p><font color="Black"> SC inicial: 44</font></p>
+ <p><font color="Black"> SC final: 44</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.6097733333333,28.3851183333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 6945Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:49:49.475</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:49:49.475</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.6</font></p>
+ <p><font color="Black"> HARQ: 7</font></p>
+ <p><font color="Black"> DTX DSCH: 154%</font></p>
+ <p><font color="Black"> % BLER: 25.3%</font></p>
+ <p><font color="Black"> % NACKs: 11.5%</font></p>
+ <p><font color="Black"> % SCCH: 25.4%</font></p>
+ <p><font color="Black"> % QPSK: 10.7%</font></p>
+ <p><font color="Black"> % 16QAM: 72.7%</font></p>
+ <p><font color="Black"> % 64QAM: 16.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -80.63</font></p>
+ <p><font color="Black"> EcIo AVG: -8.03</font></p>
+ <p><font color="Black"> CellId inicial: 10121</font></p>
+ <p><font color="Black"> CellId final: 10121</font></p>
+ <p><font color="Black"> SC inicial: 232</font></p>
+ <p><font color="Black"> SC final: 232</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5838933333333,28.3770583333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 4652Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:54:16.672</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:54:16.672</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.2</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 130%</font></p>
+ <p><font color="Black"> % BLER: 27.9%</font></p>
+ <p><font color="Black"> % NACKs: 18.2%</font></p>
+ <p><font color="Black"> % SCCH: 43%</font></p>
+ <p><font color="Black"> % QPSK: 32.9%</font></p>
+ <p><font color="Black"> % 16QAM: 63.8%</font></p>
+ <p><font color="Black"> % 64QAM: 3.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -92.08</font></p>
+ <p><font color="Black"> EcIo AVG: -7.63</font></p>
+ <p><font color="Black"> CellId inicial: 10121</font></p>
+ <p><font color="Black"> CellId final: 10121</font></p>
+ <p><font color="Black"> SC inicial: 288</font></p>
+ <p><font color="Black"> SC final: 288</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5821,28.3883733333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 10715Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:00:19.338</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:00:19.338</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.6</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 141%</font></p>
+ <p><font color="Black"> % BLER: 16.5%</font></p>
+ <p><font color="Black"> % NACKs: 11.6%</font></p>
+ <p><font color="Black"> % SCCH: 26.6%</font></p>
+ <p><font color="Black"> % QPSK: 7.5%</font></p>
+ <p><font color="Black"> % 16QAM: 21.7%</font></p>
+ <p><font color="Black"> % 64QAM: 70.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -74.72</font></p>
+ <p><font color="Black"> EcIo AVG: -7.07</font></p>
+ <p><font color="Black"> CellId inicial: 23213</font></p>
+ <p><font color="Black"> CellId final: 23213</font></p>
+ <p><font color="Black"> SC inicial: 221</font></p>
+ <p><font color="Black"> SC final: 221</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.58295,28.38566</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3613Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:05:02.269</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:05:02.269</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.1</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 118%</font></p>
+ <p><font color="Black"> % BLER: 30.3%</font></p>
+ <p><font color="Black"> % NACKs: 25.7%</font></p>
+ <p><font color="Black"> % SCCH: 40%</font></p>
+ <p><font color="Black"> % QPSK: 43.7%</font></p>
+ <p><font color="Black"> % 16QAM: 35.3%</font></p>
+ <p><font color="Black"> % 64QAM: 21%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.07</font></p>
+ <p><font color="Black"> EcIo AVG: -7.54</font></p>
+ <p><font color="Black"> CellId inicial: 26581</font></p>
+ <p><font color="Black"> CellId final: 46623</font></p>
+ <p><font color="Black"> SC inicial: 288</font></p>
+ <p><font color="Black"> SC final: 221</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5860033333333,28.392075</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 11221Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:11:02.210</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:11:02.210</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.3</font></p>
+ <p><font color="Black"> HARQ: 7</font></p>
+ <p><font color="Black"> DTX DSCH: 140%</font></p>
+ <p><font color="Black"> % BLER: 14.5%</font></p>
+ <p><font color="Black"> % NACKs: 7.9%</font></p>
+ <p><font color="Black"> % SCCH: 27.4%</font></p>
+ <p><font color="Black"> % QPSK: 3.5%</font></p>
+ <p><font color="Black"> % 16QAM: 37.9%</font></p>
+ <p><font color="Black"> % 64QAM: 58.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.97</font></p>
+ <p><font color="Black"> EcIo AVG: -7.54</font></p>
+ <p><font color="Black"> CellId inicial: 20121</font></p>
+ <p><font color="Black"> CellId final: 20121</font></p>
+ <p><font color="Black"> SC inicial: 221</font></p>
+ <p><font color="Black"> SC final: 221</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.590425,28.38383</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 7993Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:15:10.342</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:15:10.342</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.5</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 128%</font></p>
+ <p><font color="Black"> % BLER: 18.6%</font></p>
+ <p><font color="Black"> % NACKs: 16.1%</font></p>
+ <p><font color="Black"> % SCCH: 33.3%</font></p>
+ <p><font color="Black"> % QPSK: 9.8%</font></p>
+ <p><font color="Black"> % 16QAM: 85%</font></p>
+ <p><font color="Black"> % 64QAM: 5.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -80.9</font></p>
+ <p><font color="Black"> EcIo AVG: -7.39</font></p>
+ <p><font color="Black"> CellId inicial: 23213</font></p>
+ <p><font color="Black"> CellId final: 23213</font></p>
+ <p><font color="Black"> SC inicial: 232</font></p>
+ <p><font color="Black"> SC final: 232</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.597725,28.3850183333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 5321Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:20:53.523</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:20:53.523</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.8</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 147%</font></p>
+ <p><font color="Black"> % BLER: 28.6%</font></p>
+ <p><font color="Black"> % NACKs: 14%</font></p>
+ <p><font color="Black"> % SCCH: 28.8%</font></p>
+ <p><font color="Black"> % QPSK: 15.7%</font></p>
+ <p><font color="Black"> % 16QAM: 80.4%</font></p>
+ <p><font color="Black"> % 64QAM: 3.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.86</font></p>
+ <p><font color="Black"> EcIo AVG: -7.82</font></p>
+ <p><font color="Black"> CellId inicial: 26583</font></p>
+ <p><font color="Black"> CellId final: 26583</font></p>
+ <p><font color="Black"> SC inicial: 304</font></p>
+ <p><font color="Black"> SC final: 304</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5909116666667,28.3823483333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 7391Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:25:15.375</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:25:15.375</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.6</font></p>
+ <p><font color="Black"> HARQ: 7</font></p>
+ <p><font color="Black"> DTX DSCH: 130%</font></p>
+ <p><font color="Black"> % BLER: 25%</font></p>
+ <p><font color="Black"> % NACKs: 16.6%</font></p>
+ <p><font color="Black"> % SCCH: 31.2%</font></p>
+ <p><font color="Black"> % QPSK: 26.2%</font></p>
+ <p><font color="Black"> % 16QAM: 71.6%</font></p>
+ <p><font color="Black"> % 64QAM: 2.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.44</font></p>
+ <p><font color="Black"> EcIo AVG: -6.87</font></p>
+ <p><font color="Black"> CellId inicial: 20121</font></p>
+ <p><font color="Black"> CellId final: 20121</font></p>
+ <p><font color="Black"> SC inicial: 232</font></p>
+ <p><font color="Black"> SC final: 256</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5852533333333,28.3779166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2376Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:31:37.339</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:31:37.339</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.4</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 158%</font></p>
+ <p><font color="Black"> % BLER: 22.5%</font></p>
+ <p><font color="Black"> % NACKs: 8.9%</font></p>
+ <p><font color="Black"> % SCCH: 18.7%</font></p>
+ <p><font color="Black"> % QPSK: 33.4%</font></p>
+ <p><font color="Black"> % 16QAM: 60.8%</font></p>
+ <p><font color="Black"> % 64QAM: 5.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -93.62</font></p>
+ <p><font color="Black"> EcIo AVG: -9.35</font></p>
+ <p><font color="Black"> CellId inicial: 23212</font></p>
+ <p><font color="Black"> CellId final: 23212</font></p>
+ <p><font color="Black"> SC inicial: 224</font></p>
+ <p><font color="Black"> SC final: 224</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.571075,28.3785633333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1182Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:36:45.543</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:36:45.543</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 13</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 46%</font></p>
+ <p><font color="Black"> % BLER: 16.6%</font></p>
+ <p><font color="Black"> % NACKs: 10.8%</font></p>
+ <p><font color="Black"> % SCCH: 56.7%</font></p>
+ <p><font color="Black"> % QPSK: 37%</font></p>
+ <p><font color="Black"> % 16QAM: 62.8%</font></p>
+ <p><font color="Black"> % 64QAM: 0.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 15%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -96.73</font></p>
+ <p><font color="Black"> EcIo AVG: -10.99</font></p>
+ <p><font color="Black"> CellId inicial: 22651</font></p>
+ <p><font color="Black"> CellId final: 22651</font></p>
+ <p><font color="Black"> SC inicial: 1</font></p>
+ <p><font color="Black"> SC final: 47</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5624316666667,28.377815</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 8211Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:43:40.887</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:43:40.887</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 28.8</font></p>
+ <p><font color="Black"> HARQ: 7</font></p>
+ <p><font color="Black"> DTX DSCH: 160%</font></p>
+ <p><font color="Black"> % BLER: 11.8%</font></p>
+ <p><font color="Black"> % NACKs: 7%</font></p>
+ <p><font color="Black"> % SCCH: 22.4%</font></p>
+ <p><font color="Black"> % QPSK: 11.1%</font></p>
+ <p><font color="Black"> % 16QAM: 23.8%</font></p>
+ <p><font color="Black"> % 64QAM: 65.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -76.93</font></p>
+ <p><font color="Black"> EcIo AVG: -3.98</font></p>
+ <p><font color="Black"> CellId inicial: 46622</font></p>
+ <p><font color="Black"> CellId final: 46622</font></p>
+ <p><font color="Black"> SC inicial: 128</font></p>
+ <p><font color="Black"> SC final: 128</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.578835,28.3909366666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2861Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:48:13.143</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:48:13.143</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 17.3</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 134%</font></p>
+ <p><font color="Black"> % BLER: 29.6%</font></p>
+ <p><font color="Black"> % NACKs: 20.5%</font></p>
+ <p><font color="Black"> % SCCH: 33.6%</font></p>
+ <p><font color="Black"> % QPSK: 48.4%</font></p>
+ <p><font color="Black"> % 16QAM: 43.3%</font></p>
+ <p><font color="Black"> % 64QAM: 8.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.72</font></p>
+ <p><font color="Black"> EcIo AVG: -9.16</font></p>
+ <p><font color="Black"> CellId inicial: 20121</font></p>
+ <p><font color="Black"> CellId final: 20121</font></p>
+ <p><font color="Black"> SC inicial: 221</font></p>
+ <p><font color="Black"> SC final: 221</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5771133333333,28.39199</coordinates>
+</Point>
+</Placemark>
+<name>358672057638417</name>
+</Folder>
+</Folder>
+<Folder>
+<name>Network Capability</name>
+<Folder>
+<name>358672057638417</name>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2124Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 14:50:33.204</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 14:50:33.204</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 13.5</font></p>
+ <p><font color="Black"> HARQ: 7</font></p>
+ <p><font color="Black"> DTX DSCH: 109%</font></p>
+ <p><font color="Black"> % BLER: 31.2%</font></p>
+ <p><font color="Black"> % NACKs: 26.9%</font></p>
+ <p><font color="Black"> % SCCH: 40.3%</font></p>
+ <p><font color="Black"> % QPSK: 79.8%</font></p>
+ <p><font color="Black"> % 16QAM: 19.8%</font></p>
+ <p><font color="Black"> % 64QAM: 0.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.9</font></p>
+ <p><font color="Black"> EcIo AVG: -11.36</font></p>
+ <p><font color="Black"> CellId inicial: 21742</font></p>
+ <p><font color="Black"> CellId final: 40953</font></p>
+ <p><font color="Black"> SC inicial: 40</font></p>
+ <p><font color="Black"> SC final: 88</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5583133333333,28.3911816666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 10560Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 16:52:02.781</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 16:52:02.781</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.4</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 82%</font></p>
+ <p><font color="Black"> % BLER: 21%</font></p>
+ <p><font color="Black"> % NACKs: 26.6%</font></p>
+ <p><font color="Black"> % SCCH: 62.9%</font></p>
+ <p><font color="Black"> % QPSK: 5.1%</font></p>
+ <p><font color="Black"> % 16QAM: 76.1%</font></p>
+ <p><font color="Black"> % 64QAM: 18.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.16</font></p>
+ <p><font color="Black"> EcIo AVG: -7.56</font></p>
+ <p><font color="Black"> CellId inicial: 46622</font></p>
+ <p><font color="Black"> CellId final: 46623</font></p>
+ <p><font color="Black"> SC inicial: 128</font></p>
+ <p><font color="Black"> SC final: 136</font></p>
+ <p><font color="Black"> LAC inicial: 3802</font></p>
+ <p><font color="Black"> LAC final: 3802</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.578895,28.3909166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 14402Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 16:56:13.958</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 16:56:13.958</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.1</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 52%</font></p>
+ <p><font color="Black"> % BLER: 20.5%</font></p>
+ <p><font color="Black"> % NACKs: 30.8%</font></p>
+ <p><font color="Black"> % SCCH: 83%</font></p>
+ <p><font color="Black"> % QPSK: 2.7%</font></p>
+ <p><font color="Black"> % 16QAM: 81.5%</font></p>
+ <p><font color="Black"> % 64QAM: 15.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.14</font></p>
+ <p><font color="Black"> EcIo AVG: -8.19</font></p>
+ <p><font color="Black"> CellId inicial: 46622</font></p>
+ <p><font color="Black"> CellId final: 46622</font></p>
+ <p><font color="Black"> SC inicial: 128</font></p>
+ <p><font color="Black"> SC final: 128</font></p>
+ <p><font color="Black"> LAC inicial: 3802</font></p>
+ <p><font color="Black"> LAC final: 3802</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.578895,28.3909166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 5042Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:02:03.856</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:02:03.856</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.2</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 43%</font></p>
+ <p><font color="Black"> % BLER: 12.1%</font></p>
+ <p><font color="Black"> % NACKs: 6%</font></p>
+ <p><font color="Black"> % SCCH: 59.3%</font></p>
+ <p><font color="Black"> % QPSK: 1.4%</font></p>
+ <p><font color="Black"> % 16QAM: 65.4%</font></p>
+ <p><font color="Black"> % 64QAM: 33.2%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -66.7</font></p>
+ <p><font color="Black"> EcIo AVG: -11.57</font></p>
+ <p><font color="Black"> CellId inicial: 56628</font></p>
+ <p><font color="Black"> CellId final: 56628</font></p>
+ <p><font color="Black"> SC inicial: 128</font></p>
+ <p><font color="Black"> SC final: 128</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 3011</font></p>
+ <p><font color="Black"> UARFCN final: 3011</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.578895,28.3909166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 7940Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:06:18.830</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:06:18.830</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.2</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 25%</font></p>
+ <p><font color="Black"> % BLER: 9.9%</font></p>
+ <p><font color="Black"> % NACKs: 6.9%</font></p>
+ <p><font color="Black"> % SCCH: 71.5%</font></p>
+ <p><font color="Black"> % QPSK: 0.7%</font></p>
+ <p><font color="Black"> % 16QAM: 62.1%</font></p>
+ <p><font color="Black"> % 64QAM: 37.1%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -66.7</font></p>
+ <p><font color="Black"> EcIo AVG: -8.59</font></p>
+ <p><font color="Black"> CellId inicial: 56628</font></p>
+ <p><font color="Black"> CellId final: 56628</font></p>
+ <p><font color="Black"> SC inicial: 128</font></p>
+ <p><font color="Black"> SC final: 128</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 3011</font></p>
+ <p><font color="Black"> UARFCN final: 3011</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.578895,28.3909166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 8322Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:12:06.318</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:12:06.318</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.1</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 25%</font></p>
+ <p><font color="Black"> % BLER: 9.2%</font></p>
+ <p><font color="Black"> % NACKs: 7.2%</font></p>
+ <p><font color="Black"> % SCCH: 72%</font></p>
+ <p><font color="Black"> % QPSK: 2%</font></p>
+ <p><font color="Black"> % 16QAM: 80.1%</font></p>
+ <p><font color="Black"> % 64QAM: 17.9%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -67.24</font></p>
+ <p><font color="Black"> EcIo AVG: -8.44</font></p>
+ <p><font color="Black"> CellId inicial: 56628</font></p>
+ <p><font color="Black"> CellId final: 56628</font></p>
+ <p><font color="Black"> SC inicial: 128</font></p>
+ <p><font color="Black"> SC final: 128</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 3011</font></p>
+ <p><font color="Black"> UARFCN final: 3011</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.578895,28.3909166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1353Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:17:02.437</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:17:02.437</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 11.8</font></p>
+ <p><font color="Black"> HARQ: 7</font></p>
+ <p><font color="Black"> DTX DSCH: 167%</font></p>
+ <p><font color="Black"> % BLER: 23.1%</font></p>
+ <p><font color="Black"> % NACKs: 9.3%</font></p>
+ <p><font color="Black"> % SCCH: 18%</font></p>
+ <p><font color="Black"> % QPSK: 88.5%</font></p>
+ <p><font color="Black"> % 16QAM: 11.5%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -105.51</font></p>
+ <p><font color="Black"> EcIo AVG: -11.61</font></p>
+ <p><font color="Black"> CellId inicial: 16582</font></p>
+ <p><font color="Black"> CellId final: 16582</font></p>
+ <p><font color="Black"> SC inicial: 296</font></p>
+ <p><font color="Black"> SC final: 296</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5671683333333,28.3888983333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fallo</name>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 0Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:24:04.920</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:24:04.920</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 4.9</font></p>
+ <p><font color="Black"> HARQ: 2</font></p>
+ <p><font color="Black"> DTX DSCH: 196%</font></p>
+ <p><font color="Black"> % BLER: 22.6%</font></p>
+ <p><font color="Black"> % NACKs: 0.7%</font></p>
+ <p><font color="Black"> % SCCH: 0.9%</font></p>
+ <p><font color="Black"> % QPSK: 99.2%</font></p>
+ <p><font color="Black"> % 16QAM: 0.8%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -117.59</font></p>
+ <p><font color="Black"> EcIo AVG: -16.48</font></p>
+ <p><font color="Black"> CellId inicial: 32362</font></p>
+ <p><font color="Black"> CellId final: 32362</font></p>
+ <p><font color="Black"> SC inicial: 104</font></p>
+ <p><font color="Black"> SC final: 104</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10788</font></p>
+ <p><font color="Black"> UARFCN final: 10788</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.56381,28.3811283333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3698Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:28:38.799</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:28:38.799</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.2</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 32%</font></p>
+ <p><font color="Black"> % BLER: 25.9%</font></p>
+ <p><font color="Black"> % NACKs: 17.8%</font></p>
+ <p><font color="Black"> % SCCH: 72.6%</font></p>
+ <p><font color="Black"> % QPSK: 34.6%</font></p>
+ <p><font color="Black"> % 16QAM: 54%</font></p>
+ <p><font color="Black"> % 64QAM: 11.4%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -71.12</font></p>
+ <p><font color="Black"> EcIo AVG: -9.08</font></p>
+ <p><font color="Black"> CellId inicial: 11178</font></p>
+ <p><font color="Black"> CellId final: 11178</font></p>
+ <p><font color="Black"> SC inicial: 248</font></p>
+ <p><font color="Black"> SC final: 256</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 3011</font></p>
+ <p><font color="Black"> UARFCN final: 3011</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5841733333333,28.377995</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 9567Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:35:15.243</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:35:15.243</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.3</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 56%</font></p>
+ <p><font color="Black"> % BLER: 13.2%</font></p>
+ <p><font color="Black"> % NACKs: 19.7%</font></p>
+ <p><font color="Black"> % SCCH: 70.2%</font></p>
+ <p><font color="Black"> % QPSK: 5.7%</font></p>
+ <p><font color="Black"> % 16QAM: 66.2%</font></p>
+ <p><font color="Black"> % 64QAM: 28.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.19</font></p>
+ <p><font color="Black"> EcIo AVG: -10.83</font></p>
+ <p><font color="Black"> CellId inicial: 10121</font></p>
+ <p><font color="Black"> CellId final: 10121</font></p>
+ <p><font color="Black"> SC inicial: 221</font></p>
+ <p><font color="Black"> SC final: 221</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.583005,28.37164</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 17444Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:39:31.109</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:39:31.109</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.3</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 71%</font></p>
+ <p><font color="Black"> % BLER: 14.8%</font></p>
+ <p><font color="Black"> % NACKs: 20.3%</font></p>
+ <p><font color="Black"> % SCCH: 63.5%</font></p>
+ <p><font color="Black"> % QPSK: 1.5%</font></p>
+ <p><font color="Black"> % 16QAM: 30.2%</font></p>
+ <p><font color="Black"> % 64QAM: 68.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -69.33</font></p>
+ <p><font color="Black"> EcIo AVG: -7.81</font></p>
+ <p><font color="Black"> CellId inicial: 11172</font></p>
+ <p><font color="Black"> CellId final: 11172</font></p>
+ <p><font color="Black"> SC inicial: 248</font></p>
+ <p><font color="Black"> SC final: 248</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5844983333333,28.3799283333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 7243Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:45:05.405</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:45:05.405</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 18.3</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 50%</font></p>
+ <p><font color="Black"> % BLER: 32.9%</font></p>
+ <p><font color="Black"> % NACKs: 45.6%</font></p>
+ <p><font color="Black"> % SCCH: 76.9%</font></p>
+ <p><font color="Black"> % QPSK: 31.4%</font></p>
+ <p><font color="Black"> % 16QAM: 50.1%</font></p>
+ <p><font color="Black"> % 64QAM: 18.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85</font></p>
+ <p><font color="Black"> EcIo AVG: -9.67</font></p>
+ <p><font color="Black"> CellId inicial: 10121</font></p>
+ <p><font color="Black"> CellId final: 10121</font></p>
+ <p><font color="Black"> SC inicial: 221</font></p>
+ <p><font color="Black"> SC final: 232</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5841183333333,28.3771583333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 541Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:58:15.103</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:58:15.103</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 16.1</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 77%</font></p>
+ <p><font color="Black"> % BLER: 9.3%</font></p>
+ <p><font color="Black"> % NACKs: 2.1%</font></p>
+ <p><font color="Black"> % SCCH: 21.8%</font></p>
+ <p><font color="Black"> % QPSK: 2.2%</font></p>
+ <p><font color="Black"> % 16QAM: 82%</font></p>
+ <p><font color="Black"> % 64QAM: 15.8%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -81.5</font></p>
+ <p><font color="Black"> EcIo AVG: -13.11</font></p>
+ <p><font color="Black"> CellId inicial: 10127</font></p>
+ <p><font color="Black"> CellId final: 10127</font></p>
+ <p><font color="Black"> SC inicial: 221</font></p>
+ <p><font color="Black"> SC final: 221</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 3011</font></p>
+ <p><font color="Black"> UARFCN final: 3011</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5716983333333,28.3785133333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 665Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:04:26.782</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:04:26.782</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 15.4</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 54%</font></p>
+ <p><font color="Black"> % BLER: 29.1%</font></p>
+ <p><font color="Black"> % NACKs: 13.1%</font></p>
+ <p><font color="Black"> % SCCH: 48.9%</font></p>
+ <p><font color="Black"> % QPSK: 82.3%</font></p>
+ <p><font color="Black"> % 16QAM: 13.2%</font></p>
+ <p><font color="Black"> % 64QAM: 4.5%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -71.06</font></p>
+ <p><font color="Black"> EcIo AVG: -9.9</font></p>
+ <p><font color="Black"> CellId inicial: 10127</font></p>
+ <p><font color="Black"> CellId final: 57419</font></p>
+ <p><font color="Black"> SC inicial: 221</font></p>
+ <p><font color="Black"> SC final: 40</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 3011</font></p>
+ <p><font color="Black"> UARFCN final: 3011</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.559675,28.3898083333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 6380Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:10:26.209</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:10:26.209</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.1</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 102%</font></p>
+ <p><font color="Black"> % BLER: 22.9%</font></p>
+ <p><font color="Black"> % NACKs: 21.6%</font></p>
+ <p><font color="Black"> % SCCH: 49.3%</font></p>
+ <p><font color="Black"> % QPSK: 23.9%</font></p>
+ <p><font color="Black"> % 16QAM: 48.2%</font></p>
+ <p><font color="Black"> % 64QAM: 28%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.21</font></p>
+ <p><font color="Black"> EcIo AVG: -8.54</font></p>
+ <p><font color="Black"> CellId inicial: 10121</font></p>
+ <p><font color="Black"> CellId final: 10121</font></p>
+ <p><font color="Black"> SC inicial: 221</font></p>
+ <p><font color="Black"> SC final: 272</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5905916666667,28.3920816666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 15495Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:14:44.490</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:14:44.490</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.1</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 62%</font></p>
+ <p><font color="Black"> % BLER: 22.6%</font></p>
+ <p><font color="Black"> % NACKs: 33%</font></p>
+ <p><font color="Black"> % SCCH: 71.2%</font></p>
+ <p><font color="Black"> % QPSK: 1.9%</font></p>
+ <p><font color="Black"> % 16QAM: 44.6%</font></p>
+ <p><font color="Black"> % 64QAM: 53.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -72.32</font></p>
+ <p><font color="Black"> EcIo AVG: -7.02</font></p>
+ <p><font color="Black"> CellId inicial: 16581</font></p>
+ <p><font color="Black"> CellId final: 16581</font></p>
+ <p><font color="Black"> SC inicial: 288</font></p>
+ <p><font color="Black"> SC final: 288</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.58536,28.389315</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 17571Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:20:30.991</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:20:30.991</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.7</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 69%</font></p>
+ <p><font color="Black"> % BLER: 14.3%</font></p>
+ <p><font color="Black"> % NACKs: 18.1%</font></p>
+ <p><font color="Black"> % SCCH: 59.7%</font></p>
+ <p><font color="Black"> % QPSK: 1.8%</font></p>
+ <p><font color="Black"> % 16QAM: 53%</font></p>
+ <p><font color="Black"> % 64QAM: 45.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.2</font></p>
+ <p><font color="Black"> EcIo AVG: -9.42</font></p>
+ <p><font color="Black"> CellId inicial: 11173</font></p>
+ <p><font color="Black"> CellId final: 11173</font></p>
+ <p><font color="Black"> SC inicial: 256</font></p>
+ <p><font color="Black"> SC final: 256</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5852366666667,28.3787483333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 8226Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:24:40.735</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:24:40.735</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.8</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 72%</font></p>
+ <p><font color="Black"> % BLER: 27.3%</font></p>
+ <p><font color="Black"> % NACKs: 34.4%</font></p>
+ <p><font color="Black"> % SCCH: 62%</font></p>
+ <p><font color="Black"> % QPSK: 16%</font></p>
+ <p><font color="Black"> % 16QAM: 53.6%</font></p>
+ <p><font color="Black"> % 64QAM: 30.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -76.18</font></p>
+ <p><font color="Black"> EcIo AVG: -8.9</font></p>
+ <p><font color="Black"> CellId inicial: 11173</font></p>
+ <p><font color="Black"> CellId final: 11173</font></p>
+ <p><font color="Black"> SC inicial: 256</font></p>
+ <p><font color="Black"> SC final: 221</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5857733333333,28.3778916666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 9154Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:35:22.579</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:35:22.579</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.8</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 93%</font></p>
+ <p><font color="Black"> % BLER: 22.4%</font></p>
+ <p><font color="Black"> % NACKs: 21.4%</font></p>
+ <p><font color="Black"> % SCCH: 53.4%</font></p>
+ <p><font color="Black"> % QPSK: 8.7%</font></p>
+ <p><font color="Black"> % 16QAM: 65.2%</font></p>
+ <p><font color="Black"> % 64QAM: 26.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -81.71</font></p>
+ <p><font color="Black"> EcIo AVG: -6.95</font></p>
+ <p><font color="Black"> CellId inicial: 10733</font></p>
+ <p><font color="Black"> CellId final: 10733</font></p>
+ <p><font color="Black"> SC inicial: 52</font></p>
+ <p><font color="Black"> SC final: 52</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.609315,28.38526</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 17657Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:41:10.863</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:41:10.863</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.9</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 76%</font></p>
+ <p><font color="Black"> % BLER: 14.6%</font></p>
+ <p><font color="Black"> % NACKs: 20.2%</font></p>
+ <p><font color="Black"> % SCCH: 63.5%</font></p>
+ <p><font color="Black"> % QPSK: 6.3%</font></p>
+ <p><font color="Black"> % 16QAM: 16.8%</font></p>
+ <p><font color="Black"> % 64QAM: 76.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -50.42</font></p>
+ <p><font color="Black"> EcIo AVG: -6.8</font></p>
+ <p><font color="Black"> CellId inicial: 10731</font></p>
+ <p><font color="Black"> CellId final: 10731</font></p>
+ <p><font color="Black"> SC inicial: 36</font></p>
+ <p><font color="Black"> SC final: 36</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.6086483333333,28.384015</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4409Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:51:38.051</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:51:38.051</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.4</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 140%</font></p>
+ <p><font color="Black"> % BLER: 27.8%</font></p>
+ <p><font color="Black"> % NACKs: 17.4%</font></p>
+ <p><font color="Black"> % SCCH: 29.3%</font></p>
+ <p><font color="Black"> % QPSK: 17.1%</font></p>
+ <p><font color="Black"> % 16QAM: 49.2%</font></p>
+ <p><font color="Black"> % 64QAM: 33.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -68.08</font></p>
+ <p><font color="Black"> EcIo AVG: -8.86</font></p>
+ <p><font color="Black"> CellId inicial: 11172</font></p>
+ <p><font color="Black"> CellId final: 13213</font></p>
+ <p><font color="Black"> SC inicial: 248</font></p>
+ <p><font color="Black"> SC final: 232</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.582345,28.3819716666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4281Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:56:15.864</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:56:15.864</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 17.2</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 82%</font></p>
+ <p><font color="Black"> % BLER: 27.7%</font></p>
+ <p><font color="Black"> % NACKs: 35.3%</font></p>
+ <p><font color="Black"> % SCCH: 55.8%</font></p>
+ <p><font color="Black"> % QPSK: 33.1%</font></p>
+ <p><font color="Black"> % 16QAM: 57.6%</font></p>
+ <p><font color="Black"> % 64QAM: 9.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.85</font></p>
+ <p><font color="Black"> EcIo AVG: -10.66</font></p>
+ <p><font color="Black"> CellId inicial: 13213</font></p>
+ <p><font color="Black"> CellId final: 13213</font></p>
+ <p><font color="Black"> SC inicial: 221</font></p>
+ <p><font color="Black"> SC final: 221</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.58092,28.3890116666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 12103Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:02:17.446</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:02:17.446</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.2</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 67%</font></p>
+ <p><font color="Black"> % BLER: 26.8%</font></p>
+ <p><font color="Black"> % NACKs: 35.9%</font></p>
+ <p><font color="Black"> % SCCH: 59.9%</font></p>
+ <p><font color="Black"> % QPSK: 2%</font></p>
+ <p><font color="Black"> % 16QAM: 63.8%</font></p>
+ <p><font color="Black"> % 64QAM: 34.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -66.17</font></p>
+ <p><font color="Black"> EcIo AVG: -8.42</font></p>
+ <p><font color="Black"> CellId inicial: 26581</font></p>
+ <p><font color="Black"> CellId final: 26581</font></p>
+ <p><font color="Black"> SC inicial: 288</font></p>
+ <p><font color="Black"> SC final: 288</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5859583333333,28.3884183333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 10132Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:06:54.203</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:06:54.203</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.7</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 59%</font></p>
+ <p><font color="Black"> % BLER: 26%</font></p>
+ <p><font color="Black"> % NACKs: 36.5%</font></p>
+ <p><font color="Black"> % SCCH: 65.5%</font></p>
+ <p><font color="Black"> % QPSK: 7.9%</font></p>
+ <p><font color="Black"> % 16QAM: 50.7%</font></p>
+ <p><font color="Black"> % 64QAM: 41.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -81.64</font></p>
+ <p><font color="Black"> EcIo AVG: -9.43</font></p>
+ <p><font color="Black"> CellId inicial: 20121</font></p>
+ <p><font color="Black"> CellId final: 20121</font></p>
+ <p><font color="Black"> SC inicial: 221</font></p>
+ <p><font color="Black"> SC final: 136</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.59067,28.3943766666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 9085Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:12:42.838</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:12:42.838</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.4</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 98%</font></p>
+ <p><font color="Black"> % BLER: 18.4%</font></p>
+ <p><font color="Black"> % NACKs: 18.6%</font></p>
+ <p><font color="Black"> % SCCH: 49.5%</font></p>
+ <p><font color="Black"> % QPSK: 1.3%</font></p>
+ <p><font color="Black"> % 16QAM: 19.9%</font></p>
+ <p><font color="Black"> % 64QAM: 78.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.51</font></p>
+ <p><font color="Black"> EcIo AVG: -9.38</font></p>
+ <p><font color="Black"> CellId inicial: 20121</font></p>
+ <p><font color="Black"> CellId final: 20121</font></p>
+ <p><font color="Black"> SC inicial: 221</font></p>
+ <p><font color="Black"> SC final: 221</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.590425,28.38383</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 10126Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:16:48.255</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:16:48.255</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.6</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 80%</font></p>
+ <p><font color="Black"> % BLER: 15.4%</font></p>
+ <p><font color="Black"> % NACKs: 18.6%</font></p>
+ <p><font color="Black"> % SCCH: 65.7%</font></p>
+ <p><font color="Black"> % QPSK: 2%</font></p>
+ <p><font color="Black"> % 16QAM: 77.9%</font></p>
+ <p><font color="Black"> % 64QAM: 20.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.06</font></p>
+ <p><font color="Black"> EcIo AVG: -9.37</font></p>
+ <p><font color="Black"> CellId inicial: 23213</font></p>
+ <p><font color="Black"> CellId final: 23213</font></p>
+ <p><font color="Black"> SC inicial: 232</font></p>
+ <p><font color="Black"> SC final: 232</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5976183333333,28.384935</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 9698Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:22:46.702</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:22:46.702</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.4</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 77%</font></p>
+ <p><font color="Black"> % BLER: 23.3%</font></p>
+ <p><font color="Black"> % NACKs: 28.2%</font></p>
+ <p><font color="Black"> % SCCH: 58.7%</font></p>
+ <p><font color="Black"> % QPSK: 17.2%</font></p>
+ <p><font color="Black"> % 16QAM: 66.9%</font></p>
+ <p><font color="Black"> % 64QAM: 15.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -75.97</font></p>
+ <p><font color="Black"> EcIo AVG: -9.16</font></p>
+ <p><font color="Black"> CellId inicial: 20121</font></p>
+ <p><font color="Black"> CellId final: 20121</font></p>
+ <p><font color="Black"> SC inicial: 221</font></p>
+ <p><font color="Black"> SC final: 256</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5889133333333,28.381695</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4684Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:27:02.843</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:27:02.843</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 18.3</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 86%</font></p>
+ <p><font color="Black"> % BLER: 29.8%</font></p>
+ <p><font color="Black"> % NACKs: 32.9%</font></p>
+ <p><font color="Black"> % SCCH: 58%</font></p>
+ <p><font color="Black"> % QPSK: 34.6%</font></p>
+ <p><font color="Black"> % 16QAM: 49.7%</font></p>
+ <p><font color="Black"> % 64QAM: 15.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.25</font></p>
+ <p><font color="Black"> EcIo AVG: -9.2</font></p>
+ <p><font color="Black"> CellId inicial: 20121</font></p>
+ <p><font color="Black"> CellId final: 20121</font></p>
+ <p><font color="Black"> SC inicial: 256</font></p>
+ <p><font color="Black"> SC final: 221</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5825416666667,28.3741766666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1610Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:34:15.168</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:34:15.168</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 16.6</font></p>
+ <p><font color="Black"> HARQ: 7</font></p>
+ <p><font color="Black"> DTX DSCH: 80%</font></p>
+ <p><font color="Black"> % BLER: 23.3%</font></p>
+ <p><font color="Black"> % NACKs: 20.9%</font></p>
+ <p><font color="Black"> % SCCH: 48.4%</font></p>
+ <p><font color="Black"> % QPSK: 65.5%</font></p>
+ <p><font color="Black"> % 16QAM: 31.5%</font></p>
+ <p><font color="Black"> % 64QAM: 3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 80%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -90.76</font></p>
+ <p><font color="Black"> EcIo AVG: -9.12</font></p>
+ <p><font color="Black"> CellId inicial: 22323</font></p>
+ <p><font color="Black"> CellId final: 22323</font></p>
+ <p><font color="Black"> SC inicial: 71</font></p>
+ <p><font color="Black"> SC final: 71</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5674383333333,28.37629</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1153Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:39:29.060</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:39:29.060</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 9.4</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 107%</font></p>
+ <p><font color="Black"> % BLER: 23.5%</font></p>
+ <p><font color="Black"> % NACKs: 19.8%</font></p>
+ <p><font color="Black"> % SCCH: 43.9%</font></p>
+ <p><font color="Black"> % QPSK: 98.8%</font></p>
+ <p><font color="Black"> % 16QAM: 1.2%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -103.8</font></p>
+ <p><font color="Black"> EcIo AVG: -10.07</font></p>
+ <p><font color="Black"> CellId inicial: 22583</font></p>
+ <p><font color="Black"> CellId final: 22583</font></p>
+ <p><font color="Black"> SC inicial: 160</font></p>
+ <p><font color="Black"> SC final: 128</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.56805,28.385745</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 17837Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:45:35.524</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:45:35.524</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.5</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 76%</font></p>
+ <p><font color="Black"> % BLER: 15.7%</font></p>
+ <p><font color="Black"> % NACKs: 20.5%</font></p>
+ <p><font color="Black"> % SCCH: 63.2%</font></p>
+ <p><font color="Black"> % QPSK: 1.6%</font></p>
+ <p><font color="Black"> % 16QAM: 10.7%</font></p>
+ <p><font color="Black"> % 64QAM: 87.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.06</font></p>
+ <p><font color="Black"> EcIo AVG: -6.28</font></p>
+ <p><font color="Black"> CellId inicial: 46622</font></p>
+ <p><font color="Black"> CellId final: 46622</font></p>
+ <p><font color="Black"> SC inicial: 128</font></p>
+ <p><font color="Black"> SC final: 128</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.578835,28.3909366666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 15017Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 20:00:36.508</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 20:00:36.508</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LOSREALEJOS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.8</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 67%</font></p>
+ <p><font color="Black"> % BLER: 20.9%</font></p>
+ <p><font color="Black"> % NACKs: 27.2%</font></p>
+ <p><font color="Black"> % SCCH: 73.9%</font></p>
+ <p><font color="Black"> % QPSK: 4.6%</font></p>
+ <p><font color="Black"> % 16QAM: 36.6%</font></p>
+ <p><font color="Black"> % 64QAM: 58.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -67.43</font></p>
+ <p><font color="Black"> EcIo AVG: -7.95</font></p>
+ <p><font color="Black"> CellId inicial: 20121</font></p>
+ <p><font color="Black"> CellId final: 20121</font></p>
+ <p><font color="Black"> SC inicial: 136</font></p>
+ <p><font color="Black"> SC final: 136</font></p>
+ <p><font color="Black"> LAC inicial: 3801</font></p>
+ <p><font color="Black"> LAC final: 3801</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5835116666667,28.3920083333333</coordinates>
+</Point>
+</Placemark>
+<name>358672057638417</name>
+</Folder>
+</Folder>
+<ScreenOverlay>
+<name>Absolute Positioning: Top Left</name>
+<Icon>
+<href>Leyenda_FTP_DL_2x2.jpg</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="0.86" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>

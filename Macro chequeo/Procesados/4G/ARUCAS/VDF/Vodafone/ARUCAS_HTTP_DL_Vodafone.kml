@@ -1,0 +1,1641 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="IconoAwful">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBad">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBad">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSo">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGood">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGood">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoAwfulM">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBadM">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBadM">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSoM">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGoodM">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGoodM">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Folder>
+<name>Customer Experience</name>
+<Folder>
+<name>358672057235339</name>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 9508Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:15:24.211</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:15:24.211</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.3</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 122%</font></p>
+ <p><font color="Black"> % BLER: 13.3%</font></p>
+ <p><font color="Black"> % NACKs: 11.2%</font></p>
+ <p><font color="Black"> % SCCH: 54.1%</font></p>
+ <p><font color="Black"> % QPSK: 38.2%</font></p>
+ <p><font color="Black"> % 16QAM: 52.6%</font></p>
+ <p><font color="Black"> % 64QAM: 9.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.03</font></p>
+ <p><font color="Black"> EcIo AVG: -6.47</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5257783333333,28.117605</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 5696Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:19:21.324</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:19:21.324</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.5</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 121%</font></p>
+ <p><font color="Black"> % BLER: 19.6%</font></p>
+ <p><font color="Black"> % NACKs: 16.5%</font></p>
+ <p><font color="Black"> % SCCH: 52.6%</font></p>
+ <p><font color="Black"> % QPSK: 54.6%</font></p>
+ <p><font color="Black"> % 16QAM: 42%</font></p>
+ <p><font color="Black"> % 64QAM: 3.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -76.16</font></p>
+ <p><font color="Black"> EcIo AVG: -5.65</font></p>
+ <p><font color="Black"> CellId inicial: 4339</font></p>
+ <p><font color="Black"> CellId final: 4339</font></p>
+ <p><font color="Black"> SC inicial: 467</font></p>
+ <p><font color="Black"> SC final: 467</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5279616666667,28.1192716666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 11138Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:24:45.624</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:24:45.624</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.4</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 136%</font></p>
+ <p><font color="Black"> % BLER: 13%</font></p>
+ <p><font color="Black"> % NACKs: 6.4%</font></p>
+ <p><font color="Black"> % SCCH: 50.2%</font></p>
+ <p><font color="Black"> % QPSK: 12.9%</font></p>
+ <p><font color="Black"> % 16QAM: 56.2%</font></p>
+ <p><font color="Black"> % 64QAM: 30.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -75.19</font></p>
+ <p><font color="Black"> EcIo AVG: -9</font></p>
+ <p><font color="Black"> CellId inicial: 4338</font></p>
+ <p><font color="Black"> CellId final: 4338</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5310183333333,28.118015</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 8855Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:28:53.873</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:28:53.873</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 129%</font></p>
+ <p><font color="Black"> % BLER: 11%</font></p>
+ <p><font color="Black"> % NACKs: 8.4%</font></p>
+ <p><font color="Black"> % SCCH: 50.6%</font></p>
+ <p><font color="Black"> % QPSK: 25.7%</font></p>
+ <p><font color="Black"> % 16QAM: 73.8%</font></p>
+ <p><font color="Black"> % 64QAM: 0.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.61</font></p>
+ <p><font color="Black"> EcIo AVG: -6.26</font></p>
+ <p><font color="Black"> CellId inicial: 14841</font></p>
+ <p><font color="Black"> CellId final: 14841</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5304916666667,28.1185316666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 5148Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:33:59.584</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:33:59.584</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.3</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 118%</font></p>
+ <p><font color="Black"> % BLER: 19.8%</font></p>
+ <p><font color="Black"> % NACKs: 17.9%</font></p>
+ <p><font color="Black"> % SCCH: 45.1%</font></p>
+ <p><font color="Black"> % QPSK: 34.8%</font></p>
+ <p><font color="Black"> % 16QAM: 64.4%</font></p>
+ <p><font color="Black"> % 64QAM: 0.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.71</font></p>
+ <p><font color="Black"> EcIo AVG: -7.23</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5253966666667,28.1174866666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 5960Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:37:48.109</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:37:48.109</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 17.8</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 100%</font></p>
+ <p><font color="Black"> % BLER: 6%</font></p>
+ <p><font color="Black"> % NACKs: 5.3%</font></p>
+ <p><font color="Black"> % SCCH: 71.6%</font></p>
+ <p><font color="Black"> % QPSK: 97.7%</font></p>
+ <p><font color="Black"> % 16QAM: 2.3%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.66</font></p>
+ <p><font color="Black"> EcIo AVG: -9.1</font></p>
+ <p><font color="Black"> CellId inicial: 6447</font></p>
+ <p><font color="Black"> CellId final: 6447</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.522025,28.120195</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 9655Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:43:00.146</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:43:00.146</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.2</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 113%</font></p>
+ <p><font color="Black"> % BLER: 16.2%</font></p>
+ <p><font color="Black"> % NACKs: 17%</font></p>
+ <p><font color="Black"> % SCCH: 52.3%</font></p>
+ <p><font color="Black"> % QPSK: 27.3%</font></p>
+ <p><font color="Black"> % 16QAM: 59.3%</font></p>
+ <p><font color="Black"> % 64QAM: 13.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.29</font></p>
+ <p><font color="Black"> EcIo AVG: -8.17</font></p>
+ <p><font color="Black"> CellId inicial: 14841</font></p>
+ <p><font color="Black"> CellId final: 14841</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.525415,28.1184033333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 5569Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:46:53.960</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:46:53.960</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.4</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 109%</font></p>
+ <p><font color="Black"> % BLER: 9.5%</font></p>
+ <p><font color="Black"> % NACKs: 9%</font></p>
+ <p><font color="Black"> % SCCH: 60.5%</font></p>
+ <p><font color="Black"> % QPSK: 72.4%</font></p>
+ <p><font color="Black"> % 16QAM: 27.6%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -90.45</font></p>
+ <p><font color="Black"> EcIo AVG: -8.19</font></p>
+ <p><font color="Black"> CellId inicial: 14841</font></p>
+ <p><font color="Black"> CellId final: 14841</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5265216666667,28.1180366666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 13706Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:51:52.169</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:51:52.169</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27</font></p>
+ <p><font color="Black"> HARQ: 4</font></p>
+ <p><font color="Black"> DTX DSCH: 140%</font></p>
+ <p><font color="Black"> % BLER: 11.9%</font></p>
+ <p><font color="Black"> % NACKs: 8.2%</font></p>
+ <p><font color="Black"> % SCCH: 37.9%</font></p>
+ <p><font color="Black"> % QPSK: 6.5%</font></p>
+ <p><font color="Black"> % 16QAM: 50%</font></p>
+ <p><font color="Black"> % 64QAM: 43.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -76.39</font></p>
+ <p><font color="Black"> EcIo AVG: -5.44</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5228583333333,28.1192616666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 8339Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:55:42.924</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:55:42.924</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.1</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 119%</font></p>
+ <p><font color="Black"> % BLER: 13.1%</font></p>
+ <p><font color="Black"> % NACKs: 12.3%</font></p>
+ <p><font color="Black"> % SCCH: 47.7%</font></p>
+ <p><font color="Black"> % QPSK: 43.8%</font></p>
+ <p><font color="Black"> % 16QAM: 56.2%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -95.27</font></p>
+ <p><font color="Black"> EcIo AVG: -6.73</font></p>
+ <p><font color="Black"> CellId inicial: 4340</font></p>
+ <p><font color="Black"> CellId final: 4340</font></p>
+ <p><font color="Black"> SC inicial: 256</font></p>
+ <p><font color="Black"> SC final: 256</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5211316666667,28.11892</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 5865Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:00:56.340</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:00:56.340</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 18</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 94%</font></p>
+ <p><font color="Black"> % BLER: 20%</font></p>
+ <p><font color="Black"> % NACKs: 23.9%</font></p>
+ <p><font color="Black"> % SCCH: 63.7%</font></p>
+ <p><font color="Black"> % QPSK: 79%</font></p>
+ <p><font color="Black"> % 16QAM: 20.7%</font></p>
+ <p><font color="Black"> % 64QAM: 0.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -87.1</font></p>
+ <p><font color="Black"> EcIo AVG: -8.11</font></p>
+ <p><font color="Black"> CellId inicial: 4342</font></p>
+ <p><font color="Black"> CellId final: 4342</font></p>
+ <p><font color="Black"> SC inicial: 258</font></p>
+ <p><font color="Black"> SC final: 258</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5179516666667,28.1196066666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 6269Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:04:58.803</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:04:58.803</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 28</font></p>
+ <p><font color="Black"> HARQ: 4</font></p>
+ <p><font color="Black"> DTX DSCH: 70%</font></p>
+ <p><font color="Black"> % BLER: 13.6%</font></p>
+ <p><font color="Black"> % NACKs: 4.1%</font></p>
+ <p><font color="Black"> % SCCH: 29.3%</font></p>
+ <p><font color="Black"> % QPSK: 1.7%</font></p>
+ <p><font color="Black"> % 16QAM: 20.1%</font></p>
+ <p><font color="Black"> % 64QAM: 78.1%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -55.61</font></p>
+ <p><font color="Black"> EcIo AVG: -6.28</font></p>
+ <p><font color="Black"> CellId inicial: 12308</font></p>
+ <p><font color="Black"> CellId final: 12308</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5229533333333,28.1207966666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 11474Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:10:26.133</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:10:26.133</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.4</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 130%</font></p>
+ <p><font color="Black"> % BLER: 9.8%</font></p>
+ <p><font color="Black"> % NACKs: 6.7%</font></p>
+ <p><font color="Black"> % SCCH: 44%</font></p>
+ <p><font color="Black"> % QPSK: 16.1%</font></p>
+ <p><font color="Black"> % 16QAM: 73.2%</font></p>
+ <p><font color="Black"> % 64QAM: 10.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.14</font></p>
+ <p><font color="Black"> EcIo AVG: -5.92</font></p>
+ <p><font color="Black"> CellId inicial: 6447</font></p>
+ <p><font color="Black"> CellId final: 6447</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5253033333333,28.1188916666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 12439Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:14:13.304</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:14:13.304</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.1</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 133%</font></p>
+ <p><font color="Black"> % BLER: 7.3%</font></p>
+ <p><font color="Black"> % NACKs: 3.4%</font></p>
+ <p><font color="Black"> % SCCH: 41.4%</font></p>
+ <p><font color="Black"> % QPSK: 25.7%</font></p>
+ <p><font color="Black"> % 16QAM: 40.6%</font></p>
+ <p><font color="Black"> % 64QAM: 33.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -81.1</font></p>
+ <p><font color="Black"> EcIo AVG: -7.36</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.525285,28.1189366666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 11525Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:19:14.854</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:19:14.854</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 137%</font></p>
+ <p><font color="Black"> % BLER: 8.9%</font></p>
+ <p><font color="Black"> % NACKs: 3.4%</font></p>
+ <p><font color="Black"> % SCCH: 40.8%</font></p>
+ <p><font color="Black"> % QPSK: 9%</font></p>
+ <p><font color="Black"> % 16QAM: 58%</font></p>
+ <p><font color="Black"> % 64QAM: 33%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.2</font></p>
+ <p><font color="Black"> EcIo AVG: -6.55</font></p>
+ <p><font color="Black"> CellId inicial: 4339</font></p>
+ <p><font color="Black"> CellId final: 4339</font></p>
+ <p><font color="Black"> SC inicial: 467</font></p>
+ <p><font color="Black"> SC final: 467</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5253066666667,28.1192</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 14766Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:23:05.146</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:23:05.146</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 145%</font></p>
+ <p><font color="Black"> % BLER: 3.5%</font></p>
+ <p><font color="Black"> % NACKs: 1.6%</font></p>
+ <p><font color="Black"> % SCCH: 33.2%</font></p>
+ <p><font color="Black"> % QPSK: 9.5%</font></p>
+ <p><font color="Black"> % 16QAM: 28.2%</font></p>
+ <p><font color="Black"> % 64QAM: 62.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.39</font></p>
+ <p><font color="Black"> EcIo AVG: -6.11</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.523045,28.11896</coordinates>
+</Point>
+</Placemark>
+<name>358672057235339</name>
+</Folder>
+</Folder>
+<Folder>
+<name>Network Capability</name>
+<Folder>
+<name>358672057235339</name>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 12392Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:01:03.109</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:01:03.109</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.8</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 38%</font></p>
+ <p><font color="Black"> % BLER: 19.2%</font></p>
+ <p><font color="Black"> % NACKs: 30.9%</font></p>
+ <p><font color="Black"> % SCCH: 89.8%</font></p>
+ <p><font color="Black"> % QPSK: 5.7%</font></p>
+ <p><font color="Black"> % 16QAM: 85.7%</font></p>
+ <p><font color="Black"> % 64QAM: 8.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.88</font></p>
+ <p><font color="Black"> EcIo AVG: -7.72</font></p>
+ <p><font color="Black"> CellId inicial: 20200</font></p>
+ <p><font color="Black"> CellId final: 20200</font></p>
+ <p><font color="Black"> SC inicial: 464</font></p>
+ <p><font color="Black"> SC final: 464</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5170483333333,28.1213166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 15319Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:11:38.508</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:11:38.508</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.8</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 45%</font></p>
+ <p><font color="Black"> % BLER: 17.9%</font></p>
+ <p><font color="Black"> % NACKs: 28%</font></p>
+ <p><font color="Black"> % SCCH: 79%</font></p>
+ <p><font color="Black"> % QPSK: 0.5%</font></p>
+ <p><font color="Black"> % 16QAM: 38.7%</font></p>
+ <p><font color="Black"> % 64QAM: 60.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -61.53</font></p>
+ <p><font color="Black"> EcIo AVG: -8.02</font></p>
+ <p><font color="Black"> CellId inicial: 5873</font></p>
+ <p><font color="Black"> CellId final: 5873</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.523025,28.12081</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 9051Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:16:59.578</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:16:59.578</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.7</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 45%</font></p>
+ <p><font color="Black"> % BLER: 17.2%</font></p>
+ <p><font color="Black"> % NACKs: 27.5%</font></p>
+ <p><font color="Black"> % SCCH: 80.7%</font></p>
+ <p><font color="Black"> % QPSK: 22.3%</font></p>
+ <p><font color="Black"> % 16QAM: 75.4%</font></p>
+ <p><font color="Black"> % 64QAM: 2.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.09</font></p>
+ <p><font color="Black"> EcIo AVG: -7.03</font></p>
+ <p><font color="Black"> CellId inicial: 14841</font></p>
+ <p><font color="Black"> CellId final: 14841</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5278616666667,28.11993</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4949Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:21:08.984</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:21:08.984</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 16.9</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 33%</font></p>
+ <p><font color="Black"> % BLER: 1.7%</font></p>
+ <p><font color="Black"> % NACKs: 2.4%</font></p>
+ <p><font color="Black"> % SCCH: 90.3%</font></p>
+ <p><font color="Black"> % QPSK: 99.4%</font></p>
+ <p><font color="Black"> % 16QAM: 0.5%</font></p>
+ <p><font color="Black"> % 64QAM: 0.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.74</font></p>
+ <p><font color="Black"> EcIo AVG: -9.18</font></p>
+ <p><font color="Black"> CellId inicial: 4338</font></p>
+ <p><font color="Black"> CellId final: 4338</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5283816666667,28.1182516666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 8100Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:26:22.405</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:26:22.405</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.4</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 79%</font></p>
+ <p><font color="Black"> % BLER: 19%</font></p>
+ <p><font color="Black"> % NACKs: 22.9%</font></p>
+ <p><font color="Black"> % SCCH: 61.5%</font></p>
+ <p><font color="Black"> % QPSK: 17.8%</font></p>
+ <p><font color="Black"> % 16QAM: 78.5%</font></p>
+ <p><font color="Black"> % 64QAM: 3.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -88.55</font></p>
+ <p><font color="Black"> EcIo AVG: -8.86</font></p>
+ <p><font color="Black"> CellId inicial: 4338</font></p>
+ <p><font color="Black"> CellId final: 4338</font></p>
+ <p><font color="Black"> SC inicial: 467</font></p>
+ <p><font color="Black"> SC final: 467</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5347316666667,28.1191316666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 6856Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:30:21.954</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:30:21.954</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.4</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 34%</font></p>
+ <p><font color="Black"> % BLER: 13.1%</font></p>
+ <p><font color="Black"> % NACKs: 21.9%</font></p>
+ <p><font color="Black"> % SCCH: 85.1%</font></p>
+ <p><font color="Black"> % QPSK: 57.3%</font></p>
+ <p><font color="Black"> % 16QAM: 42.7%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -88.39</font></p>
+ <p><font color="Black"> EcIo AVG: -7.77</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5264533333333,28.1182016666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 9393Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:35:28.047</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:35:28.047</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.1</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 47%</font></p>
+ <p><font color="Black"> % BLER: 9.5%</font></p>
+ <p><font color="Black"> % NACKs: 15.1%</font></p>
+ <p><font color="Black"> % SCCH: 89.6%</font></p>
+ <p><font color="Black"> % QPSK: 43.7%</font></p>
+ <p><font color="Black"> % 16QAM: 45.8%</font></p>
+ <p><font color="Black"> % 64QAM: 10.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.66</font></p>
+ <p><font color="Black"> EcIo AVG: -8.4</font></p>
+ <p><font color="Black"> CellId inicial: 14841</font></p>
+ <p><font color="Black"> CellId final: 14841</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5242166666667,28.1182233333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 6191Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:39:23.988</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:39:23.988</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 17.3</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 30%</font></p>
+ <p><font color="Black"> % BLER: 8.5%</font></p>
+ <p><font color="Black"> % NACKs: 14.7%</font></p>
+ <p><font color="Black"> % SCCH: 95.5%</font></p>
+ <p><font color="Black"> % QPSK: 98%</font></p>
+ <p><font color="Black"> % 16QAM: 2%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.54</font></p>
+ <p><font color="Black"> EcIo AVG: -9.68</font></p>
+ <p><font color="Black"> CellId inicial: 6447</font></p>
+ <p><font color="Black"> CellId final: 6447</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.522025,28.120195</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 8518Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:44:30.309</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:44:30.309</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.6</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 47%</font></p>
+ <p><font color="Black"> % BLER: 12.5%</font></p>
+ <p><font color="Black"> % NACKs: 19%</font></p>
+ <p><font color="Black"> % SCCH: 84.7%</font></p>
+ <p><font color="Black"> % QPSK: 44.8%</font></p>
+ <p><font color="Black"> % 16QAM: 54.3%</font></p>
+ <p><font color="Black"> % 64QAM: 0.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -72.53</font></p>
+ <p><font color="Black"> EcIo AVG: -6.55</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5296233333333,28.1192966666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 7129Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:48:20.362</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:48:20.362</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.2</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 60%</font></p>
+ <p><font color="Black"> % BLER: 20.8%</font></p>
+ <p><font color="Black"> % NACKs: 28.8%</font></p>
+ <p><font color="Black"> % SCCH: 77.6%</font></p>
+ <p><font color="Black"> % QPSK: 42.4%</font></p>
+ <p><font color="Black"> % 16QAM: 54.9%</font></p>
+ <p><font color="Black"> % 64QAM: 2.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -81.35</font></p>
+ <p><font color="Black"> EcIo AVG: -7.69</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5257683333333,28.1181816666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 8689Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:53:24.308</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:53:24.308</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.7</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 41%</font></p>
+ <p><font color="Black"> % BLER: 10.7%</font></p>
+ <p><font color="Black"> % NACKs: 17.7%</font></p>
+ <p><font color="Black"> % SCCH: 85.4%</font></p>
+ <p><font color="Black"> % QPSK: 39.3%</font></p>
+ <p><font color="Black"> % 16QAM: 60.7%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -94.41</font></p>
+ <p><font color="Black"> EcIo AVG: -7.32</font></p>
+ <p><font color="Black"> CellId inicial: 4340</font></p>
+ <p><font color="Black"> CellId final: 4340</font></p>
+ <p><font color="Black"> SC inicial: 256</font></p>
+ <p><font color="Black"> SC final: 256</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5211316666667,28.11892</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 7439Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:57:22.245</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:57:22.245</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 18.9</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 44%</font></p>
+ <p><font color="Black"> % BLER: 11.7%</font></p>
+ <p><font color="Black"> % NACKs: 18.5%</font></p>
+ <p><font color="Black"> % SCCH: 83.9%</font></p>
+ <p><font color="Black"> % QPSK: 65.8%</font></p>
+ <p><font color="Black"> % 16QAM: 34.2%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -95.05</font></p>
+ <p><font color="Black"> EcIo AVG: -8.23</font></p>
+ <p><font color="Black"> CellId inicial: 4340</font></p>
+ <p><font color="Black"> CellId final: 4340</font></p>
+ <p><font color="Black"> SC inicial: 256</font></p>
+ <p><font color="Black"> SC final: 256</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5211316666667,28.11892</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 6836Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:02:30.275</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:02:30.275</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.6</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 17%</font></p>
+ <p><font color="Black"> % BLER: 15%</font></p>
+ <p><font color="Black"> % NACKs: 12.7%</font></p>
+ <p><font color="Black"> % SCCH: 72.6%</font></p>
+ <p><font color="Black"> % QPSK: 2.4%</font></p>
+ <p><font color="Black"> % 16QAM: 86.6%</font></p>
+ <p><font color="Black"> % 64QAM: 11.1%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -72.2</font></p>
+ <p><font color="Black"> EcIo AVG: -8.76</font></p>
+ <p><font color="Black"> CellId inicial: 15266</font></p>
+ <p><font color="Black"> CellId final: 15266</font></p>
+ <p><font color="Black"> SC inicial: 258</font></p>
+ <p><font color="Black"> SC final: 258</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5198316666667,28.1192233333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 9913Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:06:47.814</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:06:47.814</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.4</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 34%</font></p>
+ <p><font color="Black"> % BLER: 14.2%</font></p>
+ <p><font color="Black"> % NACKs: 24%</font></p>
+ <p><font color="Black"> % SCCH: 87.1%</font></p>
+ <p><font color="Black"> % QPSK: 13.7%</font></p>
+ <p><font color="Black"> % 16QAM: 84%</font></p>
+ <p><font color="Black"> % 64QAM: 2.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.44</font></p>
+ <p><font color="Black"> EcIo AVG: -7.31</font></p>
+ <p><font color="Black"> CellId inicial: 6448</font></p>
+ <p><font color="Black"> CellId final: 6448</font></p>
+ <p><font color="Black"> SC inicial: 467</font></p>
+ <p><font color="Black"> SC final: 467</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5256316666667,28.122435</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 7810Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:11:52.690</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:11:52.690</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.4</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 42%</font></p>
+ <p><font color="Black"> % BLER: 20%</font></p>
+ <p><font color="Black"> % NACKs: 32%</font></p>
+ <p><font color="Black"> % SCCH: 91%</font></p>
+ <p><font color="Black"> % QPSK: 37.2%</font></p>
+ <p><font color="Black"> % 16QAM: 60.1%</font></p>
+ <p><font color="Black"> % 64QAM: 2.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.36</font></p>
+ <p><font color="Black"> EcIo AVG: -7.42</font></p>
+ <p><font color="Black"> CellId inicial: 6448</font></p>
+ <p><font color="Black"> CellId final: 6448</font></p>
+ <p><font color="Black"> SC inicial: 467</font></p>
+ <p><font color="Black"> SC final: 467</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.52475,28.119235</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 11539Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:15:41.977</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:15:41.977</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.6</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 47%</font></p>
+ <p><font color="Black"> % BLER: 17.4%</font></p>
+ <p><font color="Black"> % NACKs: 27.6%</font></p>
+ <p><font color="Black"> % SCCH: 85.7%</font></p>
+ <p><font color="Black"> % QPSK: 8.6%</font></p>
+ <p><font color="Black"> % 16QAM: 68.7%</font></p>
+ <p><font color="Black"> % 64QAM: 22.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -80.4</font></p>
+ <p><font color="Black"> EcIo AVG: -7.48</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.525275,28.1191566666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 14620Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:20:50.414</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:20:50.414</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.6</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 53%</font></p>
+ <p><font color="Black"> % BLER: 7.8%</font></p>
+ <p><font color="Black"> % NACKs: 11.8%</font></p>
+ <p><font color="Black"> % SCCH: 81.1%</font></p>
+ <p><font color="Black"> % QPSK: 7.5%</font></p>
+ <p><font color="Black"> % 16QAM: 53%</font></p>
+ <p><font color="Black"> % 64QAM: 39.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.37</font></p>
+ <p><font color="Black"> EcIo AVG: -8.38</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5236466666667,28.1190933333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 15420Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:24:34.689</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:24:34.689</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.5</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 39%</font></p>
+ <p><font color="Black"> % BLER: 12.8%</font></p>
+ <p><font color="Black"> % NACKs: 21.3%</font></p>
+ <p><font color="Black"> % SCCH: 81.8%</font></p>
+ <p><font color="Black"> % QPSK: 3.6%</font></p>
+ <p><font color="Black"> % 16QAM: 62.5%</font></p>
+ <p><font color="Black"> % 64QAM: 33.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -70.62</font></p>
+ <p><font color="Black"> EcIo AVG: -8.36</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.522385,28.12021</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 5542Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:33:13.216</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:33:13.216</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.4</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 65%</font></p>
+ <p><font color="Black"> % BLER: 25.3%</font></p>
+ <p><font color="Black"> % NACKs: 34.1%</font></p>
+ <p><font color="Black"> % SCCH: 76.9%</font></p>
+ <p><font color="Black"> % QPSK: 39%</font></p>
+ <p><font color="Black"> % 16QAM: 59.4%</font></p>
+ <p><font color="Black"> % 64QAM: 1.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -72.05</font></p>
+ <p><font color="Black"> EcIo AVG: -7.88</font></p>
+ <p><font color="Black"> CellId inicial: 20200</font></p>
+ <p><font color="Black"> CellId final: 20200</font></p>
+ <p><font color="Black"> SC inicial: 464</font></p>
+ <p><font color="Black"> SC final: 464</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5157466666667,28.1212716666667</coordinates>
+</Point>
+</Placemark>
+<name>358672057235339</name>
+</Folder>
+</Folder>
+<ScreenOverlay>
+<name>Absolute Positioning: Top Left</name>
+<Icon>
+<href>Leyenda_FTP_DL_2x2.jpg</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="0.86" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>

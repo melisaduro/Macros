@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="IconoBlockCall">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoDropCall">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <heading>45</heading>
+  <Icon>
+     http://maps.google.com/mapfiles/kml/shapes/arrow.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoEndCall">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <heading>45</heading>
+  <Icon>
+     http://maps.google.com/mapfiles/kml/shapes/arrow.png
+  </Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>7618</name>
+<styleUrl>#IconoBlockCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MTC</font></p>
+ <p><font color="Black"> Cause: </font><font color="Red"><i>Failed, No Progress after DCCH assignment </i></font></p>
+ <p><font color="Black">Failed Call</font></p>
+ <p><font color="Black"> Date: 05/04/2017 14:53:01</font></p>
+ <hr>
+ <h3> A Side </h3>
+ <p><font color="Black"> End PCI: 341</font></p>
+ <p><font color="Black"> End EARFCN: 1849</font></p>
+ <p><font color="Black"> End RSRP: -92.81</font></p>
+ <p><font color="Black"> End RSRQ: -8.26</font></p>
+ <p><font color="Black"> Worst RSRP: 0</font></p>
+ <p><font color="Black"> Worst RSRQ: 0</font></p>
+ <hr>
+ <h3> B Side </h3>
+ <p><font color="Black"> End PCI: 341</font></p>
+ <p><font color="Black"> End EARFCN: </font></p>
+ <p><font color="Black"> End RSRP: 0</font></p>
+ <p><font color="Black"> End RSRQ: -8.72</font></p>
+ <hr>
+ <p><font color="Black"> CSFB: No  </font></p>
+ <p><font color="Black"> End Call Technology A: LTE 1800</font></p>
+ <p><font color="Black"> End Call Technology B: LTE 1800</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3155,28.4820</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>6134</name>
+<styleUrl>#IconoBlockCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MTC</font></p>
+ <p><font color="Black"> Cause: </font><font color="Red"><i>Failed, No Progress after DCCH assignment </i></font></p>
+ <p><font color="Black">Failed Call</font></p>
+ <p><font color="Black"> Date: 05/04/2017 19:34:53</font></p>
+ <hr>
+ <h3> A Side </h3>
+ <p><font color="Black"> End PCI: 435</font></p>
+ <p><font color="Black"> End EARFCN: 1849</font></p>
+ <p><font color="Black"> End RSRP: -108.41</font></p>
+ <p><font color="Black"> End RSRQ: -14.6</font></p>
+ <p><font color="Black"> Worst RSRP: 0</font></p>
+ <p><font color="Black"> Worst RSRQ: 0</font></p>
+ <hr>
+ <h3> B Side </h3>
+ <p><font color="Black"> End PCI: 435</font></p>
+ <p><font color="Black"> End EARFCN: 1849</font></p>
+ <p><font color="Black"> End RSRP: -113.4</font></p>
+ <p><font color="Black"> End RSRQ: -16.78</font></p>
+ <hr>
+ <p><font color="Black"> CSFB: Yes </font></p>
+ <p><font color="Black"> CSFB Device Side: B</font></p>
+ <p><font color="Black"> End Call Technology A: LTE 1800</font></p>
+ <p><font color="Black"> End Call Technology B: LTE 1800</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3087,28.4761</coordinates>
+</Point>
+</Placemark>
+<ScreenOverlay>
+<name>Absolute Positioning: Top Left</name>
+<Icon>
+<href>Leyenda_Llamadas.jpg</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="0.86" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>

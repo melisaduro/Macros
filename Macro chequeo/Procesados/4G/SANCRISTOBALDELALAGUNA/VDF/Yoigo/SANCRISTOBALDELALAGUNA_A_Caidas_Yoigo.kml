@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="IconoBlockCall">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoDropCall">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <heading>45</heading>
+  <Icon>
+     http://maps.google.com/mapfiles/kml/shapes/arrow.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoEndCall">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <heading>45</heading>
+  <Icon>
+     http://maps.google.com/mapfiles/kml/shapes/arrow.png
+  </Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>8920</name>
+<styleUrl>#IconoDropCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Cause: Dropped, Disconnect received (Recovery on timer expiry-Protocol error-public network serving the local user)</font></p>
+ <p><font color="Black">Dropped Call</font></p>
+ <p><font color="Black"> Date: 05/04/2017 15:41:20</font></p>
+ <hr>
+ <h3> A Side </h3>
+ <p><font color="Black"> End PSC: 484</font></p>
+ <p><font color="Black"> End UARFCN: </font></p>
+ <p><font color="Black"> End RSCP: -50.84</font></p>
+ <p><font color="Black"> End EcIo: -4.14</font></p>
+ <p><font color="Black"> Worst RSCP: -200</font></p>
+ <p><font color="Black"> Worst EcIo: -99</font></p>
+ <hr>
+ <h3> B Side </h3>
+ <p><font color="Black"> End PSC: 484</font></p>
+ <p><font color="Black"> End UARFCN: 10838</font></p>
+ <p><font color="Black"> End RSCP: -59.33</font></p>
+ <p><font color="Black"> End EcIo: -4.64</font></p>
+ <hr>
+ <p><font color="Black"> CSFB: Yes </font></p>
+ <p><font color="Black"> CSFB Device Side: A</font></p>
+ <p><font color="Black"> End Call Technology A: UMTS 2100</font></p>
+ <p><font color="Black"> End Call Technology B: UMTS 2100</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3165,28.4853</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>8946</name>
+<styleUrl>#IconoDropCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> Cause: Dropped, RRCConnectionRelease received, High BLER</font></p>
+ <p><font color="Black">Dropped Call</font></p>
+ <p><font color="Black"> Date: 05/04/2017 16:06:15</font></p>
+ <hr>
+ <h3> A Side </h3>
+ <p><font color="Black"> End PSC: 110</font></p>
+ <p><font color="Black"> End UARFCN: </font></p>
+ <p><font color="Black"> End RSCP: -87.91</font></p>
+ <p><font color="Black"> End EcIo: -8.51</font></p>
+ <p><font color="Black"> Worst RSCP: -200</font></p>
+ <p><font color="Black"> Worst EcIo: -99</font></p>
+ <hr>
+ <h3> B Side </h3>
+ <p><font color="Black"> End PCI: 231</font></p>
+ <p><font color="Black"> End EARFCN: 1691</font></p>
+ <p><font color="Black"> End RSRP: -99.38</font></p>
+ <p><font color="Black"> End RSRQ: -10.84</font></p>
+ <hr>
+ <p><font color="Black"> CSFB: Yes </font></p>
+ <p><font color="Black"> CSFB Device Side: AB</font></p>
+ <p><font color="Black"> End Call Technology A: UMTS 2100</font></p>
+ <p><font color="Black"> End Call Technology B: LTE 1800</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3229,28.4885</coordinates>
+</Point>
+</Placemark>
+<ScreenOverlay>
+<name>Absolute Positioning: Top Left</name>
+<Icon>
+<href>Leyenda_Llamadas.jpg</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="0.86" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>

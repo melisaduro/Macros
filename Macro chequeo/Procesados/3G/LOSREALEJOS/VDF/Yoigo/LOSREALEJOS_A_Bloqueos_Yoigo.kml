@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="IconoBlockCall">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoDropCall">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <heading>45</heading>
+  <Icon>
+     http://maps.google.com/mapfiles/kml/shapes/arrow.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoEndCall">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <heading>45</heading>
+  <Icon>
+     http://maps.google.com/mapfiles/kml/shapes/arrow.png
+  </Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>22545</name>
+<styleUrl>#IconoBlockCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MTC</font></p>
+ <p><font color="Black"> Cause: </font><font color="Red"><i>Failed, Called Party not reached , Low Total Ec/Io</i></font></p>
+ <p><font color="Black">Failed Call</font></p>
+ <p><font color="Black"> Date: 06/04/2017 17:25:15</font></p>
+ <hr>
+ <h3> A Side </h3>
+ <p><font color="Black"> End PSC: 221</font></p>
+ <p><font color="Black"> End UARFCN: 3011</font></p>
+ <p><font color="Black"> End RSCP: -83.93</font></p>
+ <p><font color="Black"> End EcIo: -14.53</font></p>
+ <p><font color="Black"> Worst RSCP: 0</font></p>
+ <p><font color="Black"> Worst EcIo: 0</font></p>
+ <hr>
+ <h3> B Side </h3>
+ <p><font color="Black"> End PSC: 221</font></p>
+ <p><font color="Black"> End UARFCN: 3011</font></p>
+ <p><font color="Black"> End RSCP: -79.03</font></p>
+ <p><font color="Black"> End EcIo: -13.63</font></p>
+ <hr>
+ <p><font color="Black"> CSFB: No  </font></p>
+ <p><font color="Black"> End Call Technology A: UMTS 900</font></p>
+ <p><font color="Black"> End Call Technology B: UMTS 900</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5651,28.3800</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>22549</name>
+<styleUrl>#IconoBlockCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MTC</font></p>
+ <p><font color="Black"> Cause: </font><font color="Red"><i>Failed, No Progress after TCH assignment </i></font></p>
+ <p><font color="Black">Failed Call</font></p>
+ <p><font color="Black"> Date: 06/04/2017 17:29:05</font></p>
+ <hr>
+ <h3> A Side </h3>
+ <p><font color="Black"> End PSC: 221</font></p>
+ <p><font color="Black"> End UARFCN: 10838</font></p>
+ <p><font color="Black"> End RSCP: -90.79</font></p>
+ <p><font color="Black"> End EcIo: -12.49</font></p>
+ <p><font color="Black"> Worst RSCP: 0</font></p>
+ <p><font color="Black"> Worst EcIo: 0</font></p>
+ <hr>
+ <h3> B Side </h3>
+ <p><font color="Black"> End PSC: 221</font></p>
+ <p><font color="Black"> End UARFCN: 10588</font></p>
+ <p><font color="Black"> End RSCP: -92.77</font></p>
+ <p><font color="Black"> End EcIo: -11.17</font></p>
+ <hr>
+ <p><font color="Black"> CSFB: No  </font></p>
+ <p><font color="Black"> End Call Technology A: UMTS 2100</font></p>
+ <p><font color="Black"> End Call Technology B: UMTS 2100</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5822,28.3732</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>22579</name>
+<styleUrl>#IconoBlockCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MOC</font></p>
+ <p><font color="Black"> Cause: </font><font color="Red"><i>Failed, Disconnect sent by Calling Party (Normal call clearing), High BLER, Low Total Ec/Io</i></font></p>
+ <p><font color="Black">Failed Call</font></p>
+ <p><font color="Black"> Date: 06/04/2017 17:57:45</font></p>
+ <hr>
+ <h3> A Side </h3>
+ <p><font color="Black"> End PSC: 224</font></p>
+ <p><font color="Black"> End UARFCN: 10838</font></p>
+ <p><font color="Black"> End RSCP: -100.12</font></p>
+ <p><font color="Black"> End EcIo: -8.42</font></p>
+ <p><font color="Black"> Worst RSCP: 0</font></p>
+ <p><font color="Black"> Worst EcIo: 0</font></p>
+ <hr>
+ <h3> B Side </h3>
+ <p><font color="Black"> End PSC: 221</font></p>
+ <p><font color="Black"> End UARFCN: 3011</font></p>
+ <p><font color="Black"> End RSCP: -85.03</font></p>
+ <p><font color="Black"> End EcIo: -14.23</font></p>
+ <hr>
+ <p><font color="Black"> CSFB: No  </font></p>
+ <p><font color="Black"> End Call Technology A: UMTS 2100</font></p>
+ <p><font color="Black"> End Call Technology B: UMTS 900</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5697,28.3778</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>22613</name>
+<styleUrl>#IconoBlockCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MTC</font></p>
+ <p><font color="Black"> Cause: </font><font color="Red"><i>LCC CST timeout, original status: Completed</i></font></p>
+ <p><font color="Black">Failed Call</font></p>
+ <p><font color="Black"> Date: 06/04/2017 18:31:44</font></p>
+ <hr>
+ <h3> A Side </h3>
+ <p><font color="Black"> End PSC: 232</font></p>
+ <p><font color="Black"> End UARFCN: 10813</font></p>
+ <p><font color="Black"> End RSCP: -89.35</font></p>
+ <p><font color="Black"> End EcIo: -13.05</font></p>
+ <p><font color="Black"> Worst RSCP: 0</font></p>
+ <p><font color="Black"> Worst EcIo: 0</font></p>
+ <hr>
+ <h3> B Side </h3>
+ <p><font color="Black"> End PSC: 256</font></p>
+ <p><font color="Black"> End UARFCN: 10813</font></p>
+ <p><font color="Black"> End RSCP: -78.03</font></p>
+ <p><font color="Black"> End EcIo: -15.43</font></p>
+ <hr>
+ <p><font color="Black"> CSFB: No  </font></p>
+ <p><font color="Black"> End Call Technology A: UMTS 2100</font></p>
+ <p><font color="Black"> End Call Technology B: UMTS 900</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.6015,28.3820</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>22615</name>
+<styleUrl>#IconoBlockCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MOC</font></p>
+ <p><font color="Black"> Cause: </font><font color="Red"><i>Failed, Disconnect received by Calling Party (Normal, unspecified), High BLER, Low Total Ec/Io</i></font></p>
+ <p><font color="Black">Failed Call</font></p>
+ <p><font color="Black"> Date: 06/04/2017 18:32:09</font></p>
+ <hr>
+ <h3> A Side </h3>
+ <p><font color="Black"> End PSC: 232</font></p>
+ <p><font color="Black"> End UARFCN: 10838</font></p>
+ <p><font color="Black"> End RSCP: -86.62</font></p>
+ <p><font color="Black"> End EcIo: -11.52</font></p>
+ <p><font color="Black"> Worst RSCP: 0</font></p>
+ <p><font color="Black"> Worst EcIo: 0</font></p>
+ <hr>
+ <h3> B Side </h3>
+ <p><font color="Black"> End PSC: 232</font></p>
+ <p><font color="Black"> End UARFCN: 10813</font></p>
+ <p><font color="Black"> End RSCP: -91.18</font></p>
+ <p><font color="Black"> End EcIo: -13.38</font></p>
+ <hr>
+ <p><font color="Black"> CSFB: No  </font></p>
+ <p><font color="Black"> End Call Technology A: UMTS 2100</font></p>
+ <p><font color="Black"> End Call Technology B: UMTS 2100</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.6030,28.3837</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>22619</name>
+<styleUrl>#IconoBlockCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MOC</font></p>
+ <p><font color="Black"> Cause: </font><font color="Red"><i>Failed, No Setup -> RA Updating </i></font></p>
+ <p><font color="Black">Failed Call</font></p>
+ <p><font color="Black"> Date: 06/04/2017 18:36:00</font></p>
+ <hr>
+ <h3> A Side </h3>
+ <p><font color="Black"> End PSC: 482</font></p>
+ <p><font color="Black"> End UARFCN: </font></p>
+ <p><font color="Black"> End RSCP: -70.09</font></p>
+ <p><font color="Black"> End EcIo: -5.39</font></p>
+ <p><font color="Black"> Worst RSCP: 0</font></p>
+ <p><font color="Black"> Worst EcIo: 0</font></p>
+ <hr>
+ <h3> B Side </h3>
+ <p><font color="Black"> End PSC: 482</font></p>
+ <p><font color="Black"> End UARFCN: 2959</font></p>
+ <p><font color="Black"> End RSCP: -75.22</font></p>
+ <p><font color="Black"> End EcIo: -3.82</font></p>
+ <hr>
+ <p><font color="Black"> CSFB: No  </font></p>
+ <p><font color="Black"> End Call Technology A: UMTS 900</font></p>
+ <p><font color="Black"> End Call Technology B: UMTS 900</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.6090,28.3853</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>22631</name>
+<styleUrl>#IconoBlockCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MOC</font></p>
+ <p><font color="Black"> Cause: </font><font color="Red"><i>Failed, Disconnect received by Calling Party (Normal, unspecified)</i></font></p>
+ <p><font color="Black">Failed Call</font></p>
+ <p><font color="Black"> Date: 06/04/2017 18:47:29</font></p>
+ <hr>
+ <h3> A Side </h3>
+ <p><font color="Black"> End PSC: 207</font></p>
+ <p><font color="Black"> End UARFCN: 10588</font></p>
+ <p><font color="Black"> End RSCP: -101.64</font></p>
+ <p><font color="Black"> End EcIo: -6.84</font></p>
+ <p><font color="Black"> Worst RSCP: 0</font></p>
+ <p><font color="Black"> Worst EcIo: 0</font></p>
+ <hr>
+ <h3> B Side </h3>
+ <p><font color="Black"> End PSC: 207</font></p>
+ <p><font color="Black"> End UARFCN: </font></p>
+ <p><font color="Black"> End RSCP: -105.29</font></p>
+ <p><font color="Black"> End EcIo: -6.79</font></p>
+ <hr>
+ <p><font color="Black"> CSFB: No  </font></p>
+ <p><font color="Black"> End Call Technology A: UMTS 2100</font></p>
+ <p><font color="Black"> End Call Technology B: UMTS 2100</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5854,28.3776</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>22661</name>
+<styleUrl>#IconoBlockCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MTC</font></p>
+ <p><font color="Black"> Cause: </font><font color="Red"><i>Failed, No Setup -> Location Updating </i></font></p>
+ <p><font color="Black">Failed Call</font></p>
+ <p><font color="Black"> Date: 06/04/2017 19:16:24</font></p>
+ <hr>
+ <h3> A Side </h3>
+ <p><font color="Black"> End PSC: 215</font></p>
+ <p><font color="Black"> End UARFCN: 10813</font></p>
+ <p><font color="Black"> End RSCP: -98.21</font></p>
+ <p><font color="Black"> End EcIo: -6.71</font></p>
+ <p><font color="Black"> Worst RSCP: 0</font></p>
+ <p><font color="Black"> Worst EcIo: 0</font></p>
+ <hr>
+ <h3> B Side </h3>
+ <p><font color="Black"> End PSC: 232</font></p>
+ <p><font color="Black"> End UARFCN: 10838</font></p>
+ <p><font color="Black"> End RSCP: -80.33</font></p>
+ <p><font color="Black"> End EcIo: -5.83</font></p>
+ <hr>
+ <p><font color="Black"> CSFB: No  </font></p>
+ <p><font color="Black"> End Call Technology A: UMTS 2100</font></p>
+ <p><font color="Black"> End Call Technology B: UMTS 2100</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5978,28.3850</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>22677</name>
+<styleUrl>#IconoBlockCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MTC</font></p>
+ <p><font color="Black"> Cause: </font><font color="Red"><i>Failed, Disconnect received by Called Party after Alerting  (Normal call clearing), Low Total Ec/Io</i></font></p>
+ <p><font color="Black">Failed Call</font></p>
+ <p><font color="Black"> Date: 06/04/2017 19:31:44</font></p>
+ <hr>
+ <h3> A Side </h3>
+ <p><font color="Black"> End PSC: 160</font></p>
+ <p><font color="Black"> End UARFCN: 10588</font></p>
+ <p><font color="Black"> End RSCP: -106.76</font></p>
+ <p><font color="Black"> End EcIo: -11.96</font></p>
+ <p><font color="Black"> Worst RSCP: 0</font></p>
+ <p><font color="Black"> Worst EcIo: 0</font></p>
+ <hr>
+ <h3> B Side </h3>
+ <p><font color="Black"> End PSC: 224</font></p>
+ <p><font color="Black"> End UARFCN: 10838</font></p>
+ <p><font color="Black"> End RSCP: -112.65</font></p>
+ <p><font color="Black"> End EcIo: -14.35</font></p>
+ <hr>
+ <p><font color="Black"> CSFB: No  </font></p>
+ <p><font color="Black"> End Call Technology A: UMTS 2100</font></p>
+ <p><font color="Black"> End Call Technology B: UMTS 2100</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5677,28.3773</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>22681</name>
+<styleUrl>#IconoBlockCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MTC</font></p>
+ <p><font color="Black"> Cause: </font><font color="Red"><i>LCC CST timeout, original status: Completed</i></font></p>
+ <p><font color="Black">Failed Call</font></p>
+ <p><font color="Black"> Date: 06/04/2017 19:36:52</font></p>
+ <hr>
+ <h3> A Side </h3>
+ <p><font color="Black"> End PSC: 47</font></p>
+ <p><font color="Black"> End UARFCN: 10813</font></p>
+ <p><font color="Black"> End RSCP: -90.77</font></p>
+ <p><font color="Black"> End EcIo: -6.27</font></p>
+ <p><font color="Black"> Worst RSCP: 0</font></p>
+ <p><font color="Black"> Worst EcIo: 0</font></p>
+ <hr>
+ <h3> B Side </h3>
+ <p><font color="Black"> End LAC: 3801</font></p>
+ <p><font color="Black"> End Cell: 17072</font></p>
+ <p><font color="Black"> End RxLev: 0</font></p>
+ <p><font color="Black"> End RxQual: 0</font></p>
+ <hr>
+ <p><font color="Black"> CSFB: No  </font></p>
+ <p><font color="Black"> End Call Technology A: UMTS 2100</font></p>
+ <p><font color="Black"> End Call Technology B: GSM 900</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5633,28.3783</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>22683</name>
+<styleUrl>#IconoBlockCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MOC</font></p>
+ <p><font color="Black"> Cause: </font><font color="Red"><i>LCC CST timeout, original status: Completed</i></font></p>
+ <p><font color="Black">Failed Call</font></p>
+ <p><font color="Black"> Date: 06/04/2017 19:38:50</font></p>
+ <hr>
+ <h3> A Side </h3>
+ <p><font color="Black"> End PSC: 160</font></p>
+ <p><font color="Black"> End UARFCN: 10813</font></p>
+ <p><font color="Black"> End RSCP: -95.4</font></p>
+ <p><font color="Black"> End EcIo: -10.1</font></p>
+ <p><font color="Black"> Worst RSCP: 0</font></p>
+ <p><font color="Black"> Worst EcIo: 0</font></p>
+ <hr>
+ <h3> B Side </h3>
+ <p><font color="Black"> End PSC: 221</font></p>
+ <p><font color="Black"> End UARFCN: </font></p>
+ <p><font color="Black"> End RSCP: -89.59</font></p>
+ <p><font color="Black"> End EcIo: -14.39</font></p>
+ <hr>
+ <p><font color="Black"> CSFB: No  </font></p>
+ <p><font color="Black"> End Call Technology A: UMTS 2100</font></p>
+ <p><font color="Black"> End Call Technology B: UMTS 900</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5689,28.3846</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>22685</name>
+<styleUrl>#IconoBlockCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MTC</font></p>
+ <p><font color="Black"> Cause: </font><font color="Red"><i>Failed, Disconnect received by Called Party  (Normal call clearing), Low Total Ec/Io</i></font></p>
+ <p><font color="Black">Failed Call</font></p>
+ <p><font color="Black"> Date: 06/04/2017 19:39:25</font></p>
+ <hr>
+ <h3> A Side </h3>
+ <p><font color="Black"> End PSC: 160</font></p>
+ <p><font color="Black"> End UARFCN: 10813</font></p>
+ <p><font color="Black"> End RSCP: -106.14</font></p>
+ <p><font color="Black"> End EcIo: -15.34</font></p>
+ <p><font color="Black"> Worst RSCP: 0</font></p>
+ <p><font color="Black"> Worst EcIo: 0</font></p>
+ <hr>
+ <h3> B Side </h3>
+ <p><font color="Black"> End PSC: 221</font></p>
+ <p><font color="Black"> End UARFCN: 3011</font></p>
+ <p><font color="Black"> End RSCP: -87.25</font></p>
+ <p><font color="Black"> End EcIo: -14.45</font></p>
+ <hr>
+ <p><font color="Black"> CSFB: No  </font></p>
+ <p><font color="Black"> End Call Technology A: UMTS 2100</font></p>
+ <p><font color="Black"> End Call Technology B: UMTS 900</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5744,28.3849</coordinates>
+</Point>
+</Placemark>
+<ScreenOverlay>
+<name>Absolute Positioning: Top Left</name>
+<Icon>
+<href>Leyenda_Llamadas.jpg</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="0.86" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>

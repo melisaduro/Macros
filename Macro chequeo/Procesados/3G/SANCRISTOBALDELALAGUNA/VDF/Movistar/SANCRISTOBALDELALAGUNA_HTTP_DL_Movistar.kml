@@ -1,0 +1,4135 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="IconoAwful">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBad">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBad">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSo">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGood">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGood">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoAwfulM">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBadM">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBadM">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSoM">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGoodM">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGoodM">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Folder>
+<name>Customer Experience</name>
+<Folder>
+<name>358672057638417</name>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 9588Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 16:55:16.375</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 16:55:16.375</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.5</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 131%</font></p>
+ <p><font color="Black"> % BLER: 26.6%</font></p>
+ <p><font color="Black"> % NACKs: 17.5%</font></p>
+ <p><font color="Black"> % SCCH: 35.8%</font></p>
+ <p><font color="Black"> % QPSK: 3.6%</font></p>
+ <p><font color="Black"> % 16QAM: 75.8%</font></p>
+ <p><font color="Black"> % 64QAM: 20.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -74.43</font></p>
+ <p><font color="Black"> EcIo AVG: -10.84</font></p>
+ <p><font color="Black"> CellId inicial: 1108</font></p>
+ <p><font color="Black"> CellId final: 1108</font></p>
+ <p><font color="Black"> SC inicial: 36</font></p>
+ <p><font color="Black"> SC final: 36</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 3011</font></p>
+ <p><font color="Black"> UARFCN final: 3011</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3219483333333,28.4884616666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 8127Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 16:59:53.543</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 16:59:53.543</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.6</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 129%</font></p>
+ <p><font color="Black"> % BLER: 26.1%</font></p>
+ <p><font color="Black"> % NACKs: 19.6%</font></p>
+ <p><font color="Black"> % SCCH: 36.6%</font></p>
+ <p><font color="Black"> % QPSK: 10.6%</font></p>
+ <p><font color="Black"> % 16QAM: 83.3%</font></p>
+ <p><font color="Black"> % 64QAM: 6.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -67.96</font></p>
+ <p><font color="Black"> EcIo AVG: -9.19</font></p>
+ <p><font color="Black"> CellId inicial: 26113</font></p>
+ <p><font color="Black"> CellId final: 26113</font></p>
+ <p><font color="Black"> SC inicial: 46</font></p>
+ <p><font color="Black"> SC final: 46</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3202666666667,28.4885866666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 13098Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:05:37.113</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:05:37.113</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.4</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 140%</font></p>
+ <p><font color="Black"> % BLER: 18%</font></p>
+ <p><font color="Black"> % NACKs: 9.9%</font></p>
+ <p><font color="Black"> % SCCH: 25%</font></p>
+ <p><font color="Black"> % QPSK: 3.6%</font></p>
+ <p><font color="Black"> % 16QAM: 38.6%</font></p>
+ <p><font color="Black"> % 64QAM: 57.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -69.55</font></p>
+ <p><font color="Black"> EcIo AVG: -8.58</font></p>
+ <p><font color="Black"> CellId inicial: 26112</font></p>
+ <p><font color="Black"> CellId final: 26112</font></p>
+ <p><font color="Black"> SC inicial: 166</font></p>
+ <p><font color="Black"> SC final: 166</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3198516666667,28.489315</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 14809Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:09:43.756</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:09:43.756</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23</font></p>
+ <p><font color="Black"> HARQ: 7</font></p>
+ <p><font color="Black"> DTX DSCH: 146%</font></p>
+ <p><font color="Black"> % BLER: 14.8%</font></p>
+ <p><font color="Black"> % NACKs: 7.7%</font></p>
+ <p><font color="Black"> % SCCH: 34.6%</font></p>
+ <p><font color="Black"> % QPSK: 3.7%</font></p>
+ <p><font color="Black"> % 16QAM: 50.8%</font></p>
+ <p><font color="Black"> % 64QAM: 45.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -69.33</font></p>
+ <p><font color="Black"> EcIo AVG: -8.92</font></p>
+ <p><font color="Black"> CellId inicial: 26112</font></p>
+ <p><font color="Black"> CellId final: 26112</font></p>
+ <p><font color="Black"> SC inicial: 166</font></p>
+ <p><font color="Black"> SC final: 166</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3198516666667,28.489315</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 12999Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:15:10.845</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:15:10.845</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.3</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 153%</font></p>
+ <p><font color="Black"> % BLER: 14.1%</font></p>
+ <p><font color="Black"> % NACKs: 5.7%</font></p>
+ <p><font color="Black"> % SCCH: 23.3%</font></p>
+ <p><font color="Black"> % QPSK: 5%</font></p>
+ <p><font color="Black"> % 16QAM: 35.9%</font></p>
+ <p><font color="Black"> % 64QAM: 59.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -68.51</font></p>
+ <p><font color="Black"> EcIo AVG: -7.71</font></p>
+ <p><font color="Black"> CellId inicial: 26112</font></p>
+ <p><font color="Black"> CellId final: 26112</font></p>
+ <p><font color="Black"> SC inicial: 166</font></p>
+ <p><font color="Black"> SC final: 166</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3198516666667,28.489315</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 4962Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:19:18.953</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:19:18.953</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 16.9</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 108%</font></p>
+ <p><font color="Black"> % BLER: 20.8%</font></p>
+ <p><font color="Black"> % NACKs: 19.6%</font></p>
+ <p><font color="Black"> % SCCH: 48.5%</font></p>
+ <p><font color="Black"> % QPSK: 71%</font></p>
+ <p><font color="Black"> % 16QAM: 29%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -93.8</font></p>
+ <p><font color="Black"> EcIo AVG: -9.08</font></p>
+ <p><font color="Black"> CellId inicial: 21101</font></p>
+ <p><font color="Black"> CellId final: 21101</font></p>
+ <p><font color="Black"> SC inicial: 28</font></p>
+ <p><font color="Black"> SC final: 28</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.322315,28.4909416666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 8593Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:25:16.852</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:25:16.852</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.9</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 125%</font></p>
+ <p><font color="Black"> % BLER: 29.4%</font></p>
+ <p><font color="Black"> % NACKs: 22.2%</font></p>
+ <p><font color="Black"> % SCCH: 41.4%</font></p>
+ <p><font color="Black"> % QPSK: 10.8%</font></p>
+ <p><font color="Black"> % 16QAM: 86.1%</font></p>
+ <p><font color="Black"> % 64QAM: 3.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.49</font></p>
+ <p><font color="Black"> EcIo AVG: -8.14</font></p>
+ <p><font color="Black"> CellId inicial: 26113</font></p>
+ <p><font color="Black"> CellId final: 26113</font></p>
+ <p><font color="Black"> SC inicial: 110</font></p>
+ <p><font color="Black"> SC final: 110</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3225,28.488815</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 7906Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:29:36.110</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:29:36.110</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.6</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 123%</font></p>
+ <p><font color="Black"> % BLER: 21.7%</font></p>
+ <p><font color="Black"> % NACKs: 16.9%</font></p>
+ <p><font color="Black"> % SCCH: 37.1%</font></p>
+ <p><font color="Black"> % QPSK: 36.6%</font></p>
+ <p><font color="Black"> % 16QAM: 58.6%</font></p>
+ <p><font color="Black"> % 64QAM: 4.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -76.84</font></p>
+ <p><font color="Black"> EcIo AVG: -7.37</font></p>
+ <p><font color="Black"> CellId inicial: 27361</font></p>
+ <p><font color="Black"> CellId final: 27361</font></p>
+ <p><font color="Black"> SC inicial: 110</font></p>
+ <p><font color="Black"> SC final: 110</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3232883333333,28.488155</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 14560Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:35:27.960</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:35:27.960</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.5</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 148%</font></p>
+ <p><font color="Black"> % BLER: 16.7%</font></p>
+ <p><font color="Black"> % NACKs: 9.9%</font></p>
+ <p><font color="Black"> % SCCH: 33.3%</font></p>
+ <p><font color="Black"> % QPSK: 5.9%</font></p>
+ <p><font color="Black"> % 16QAM: 12.9%</font></p>
+ <p><font color="Black"> % 64QAM: 81.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -69.49</font></p>
+ <p><font color="Black"> EcIo AVG: -8.79</font></p>
+ <p><font color="Black"> CellId inicial: 21101</font></p>
+ <p><font color="Black"> CellId final: 21101</font></p>
+ <p><font color="Black"> SC inicial: 28</font></p>
+ <p><font color="Black"> SC final: 28</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3266683333333,28.4897083333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 12032Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:39:39.493</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:39:39.493</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.6</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 136%</font></p>
+ <p><font color="Black"> % BLER: 13%</font></p>
+ <p><font color="Black"> % NACKs: 9.6%</font></p>
+ <p><font color="Black"> % SCCH: 44.6%</font></p>
+ <p><font color="Black"> % QPSK: 6.6%</font></p>
+ <p><font color="Black"> % 16QAM: 83.2%</font></p>
+ <p><font color="Black"> % 64QAM: 10.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.89</font></p>
+ <p><font color="Black"> EcIo AVG: -5.81</font></p>
+ <p><font color="Black"> CellId inicial: 21101</font></p>
+ <p><font color="Black"> CellId final: 21101</font></p>
+ <p><font color="Black"> SC inicial: 28</font></p>
+ <p><font color="Black"> SC final: 28</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3228783333333,28.4889033333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 8026Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:45:13.850</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:45:13.850</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.1</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 148%</font></p>
+ <p><font color="Black"> % BLER: 34.4%</font></p>
+ <p><font color="Black"> % NACKs: 13.7%</font></p>
+ <p><font color="Black"> % SCCH: 29.2%</font></p>
+ <p><font color="Black"> % QPSK: 3.6%</font></p>
+ <p><font color="Black"> % 16QAM: 25.8%</font></p>
+ <p><font color="Black"> % 64QAM: 70.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -69.42</font></p>
+ <p><font color="Black"> EcIo AVG: -9.28</font></p>
+ <p><font color="Black"> CellId inicial: 21107</font></p>
+ <p><font color="Black"> CellId final: 21107</font></p>
+ <p><font color="Black"> SC inicial: 28</font></p>
+ <p><font color="Black"> SC final: 28</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 3032</font></p>
+ <p><font color="Black"> UARFCN final: 3032</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3266116666667,28.4906666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 8146Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:54:56.766</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:54:56.766</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.9</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 133%</font></p>
+ <p><font color="Black"> % BLER: 25.2%</font></p>
+ <p><font color="Black"> % NACKs: 14.7%</font></p>
+ <p><font color="Black"> % SCCH: 29.4%</font></p>
+ <p><font color="Black"> % QPSK: 4.6%</font></p>
+ <p><font color="Black"> % 16QAM: 71.1%</font></p>
+ <p><font color="Black"> % 64QAM: 24.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -67.74</font></p>
+ <p><font color="Black"> EcIo AVG: -11.38</font></p>
+ <p><font color="Black"> CellId inicial: 21108</font></p>
+ <p><font color="Black"> CellId final: 21108</font></p>
+ <p><font color="Black"> SC inicial: 36</font></p>
+ <p><font color="Black"> SC final: 36</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 3032</font></p>
+ <p><font color="Black"> UARFCN final: 3032</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3185216666667,28.4873716666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 7257Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:59:05.249</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:59:05.249</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.8</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 127%</font></p>
+ <p><font color="Black"> % BLER: 26.9%</font></p>
+ <p><font color="Black"> % NACKs: 19.2%</font></p>
+ <p><font color="Black"> % SCCH: 42.4%</font></p>
+ <p><font color="Black"> % QPSK: 4.3%</font></p>
+ <p><font color="Black"> % 16QAM: 70.4%</font></p>
+ <p><font color="Black"> % 64QAM: 25.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -64.02</font></p>
+ <p><font color="Black"> EcIo AVG: -12.45</font></p>
+ <p><font color="Black"> CellId inicial: 21108</font></p>
+ <p><font color="Black"> CellId final: 21108</font></p>
+ <p><font color="Black"> SC inicial: 36</font></p>
+ <p><font color="Black"> SC final: 36</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 3032</font></p>
+ <p><font color="Black"> UARFCN final: 3032</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3221083333333,28.4885266666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 9361Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:09:17.678</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:09:17.678</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.1</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 103%</font></p>
+ <p><font color="Black"> % BLER: 20.1%</font></p>
+ <p><font color="Black"> % NACKs: 24.3%</font></p>
+ <p><font color="Black"> % SCCH: 50.1%</font></p>
+ <p><font color="Black"> % QPSK: 5.8%</font></p>
+ <p><font color="Black"> % 16QAM: 67.9%</font></p>
+ <p><font color="Black"> % 64QAM: 26.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -53.61</font></p>
+ <p><font color="Black"> EcIo AVG: -5.92</font></p>
+ <p><font color="Black"> CellId inicial: 21109</font></p>
+ <p><font color="Black"> CellId final: 21109</font></p>
+ <p><font color="Black"> SC inicial: 44</font></p>
+ <p><font color="Black"> SC final: 44</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 3032</font></p>
+ <p><font color="Black"> UARFCN final: 3032</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.32733,28.4865883333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 6412Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:15:04.875</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:15:04.875</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.6</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 130%</font></p>
+ <p><font color="Black"> % BLER: 21.8%</font></p>
+ <p><font color="Black"> % NACKs: 16.9%</font></p>
+ <p><font color="Black"> % SCCH: 38.6%</font></p>
+ <p><font color="Black"> % QPSK: 25.9%</font></p>
+ <p><font color="Black"> % 16QAM: 62.4%</font></p>
+ <p><font color="Black"> % 64QAM: 11.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -81.26</font></p>
+ <p><font color="Black"> EcIo AVG: -7.25</font></p>
+ <p><font color="Black"> CellId inicial: 16113</font></p>
+ <p><font color="Black"> CellId final: 16113</font></p>
+ <p><font color="Black"> SC inicial: 46</font></p>
+ <p><font color="Black"> SC final: 44</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3252433333333,28.4853716666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 14297Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:19:15.477</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:19:15.477</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.5</font></p>
+ <p><font color="Black"> HARQ: 4</font></p>
+ <p><font color="Black"> DTX DSCH: 155%</font></p>
+ <p><font color="Black"> % BLER: 12.3%</font></p>
+ <p><font color="Black"> % NACKs: 5%</font></p>
+ <p><font color="Black"> % SCCH: 20.8%</font></p>
+ <p><font color="Black"> % QPSK: 7.3%</font></p>
+ <p><font color="Black"> % 16QAM: 29%</font></p>
+ <p><font color="Black"> % 64QAM: 63.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.57</font></p>
+ <p><font color="Black"> EcIo AVG: -5.02</font></p>
+ <p><font color="Black"> CellId inicial: 1103</font></p>
+ <p><font color="Black"> CellId final: 1103</font></p>
+ <p><font color="Black"> SC inicial: 44</font></p>
+ <p><font color="Black"> SC final: 44</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3249833333333,28.4850483333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3348Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:24:58.110</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:24:58.110</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 14.5</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 94%</font></p>
+ <p><font color="Black"> % BLER: 17.6%</font></p>
+ <p><font color="Black"> % NACKs: 20%</font></p>
+ <p><font color="Black"> % SCCH: 50.1%</font></p>
+ <p><font color="Black"> % QPSK: 94.2%</font></p>
+ <p><font color="Black"> % 16QAM: 5.4%</font></p>
+ <p><font color="Black"> % 64QAM: 0.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -95.17</font></p>
+ <p><font color="Black"> EcIo AVG: -9.17</font></p>
+ <p><font color="Black"> CellId inicial: 10662</font></p>
+ <p><font color="Black"> CellId final: 10662</font></p>
+ <p><font color="Black"> SC inicial: 267</font></p>
+ <p><font color="Black"> SC final: 135</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.327505,28.4834816666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 10089Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:29:35.909</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:29:35.909</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.3</font></p>
+ <p><font color="Black"> HARQ: 7</font></p>
+ <p><font color="Black"> DTX DSCH: 152%</font></p>
+ <p><font color="Black"> % BLER: 20.9%</font></p>
+ <p><font color="Black"> % NACKs: 11.3%</font></p>
+ <p><font color="Black"> % SCCH: 22.7%</font></p>
+ <p><font color="Black"> % QPSK: 7.9%</font></p>
+ <p><font color="Black"> % 16QAM: 38.9%</font></p>
+ <p><font color="Black"> % 64QAM: 53.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -75.04</font></p>
+ <p><font color="Black"> EcIo AVG: -6.38</font></p>
+ <p><font color="Black"> CellId inicial: 17362</font></p>
+ <p><font color="Black"> CellId final: 17362</font></p>
+ <p><font color="Black"> SC inicial: 59</font></p>
+ <p><font color="Black"> SC final: 59</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3207966666667,28.4849566666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 13283Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:35:09.151</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:35:09.151</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.3</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 148%</font></p>
+ <p><font color="Black"> % BLER: 9.9%</font></p>
+ <p><font color="Black"> % NACKs: 5.9%</font></p>
+ <p><font color="Black"> % SCCH: 26%</font></p>
+ <p><font color="Black"> % QPSK: 6.5%</font></p>
+ <p><font color="Black"> % 16QAM: 38.5%</font></p>
+ <p><font color="Black"> % 64QAM: 55%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -64.68</font></p>
+ <p><font color="Black"> EcIo AVG: -6.71</font></p>
+ <p><font color="Black"> CellId inicial: 16112</font></p>
+ <p><font color="Black"> CellId final: 16112</font></p>
+ <p><font color="Black"> SC inicial: 166</font></p>
+ <p><font color="Black"> SC final: 166</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3183516666667,28.4884883333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 5041Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:39:16.952</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:39:16.952</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.4</font></p>
+ <p><font color="Black"> HARQ: 4</font></p>
+ <p><font color="Black"> DTX DSCH: 48%</font></p>
+ <p><font color="Black"> % BLER: 18.1%</font></p>
+ <p><font color="Black"> % NACKs: 9.3%</font></p>
+ <p><font color="Black"> % SCCH: 57.1%</font></p>
+ <p><font color="Black"> % QPSK: 9.4%</font></p>
+ <p><font color="Black"> % 16QAM: 84.9%</font></p>
+ <p><font color="Black"> % 64QAM: 5.7%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.01</font></p>
+ <p><font color="Black"> EcIo AVG: -8.26</font></p>
+ <p><font color="Black"> CellId inicial: 35182</font></p>
+ <p><font color="Black"> CellId final: 35182</font></p>
+ <p><font color="Black"> SC inicial: 468</font></p>
+ <p><font color="Black"> SC final: 468</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10788</font></p>
+ <p><font color="Black"> UARFCN final: 10788</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3219733333333,28.4861233333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 15568Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:45:30.129</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:45:30.129</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 28.7</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 152%</font></p>
+ <p><font color="Black"> % BLER: 12.2%</font></p>
+ <p><font color="Black"> % NACKs: 6.9%</font></p>
+ <p><font color="Black"> % SCCH: 20%</font></p>
+ <p><font color="Black"> % QPSK: 5.4%</font></p>
+ <p><font color="Black"> % 16QAM: 11.1%</font></p>
+ <p><font color="Black"> % 64QAM: 83.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -55.88</font></p>
+ <p><font color="Black"> EcIo AVG: -5.57</font></p>
+ <p><font color="Black"> CellId inicial: 22561</font></p>
+ <p><font color="Black"> CellId final: 22561</font></p>
+ <p><font color="Black"> SC inicial: 509</font></p>
+ <p><font color="Black"> SC final: 509</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3177466666667,28.4822166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 11159Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:49:41.544</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:49:41.544</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.7</font></p>
+ <p><font color="Black"> HARQ: 7</font></p>
+ <p><font color="Black"> DTX DSCH: 141%</font></p>
+ <p><font color="Black"> % BLER: 11.1%</font></p>
+ <p><font color="Black"> % NACKs: 7.3%</font></p>
+ <p><font color="Black"> % SCCH: 30%</font></p>
+ <p><font color="Black"> % QPSK: 6.6%</font></p>
+ <p><font color="Black"> % 16QAM: 76.5%</font></p>
+ <p><font color="Black"> % 64QAM: 16.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.74</font></p>
+ <p><font color="Black"> EcIo AVG: -8.33</font></p>
+ <p><font color="Black"> CellId inicial: 41853</font></p>
+ <p><font color="Black"> CellId final: 41853</font></p>
+ <p><font color="Black"> SC inicial: 137</font></p>
+ <p><font color="Black"> SC final: 137</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3167066666667,28.4807066666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 6749Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:56:32.500</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:56:32.500</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 18</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 116%</font></p>
+ <p><font color="Black"> % BLER: 14.6%</font></p>
+ <p><font color="Black"> % NACKs: 10.3%</font></p>
+ <p><font color="Black"> % SCCH: 51.5%</font></p>
+ <p><font color="Black"> % QPSK: 77.2%</font></p>
+ <p><font color="Black"> % 16QAM: 22.8%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.29</font></p>
+ <p><font color="Black"> EcIo AVG: -11.75</font></p>
+ <p><font color="Black"> CellId inicial: 12561</font></p>
+ <p><font color="Black"> CellId final: 12561</font></p>
+ <p><font color="Black"> SC inicial: 509</font></p>
+ <p><font color="Black"> SC final: 509</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3183316666667,28.4784233333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 7984Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:07:03.611</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:07:03.611</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.3</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 138%</font></p>
+ <p><font color="Black"> % BLER: 25%</font></p>
+ <p><font color="Black"> % NACKs: 15.1%</font></p>
+ <p><font color="Black"> % SCCH: 37%</font></p>
+ <p><font color="Black"> % QPSK: 4.1%</font></p>
+ <p><font color="Black"> % 16QAM: 42.5%</font></p>
+ <p><font color="Black"> % 64QAM: 53.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -60.8</font></p>
+ <p><font color="Black"> EcIo AVG: -7.16</font></p>
+ <p><font color="Black"> CellId inicial: 12561</font></p>
+ <p><font color="Black"> CellId final: 12561</font></p>
+ <p><font color="Black"> SC inicial: 509</font></p>
+ <p><font color="Black"> SC final: 509</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.316965,28.4843716666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 8774Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:11:10.977</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:11:10.977</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.3</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 121%</font></p>
+ <p><font color="Black"> % BLER: 18.8%</font></p>
+ <p><font color="Black"> % NACKs: 13.5%</font></p>
+ <p><font color="Black"> % SCCH: 34.3%</font></p>
+ <p><font color="Black"> % QPSK: 7.9%</font></p>
+ <p><font color="Black"> % 16QAM: 86.1%</font></p>
+ <p><font color="Black"> % 64QAM: 6.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -70.71</font></p>
+ <p><font color="Black"> EcIo AVG: -7.87</font></p>
+ <p><font color="Black"> CellId inicial: 12562</font></p>
+ <p><font color="Black"> CellId final: 12562</font></p>
+ <p><font color="Black"> SC inicial: 337</font></p>
+ <p><font color="Black"> SC final: 337</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3155133333333,28.4831566666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 11714Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:16:58.932</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:16:58.932</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 28.4</font></p>
+ <p><font color="Black"> HARQ: 7</font></p>
+ <p><font color="Black"> DTX DSCH: 156%</font></p>
+ <p><font color="Black"> % BLER: 15.2%</font></p>
+ <p><font color="Black"> % NACKs: 9%</font></p>
+ <p><font color="Black"> % SCCH: 24.2%</font></p>
+ <p><font color="Black"> % QPSK: 5%</font></p>
+ <p><font color="Black"> % 16QAM: 18.2%</font></p>
+ <p><font color="Black"> % 64QAM: 76.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -59.23</font></p>
+ <p><font color="Black"> EcIo AVG: -7.12</font></p>
+ <p><font color="Black"> CellId inicial: 10511</font></p>
+ <p><font color="Black"> CellId final: 10511</font></p>
+ <p><font color="Black"> SC inicial: 45</font></p>
+ <p><font color="Black"> SC final: 45</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3135966666667,28.4882783333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 6360Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:21:12.423</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:21:12.423</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 17.5</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 112%</font></p>
+ <p><font color="Black"> % BLER: 21%</font></p>
+ <p><font color="Black"> % NACKs: 19.8%</font></p>
+ <p><font color="Black"> % SCCH: 42.9%</font></p>
+ <p><font color="Black"> % QPSK: 65.6%</font></p>
+ <p><font color="Black"> % 16QAM: 34.3%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -100.11</font></p>
+ <p><font color="Black"> EcIo AVG: -9.46</font></p>
+ <p><font color="Black"> CellId inicial: 15922</font></p>
+ <p><font color="Black"> CellId final: 15922</font></p>
+ <p><font color="Black"> SC inicial: 156</font></p>
+ <p><font color="Black"> SC final: 156</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.32196,28.4920233333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 11847Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:27:12.785</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:27:12.785</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 152%</font></p>
+ <p><font color="Black"> % BLER: 6.5%</font></p>
+ <p><font color="Black"> % NACKs: 3.5%</font></p>
+ <p><font color="Black"> % SCCH: 24%</font></p>
+ <p><font color="Black"> % QPSK: 4.3%</font></p>
+ <p><font color="Black"> % 16QAM: 58.8%</font></p>
+ <p><font color="Black"> % 64QAM: 36.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -81.44</font></p>
+ <p><font color="Black"> EcIo AVG: -9.15</font></p>
+ <p><font color="Black"> CellId inicial: 13953</font></p>
+ <p><font color="Black"> CellId final: 13953</font></p>
+ <p><font color="Black"> SC inicial: 500</font></p>
+ <p><font color="Black"> SC final: 500</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3250083333333,28.4933816666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 8538Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:31:20.066</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:31:20.066</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.2</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 134%</font></p>
+ <p><font color="Black"> % BLER: 12.7%</font></p>
+ <p><font color="Black"> % NACKs: 8.7%</font></p>
+ <p><font color="Black"> % SCCH: 33.1%</font></p>
+ <p><font color="Black"> % QPSK: 12.7%</font></p>
+ <p><font color="Black"> % 16QAM: 82.2%</font></p>
+ <p><font color="Black"> % 64QAM: 5.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -97.2</font></p>
+ <p><font color="Black"> EcIo AVG: -10.19</font></p>
+ <p><font color="Black"> CellId inicial: 13953</font></p>
+ <p><font color="Black"> CellId final: 13953</font></p>
+ <p><font color="Black"> SC inicial: 500</font></p>
+ <p><font color="Black"> SC final: 500</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3225533333333,28.4924016666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 10558Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:37:23.438</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:37:23.438</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.5</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 132%</font></p>
+ <p><font color="Black"> % BLER: 25.2%</font></p>
+ <p><font color="Black"> % NACKs: 19.4%</font></p>
+ <p><font color="Black"> % SCCH: 46.2%</font></p>
+ <p><font color="Black"> % QPSK: 5.2%</font></p>
+ <p><font color="Black"> % 16QAM: 62.8%</font></p>
+ <p><font color="Black"> % 64QAM: 31.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.3</font></p>
+ <p><font color="Black"> EcIo AVG: -7.03</font></p>
+ <p><font color="Black"> CellId inicial: 16113</font></p>
+ <p><font color="Black"> CellId final: 16113</font></p>
+ <p><font color="Black"> SC inicial: 46</font></p>
+ <p><font color="Black"> SC final: 46</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.32127,28.490015</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1579Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:42:05.229</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:42:05.229</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.6</font></p>
+ <p><font color="Black"> HARQ: 4</font></p>
+ <p><font color="Black"> DTX DSCH: 58%</font></p>
+ <p><font color="Black"> % BLER: 11.9%</font></p>
+ <p><font color="Black"> % NACKs: 5%</font></p>
+ <p><font color="Black"> % SCCH: 38.8%</font></p>
+ <p><font color="Black"> % QPSK: 62.1%</font></p>
+ <p><font color="Black"> % 16QAM: 33.3%</font></p>
+ <p><font color="Black"> % 64QAM: 4.6%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -71.78</font></p>
+ <p><font color="Black"> EcIo AVG: -6.06</font></p>
+ <p><font color="Black"> CellId inicial: 55182</font></p>
+ <p><font color="Black"> CellId final: 55182</font></p>
+ <p><font color="Black"> SC inicial: 8</font></p>
+ <p><font color="Black"> SC final: 8</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3170883333333,28.48696</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 10667Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:47:44.530</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:47:44.530</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.8</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 157%</font></p>
+ <p><font color="Black"> % BLER: 15.2%</font></p>
+ <p><font color="Black"> % NACKs: 9%</font></p>
+ <p><font color="Black"> % SCCH: 22.2%</font></p>
+ <p><font color="Black"> % QPSK: 6.7%</font></p>
+ <p><font color="Black"> % 16QAM: 36.5%</font></p>
+ <p><font color="Black"> % 64QAM: 56.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -62.72</font></p>
+ <p><font color="Black"> EcIo AVG: -6.04</font></p>
+ <p><font color="Black"> CellId inicial: 16062</font></p>
+ <p><font color="Black"> CellId final: 16062</font></p>
+ <p><font color="Black"> SC inicial: 348</font></p>
+ <p><font color="Black"> SC final: 348</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.31143,28.4831416666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 10880Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:53:01.677</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:53:01.677</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.6</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 152%</font></p>
+ <p><font color="Black"> % BLER: 12.5%</font></p>
+ <p><font color="Black"> % NACKs: 6.5%</font></p>
+ <p><font color="Black"> % SCCH: 22.2%</font></p>
+ <p><font color="Black"> % QPSK: 7.7%</font></p>
+ <p><font color="Black"> % 16QAM: 52.4%</font></p>
+ <p><font color="Black"> % 64QAM: 39.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -80.39</font></p>
+ <p><font color="Black"> EcIo AVG: -7.22</font></p>
+ <p><font color="Black"> CellId inicial: 16061</font></p>
+ <p><font color="Black"> CellId final: 16061</font></p>
+ <p><font color="Black"> SC inicial: 340</font></p>
+ <p><font color="Black"> SC final: 340</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3065433333333,28.482995</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 6106Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:58:49.856</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:58:49.856</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 104%</font></p>
+ <p><font color="Black"> % BLER: 25.7%</font></p>
+ <p><font color="Black"> % NACKs: 25%</font></p>
+ <p><font color="Black"> % SCCH: 63.7%</font></p>
+ <p><font color="Black"> % QPSK: 34.7%</font></p>
+ <p><font color="Black"> % 16QAM: 60.8%</font></p>
+ <p><font color="Black"> % 64QAM: 4.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -81.77</font></p>
+ <p><font color="Black"> EcIo AVG: -9.12</font></p>
+ <p><font color="Black"> CellId inicial: 12562</font></p>
+ <p><font color="Black"> CellId final: 12562</font></p>
+ <p><font color="Black"> SC inicial: 337</font></p>
+ <p><font color="Black"> SC final: 213</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3100883333333,28.4808883333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 6463Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 20:03:02.937</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 20:03:02.937</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.6</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 118%</font></p>
+ <p><font color="Black"> % BLER: 31.1%</font></p>
+ <p><font color="Black"> % NACKs: 24.4%</font></p>
+ <p><font color="Black"> % SCCH: 45.2%</font></p>
+ <p><font color="Black"> % QPSK: 7.8%</font></p>
+ <p><font color="Black"> % 16QAM: 64.6%</font></p>
+ <p><font color="Black"> % 64QAM: 27.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -82.36</font></p>
+ <p><font color="Black"> EcIo AVG: -11.54</font></p>
+ <p><font color="Black"> CellId inicial: 61851</font></p>
+ <p><font color="Black"> CellId final: 61851</font></p>
+ <p><font color="Black"> SC inicial: 213</font></p>
+ <p><font color="Black"> SC final: 213</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.31116,28.4803366666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 7864Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 20:09:15.106</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 20:09:15.106</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.9</font></p>
+ <p><font color="Black"> HARQ: 4</font></p>
+ <p><font color="Black"> DTX DSCH: 53%</font></p>
+ <p><font color="Black"> % BLER: 17%</font></p>
+ <p><font color="Black"> % NACKs: 8.3%</font></p>
+ <p><font color="Black"> % SCCH: 49%</font></p>
+ <p><font color="Black"> % QPSK: 3.3%</font></p>
+ <p><font color="Black"> % 16QAM: 52.9%</font></p>
+ <p><font color="Black"> % 64QAM: 43.8%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -80.65</font></p>
+ <p><font color="Black"> EcIo AVG: -7.1</font></p>
+ <p><font color="Black"> CellId inicial: 1053</font></p>
+ <p><font color="Black"> CellId final: 1053</font></p>
+ <p><font color="Black"> SC inicial: 140</font></p>
+ <p><font color="Black"> SC final: 140</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3094016666667,28.4754533333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 868Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 20:13:44.569</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 20:13:44.569</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 18.6</font></p>
+ <p><font color="Black"> HARQ: 3</font></p>
+ <p><font color="Black"> DTX DSCH: 171%</font></p>
+ <p><font color="Black"> % BLER: 22.3%</font></p>
+ <p><font color="Black"> % NACKs: 6.1%</font></p>
+ <p><font color="Black"> % SCCH: 10.1%</font></p>
+ <p><font color="Black"> % QPSK: 29.8%</font></p>
+ <p><font color="Black"> % 16QAM: 68.1%</font></p>
+ <p><font color="Black"> % 64QAM: 2.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.5</font></p>
+ <p><font color="Black"> EcIo AVG: -7.61</font></p>
+ <p><font color="Black"> CellId inicial: 12562</font></p>
+ <p><font color="Black"> CellId final: 10512</font></p>
+ <p><font color="Black"> SC inicial: 12</font></p>
+ <p><font color="Black"> SC final: 337</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3087833333333,28.4802916666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 4178Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 20:19:21.402</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 20:19:21.402</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 16.1</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 120%</font></p>
+ <p><font color="Black"> % BLER: 32.4%</font></p>
+ <p><font color="Black"> % NACKs: 24.2%</font></p>
+ <p><font color="Black"> % SCCH: 44.6%</font></p>
+ <p><font color="Black"> % QPSK: 25.3%</font></p>
+ <p><font color="Black"> % 16QAM: 71.5%</font></p>
+ <p><font color="Black"> % 64QAM: 3.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.08</font></p>
+ <p><font color="Black"> EcIo AVG: -9.62</font></p>
+ <p><font color="Black"> CellId inicial: 12562</font></p>
+ <p><font color="Black"> CellId final: 12562</font></p>
+ <p><font color="Black"> SC inicial: 337</font></p>
+ <p><font color="Black"> SC final: 213</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3088966666667,28.4792066666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 4475Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 20:23:24.757</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 20:23:24.757</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 18.5</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 84%</font></p>
+ <p><font color="Black"> % BLER: 24.5%</font></p>
+ <p><font color="Black"> % NACKs: 29.5%</font></p>
+ <p><font color="Black"> % SCCH: 53.2%</font></p>
+ <p><font color="Black"> % QPSK: 38.9%</font></p>
+ <p><font color="Black"> % 16QAM: 55.2%</font></p>
+ <p><font color="Black"> % 64QAM: 5.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -82.22</font></p>
+ <p><font color="Black"> EcIo AVG: -8.41</font></p>
+ <p><font color="Black"> CellId inicial: 12562</font></p>
+ <p><font color="Black"> CellId final: 12562</font></p>
+ <p><font color="Black"> SC inicial: 337</font></p>
+ <p><font color="Black"> SC final: 213</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3101933333333,28.4806866666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 13930Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 20:28:37.258</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 20:28:37.258</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.3</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 144%</font></p>
+ <p><font color="Black"> % BLER: 18.2%</font></p>
+ <p><font color="Black"> % NACKs: 10.2%</font></p>
+ <p><font color="Black"> % SCCH: 23.4%</font></p>
+ <p><font color="Black"> % QPSK: 5.6%</font></p>
+ <p><font color="Black"> % 16QAM: 22.5%</font></p>
+ <p><font color="Black"> % 64QAM: 71.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -70.51</font></p>
+ <p><font color="Black"> EcIo AVG: -7.15</font></p>
+ <p><font color="Black"> CellId inicial: 10511</font></p>
+ <p><font color="Black"> CellId final: 10511</font></p>
+ <p><font color="Black"> SC inicial: 45</font></p>
+ <p><font color="Black"> SC final: 45</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3137333333333,28.487785</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 9659Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 20:32:35.990</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 20:32:35.990</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.5</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 129%</font></p>
+ <p><font color="Black"> % BLER: 26.9%</font></p>
+ <p><font color="Black"> % NACKs: 17.1%</font></p>
+ <p><font color="Black"> % SCCH: 33.2%</font></p>
+ <p><font color="Black"> % QPSK: 6.3%</font></p>
+ <p><font color="Black"> % 16QAM: 56.4%</font></p>
+ <p><font color="Black"> % 64QAM: 37.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.65</font></p>
+ <p><font color="Black"> EcIo AVG: -8.23</font></p>
+ <p><font color="Black"> CellId inicial: 55181</font></p>
+ <p><font color="Black"> CellId final: 55181</font></p>
+ <p><font color="Black"> SC inicial: 460</font></p>
+ <p><font color="Black"> SC final: 460</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3194283333333,28.4912333333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 9025Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 21:12:07.045</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 21:12:07.045</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.9</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 120%</font></p>
+ <p><font color="Black"> % BLER: 24%</font></p>
+ <p><font color="Black"> % NACKs: 20.2%</font></p>
+ <p><font color="Black"> % SCCH: 41.2%</font></p>
+ <p><font color="Black"> % QPSK: 16.4%</font></p>
+ <p><font color="Black"> % 16QAM: 80.3%</font></p>
+ <p><font color="Black"> % 64QAM: 3.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.44</font></p>
+ <p><font color="Black"> EcIo AVG: -7.4</font></p>
+ <p><font color="Black"> CellId inicial: 16111</font></p>
+ <p><font color="Black"> CellId final: 16111</font></p>
+ <p><font color="Black"> SC inicial: 268</font></p>
+ <p><font color="Black"> SC final: 268</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.316535,28.4944733333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 11282Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 21:33:03.275</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 21:33:03.275</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.9</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 138%</font></p>
+ <p><font color="Black"> % BLER: 24.2%</font></p>
+ <p><font color="Black"> % NACKs: 13%</font></p>
+ <p><font color="Black"> % SCCH: 28.8%</font></p>
+ <p><font color="Black"> % QPSK: 4.2%</font></p>
+ <p><font color="Black"> % 16QAM: 71.9%</font></p>
+ <p><font color="Black"> % 64QAM: 23.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -73.1</font></p>
+ <p><font color="Black"> EcIo AVG: -7.86</font></p>
+ <p><font color="Black"> CellId inicial: 10512</font></p>
+ <p><font color="Black"> CellId final: 10512</font></p>
+ <p><font color="Black"> SC inicial: 12</font></p>
+ <p><font color="Black"> SC final: 12</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3129266666667,28.4871133333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 8162Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 21:36:45.717</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 21:36:45.717</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 112%</font></p>
+ <p><font color="Black"> % BLER: 26.5%</font></p>
+ <p><font color="Black"> % NACKs: 20.8%</font></p>
+ <p><font color="Black"> % SCCH: 42.1%</font></p>
+ <p><font color="Black"> % QPSK: 21.7%</font></p>
+ <p><font color="Black"> % 16QAM: 74.2%</font></p>
+ <p><font color="Black"> % 64QAM: 4.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.6</font></p>
+ <p><font color="Black"> EcIo AVG: -7.84</font></p>
+ <p><font color="Black"> CellId inicial: 55181</font></p>
+ <p><font color="Black"> CellId final: 55181</font></p>
+ <p><font color="Black"> SC inicial: 460</font></p>
+ <p><font color="Black"> SC final: 460</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3156383333333,28.4927816666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 12870Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 23:04:13.624</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 23:04:13.624</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.1</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 135%</font></p>
+ <p><font color="Black"> % BLER: 20.9%</font></p>
+ <p><font color="Black"> % NACKs: 12.9%</font></p>
+ <p><font color="Black"> % SCCH: 25%</font></p>
+ <p><font color="Black"> % QPSK: 5.7%</font></p>
+ <p><font color="Black"> % 16QAM: 46.3%</font></p>
+ <p><font color="Black"> % 64QAM: 48%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -69.27</font></p>
+ <p><font color="Black"> EcIo AVG: -5.52</font></p>
+ <p><font color="Black"> CellId inicial: 22561</font></p>
+ <p><font color="Black"> CellId final: 22561</font></p>
+ <p><font color="Black"> SC inicial: 509</font></p>
+ <p><font color="Black"> SC final: 509</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.31849,28.48053</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2685Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 10:45:20.994</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 10:45:20.994</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 14.1</font></p>
+ <p><font color="Black"> HARQ: 4</font></p>
+ <p><font color="Black"> DTX DSCH: 33%</font></p>
+ <p><font color="Black"> % BLER: 21.5%</font></p>
+ <p><font color="Black"> % NACKs: 14.4%</font></p>
+ <p><font color="Black"> % SCCH: 59.3%</font></p>
+ <p><font color="Black"> % QPSK: 67.2%</font></p>
+ <p><font color="Black"> % 16QAM: 32.8%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.91</font></p>
+ <p><font color="Black"> EcIo AVG: -9.49</font></p>
+ <p><font color="Black"> CellId inicial: 41851</font></p>
+ <p><font color="Black"> CellId final: 41851</font></p>
+ <p><font color="Black"> SC inicial: 196</font></p>
+ <p><font color="Black"> SC final: 124</font></p>
+ <p><font color="Black"> LAC inicial: 3803</font></p>
+ <p><font color="Black"> LAC final: 3803</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3061316666667,28.4778883333333</coordinates>
+</Point>
+</Placemark>
+<name>358672057638417</name>
+</Folder>
+</Folder>
+<Folder>
+<name>Network Capability</name>
+<Folder>
+<name>358672057638417</name>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 12057Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 16:57:20.240</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 16:57:20.240</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.5</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 103%</font></p>
+ <p><font color="Black"> % BLER: 9.5%</font></p>
+ <p><font color="Black"> % NACKs: 10%</font></p>
+ <p><font color="Black"> % SCCH: 47.6%</font></p>
+ <p><font color="Black"> % QPSK: 1.6%</font></p>
+ <p><font color="Black"> % 16QAM: 58.6%</font></p>
+ <p><font color="Black"> % 64QAM: 39.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.46</font></p>
+ <p><font color="Black"> EcIo AVG: -7.78</font></p>
+ <p><font color="Black"> CellId inicial: 27361</font></p>
+ <p><font color="Black"> CellId final: 27361</font></p>
+ <p><font color="Black"> SC inicial: 110</font></p>
+ <p><font color="Black"> SC final: 110</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3219483333333,28.4884616666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 6143Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:01:37.646</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:01:37.646</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.1</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 103%</font></p>
+ <p><font color="Black"> % BLER: 27.3%</font></p>
+ <p><font color="Black"> % NACKs: 25.4%</font></p>
+ <p><font color="Black"> % SCCH: 44.3%</font></p>
+ <p><font color="Black"> % QPSK: 7.5%</font></p>
+ <p><font color="Black"> % 16QAM: 67.4%</font></p>
+ <p><font color="Black"> % 64QAM: 25.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -68.79</font></p>
+ <p><font color="Black"> EcIo AVG: -8.35</font></p>
+ <p><font color="Black"> CellId inicial: 45182</font></p>
+ <p><font color="Black"> CellId final: 45182</font></p>
+ <p><font color="Black"> SC inicial: 468</font></p>
+ <p><font color="Black"> SC final: 166</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3174483333333,28.48798</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 18649Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:07:18.309</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:07:18.309</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.7</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 59%</font></p>
+ <p><font color="Black"> % BLER: 11.4%</font></p>
+ <p><font color="Black"> % NACKs: 16.2%</font></p>
+ <p><font color="Black"> % SCCH: 68.6%</font></p>
+ <p><font color="Black"> % QPSK: 1.1%</font></p>
+ <p><font color="Black"> % 16QAM: 13.6%</font></p>
+ <p><font color="Black"> % 64QAM: 85.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -68.47</font></p>
+ <p><font color="Black"> EcIo AVG: -9.85</font></p>
+ <p><font color="Black"> CellId inicial: 26112</font></p>
+ <p><font color="Black"> CellId final: 26112</font></p>
+ <p><font color="Black"> SC inicial: 166</font></p>
+ <p><font color="Black"> SC final: 166</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3198516666667,28.489315</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 16480Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:11:20.098</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:11:20.098</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.5</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 58%</font></p>
+ <p><font color="Black"> % BLER: 14.9%</font></p>
+ <p><font color="Black"> % NACKs: 20.6%</font></p>
+ <p><font color="Black"> % SCCH: 68.1%</font></p>
+ <p><font color="Black"> % QPSK: 0.6%</font></p>
+ <p><font color="Black"> % 16QAM: 42.6%</font></p>
+ <p><font color="Black"> % 64QAM: 56.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -68.41</font></p>
+ <p><font color="Black"> EcIo AVG: -10.28</font></p>
+ <p><font color="Black"> CellId inicial: 26112</font></p>
+ <p><font color="Black"> CellId final: 26112</font></p>
+ <p><font color="Black"> SC inicial: 166</font></p>
+ <p><font color="Black"> SC final: 166</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3198516666667,28.489315</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 11893Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:16:48.612</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:16:48.612</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 57%</font></p>
+ <p><font color="Black"> % BLER: 25.4%</font></p>
+ <p><font color="Black"> % NACKs: 36.4%</font></p>
+ <p><font color="Black"> % SCCH: 79.2%</font></p>
+ <p><font color="Black"> % QPSK: 1.5%</font></p>
+ <p><font color="Black"> % 16QAM: 55.8%</font></p>
+ <p><font color="Black"> % 64QAM: 42.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.87</font></p>
+ <p><font color="Black"> EcIo AVG: -9.46</font></p>
+ <p><font color="Black"> CellId inicial: 26113</font></p>
+ <p><font color="Black"> CellId final: 26113</font></p>
+ <p><font color="Black"> SC inicial: 46</font></p>
+ <p><font color="Black"> SC final: 46</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3212233333333,28.4892133333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3361Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:21:17.092</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:21:17.092</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 15</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 86%</font></p>
+ <p><font color="Black"> % BLER: 14.3%</font></p>
+ <p><font color="Black"> % NACKs: 16.5%</font></p>
+ <p><font color="Black"> % SCCH: 59.2%</font></p>
+ <p><font color="Black"> % QPSK: 96.3%</font></p>
+ <p><font color="Black"> % 16QAM: 3.7%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -92.09</font></p>
+ <p><font color="Black"> EcIo AVG: -10.61</font></p>
+ <p><font color="Black"> CellId inicial: 26113</font></p>
+ <p><font color="Black"> CellId final: 26113</font></p>
+ <p><font color="Black"> SC inicial: 46</font></p>
+ <p><font color="Black"> SC final: 46</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3209133333333,28.490945</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 12013Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:27:00.837</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:27:00.837</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.8</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 45%</font></p>
+ <p><font color="Black"> % BLER: 16.5%</font></p>
+ <p><font color="Black"> % NACKs: 24.4%</font></p>
+ <p><font color="Black"> % SCCH: 74.3%</font></p>
+ <p><font color="Black"> % QPSK: 3.4%</font></p>
+ <p><font color="Black"> % 16QAM: 88.4%</font></p>
+ <p><font color="Black"> % 64QAM: 8.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.14</font></p>
+ <p><font color="Black"> EcIo AVG: -8.5</font></p>
+ <p><font color="Black"> CellId inicial: 21102</font></p>
+ <p><font color="Black"> CellId final: 21102</font></p>
+ <p><font color="Black"> SC inicial: 36</font></p>
+ <p><font color="Black"> SC final: 36</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.32277,28.4885916666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 17036Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:31:32.636</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:31:32.636</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.2</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 59%</font></p>
+ <p><font color="Black"> % BLER: 22%</font></p>
+ <p><font color="Black"> % NACKs: 30.7%</font></p>
+ <p><font color="Black"> % SCCH: 78.2%</font></p>
+ <p><font color="Black"> % QPSK: 1.1%</font></p>
+ <p><font color="Black"> % 16QAM: 20.4%</font></p>
+ <p><font color="Black"> % 64QAM: 78.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -58.72</font></p>
+ <p><font color="Black"> EcIo AVG: -7.43</font></p>
+ <p><font color="Black"> CellId inicial: 21102</font></p>
+ <p><font color="Black"> CellId final: 21102</font></p>
+ <p><font color="Black"> SC inicial: 36</font></p>
+ <p><font color="Black"> SC final: 36</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3252266666667,28.487855</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 11450Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:37:08.471</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:37:08.471</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.1</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 72%</font></p>
+ <p><font color="Black"> % BLER: 23.4%</font></p>
+ <p><font color="Black"> % NACKs: 30.1%</font></p>
+ <p><font color="Black"> % SCCH: 65%</font></p>
+ <p><font color="Black"> % QPSK: 2.3%</font></p>
+ <p><font color="Black"> % 16QAM: 49.3%</font></p>
+ <p><font color="Black"> % 64QAM: 48.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.92</font></p>
+ <p><font color="Black"> EcIo AVG: -9.13</font></p>
+ <p><font color="Black"> CellId inicial: 21101</font></p>
+ <p><font color="Black"> CellId final: 21101</font></p>
+ <p><font color="Black"> SC inicial: 28</font></p>
+ <p><font color="Black"> SC final: 28</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3248933333333,28.48996</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 11456Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:41:24.097</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:41:24.097</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.7</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 63%</font></p>
+ <p><font color="Black"> % BLER: 14.3%</font></p>
+ <p><font color="Black"> % NACKs: 19.3%</font></p>
+ <p><font color="Black"> % SCCH: 73.6%</font></p>
+ <p><font color="Black"> % QPSK: 3.4%</font></p>
+ <p><font color="Black"> % 16QAM: 84.2%</font></p>
+ <p><font color="Black"> % 64QAM: 12.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.64</font></p>
+ <p><font color="Black"> EcIo AVG: -8.37</font></p>
+ <p><font color="Black"> CellId inicial: 21102</font></p>
+ <p><font color="Black"> CellId final: 21102</font></p>
+ <p><font color="Black"> SC inicial: 36</font></p>
+ <p><font color="Black"> SC final: 36</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3228783333333,28.4889033333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 8683Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:46:53.596</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:46:53.596</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.6</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 90%</font></p>
+ <p><font color="Black"> % BLER: 25.8%</font></p>
+ <p><font color="Black"> % NACKs: 28%</font></p>
+ <p><font color="Black"> % SCCH: 49.2%</font></p>
+ <p><font color="Black"> % QPSK: 1.5%</font></p>
+ <p><font color="Black"> % 16QAM: 29.5%</font></p>
+ <p><font color="Black"> % 64QAM: 69%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -68.83</font></p>
+ <p><font color="Black"> EcIo AVG: -11.09</font></p>
+ <p><font color="Black"> CellId inicial: 21107</font></p>
+ <p><font color="Black"> CellId final: 21107</font></p>
+ <p><font color="Black"> SC inicial: 28</font></p>
+ <p><font color="Black"> SC final: 28</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 3032</font></p>
+ <p><font color="Black"> UARFCN final: 3032</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.32734,28.49</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 10788Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:51:03.482</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:51:03.482</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.6</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 62%</font></p>
+ <p><font color="Black"> % BLER: 25%</font></p>
+ <p><font color="Black"> % NACKs: 33.9%</font></p>
+ <p><font color="Black"> % SCCH: 74.6%</font></p>
+ <p><font color="Black"> % QPSK: 1.8%</font></p>
+ <p><font color="Black"> % 16QAM: 32.5%</font></p>
+ <p><font color="Black"> % 64QAM: 65.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -57.17</font></p>
+ <p><font color="Black"> EcIo AVG: -10.14</font></p>
+ <p><font color="Black"> CellId inicial: 21107</font></p>
+ <p><font color="Black"> CellId final: 21107</font></p>
+ <p><font color="Black"> SC inicial: 28</font></p>
+ <p><font color="Black"> SC final: 28</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 3032</font></p>
+ <p><font color="Black"> UARFCN final: 3032</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3273983333333,28.48998</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2770Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 17:56:37.047</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 17:56:37.047</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 13.1</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 102%</font></p>
+ <p><font color="Black"> % BLER: 29.1%</font></p>
+ <p><font color="Black"> % NACKs: 27.2%</font></p>
+ <p><font color="Black"> % SCCH: 50%</font></p>
+ <p><font color="Black"> % QPSK: 69.8%</font></p>
+ <p><font color="Black"> % 16QAM: 23.4%</font></p>
+ <p><font color="Black"> % 64QAM: 6.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.27</font></p>
+ <p><font color="Black"> EcIo AVG: -12.24</font></p>
+ <p><font color="Black"> CellId inicial: 21108</font></p>
+ <p><font color="Black"> CellId final: 21108</font></p>
+ <p><font color="Black"> SC inicial: 36</font></p>
+ <p><font color="Black"> SC final: 36</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 3032</font></p>
+ <p><font color="Black"> UARFCN final: 3032</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.31711,28.48593</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 5223Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:00:51.825</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:00:51.825</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.7</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 124%</font></p>
+ <p><font color="Black"> % BLER: 30%</font></p>
+ <p><font color="Black"> % NACKs: 22.9%</font></p>
+ <p><font color="Black"> % SCCH: 38.7%</font></p>
+ <p><font color="Black"> % QPSK: 2%</font></p>
+ <p><font color="Black"> % 16QAM: 30.1%</font></p>
+ <p><font color="Black"> % 64QAM: 68%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -65.35</font></p>
+ <p><font color="Black"> EcIo AVG: -13.23</font></p>
+ <p><font color="Black"> CellId inicial: 21108</font></p>
+ <p><font color="Black"> CellId final: 21108</font></p>
+ <p><font color="Black"> SC inicial: 36</font></p>
+ <p><font color="Black"> SC final: 36</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 3032</font></p>
+ <p><font color="Black"> UARFCN final: 3032</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.32133,28.4863133333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 10825Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:11:07.446</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:11:07.446</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.5</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 82%</font></p>
+ <p><font color="Black"> % BLER: 11.2%</font></p>
+ <p><font color="Black"> % NACKs: 13.1%</font></p>
+ <p><font color="Black"> % SCCH: 64.5%</font></p>
+ <p><font color="Black"> % QPSK: 1.5%</font></p>
+ <p><font color="Black"> % 16QAM: 62.3%</font></p>
+ <p><font color="Black"> % 64QAM: 36.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -67.72</font></p>
+ <p><font color="Black"> EcIo AVG: -10.65</font></p>
+ <p><font color="Black"> CellId inicial: 1109</font></p>
+ <p><font color="Black"> CellId final: 1109</font></p>
+ <p><font color="Black"> SC inicial: 44</font></p>
+ <p><font color="Black"> SC final: 44</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 3011</font></p>
+ <p><font color="Black"> UARFCN final: 3011</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.32731,28.4857216666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 20514Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:16:43.687</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:16:43.687</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.1</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 76%</font></p>
+ <p><font color="Black"> % BLER: 9.2%</font></p>
+ <p><font color="Black"> % NACKs: 11.9%</font></p>
+ <p><font color="Black"> % SCCH: 55%</font></p>
+ <p><font color="Black"> % QPSK: 1.5%</font></p>
+ <p><font color="Black"> % 16QAM: 14.6%</font></p>
+ <p><font color="Black"> % 64QAM: 83.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.59</font></p>
+ <p><font color="Black"> EcIo AVG: -6.91</font></p>
+ <p><font color="Black"> CellId inicial: 1103</font></p>
+ <p><font color="Black"> CellId final: 1103</font></p>
+ <p><font color="Black"> SC inicial: 44</font></p>
+ <p><font color="Black"> SC final: 44</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3249833333333,28.4850483333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 12340Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:20:59.172</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:20:59.172</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.7</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 85%</font></p>
+ <p><font color="Black"> % BLER: 16.1%</font></p>
+ <p><font color="Black"> % NACKs: 20.3%</font></p>
+ <p><font color="Black"> % SCCH: 58.3%</font></p>
+ <p><font color="Black"> % QPSK: 4.7%</font></p>
+ <p><font color="Black"> % 16QAM: 75%</font></p>
+ <p><font color="Black"> % 64QAM: 20.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.26</font></p>
+ <p><font color="Black"> EcIo AVG: -7.33</font></p>
+ <p><font color="Black"> CellId inicial: 1103</font></p>
+ <p><font color="Black"> CellId final: 1103</font></p>
+ <p><font color="Black"> SC inicial: 44</font></p>
+ <p><font color="Black"> SC final: 44</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.32462,28.484675</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3742Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:31:17.312</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:31:17.312</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 16.1</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 95%</font></p>
+ <p><font color="Black"> % BLER: 25.5%</font></p>
+ <p><font color="Black"> % NACKs: 25.6%</font></p>
+ <p><font color="Black"> % SCCH: 56.2%</font></p>
+ <p><font color="Black"> % QPSK: 77.6%</font></p>
+ <p><font color="Black"> % 16QAM: 21.5%</font></p>
+ <p><font color="Black"> % 64QAM: 0.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -87.2</font></p>
+ <p><font color="Black"> EcIo AVG: -9.15</font></p>
+ <p><font color="Black"> CellId inicial: 56593</font></p>
+ <p><font color="Black"> CellId final: 10513</font></p>
+ <p><font color="Black"> SC inicial: 476</font></p>
+ <p><font color="Black"> SC final: 59</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3195283333333,28.4825916666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3547Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:36:47.862</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:36:47.862</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 18.3</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 119%</font></p>
+ <p><font color="Black"> % BLER: 31.2%</font></p>
+ <p><font color="Black"> % NACKs: 24.6%</font></p>
+ <p><font color="Black"> % SCCH: 42.5%</font></p>
+ <p><font color="Black"> % QPSK: 24.6%</font></p>
+ <p><font color="Black"> % 16QAM: 66.8%</font></p>
+ <p><font color="Black"> % 64QAM: 8.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -73.16</font></p>
+ <p><font color="Black"> EcIo AVG: -10.09</font></p>
+ <p><font color="Black"> CellId inicial: 55182</font></p>
+ <p><font color="Black"> CellId final: 55182</font></p>
+ <p><font color="Black"> SC inicial: 468</font></p>
+ <p><font color="Black"> SC final: 59</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.32062,28.485475</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 8153Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:41:37.836</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:41:37.836</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.4</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 70%</font></p>
+ <p><font color="Black"> % BLER: 26.9%</font></p>
+ <p><font color="Black"> % NACKs: 35.9%</font></p>
+ <p><font color="Black"> % SCCH: 71.6%</font></p>
+ <p><font color="Black"> % QPSK: 10%</font></p>
+ <p><font color="Black"> % 16QAM: 67.9%</font></p>
+ <p><font color="Black"> % 64QAM: 22.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -58.69</font></p>
+ <p><font color="Black"> EcIo AVG: -7.61</font></p>
+ <p><font color="Black"> CellId inicial: 46591</font></p>
+ <p><font color="Black"> CellId final: 46591</font></p>
+ <p><font color="Black"> SC inicial: 484</font></p>
+ <p><font color="Black"> SC final: 509</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.31763,28.4839383333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 13449Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:47:07.264</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:47:07.264</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.3</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 55%</font></p>
+ <p><font color="Black"> % BLER: 20.9%</font></p>
+ <p><font color="Black"> % NACKs: 30.1%</font></p>
+ <p><font color="Black"> % SCCH: 77.4%</font></p>
+ <p><font color="Black"> % QPSK: 3%</font></p>
+ <p><font color="Black"> % 16QAM: 42.4%</font></p>
+ <p><font color="Black"> % 64QAM: 54.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -67.64</font></p>
+ <p><font color="Black"> EcIo AVG: -10.71</font></p>
+ <p><font color="Black"> CellId inicial: 22561</font></p>
+ <p><font color="Black"> CellId final: 22561</font></p>
+ <p><font color="Black"> SC inicial: 337</font></p>
+ <p><font color="Black"> SC final: 337</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3149766666667,28.4818166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 7869Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:51:30.566</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:51:30.566</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.3</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 110%</font></p>
+ <p><font color="Black"> % BLER: 25%</font></p>
+ <p><font color="Black"> % NACKs: 25%</font></p>
+ <p><font color="Black"> % SCCH: 44.2%</font></p>
+ <p><font color="Black"> % QPSK: 7.6%</font></p>
+ <p><font color="Black"> % 16QAM: 38.9%</font></p>
+ <p><font color="Black"> % 64QAM: 53.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -67.05</font></p>
+ <p><font color="Black"> EcIo AVG: -8.95</font></p>
+ <p><font color="Black"> CellId inicial: 22562</font></p>
+ <p><font color="Black"> CellId final: 22562</font></p>
+ <p><font color="Black"> SC inicial: 337</font></p>
+ <p><font color="Black"> SC final: 213</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.313015,28.479015</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 7665Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 18:58:33.583</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 18:58:33.583</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.1</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 76%</font></p>
+ <p><font color="Black"> % BLER: 19.5%</font></p>
+ <p><font color="Black"> % NACKs: 21.7%</font></p>
+ <p><font color="Black"> % SCCH: 62.7%</font></p>
+ <p><font color="Black"> % QPSK: 39.1%</font></p>
+ <p><font color="Black"> % 16QAM: 54.6%</font></p>
+ <p><font color="Black"> % 64QAM: 6.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -74.64</font></p>
+ <p><font color="Black"> EcIo AVG: -8.86</font></p>
+ <p><font color="Black"> CellId inicial: 10513</font></p>
+ <p><font color="Black"> CellId final: 10513</font></p>
+ <p><font color="Black"> SC inicial: 20</font></p>
+ <p><font color="Black"> SC final: 137</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3169616666667,28.478365</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 15758Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:03:06.597</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:03:06.597</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.9</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 63%</font></p>
+ <p><font color="Black"> % BLER: 20.4%</font></p>
+ <p><font color="Black"> % NACKs: 28.6%</font></p>
+ <p><font color="Black"> % SCCH: 71.9%</font></p>
+ <p><font color="Black"> % QPSK: 1.2%</font></p>
+ <p><font color="Black"> % 16QAM: 27.4%</font></p>
+ <p><font color="Black"> % 64QAM: 71.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.79</font></p>
+ <p><font color="Black"> EcIo AVG: -7.75</font></p>
+ <p><font color="Black"> CellId inicial: 17381</font></p>
+ <p><font color="Black"> CellId final: 17381</font></p>
+ <p><font color="Black"> SC inicial: 196</font></p>
+ <p><font color="Black"> SC final: 196</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.316575,28.4771583333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 9935Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:08:40.063</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:08:40.063</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.1</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 70%</font></p>
+ <p><font color="Black"> % BLER: 21.6%</font></p>
+ <p><font color="Black"> % NACKs: 27.8%</font></p>
+ <p><font color="Black"> % SCCH: 64.1%</font></p>
+ <p><font color="Black"> % QPSK: 2.6%</font></p>
+ <p><font color="Black"> % 16QAM: 56.1%</font></p>
+ <p><font color="Black"> % 64QAM: 41.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.92</font></p>
+ <p><font color="Black"> EcIo AVG: -9.88</font></p>
+ <p><font color="Black"> CellId inicial: 10513</font></p>
+ <p><font color="Black"> CellId final: 10513</font></p>
+ <p><font color="Black"> SC inicial: 20</font></p>
+ <p><font color="Black"> SC final: 20</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3148433333333,28.48558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 8152Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:12:52.922</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:12:52.922</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.1</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 88%</font></p>
+ <p><font color="Black"> % BLER: 21.9%</font></p>
+ <p><font color="Black"> % NACKs: 24.7%</font></p>
+ <p><font color="Black"> % SCCH: 58.7%</font></p>
+ <p><font color="Black"> % QPSK: 9.2%</font></p>
+ <p><font color="Black"> % 16QAM: 77.9%</font></p>
+ <p><font color="Black"> % 64QAM: 12.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.75</font></p>
+ <p><font color="Black"> EcIo AVG: -8.91</font></p>
+ <p><font color="Black"> CellId inicial: 10513</font></p>
+ <p><font color="Black"> CellId final: 10513</font></p>
+ <p><font color="Black"> SC inicial: 20</font></p>
+ <p><font color="Black"> SC final: 20</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3141866666667,28.4844833333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4576Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:18:36.596</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:18:36.596</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 14</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 79%</font></p>
+ <p><font color="Black"> % BLER: 19.5%</font></p>
+ <p><font color="Black"> % NACKs: 22.1%</font></p>
+ <p><font color="Black"> % SCCH: 58.8%</font></p>
+ <p><font color="Black"> % QPSK: 80.3%</font></p>
+ <p><font color="Black"> % 16QAM: 19.7%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.78</font></p>
+ <p><font color="Black"> EcIo AVG: -10.45</font></p>
+ <p><font color="Black"> CellId inicial: 10511</font></p>
+ <p><font color="Black"> CellId final: 10511</font></p>
+ <p><font color="Black"> SC inicial: 460</font></p>
+ <p><font color="Black"> SC final: 460</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3154316666667,28.49057</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 10253Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:23:09.988</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:23:09.988</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 70%</font></p>
+ <p><font color="Black"> % BLER: 25.5%</font></p>
+ <p><font color="Black"> % NACKs: 32.9%</font></p>
+ <p><font color="Black"> % SCCH: 59.2%</font></p>
+ <p><font color="Black"> % QPSK: 13.3%</font></p>
+ <p><font color="Black"> % 16QAM: 72.5%</font></p>
+ <p><font color="Black"> % 64QAM: 14.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.72</font></p>
+ <p><font color="Black"> EcIo AVG: -10.21</font></p>
+ <p><font color="Black"> CellId inicial: 13953</font></p>
+ <p><font color="Black"> CellId final: 13953</font></p>
+ <p><font color="Black"> SC inicial: 500</font></p>
+ <p><font color="Black"> SC final: 500</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.323825,28.49189</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 10773Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:28:53.097</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:28:53.097</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.5</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 51%</font></p>
+ <p><font color="Black"> % BLER: 22.5%</font></p>
+ <p><font color="Black"> % NACKs: 33.3%</font></p>
+ <p><font color="Black"> % SCCH: 83%</font></p>
+ <p><font color="Black"> % QPSK: 7.8%</font></p>
+ <p><font color="Black"> % 16QAM: 82.4%</font></p>
+ <p><font color="Black"> % 64QAM: 9.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.78</font></p>
+ <p><font color="Black"> EcIo AVG: -9.94</font></p>
+ <p><font color="Black"> CellId inicial: 13953</font></p>
+ <p><font color="Black"> CellId final: 13953</font></p>
+ <p><font color="Black"> SC inicial: 500</font></p>
+ <p><font color="Black"> SC final: 500</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3240983333333,28.4933966666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 7122Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:33:16.961</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:33:16.961</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 17.4</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 59%</font></p>
+ <p><font color="Black"> % BLER: 10.1%</font></p>
+ <p><font color="Black"> % NACKs: 14.9%</font></p>
+ <p><font color="Black"> % SCCH: 71.5%</font></p>
+ <p><font color="Black"> % QPSK: 62.3%</font></p>
+ <p><font color="Black"> % 16QAM: 37.7%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.91</font></p>
+ <p><font color="Black"> EcIo AVG: -9.15</font></p>
+ <p><font color="Black"> CellId inicial: 16113</font></p>
+ <p><font color="Black"> CellId final: 16113</font></p>
+ <p><font color="Black"> SC inicial: 46</font></p>
+ <p><font color="Black"> SC final: 46</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3209633333333,28.4909233333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1446Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:39:20.020</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:39:20.020</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 29.1</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 61%</font></p>
+ <p><font color="Black"> % BLER: 4%</font></p>
+ <p><font color="Black"> % NACKs: 1.6%</font></p>
+ <p><font color="Black"> % SCCH: 40.3%</font></p>
+ <p><font color="Black"> % QPSK: 74.9%</font></p>
+ <p><font color="Black"> % 16QAM: 24.4%</font></p>
+ <p><font color="Black"> % 64QAM: 0.7%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -58.42</font></p>
+ <p><font color="Black"> EcIo AVG: -4.38</font></p>
+ <p><font color="Black"> CellId inicial: 15241</font></p>
+ <p><font color="Black"> CellId final: 15241</font></p>
+ <p><font color="Black"> SC inicial: 8</font></p>
+ <p><font color="Black"> SC final: 8</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.319045,28.4874233333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 11413Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:43:50.109</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:43:50.109</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.8</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 71%</font></p>
+ <p><font color="Black"> % BLER: 24.8%</font></p>
+ <p><font color="Black"> % NACKs: 33.3%</font></p>
+ <p><font color="Black"> % SCCH: 69.7%</font></p>
+ <p><font color="Black"> % QPSK: 1.7%</font></p>
+ <p><font color="Black"> % 16QAM: 5.2%</font></p>
+ <p><font color="Black"> % 64QAM: 93.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -70.22</font></p>
+ <p><font color="Black"> EcIo AVG: -9.66</font></p>
+ <p><font color="Black"> CellId inicial: 56591</font></p>
+ <p><font color="Black"> CellId final: 56591</font></p>
+ <p><font color="Black"> SC inicial: 484</font></p>
+ <p><font color="Black"> SC final: 484</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3159616666667,28.48709</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 14257Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:49:22.698</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:49:22.698</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.2</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 69%</font></p>
+ <p><font color="Black"> % BLER: 16.8%</font></p>
+ <p><font color="Black"> % NACKs: 23.4%</font></p>
+ <p><font color="Black"> % SCCH: 58.6%</font></p>
+ <p><font color="Black"> % QPSK: 5.5%</font></p>
+ <p><font color="Black"> % 16QAM: 59.1%</font></p>
+ <p><font color="Black"> % 64QAM: 35.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -69.28</font></p>
+ <p><font color="Black"> EcIo AVG: -7.58</font></p>
+ <p><font color="Black"> CellId inicial: 16061</font></p>
+ <p><font color="Black"> CellId final: 16061</font></p>
+ <p><font color="Black"> SC inicial: 340</font></p>
+ <p><font color="Black"> SC final: 340</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3071766666667,28.48002</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 5700Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 19:54:46.555</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 19:54:46.555</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.4</font></p>
+ <p><font color="Black"> HARQ: 7</font></p>
+ <p><font color="Black"> DTX DSCH: 121%</font></p>
+ <p><font color="Black"> % BLER: 16.2%</font></p>
+ <p><font color="Black"> % NACKs: 18.4%</font></p>
+ <p><font color="Black"> % SCCH: 39%</font></p>
+ <p><font color="Black"> % QPSK: 13.6%</font></p>
+ <p><font color="Black"> % 16QAM: 71.7%</font></p>
+ <p><font color="Black"> % 64QAM: 14.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -82.58</font></p>
+ <p><font color="Black"> EcIo AVG: -7.69</font></p>
+ <p><font color="Black"> CellId inicial: 16061</font></p>
+ <p><font color="Black"> CellId final: 16061</font></p>
+ <p><font color="Black"> SC inicial: 340</font></p>
+ <p><font color="Black"> SC final: 340</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3073166666667,28.4813883333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3511Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 20:00:28.900</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 20:00:28.900</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.3</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 133%</font></p>
+ <p><font color="Black"> % BLER: 25.6%</font></p>
+ <p><font color="Black"> % NACKs: 17.3%</font></p>
+ <p><font color="Black"> % SCCH: 31.9%</font></p>
+ <p><font color="Black"> % QPSK: 9.5%</font></p>
+ <p><font color="Black"> % 16QAM: 64.6%</font></p>
+ <p><font color="Black"> % 64QAM: 25.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -76.7</font></p>
+ <p><font color="Black"> EcIo AVG: -10.17</font></p>
+ <p><font color="Black"> CellId inicial: 12562</font></p>
+ <p><font color="Black"> CellId final: 12562</font></p>
+ <p><font color="Black"> SC inicial: 356</font></p>
+ <p><font color="Black"> SC final: 356</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3121116666667,28.481625</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 10295Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 20:04:47.798</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 20:04:47.798</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.5</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 71%</font></p>
+ <p><font color="Black"> % BLER: 19.9%</font></p>
+ <p><font color="Black"> % NACKs: 26.1%</font></p>
+ <p><font color="Black"> % SCCH: 61.8%</font></p>
+ <p><font color="Black"> % QPSK: 1.9%</font></p>
+ <p><font color="Black"> % 16QAM: 35.8%</font></p>
+ <p><font color="Black"> % 64QAM: 62.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -74.77</font></p>
+ <p><font color="Black"> EcIo AVG: -12.75</font></p>
+ <p><font color="Black"> CellId inicial: 10512</font></p>
+ <p><font color="Black"> CellId final: 10512</font></p>
+ <p><font color="Black"> SC inicial: 213</font></p>
+ <p><font color="Black"> SC final: 213</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.31207,28.479575</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4585Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 20:10:48.737</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 20:10:48.737</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.5</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 30%</font></p>
+ <p><font color="Black"> % BLER: 9.1%</font></p>
+ <p><font color="Black"> % NACKs: 6.1%</font></p>
+ <p><font color="Black"> % SCCH: 65.6%</font></p>
+ <p><font color="Black"> % QPSK: 14.9%</font></p>
+ <p><font color="Black"> % 16QAM: 84.8%</font></p>
+ <p><font color="Black"> % 64QAM: 0.3%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -87.23</font></p>
+ <p><font color="Black"> EcIo AVG: -12.56</font></p>
+ <p><font color="Black"> CellId inicial: 1053</font></p>
+ <p><font color="Black"> CellId final: 1053</font></p>
+ <p><font color="Black"> SC inicial: 140</font></p>
+ <p><font color="Black"> SC final: 140</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.30768,28.4754033333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 6987Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 20:15:24.240</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 20:15:24.240</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.7</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 93%</font></p>
+ <p><font color="Black"> % BLER: 25.1%</font></p>
+ <p><font color="Black"> % NACKs: 27.4%</font></p>
+ <p><font color="Black"> % SCCH: 51.5%</font></p>
+ <p><font color="Black"> % QPSK: 4.3%</font></p>
+ <p><font color="Black"> % 16QAM: 86.7%</font></p>
+ <p><font color="Black"> % 64QAM: 9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.87</font></p>
+ <p><font color="Black"> EcIo AVG: -11.12</font></p>
+ <p><font color="Black"> CellId inicial: 61851</font></p>
+ <p><font color="Black"> CellId final: 12562</font></p>
+ <p><font color="Black"> SC inicial: 213</font></p>
+ <p><font color="Black"> SC final: 337</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3088083333333,28.479975</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 11849Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 20:20:59.138</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 20:20:59.138</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.6</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 38%</font></p>
+ <p><font color="Black"> % BLER: 21.8%</font></p>
+ <p><font color="Black"> % NACKs: 35.7%</font></p>
+ <p><font color="Black"> % SCCH: 85.2%</font></p>
+ <p><font color="Black"> % QPSK: 2.3%</font></p>
+ <p><font color="Black"> % 16QAM: 82.7%</font></p>
+ <p><font color="Black"> % 64QAM: 15%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -66.77</font></p>
+ <p><font color="Black"> EcIo AVG: -9.57</font></p>
+ <p><font color="Black"> CellId inicial: 16061</font></p>
+ <p><font color="Black"> CellId final: 16061</font></p>
+ <p><font color="Black"> SC inicial: 340</font></p>
+ <p><font color="Black"> SC final: 340</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3095283333333,28.48204</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 7508Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 20:25:01.055</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 20:25:01.055</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.5</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 81%</font></p>
+ <p><font color="Black"> % BLER: 27.6%</font></p>
+ <p><font color="Black"> % NACKs: 32.4%</font></p>
+ <p><font color="Black"> % SCCH: 53.9%</font></p>
+ <p><font color="Black"> % QPSK: 6.4%</font></p>
+ <p><font color="Black"> % 16QAM: 48.4%</font></p>
+ <p><font color="Black"> % 64QAM: 45.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -70.03</font></p>
+ <p><font color="Black"> EcIo AVG: -10.52</font></p>
+ <p><font color="Black"> CellId inicial: 61851</font></p>
+ <p><font color="Black"> CellId final: 61851</font></p>
+ <p><font color="Black"> SC inicial: 213</font></p>
+ <p><font color="Black"> SC final: 213</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3124216666667,28.4798933333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4666Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 20:30:11.782</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 20:30:11.782</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 17.4</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 52%</font></p>
+ <p><font color="Black"> % BLER: 19.9%</font></p>
+ <p><font color="Black"> % NACKs: 29.4%</font></p>
+ <p><font color="Black"> % SCCH: 72.5%</font></p>
+ <p><font color="Black"> % QPSK: 82.8%</font></p>
+ <p><font color="Black"> % 16QAM: 17%</font></p>
+ <p><font color="Black"> % 64QAM: 0.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.55</font></p>
+ <p><font color="Black"> EcIo AVG: -9.01</font></p>
+ <p><font color="Black"> CellId inicial: 56591</font></p>
+ <p><font color="Black"> CellId final: 56591</font></p>
+ <p><font color="Black"> SC inicial: 484</font></p>
+ <p><font color="Black"> SC final: 460</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3153883333333,28.4905666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 9915Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 20:34:09.031</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 20:34:09.031</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.3</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 47%</font></p>
+ <p><font color="Black"> % BLER: 28%</font></p>
+ <p><font color="Black"> % NACKs: 41.2%</font></p>
+ <p><font color="Black"> % SCCH: 79.9%</font></p>
+ <p><font color="Black"> % QPSK: 7.4%</font></p>
+ <p><font color="Black"> % 16QAM: 78.8%</font></p>
+ <p><font color="Black"> % 64QAM: 13.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.27</font></p>
+ <p><font color="Black"> EcIo AVG: -11.24</font></p>
+ <p><font color="Black"> CellId inicial: 15922</font></p>
+ <p><font color="Black"> CellId final: 15922</font></p>
+ <p><font color="Black"> SC inicial: 500</font></p>
+ <p><font color="Black"> SC final: 500</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3218666666667,28.4937783333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 6197Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 21:08:38.405</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 21:08:38.405</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.1</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 84%</font></p>
+ <p><font color="Black"> % BLER: 29.7%</font></p>
+ <p><font color="Black"> % NACKs: 33.1%</font></p>
+ <p><font color="Black"> % SCCH: 57%</font></p>
+ <p><font color="Black"> % QPSK: 24.7%</font></p>
+ <p><font color="Black"> % 16QAM: 67.8%</font></p>
+ <p><font color="Black"> % 64QAM: 7.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.33</font></p>
+ <p><font color="Black"> EcIo AVG: -10.81</font></p>
+ <p><font color="Black"> CellId inicial: 15922</font></p>
+ <p><font color="Black"> CellId final: 15922</font></p>
+ <p><font color="Black"> SC inicial: 500</font></p>
+ <p><font color="Black"> SC final: 500</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3259933333333,28.4948366666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 11302Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 21:13:37.183</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 21:13:37.183</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.3</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 56%</font></p>
+ <p><font color="Black"> % BLER: 25.1%</font></p>
+ <p><font color="Black"> % NACKs: 36.1%</font></p>
+ <p><font color="Black"> % SCCH: 69.1%</font></p>
+ <p><font color="Black"> % QPSK: 8.1%</font></p>
+ <p><font color="Black"> % 16QAM: 81.2%</font></p>
+ <p><font color="Black"> % 64QAM: 10.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.34</font></p>
+ <p><font color="Black"> EcIo AVG: -9.46</font></p>
+ <p><font color="Black"> CellId inicial: 16111</font></p>
+ <p><font color="Black"> CellId final: 16111</font></p>
+ <p><font color="Black"> SC inicial: 125</font></p>
+ <p><font color="Black"> SC final: 125</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3181416666667,28.4955166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 18602Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 21:34:27.530</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 21:34:27.530</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.5</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 45%</font></p>
+ <p><font color="Black"> % BLER: 14.8%</font></p>
+ <p><font color="Black"> % NACKs: 21.8%</font></p>
+ <p><font color="Black"> % SCCH: 82.8%</font></p>
+ <p><font color="Black"> % QPSK: 0.4%</font></p>
+ <p><font color="Black"> % 16QAM: 29.2%</font></p>
+ <p><font color="Black"> % 64QAM: 70.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.36</font></p>
+ <p><font color="Black"> EcIo AVG: -9.84</font></p>
+ <p><font color="Black"> CellId inicial: 10511</font></p>
+ <p><font color="Black"> CellId final: 10511</font></p>
+ <p><font color="Black"> SC inicial: 45</font></p>
+ <p><font color="Black"> SC final: 45</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.31265,28.4916733333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4761Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 21:38:22.223</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 21:38:22.223</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 17.3</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 85%</font></p>
+ <p><font color="Black"> % BLER: 35.3%</font></p>
+ <p><font color="Black"> % NACKs: 39.2%</font></p>
+ <p><font color="Black"> % SCCH: 55.2%</font></p>
+ <p><font color="Black"> % QPSK: 34.1%</font></p>
+ <p><font color="Black"> % 16QAM: 65.3%</font></p>
+ <p><font color="Black"> % 64QAM: 0.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -93.88</font></p>
+ <p><font color="Black"> EcIo AVG: -9.43</font></p>
+ <p><font color="Black"> CellId inicial: 13952</font></p>
+ <p><font color="Black"> CellId final: 13952</font></p>
+ <p><font color="Black"> SC inicial: 125</font></p>
+ <p><font color="Black"> SC final: 125</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3145816666667,28.49558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 9609Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 23:42:09.619</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 23:42:09.619</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638417</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.4</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 60%</font></p>
+ <p><font color="Black"> % BLER: 25.4%</font></p>
+ <p><font color="Black"> % NACKs: 32.3%</font></p>
+ <p><font color="Black"> % SCCH: 73.5%</font></p>
+ <p><font color="Black"> % QPSK: 12.2%</font></p>
+ <p><font color="Black"> % 16QAM: 65.8%</font></p>
+ <p><font color="Black"> % 64QAM: 22%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -67.39</font></p>
+ <p><font color="Black"> EcIo AVG: -7.99</font></p>
+ <p><font color="Black"> CellId inicial: 17363</font></p>
+ <p><font color="Black"> CellId final: 17363</font></p>
+ <p><font color="Black"> SC inicial: 452</font></p>
+ <p><font color="Black"> SC final: 452</font></p>
+ <p><font color="Black"> LAC inicial: 3807</font></p>
+ <p><font color="Black"> LAC final: 3807</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3213633333333,28.4837183333333</coordinates>
+</Point>
+</Placemark>
+<name>358672057638417</name>
+</Folder>
+</Folder>
+<ScreenOverlay>
+<name>Absolute Positioning: Top Left</name>
+<Icon>
+<href>Leyenda_FTP_DL_2x2.jpg</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="0.86" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>

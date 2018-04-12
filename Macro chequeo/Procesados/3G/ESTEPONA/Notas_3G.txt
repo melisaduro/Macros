@@ -1,0 +1,173 @@
+Scope			- OK. 
+Systems			- System 1
+Control de Acciones	
+	
+	
+Invalidaciones
+
+ * Test el pais fallidos: "LCC NotReported"
+ * Test Youtube (http): "LCC NotReported"
+ * Test de 4G en 3G voz: "LCC WrongTechnology"
+ * Paradas técnicas en voz: "LCC TechStops"
+
+
+
+Mallado	final		- OK
+
+
+*****SOBRE LIBRO MUN****** 
+
+
+---------
+-- VOZ --	
+---------
+
+
+General: 
+
+ - CSSR	- OK, mejoramos en todos, excepto en OSP que subimos levemente.
+
+NEW	Access Errors	DCR	Success Rate
+VODAFONE	0.00%	0.57%	99.43%
+MOVISTAR	1.73%	0.59%	97.69%
+ORANGE		1.72%	0.00%	98.28%
+YOIGO		0.57%	0.00%	99.43%
+			
+			
+OLD	Access Errors	DCR	Success Rate
+VODAFONE	0.61%	0.00%	99.39%
+MOVISTAR	1.82%	0.00%	98.18%
+ORANGE		0.60%	0.00%	99.40%
+YOIGO		0.61%	0.00%	99.39%
+
+
+ - CST	- OK, aunque sube VDF.
+ - MOS	- OK.
+ - SQNS	- OK.
+ - CDR  - OK.
+
+
+* NOTA:
+VOZ EN VERDE.
+
+*******************************************************************************************************************
+
+-----------
+-- DATOS --	
+-----------
+
+
+Vemos bajada de KPIs en todos los operadores y tests.
+
+En KPIs extras vemos que sube el % de QPSK (VDF llegando al 26%). ASí como un empeoramiento en la calidad (ECIO)
+
+General: 
+
+ - D1: 	ok, empeoramos en todos excepto en OSP.
+
+D1 new		D1 old
+VOD-7M		VOD-8.3M
+MOV-8.8M	MOV-10.8M
+ORA-7.4M	ORA-6.6M
+YOI-3.8M	YOI-5.9M
+
+
+
+
+ - D2: 	ok, empeoramos en todos sobre todo en YOI.
+
+D2 new		D2 old
+VOD-87.3%	VOD-94%
+MOV-95.7%	MOV-97%
+ORA-89.2%	ORA-94%
+YOI-58%		YOI-78%
+
+
+
+ - D3:  ok, muy similares.
+
+D3 new		D3 old
+VOD-2.2M	VOD-2.4M
+MOV-2.2M	MOV-2.4M
+ORA-2.2M	ORA-2.3M
+YOI-1.8M	YOI-1.8M
+
+
+
+
+
+ - DL_NC: ok, empeoramos en todos.
+
+
+DL_NC new	DL_NC old
+VOD-9.4M	VOD-10.9M
+MOV-10.5M	MOV-12.8M
+ORA-7.9M	ORA-10.1M
+YOI-5.2M	YOI-8.6M
+
+	
+ - UL_NC: ok, muy similares.
+
+
+UL_NC new	UL_NC old
+VOD-2.7M	VOD-2.7M
+MOV-2.7M	MOV-2.7M
+ORA-2.3M	ORA-2.5M
+YOI-2.2M	YOI-2.3M
+
+
+
+ - LATENCIA: OK.
+
+MEDIANA new	MEDIANA old		MEDIA new	MEDIA old
+VOD-42ms	VOD-51ms		VOD-58ms	VOD-69ms
+MOV-61ms	MOV-55ms		MOV-86ms	MOV-149ms
+ORA-55ms	ORA-52ms		ORA-58ms	ORA-64ms
+YOI-62ms	YOI-70ms		YOI-91ms	YOI-77ms
+
+
+
+
+
+ - D5: OK, con mucho RETAINABILITY.
+
+ - D5 HTTPS: OK, con mucho RETAINABILITY.
+	
+ - D5 Publicas:	OK, con mucho RETAINABILITY.
+
+*********************
+****YOUTUBE V.11*****
+*********************
+
+
+
+ - B1: ok.
+
+ - B2: ok.
+
+ - B3: ok.
+
+ - B4: ok.
+
+ - B5: ok.
+
+ - B6: ok.
+	
+
+*NOTAS:
+DATOS en NARANJA. Bajan todos los operadores en los test, peores condiciones radio con peor
+codificación. Mucho RETAINABILITY.
+
+*******************************************************************************************************************
+*******************************************************************************************************************
+*******************************************************************************************************************
+
+-------------
+-- 2da rev --	
+-------------
+
+
+
+VOZ EN VERDE.
+DATOS en NARANJA. Bajan todos los operadores en los test, peores condiciones radio con peor
+codificación. Mucho RETAINABILITY.

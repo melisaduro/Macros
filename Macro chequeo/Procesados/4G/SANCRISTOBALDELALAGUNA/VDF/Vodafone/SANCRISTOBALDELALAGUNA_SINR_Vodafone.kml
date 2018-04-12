@@ -1,0 +1,3168 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="IconoAwful">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBad">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBad">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSo">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGood">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGood">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoAwfulM">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBadM">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBadM">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSoM">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGoodM">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGoodM">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Folder>
+<name>Customer Experience</name>
+<Folder>
+<name>muestras 4G</name>
+<Folder>
+<name>354201062974270</name>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17341</font></p>
+ <p><font color="Black"> Throughput: 11571Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 14:42:56.443</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 14:42:56.443</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -85.7</font></p>
+ <p><font color="Black"> RSRQ: -11.1</font></p>
+ <p><font color="Black"> SINR: 4.7</font></p>
+ <p><font color="Black"> % QPSK: 13%</font></p>
+ <p><font color="Black"> % 16QAM: 41%</font></p>
+ <p><font color="Black"> % 64QAM: 46%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 59</font></p>
+ <p><font color="Black"> Resource Blocks Max: 72</font></p>
+ <p><font color="Black"> Resource Blocks Min: 56</font></p>
+ <p><font color="Black"> RBs When Allocated: 118</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.2%</font></p>
+ <p><font color="Black"> CQI: 10.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97487880</font></p>
+ <p><font color="Black"> Celda final: 97487880</font></p>
+ <p><font color="Black"> PCI inicial: 62</font></p>
+ <p><font color="Black"> PCI final: 62</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3129616666667,28.4799416666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17359</font></p>
+ <p><font color="Black"> Throughput: 25920Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 14:46:55.719</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 14:46:55.719</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -95</font></p>
+ <p><font color="Black"> RSRQ: -9.1</font></p>
+ <p><font color="Black"> SINR: 12</font></p>
+ <p><font color="Black"> % QPSK: 13.7%</font></p>
+ <p><font color="Black"> % 16QAM: 4.8%</font></p>
+ <p><font color="Black"> % 64QAM: 81.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 68</font></p>
+ <p><font color="Black"> Resource Blocks Max: 70</font></p>
+ <p><font color="Black"> Resource Blocks Min: 61</font></p>
+ <p><font color="Black"> RBs When Allocated: 135</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 10.1</font></p>
+ <p><font color="Black"> Rank Indicator 1: 63.9%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 36.1%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 36.1%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97667073</font></p>
+ <p><font color="Black"> Celda final: 97667073</font></p>
+ <p><font color="Black"> PCI inicial: 215</font></p>
+ <p><font color="Black"> PCI final: 215</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3134116666667,28.4889916666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17381</font></p>
+ <p><font color="Black"> Throughput: 36712Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 14:52:17.786</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 14:52:17.786</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -96.2</font></p>
+ <p><font color="Black"> RSRQ: -6.5</font></p>
+ <p><font color="Black"> SINR: 20.1</font></p>
+ <p><font color="Black"> % QPSK: 13.5%</font></p>
+ <p><font color="Black"> % 16QAM: 6.3%</font></p>
+ <p><font color="Black"> % 64QAM: 80.2%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 156</font></p>
+ <p><font color="Black"> Resource Blocks Max: 164</font></p>
+ <p><font color="Black"> Resource Blocks Min: 146</font></p>
+ <p><font color="Black"> RBs When Allocated: 175</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.8%</font></p>
+ <p><font color="Black"> CQI: 11.7</font></p>
+ <p><font color="Black"> Rank Indicator 1: 0%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 100%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97385476</font></p>
+ <p><font color="Black"> Celda final: 97385476</font></p>
+ <p><font color="Black"> PCI inicial: 9</font></p>
+ <p><font color="Black"> PCI final: 9</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3163483333333,28.484365</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17399</font></p>
+ <p><font color="Black"> Throughput: 30843Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 14:56:12.212</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 14:56:12.212</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -95.7</font></p>
+ <p><font color="Black"> RSRQ: -7</font></p>
+ <p><font color="Black"> SINR: 18.4</font></p>
+ <p><font color="Black"> % QPSK: 36.7%</font></p>
+ <p><font color="Black"> % 16QAM: 3.3%</font></p>
+ <p><font color="Black"> % 64QAM: 60%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 81</font></p>
+ <p><font color="Black"> Resource Blocks Max: 82</font></p>
+ <p><font color="Black"> Resource Blocks Min: 79</font></p>
+ <p><font color="Black"> RBs When Allocated: 129</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 10.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 76.9%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 23.1%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 23.1%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97385473</font></p>
+ <p><font color="Black"> Celda final: 97385473</font></p>
+ <p><font color="Black"> PCI inicial: 9</font></p>
+ <p><font color="Black"> PCI final: 9</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3156683333333,28.48265</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17421</font></p>
+ <p><font color="Black"> Throughput: 22390Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 15:01:32.211</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 15:01:32.211</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -106.1</font></p>
+ <p><font color="Black"> RSRQ: -9.3</font></p>
+ <p><font color="Black"> SINR: 10.7</font></p>
+ <p><font color="Black"> % QPSK: 5.3%</font></p>
+ <p><font color="Black"> % 16QAM: 27.9%</font></p>
+ <p><font color="Black"> % 64QAM: 66.9%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 67</font></p>
+ <p><font color="Black"> Resource Blocks Max: 73</font></p>
+ <p><font color="Black"> Resource Blocks Min: 62</font></p>
+ <p><font color="Black"> RBs When Allocated: 124</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 10.8</font></p>
+ <p><font color="Black"> Rank Indicator 1: 79.2%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 20.8%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 20.8%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97487874</font></p>
+ <p><font color="Black"> Celda final: 97487874</font></p>
+ <p><font color="Black"> PCI inicial: 62</font></p>
+ <p><font color="Black"> PCI final: 62</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3108066666667,28.4761916666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17439</font></p>
+ <p><font color="Black"> Throughput: 11842Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 15:05:31.604</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 15:05:31.604</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -103.6</font></p>
+ <p><font color="Black"> RSRQ: -13.2</font></p>
+ <p><font color="Black"> SINR: 0.2</font></p>
+ <p><font color="Black"> % QPSK: 42.4%</font></p>
+ <p><font color="Black"> % 16QAM: 55.6%</font></p>
+ <p><font color="Black"> % 64QAM: 2%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 69</font></p>
+ <p><font color="Black"> Resource Blocks Max: 72</font></p>
+ <p><font color="Black"> Resource Blocks Min: 57</font></p>
+ <p><font color="Black"> RBs When Allocated: 137</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 6.1</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 98102275</font></p>
+ <p><font color="Black"> Celda final: 97487874</font></p>
+ <p><font color="Black"> PCI inicial: 19</font></p>
+ <p><font color="Black"> PCI final: 62</font></p>
+ <p><font color="Black"> TAC inicial: 4500</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3096366666667,28.4767983333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17461</font></p>
+ <p><font color="Black"> Throughput: 26134Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 15:11:01.747</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 15:11:01.747</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -100.9</font></p>
+ <p><font color="Black"> RSRQ: -8.5</font></p>
+ <p><font color="Black"> SINR: 8</font></p>
+ <p><font color="Black"> % QPSK: 5.1%</font></p>
+ <p><font color="Black"> % 16QAM: 24%</font></p>
+ <p><font color="Black"> % 64QAM: 70.9%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 61</font></p>
+ <p><font color="Black"> Resource Blocks Max: 62</font></p>
+ <p><font color="Black"> Resource Blocks Min: 60</font></p>
+ <p><font color="Black"> RBs When Allocated: 122</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 10.3</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97487874</font></p>
+ <p><font color="Black"> Celda final: 97487874</font></p>
+ <p><font color="Black"> PCI inicial: 62</font></p>
+ <p><font color="Black"> PCI final: 62</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.309605,28.4794466666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17479</font></p>
+ <p><font color="Black"> Throughput: 17475Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 15:14:58.455</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 15:14:58.455</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -107.9</font></p>
+ <p><font color="Black"> RSRQ: -10.8</font></p>
+ <p><font color="Black"> SINR: 7.6</font></p>
+ <p><font color="Black"> % QPSK: 30.9%</font></p>
+ <p><font color="Black"> % 16QAM: 18.9%</font></p>
+ <p><font color="Black"> % 64QAM: 50.2%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 58</font></p>
+ <p><font color="Black"> Resource Blocks Max: 62</font></p>
+ <p><font color="Black"> Resource Blocks Min: 55</font></p>
+ <p><font color="Black"> RBs When Allocated: 117</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 9</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 98102275</font></p>
+ <p><font color="Black"> Celda final: 97487874</font></p>
+ <p><font color="Black"> PCI inicial: 19</font></p>
+ <p><font color="Black"> PCI final: 62</font></p>
+ <p><font color="Black"> TAC inicial: 4500</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3093133333333,28.4776216666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17501</font></p>
+ <p><font color="Black"> Throughput: 36700Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 15:20:25.274</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 15:20:25.274</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -73.9</font></p>
+ <p><font color="Black"> RSRQ: -5.7</font></p>
+ <p><font color="Black"> SINR: 21.1</font></p>
+ <p><font color="Black"> % QPSK: 4.6%</font></p>
+ <p><font color="Black"> % 16QAM: 12.7%</font></p>
+ <p><font color="Black"> % 64QAM: 82.7%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 90</font></p>
+ <p><font color="Black"> Resource Blocks Max: 96</font></p>
+ <p><font color="Black"> Resource Blocks Min: 87</font></p>
+ <p><font color="Black"> RBs When Allocated: 142</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 12.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 24.2%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 75.8%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 75.8%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97487879</font></p>
+ <p><font color="Black"> Celda final: 97487879</font></p>
+ <p><font color="Black"> PCI inicial: 60</font></p>
+ <p><font color="Black"> PCI final: 60</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3066233333333,28.4831983333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17519</font></p>
+ <p><font color="Black"> Throughput: 20433Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 15:24:24.748</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 15:24:24.748</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -100.7</font></p>
+ <p><font color="Black"> RSRQ: -8.9</font></p>
+ <p><font color="Black"> SINR: 9.6</font></p>
+ <p><font color="Black"> % QPSK: 4%</font></p>
+ <p><font color="Black"> % 16QAM: 51.5%</font></p>
+ <p><font color="Black"> % 64QAM: 44.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 53</font></p>
+ <p><font color="Black"> Resource Blocks Max: 53</font></p>
+ <p><font color="Black"> Resource Blocks Min: 53</font></p>
+ <p><font color="Black"> RBs When Allocated: 107</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 9</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97487874</font></p>
+ <p><font color="Black"> Celda final: 97487874</font></p>
+ <p><font color="Black"> PCI inicial: 62</font></p>
+ <p><font color="Black"> PCI final: 62</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3130083333333,28.4789116666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17541</font></p>
+ <p><font color="Black"> Throughput: 23683Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 15:29:40.113</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 15:29:40.113</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -82.5</font></p>
+ <p><font color="Black"> RSRQ: -9.6</font></p>
+ <p><font color="Black"> SINR: 11.6</font></p>
+ <p><font color="Black"> % QPSK: 37.2%</font></p>
+ <p><font color="Black"> % 16QAM: 9.3%</font></p>
+ <p><font color="Black"> % 64QAM: 53.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 56</font></p>
+ <p><font color="Black"> Resource Blocks Max: 58</font></p>
+ <p><font color="Black"> Resource Blocks Min: 55</font></p>
+ <p><font color="Black"> RBs When Allocated: 112</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 11.6</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97667074</font></p>
+ <p><font color="Black"> Celda final: 97667074</font></p>
+ <p><font color="Black"> PCI inicial: 214</font></p>
+ <p><font color="Black"> PCI final: 214</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3137333333333,28.4902416666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17559</font></p>
+ <p><font color="Black"> Throughput: 16588Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 15:33:38.769</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 15:33:38.769</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -101.6</font></p>
+ <p><font color="Black"> RSRQ: -11.2</font></p>
+ <p><font color="Black"> SINR: 4.2</font></p>
+ <p><font color="Black"> % QPSK: 56.5%</font></p>
+ <p><font color="Black"> % 16QAM: 35.7%</font></p>
+ <p><font color="Black"> % 64QAM: 7.9%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 77</font></p>
+ <p><font color="Black"> Resource Blocks Max: 82</font></p>
+ <p><font color="Black"> Resource Blocks Min: 74</font></p>
+ <p><font color="Black"> RBs When Allocated: 129</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 7.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 56.5%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 43.5%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 43.5%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97667074</font></p>
+ <p><font color="Black"> Celda final: 97667074</font></p>
+ <p><font color="Black"> PCI inicial: 214</font></p>
+ <p><font color="Black"> PCI final: 214</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3197716666667,28.491235</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17581</font></p>
+ <p><font color="Black"> Throughput: 14151Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 15:39:08.007</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 15:39:08.007</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -83.1</font></p>
+ <p><font color="Black"> RSRQ: -10.8</font></p>
+ <p><font color="Black"> SINR: 9.3</font></p>
+ <p><font color="Black"> % QPSK: 12.6%</font></p>
+ <p><font color="Black"> % 16QAM: 54.6%</font></p>
+ <p><font color="Black"> % 64QAM: 32.8%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 65</font></p>
+ <p><font color="Black"> Resource Blocks Max: 72</font></p>
+ <p><font color="Black"> Resource Blocks Min: 52</font></p>
+ <p><font color="Black"> RBs When Allocated: 128</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 9.9</font></p>
+ <p><font color="Black"> Rank Indicator 1: 88.4%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 11.6%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 11.6%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 98332674</font></p>
+ <p><font color="Black"> Celda final: 97385473</font></p>
+ <p><font color="Black"> PCI inicial: 470</font></p>
+ <p><font color="Black"> PCI final: 9</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3151083333333,28.48946</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17599</font></p>
+ <p><font color="Black"> Throughput: 34378Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 15:43:04.934</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 15:43:04.934</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -83</font></p>
+ <p><font color="Black"> RSRQ: -7.4</font></p>
+ <p><font color="Black"> SINR: 11.5</font></p>
+ <p><font color="Black"> % QPSK: 4.2%</font></p>
+ <p><font color="Black"> % 16QAM: 44%</font></p>
+ <p><font color="Black"> % 64QAM: 51.8%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 105</font></p>
+ <p><font color="Black"> Resource Blocks Max: 112</font></p>
+ <p><font color="Black"> Resource Blocks Min: 95</font></p>
+ <p><font color="Black"> RBs When Allocated: 127</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 10.4</font></p>
+ <p><font color="Black"> Rank Indicator 1: 79.9%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 20.1%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 20.1%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97385481</font></p>
+ <p><font color="Black"> Celda final: 97385481</font></p>
+ <p><font color="Black"> PCI inicial: 11</font></p>
+ <p><font color="Black"> PCI final: 11</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3199016666667,28.485405</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17621</font></p>
+ <p><font color="Black"> Throughput: 19663Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 15:48:27.634</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 15:48:27.634</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -102.3</font></p>
+ <p><font color="Black"> RSRQ: -8.3</font></p>
+ <p><font color="Black"> SINR: 8.4</font></p>
+ <p><font color="Black"> % QPSK: 0%</font></p>
+ <p><font color="Black"> % 16QAM: 36.4%</font></p>
+ <p><font color="Black"> % 64QAM: 63.6%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 37</font></p>
+ <p><font color="Black"> Resource Blocks Max: 37</font></p>
+ <p><font color="Black"> Resource Blocks Min: 37</font></p>
+ <p><font color="Black"> RBs When Allocated: 74</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 9.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97615874</font></p>
+ <p><font color="Black"> Celda final: 97615874</font></p>
+ <p><font color="Black"> PCI inicial: 464</font></p>
+ <p><font color="Black"> PCI final: 464</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3254233333333,28.4842433333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17661</font></p>
+ <p><font color="Black"> Throughput: 25491Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 15:57:53.791</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 15:57:53.791</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -92.2</font></p>
+ <p><font color="Black"> RSRQ: -8.7</font></p>
+ <p><font color="Black"> SINR: 9.5</font></p>
+ <p><font color="Black"> % QPSK: 2.3%</font></p>
+ <p><font color="Black"> % 16QAM: 14.8%</font></p>
+ <p><font color="Black"> % 64QAM: 82.8%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 58</font></p>
+ <p><font color="Black"> Resource Blocks Max: 61</font></p>
+ <p><font color="Black"> Resource Blocks Min: 55</font></p>
+ <p><font color="Black"> RBs When Allocated: 108</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 10.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 97.8%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 2.2%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 2.2%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97667073</font></p>
+ <p><font color="Black"> Celda final: 97667073</font></p>
+ <p><font color="Black"> PCI inicial: 215</font></p>
+ <p><font color="Black"> PCI final: 215</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3137183333333,28.483965</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17679</font></p>
+ <p><font color="Black"> Throughput: 45631Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 16:01:55.153</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 16:01:55.153</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -79.2</font></p>
+ <p><font color="Black"> RSRQ: -7.2</font></p>
+ <p><font color="Black"> SINR: 20.1</font></p>
+ <p><font color="Black"> % QPSK: 8.9%</font></p>
+ <p><font color="Black"> % 16QAM: 24.7%</font></p>
+ <p><font color="Black"> % 64QAM: 66.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 83</font></p>
+ <p><font color="Black"> Resource Blocks Max: 83</font></p>
+ <p><font color="Black"> Resource Blocks Min: 83</font></p>
+ <p><font color="Black"> RBs When Allocated: 136</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 11.4</font></p>
+ <p><font color="Black"> Rank Indicator 1: 39.4%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 60.6%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 60.6%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97385473</font></p>
+ <p><font color="Black"> Celda final: 97385473</font></p>
+ <p><font color="Black"> PCI inicial: 9</font></p>
+ <p><font color="Black"> PCI final: 9</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3163766666667,28.4860716666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17701</font></p>
+ <p><font color="Black"> Throughput: 23586Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 16:07:24.529</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 16:07:24.529</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -98.4</font></p>
+ <p><font color="Black"> RSRQ: -9</font></p>
+ <p><font color="Black"> SINR: 10.4</font></p>
+ <p><font color="Black"> % QPSK: 5.2%</font></p>
+ <p><font color="Black"> % 16QAM: 46.6%</font></p>
+ <p><font color="Black"> % 64QAM: 48.2%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 53</font></p>
+ <p><font color="Black"> Resource Blocks Max: 57</font></p>
+ <p><font color="Black"> Resource Blocks Min: 46</font></p>
+ <p><font color="Black"> RBs When Allocated: 79</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 10.4</font></p>
+ <p><font color="Black"> Rank Indicator 1: 73.8%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 26.2%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 26.2%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97769473</font></p>
+ <p><font color="Black"> Celda final: 97769473</font></p>
+ <p><font color="Black"> PCI inicial: 441</font></p>
+ <p><font color="Black"> PCI final: 441</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3220933333333,28.4886166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17719</font></p>
+ <p><font color="Black"> Throughput: 13062Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 16:11:23.827</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 16:11:23.827</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -106.8</font></p>
+ <p><font color="Black"> RSRQ: -13.2</font></p>
+ <p><font color="Black"> SINR: 0.1</font></p>
+ <p><font color="Black"> % QPSK: 31.3%</font></p>
+ <p><font color="Black"> % 16QAM: 68.6%</font></p>
+ <p><font color="Black"> % 64QAM: 0.1%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 68</font></p>
+ <p><font color="Black"> Resource Blocks Max: 73</font></p>
+ <p><font color="Black"> Resource Blocks Min: 50</font></p>
+ <p><font color="Black"> RBs When Allocated: 135</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 5.7</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97667074</font></p>
+ <p><font color="Black"> Celda final: 97334275</font></p>
+ <p><font color="Black"> PCI inicial: 214</font></p>
+ <p><font color="Black"> PCI final: 49</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3219533333333,28.4895683333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17741</font></p>
+ <p><font color="Black"> Throughput: 25341Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 16:16:43.870</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 16:16:43.870</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -101.3</font></p>
+ <p><font color="Black"> RSRQ: -9.4</font></p>
+ <p><font color="Black"> SINR: 5.6</font></p>
+ <p><font color="Black"> % QPSK: 24.4%</font></p>
+ <p><font color="Black"> % 16QAM: 54.4%</font></p>
+ <p><font color="Black"> % 64QAM: 21.2%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 82</font></p>
+ <p><font color="Black"> Resource Blocks Max: 87</font></p>
+ <p><font color="Black"> Resource Blocks Min: 72</font></p>
+ <p><font color="Black"> RBs When Allocated: 142</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 8.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 97.8%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 2.2%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 2.2%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97334275</font></p>
+ <p><font color="Black"> Celda final: 97769473</font></p>
+ <p><font color="Black"> PCI inicial: 49</font></p>
+ <p><font color="Black"> PCI final: 441</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3217966666667,28.4893683333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17759</font></p>
+ <p><font color="Black"> Throughput: 29678Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 16:20:42.512</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 16:20:42.512</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -90.5</font></p>
+ <p><font color="Black"> RSRQ: -9.1</font></p>
+ <p><font color="Black"> SINR: 8.1</font></p>
+ <p><font color="Black"> % QPSK: 7.1%</font></p>
+ <p><font color="Black"> % 16QAM: 40%</font></p>
+ <p><font color="Black"> % 64QAM: 52.8%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 89</font></p>
+ <p><font color="Black"> Resource Blocks Max: 91</font></p>
+ <p><font color="Black"> Resource Blocks Min: 87</font></p>
+ <p><font color="Black"> RBs When Allocated: 135</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 11.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 96.3%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 3.7%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 3.7%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97334275</font></p>
+ <p><font color="Black"> Celda final: 97334275</font></p>
+ <p><font color="Black"> PCI inicial: 49</font></p>
+ <p><font color="Black"> PCI final: 49</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3203933333333,28.4890283333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17781</font></p>
+ <p><font color="Black"> Throughput: 29200Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 16:26:10.076</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 16:26:10.076</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -96.1</font></p>
+ <p><font color="Black"> RSRQ: -7.3</font></p>
+ <p><font color="Black"> SINR: 17.8</font></p>
+ <p><font color="Black"> % QPSK: 27.2%</font></p>
+ <p><font color="Black"> % 16QAM: 5.8%</font></p>
+ <p><font color="Black"> % 64QAM: 67%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 105</font></p>
+ <p><font color="Black"> Resource Blocks Max: 111</font></p>
+ <p><font color="Black"> Resource Blocks Min: 95</font></p>
+ <p><font color="Black"> RBs When Allocated: 131</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.7%</font></p>
+ <p><font color="Black"> CQI: 12.3</font></p>
+ <p><font color="Black"> Rank Indicator 1: 65.9%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 34.1%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 34.1%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97334275</font></p>
+ <p><font color="Black"> Celda final: 97334275</font></p>
+ <p><font color="Black"> PCI inicial: 49</font></p>
+ <p><font color="Black"> PCI final: 49</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.32075,28.4896783333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17799</font></p>
+ <p><font color="Black"> Throughput: 26836Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 16:30:09.067</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 16:30:09.067</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -96.8</font></p>
+ <p><font color="Black"> RSRQ: -7</font></p>
+ <p><font color="Black"> SINR: 15.9</font></p>
+ <p><font color="Black"> % QPSK: 8.9%</font></p>
+ <p><font color="Black"> % 16QAM: 39.1%</font></p>
+ <p><font color="Black"> % 64QAM: 52%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 89</font></p>
+ <p><font color="Black"> Resource Blocks Max: 103</font></p>
+ <p><font color="Black"> Resource Blocks Min: 76</font></p>
+ <p><font color="Black"> RBs When Allocated: 126</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.6%</font></p>
+ <p><font color="Black"> CQI: 11.9</font></p>
+ <p><font color="Black"> Rank Indicator 1: 70.2%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 29.8%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 29.8%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97334275</font></p>
+ <p><font color="Black"> Celda final: 97334275</font></p>
+ <p><font color="Black"> PCI inicial: 49</font></p>
+ <p><font color="Black"> PCI final: 49</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3208183333333,28.4896233333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17821</font></p>
+ <p><font color="Black"> Throughput: 33681Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 16:35:39.445</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 16:35:39.445</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -80.3</font></p>
+ <p><font color="Black"> RSRQ: -7.5</font></p>
+ <p><font color="Black"> SINR: 19.2</font></p>
+ <p><font color="Black"> % QPSK: 8.8%</font></p>
+ <p><font color="Black"> % 16QAM: 17%</font></p>
+ <p><font color="Black"> % 64QAM: 74.2%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 127</font></p>
+ <p><font color="Black"> Resource Blocks Max: 131</font></p>
+ <p><font color="Black"> Resource Blocks Min: 122</font></p>
+ <p><font color="Black"> RBs When Allocated: 135</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.7%</font></p>
+ <p><font color="Black"> CQI: 12.9</font></p>
+ <p><font color="Black"> Rank Indicator 1: 0%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 100%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 98460675</font></p>
+ <p><font color="Black"> Celda final: 98460675</font></p>
+ <p><font color="Black"> PCI inicial: 331</font></p>
+ <p><font color="Black"> PCI final: 331</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3277633333333,28.4914233333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17839</font></p>
+ <p><font color="Black"> Throughput: 34603Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 16:39:39.252</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 16:39:39.252</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -88.6</font></p>
+ <p><font color="Black"> RSRQ: -6.8</font></p>
+ <p><font color="Black"> SINR: 17.9</font></p>
+ <p><font color="Black"> % QPSK: 5.1%</font></p>
+ <p><font color="Black"> % 16QAM: 13.9%</font></p>
+ <p><font color="Black"> % 64QAM: 81%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 125</font></p>
+ <p><font color="Black"> Resource Blocks Max: 125</font></p>
+ <p><font color="Black"> Resource Blocks Min: 125</font></p>
+ <p><font color="Black"> RBs When Allocated: 139</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.7%</font></p>
+ <p><font color="Black"> CQI: 12.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 65%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 35%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 35%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97334275</font></p>
+ <p><font color="Black"> Celda final: 97334275</font></p>
+ <p><font color="Black"> PCI inicial: 49</font></p>
+ <p><font color="Black"> PCI final: 49</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3211783333333,28.4901016666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17861</font></p>
+ <p><font color="Black"> Throughput: 17637Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 16:45:05.326</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 16:45:05.326</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -89.4</font></p>
+ <p><font color="Black"> RSRQ: -11.9</font></p>
+ <p><font color="Black"> SINR: 6.4</font></p>
+ <p><font color="Black"> % QPSK: 0.7%</font></p>
+ <p><font color="Black"> % 16QAM: 27.1%</font></p>
+ <p><font color="Black"> % 64QAM: 72.2%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 35</font></p>
+ <p><font color="Black"> Resource Blocks Max: 37</font></p>
+ <p><font color="Black"> Resource Blocks Min: 31</font></p>
+ <p><font color="Black"> RBs When Allocated: 70</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 11.8</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97615873</font></p>
+ <p><font color="Black"> Celda final: 97615873</font></p>
+ <p><font color="Black"> PCI inicial: 462</font></p>
+ <p><font color="Black"> PCI final: 462</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3281333333333,28.4862716666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17879</font></p>
+ <p><font color="Black"> Throughput: 13464Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 16:49:05.086</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 16:49:05.086</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -97.3</font></p>
+ <p><font color="Black"> RSRQ: -8.5</font></p>
+ <p><font color="Black"> SINR: 10.8</font></p>
+ <p><font color="Black"> % QPSK: 16.5%</font></p>
+ <p><font color="Black"> % 16QAM: 68.7%</font></p>
+ <p><font color="Black"> % 64QAM: 14.9%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 37</font></p>
+ <p><font color="Black"> Resource Blocks Max: 37</font></p>
+ <p><font color="Black"> Resource Blocks Min: 37</font></p>
+ <p><font color="Black"> RBs When Allocated: 74</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 10.3</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97615874</font></p>
+ <p><font color="Black"> Celda final: 97615874</font></p>
+ <p><font color="Black"> PCI inicial: 464</font></p>
+ <p><font color="Black"> PCI final: 464</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3260833333333,28.484515</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 17901</font></p>
+ <p><font color="Black"> Throughput: 19233Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 16:54:38.451</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 16:54:38.451</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -102.2</font></p>
+ <p><font color="Black"> RSRQ: -10.9</font></p>
+ <p><font color="Black"> SINR: 3</font></p>
+ <p><font color="Black"> % QPSK: 10.9%</font></p>
+ <p><font color="Black"> % 16QAM: 54.2%</font></p>
+ <p><font color="Black"> % 64QAM: 34.9%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 72</font></p>
+ <p><font color="Black"> Resource Blocks Max: 72</font></p>
+ <p><font color="Black"> Resource Blocks Min: 71</font></p>
+ <p><font color="Black"> RBs When Allocated: 144</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 8.4</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97385475</font></p>
+ <p><font color="Black"> Celda final: 97385475</font></p>
+ <p><font color="Black"> PCI inicial: 11</font></p>
+ <p><font color="Black"> PCI final: 11</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.318845,28.4808466666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 18039</font></p>
+ <p><font color="Black"> Throughput: 22549Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 17:27:12.281</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 17:27:12.281</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -109.9</font></p>
+ <p><font color="Black"> RSRQ: -13.5</font></p>
+ <p><font color="Black"> SINR: 3.5</font></p>
+ <p><font color="Black"> % QPSK: 10.1%</font></p>
+ <p><font color="Black"> % 16QAM: 81.3%</font></p>
+ <p><font color="Black"> % 64QAM: 8.7%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 76</font></p>
+ <p><font color="Black"> Resource Blocks Max: 84</font></p>
+ <p><font color="Black"> Resource Blocks Min: 62</font></p>
+ <p><font color="Black"> RBs When Allocated: 154</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 7.6</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97667073</font></p>
+ <p><font color="Black"> Celda final: 97385475</font></p>
+ <p><font color="Black"> PCI inicial: 215</font></p>
+ <p><font color="Black"> PCI final: 11</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.31831,28.47878</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 18141</font></p>
+ <p><font color="Black"> Throughput: 10064Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 17:51:38.900</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 17:51:38.900</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -108.7</font></p>
+ <p><font color="Black"> RSRQ: -13</font></p>
+ <p><font color="Black"> SINR: 2.2</font></p>
+ <p><font color="Black"> % QPSK: 39.7%</font></p>
+ <p><font color="Black"> % 16QAM: 54.5%</font></p>
+ <p><font color="Black"> % 64QAM: 5.9%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 60</font></p>
+ <p><font color="Black"> Resource Blocks Max: 70</font></p>
+ <p><font color="Black"> Resource Blocks Min: 42</font></p>
+ <p><font color="Black"> RBs When Allocated: 121</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 6.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97487874</font></p>
+ <p><font color="Black"> Celda final: 97308675</font></p>
+ <p><font color="Black"> PCI inicial: 62</font></p>
+ <p><font color="Black"> PCI final: 334</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4500</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3123633333333,28.479615</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 14467</font></p>
+ <p><font color="Black"> Throughput: 35929Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 19:38:30.530</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 19:38:30.530</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -95.2</font></p>
+ <p><font color="Black"> RSRQ: -9.2</font></p>
+ <p><font color="Black"> SINR: 14.3</font></p>
+ <p><font color="Black"> % QPSK: 4.3%</font></p>
+ <p><font color="Black"> % 16QAM: 27.4%</font></p>
+ <p><font color="Black"> % 64QAM: 68.3%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 73</font></p>
+ <p><font color="Black"> Resource Blocks Max: 73</font></p>
+ <p><font color="Black"> Resource Blocks Min: 73</font></p>
+ <p><font color="Black"> RBs When Allocated: 131</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 12</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97487874</font></p>
+ <p><font color="Black"> Celda final: 97487874</font></p>
+ <p><font color="Black"> PCI inicial: 62</font></p>
+ <p><font color="Black"> PCI final: 62</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3133816666667,28.47664</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 9407</font></p>
+ <p><font color="Black"> Throughput: 23680Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 21:52:03.396</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 21:52:03.396</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -85.1</font></p>
+ <p><font color="Black"> RSRQ: -8.4</font></p>
+ <p><font color="Black"> SINR: 15.6</font></p>
+ <p><font color="Black"> % QPSK: 4.1%</font></p>
+ <p><font color="Black"> % 16QAM: 19.8%</font></p>
+ <p><font color="Black"> % 64QAM: 76.1%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 68</font></p>
+ <p><font color="Black"> Resource Blocks Max: 75</font></p>
+ <p><font color="Black"> Resource Blocks Min: 57</font></p>
+ <p><font color="Black"> RBs When Allocated: 103</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 11.1</font></p>
+ <p><font color="Black"> Rank Indicator 1: 27.6%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 72.4%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 72.4%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 98102274</font></p>
+ <p><font color="Black"> Celda final: 98102274</font></p>
+ <p><font color="Black"> PCI inicial: 20</font></p>
+ <p><font color="Black"> PCI final: 20</font></p>
+ <p><font color="Black"> TAC inicial: 4500</font></p>
+ <p><font color="Black"> TAC final: 4500</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3077116666667,28.4754316666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 9509</font></p>
+ <p><font color="Black"> Throughput: 28839Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 22:16:13.369</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 22:16:13.369</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -94.5</font></p>
+ <p><font color="Black"> RSRQ: -7.6</font></p>
+ <p><font color="Black"> SINR: 15.1</font></p>
+ <p><font color="Black"> % QPSK: 5.8%</font></p>
+ <p><font color="Black"> % 16QAM: 19.5%</font></p>
+ <p><font color="Black"> % 64QAM: 74.7%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 64</font></p>
+ <p><font color="Black"> Resource Blocks Max: 88</font></p>
+ <p><font color="Black"> Resource Blocks Min: 51</font></p>
+ <p><font color="Black"> RBs When Allocated: 96</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.6%</font></p>
+ <p><font color="Black"> CQI: 13.8</font></p>
+ <p><font color="Black"> Rank Indicator 1: 89.3%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 10.7%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 10.7%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 98332673</font></p>
+ <p><font color="Black"> Celda final: 98332673</font></p>
+ <p><font color="Black"> PCI inicial: 468</font></p>
+ <p><font color="Black"> PCI final: 468</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3154766666667,28.493245</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 32824</font></p>
+ <p><font color="Black"> Throughput: 4261Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 09:44:12.744</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 09:44:12.744</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170405_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -99.7</font></p>
+ <p><font color="Black"> RSRQ: -13.2</font></p>
+ <p><font color="Black"> SINR: 0.3</font></p>
+ <p><font color="Black"> % QPSK: 55%</font></p>
+ <p><font color="Black"> % 16QAM: 36.5%</font></p>
+ <p><font color="Black"> % 64QAM: 8.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 72</font></p>
+ <p><font color="Black"> Resource Blocks Max: 74</font></p>
+ <p><font color="Black"> Resource Blocks Min: 66</font></p>
+ <p><font color="Black"> RBs When Allocated: 145</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.2%</font></p>
+ <p><font color="Black"> CQI: 6.1</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97385481</font></p>
+ <p><font color="Black"> Celda final: 97667080</font></p>
+ <p><font color="Black"> PCI inicial: 11</font></p>
+ <p><font color="Black"> PCI final: 214</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3226316666667,28.48514</coordinates>
+</Point>
+</Placemark>
+<name>354201062974270</name>
+</Folder>
+<name>muestras 4G</name>
+</Folder>
+</Folder>
+<Folder>
+<name>Network Capability</name>
+<Folder>
+<name>muestras 4G</name>
+<Folder>
+<name>354201062974270</name>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17350</font></p>
+ <p><font color="Black"> Throughput: 53475Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 14:44:32.193</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 14:44:32.193</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -85.2</font></p>
+ <p><font color="Black"> RSRQ: -9.9</font></p>
+ <p><font color="Black"> SINR: 17.6</font></p>
+ <p><font color="Black"> % QPSK: 1.8%</font></p>
+ <p><font color="Black"> % 16QAM: 22.9%</font></p>
+ <p><font color="Black"> % 64QAM: 75.2%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 99</font></p>
+ <p><font color="Black"> Resource Blocks Max: 125</font></p>
+ <p><font color="Black"> Resource Blocks Min: 52</font></p>
+ <p><font color="Black"> RBs When Allocated: 123</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.6%</font></p>
+ <p><font color="Black"> CQI: 10</font></p>
+ <p><font color="Black"> Rank Indicator 1: 34.3%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 65.7%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 65.7%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97667073</font></p>
+ <p><font color="Black"> Celda final: 97667073</font></p>
+ <p><font color="Black"> PCI inicial: 215</font></p>
+ <p><font color="Black"> PCI final: 215</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3138366666667,28.485085</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17390</font></p>
+ <p><font color="Black"> Throughput: 33255Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 14:53:49.002</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 14:53:49.002</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -95.2</font></p>
+ <p><font color="Black"> RSRQ: -11.9</font></p>
+ <p><font color="Black"> SINR: 12.7</font></p>
+ <p><font color="Black"> % QPSK: 14.3%</font></p>
+ <p><font color="Black"> % 16QAM: 43.2%</font></p>
+ <p><font color="Black"> % 64QAM: 42.4%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 72</font></p>
+ <p><font color="Black"> Resource Blocks Max: 104</font></p>
+ <p><font color="Black"> Resource Blocks Min: 35</font></p>
+ <p><font color="Black"> RBs When Allocated: 122</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 9.1</font></p>
+ <p><font color="Black"> Rank Indicator 1: 40.6%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 59.4%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 59.4%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97667073</font></p>
+ <p><font color="Black"> Celda final: 97308675</font></p>
+ <p><font color="Black"> PCI inicial: 215</font></p>
+ <p><font color="Black"> PCI final: 334</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4500</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3135583333333,28.4813316666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17408</font></p>
+ <p><font color="Black"> Throughput: 79265Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 14:57:49.771</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 14:57:49.771</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -91</font></p>
+ <p><font color="Black"> RSRQ: -10.3</font></p>
+ <p><font color="Black"> SINR: 20.3</font></p>
+ <p><font color="Black"> % QPSK: 0.3%</font></p>
+ <p><font color="Black"> % 16QAM: 9.9%</font></p>
+ <p><font color="Black"> % 64QAM: 89.8%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 73</font></p>
+ <p><font color="Black"> Resource Blocks Max: 73</font></p>
+ <p><font color="Black"> Resource Blocks Min: 66</font></p>
+ <p><font color="Black"> RBs When Allocated: 145</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 13.1</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97385473</font></p>
+ <p><font color="Black"> Celda final: 97385473</font></p>
+ <p><font color="Black"> PCI inicial: 9</font></p>
+ <p><font color="Black"> PCI final: 9</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.315505,28.4830866666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17430</font></p>
+ <p><font color="Black"> Throughput: 17826Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 15:03:08.452</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 15:03:08.452</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -111.6</font></p>
+ <p><font color="Black"> RSRQ: -12.1</font></p>
+ <p><font color="Black"> SINR: 5</font></p>
+ <p><font color="Black"> % QPSK: 34.9%</font></p>
+ <p><font color="Black"> % 16QAM: 37.8%</font></p>
+ <p><font color="Black"> % 64QAM: 27.2%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 59</font></p>
+ <p><font color="Black"> Resource Blocks Max: 76</font></p>
+ <p><font color="Black"> Resource Blocks Min: 36</font></p>
+ <p><font color="Black"> RBs When Allocated: 117</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 6.7</font></p>
+ <p><font color="Black"> Rank Indicator 1: 94.5%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 5.5%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 5.5%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97487874</font></p>
+ <p><font color="Black"> Celda final: 97487874</font></p>
+ <p><font color="Black"> PCI inicial: 62</font></p>
+ <p><font color="Black"> PCI final: 62</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3112333333333,28.477</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17448</font></p>
+ <p><font color="Black"> Throughput: 37329Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 15:07:12.505</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 15:07:12.505</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -100.5</font></p>
+ <p><font color="Black"> RSRQ: -10.7</font></p>
+ <p><font color="Black"> SINR: 11.3</font></p>
+ <p><font color="Black"> % QPSK: 6.6%</font></p>
+ <p><font color="Black"> % 16QAM: 31.9%</font></p>
+ <p><font color="Black"> % 64QAM: 61.6%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 67</font></p>
+ <p><font color="Black"> Resource Blocks Max: 73</font></p>
+ <p><font color="Black"> Resource Blocks Min: 45</font></p>
+ <p><font color="Black"> RBs When Allocated: 133</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 10.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97487874</font></p>
+ <p><font color="Black"> Celda final: 97487874</font></p>
+ <p><font color="Black"> PCI inicial: 62</font></p>
+ <p><font color="Black"> PCI final: 62</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3095283333333,28.4807733333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17470</font></p>
+ <p><font color="Black"> Throughput: 66857Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 15:12:32.988</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 15:12:32.988</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -88.1</font></p>
+ <p><font color="Black"> RSRQ: -8.6</font></p>
+ <p><font color="Black"> SINR: 18.5</font></p>
+ <p><font color="Black"> % QPSK: 1%</font></p>
+ <p><font color="Black"> % 16QAM: 17.7%</font></p>
+ <p><font color="Black"> % 64QAM: 81.3%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 95</font></p>
+ <p><font color="Black"> Resource Blocks Max: 142</font></p>
+ <p><font color="Black"> Resource Blocks Min: 63</font></p>
+ <p><font color="Black"> RBs When Allocated: 140</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 11.2</font></p>
+ <p><font color="Black"> Rank Indicator 1: 27.9%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 72.1%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 72.1%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 98102275</font></p>
+ <p><font color="Black"> Celda final: 98102275</font></p>
+ <p><font color="Black"> PCI inicial: 19</font></p>
+ <p><font color="Black"> PCI final: 19</font></p>
+ <p><font color="Black"> TAC inicial: 4500</font></p>
+ <p><font color="Black"> TAC final: 4500</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3085416666667,28.4776816666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17488</font></p>
+ <p><font color="Black"> Throughput: 69812Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 15:16:36.140</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 15:16:36.140</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -78.6</font></p>
+ <p><font color="Black"> RSRQ: -9.5</font></p>
+ <p><font color="Black"> SINR: 21</font></p>
+ <p><font color="Black"> % QPSK: 6%</font></p>
+ <p><font color="Black"> % 16QAM: 34.9%</font></p>
+ <p><font color="Black"> % 64QAM: 59%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 94</font></p>
+ <p><font color="Black"> Resource Blocks Max: 142</font></p>
+ <p><font color="Black"> Resource Blocks Min: 54</font></p>
+ <p><font color="Black"> RBs When Allocated: 133</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 11.2</font></p>
+ <p><font color="Black"> Rank Indicator 1: 87.6%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 12.4%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 12.4%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 98102275</font></p>
+ <p><font color="Black"> Celda final: 98102275</font></p>
+ <p><font color="Black"> PCI inicial: 19</font></p>
+ <p><font color="Black"> PCI final: 19</font></p>
+ <p><font color="Black"> TAC inicial: 4500</font></p>
+ <p><font color="Black"> TAC final: 4500</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3059066666667,28.4790566666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17510</font></p>
+ <p><font color="Black"> Throughput: 18615Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 15:21:59.079</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 15:21:59.079</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -79.8</font></p>
+ <p><font color="Black"> RSRQ: -11.9</font></p>
+ <p><font color="Black"> SINR: 15.6</font></p>
+ <p><font color="Black"> % QPSK: 20.1%</font></p>
+ <p><font color="Black"> % 16QAM: 32.7%</font></p>
+ <p><font color="Black"> % 64QAM: 47.2%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 57</font></p>
+ <p><font color="Black"> Resource Blocks Max: 86</font></p>
+ <p><font color="Black"> Resource Blocks Min: 22</font></p>
+ <p><font color="Black"> RBs When Allocated: 101</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 9.4</font></p>
+ <p><font color="Black"> Rank Indicator 1: 43.6%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 56.4%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 56.4%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97487874</font></p>
+ <p><font color="Black"> Celda final: 97667073</font></p>
+ <p><font color="Black"> PCI inicial: 62</font></p>
+ <p><font color="Black"> PCI final: 215</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3116,28.4829066666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17550</font></p>
+ <p><font color="Black"> Throughput: 25685Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 15:31:15.188</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 15:31:15.188</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -94.7</font></p>
+ <p><font color="Black"> RSRQ: -11.3</font></p>
+ <p><font color="Black"> SINR: 8.3</font></p>
+ <p><font color="Black"> % QPSK: 21.6%</font></p>
+ <p><font color="Black"> % 16QAM: 51.7%</font></p>
+ <p><font color="Black"> % 64QAM: 26.7%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 85</font></p>
+ <p><font color="Black"> Resource Blocks Max: 113</font></p>
+ <p><font color="Black"> Resource Blocks Min: 41</font></p>
+ <p><font color="Black"> RBs When Allocated: 139</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 8</font></p>
+ <p><font color="Black"> Rank Indicator 1: 49.9%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 50.1%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 50.1%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97667074</font></p>
+ <p><font color="Black"> Celda final: 97334273</font></p>
+ <p><font color="Black"> PCI inicial: 214</font></p>
+ <p><font color="Black"> PCI final: 48</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3192983333333,28.4913483333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17568</font></p>
+ <p><font color="Black"> Throughput: 19251Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 15:35:17.121</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 15:35:17.121</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -104.7</font></p>
+ <p><font color="Black"> RSRQ: -12.4</font></p>
+ <p><font color="Black"> SINR: 4.4</font></p>
+ <p><font color="Black"> % QPSK: 27.4%</font></p>
+ <p><font color="Black"> % 16QAM: 44.3%</font></p>
+ <p><font color="Black"> % 64QAM: 28.3%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 66</font></p>
+ <p><font color="Black"> Resource Blocks Max: 98</font></p>
+ <p><font color="Black"> Resource Blocks Min: 31</font></p>
+ <p><font color="Black"> RBs When Allocated: 112</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 7.8</font></p>
+ <p><font color="Black"> Rank Indicator 1: 74.3%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 25.7%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 25.7%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97667074</font></p>
+ <p><font color="Black"> Celda final: 98460674</font></p>
+ <p><font color="Black"> PCI inicial: 214</font></p>
+ <p><font color="Black"> PCI final: 332</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3220633333333,28.4924166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17590</font></p>
+ <p><font color="Black"> Throughput: 57352Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 15:40:42.390</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 15:40:42.390</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -99.7</font></p>
+ <p><font color="Black"> RSRQ: -9.7</font></p>
+ <p><font color="Black"> SINR: 17.5</font></p>
+ <p><font color="Black"> % QPSK: 5.4%</font></p>
+ <p><font color="Black"> % 16QAM: 25.5%</font></p>
+ <p><font color="Black"> % 64QAM: 69.1%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 74</font></p>
+ <p><font color="Black"> Resource Blocks Max: 101</font></p>
+ <p><font color="Black"> Resource Blocks Min: 50</font></p>
+ <p><font color="Black"> RBs When Allocated: 140</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 11.1</font></p>
+ <p><font color="Black"> Rank Indicator 1: 55.5%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 44.5%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 44.5%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97385476</font></p>
+ <p><font color="Black"> Celda final: 97385476</font></p>
+ <p><font color="Black"> PCI inicial: 9</font></p>
+ <p><font color="Black"> PCI final: 9</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3170416666667,28.48602</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17608</font></p>
+ <p><font color="Black"> Throughput: 15377Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 15:44:43.256</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 15:44:43.256</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -111.8</font></p>
+ <p><font color="Black"> RSRQ: -12.3</font></p>
+ <p><font color="Black"> SINR: 2.8</font></p>
+ <p><font color="Black"> % QPSK: 11.2%</font></p>
+ <p><font color="Black"> % 16QAM: 63.1%</font></p>
+ <p><font color="Black"> % 64QAM: 25.6%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 37</font></p>
+ <p><font color="Black"> Resource Blocks Max: 42</font></p>
+ <p><font color="Black"> Resource Blocks Min: 36</font></p>
+ <p><font color="Black"> RBs When Allocated: 73</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 7.1</font></p>
+ <p><font color="Black"> Rank Indicator 1: 90.7%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 9.3%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 9.3%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97615874</font></p>
+ <p><font color="Black"> Celda final: 97615874</font></p>
+ <p><font color="Black"> PCI inicial: 464</font></p>
+ <p><font color="Black"> PCI final: 464</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3263616666667,28.4839083333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17630</font></p>
+ <p><font color="Black"> Throughput: 25585Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 15:50:03.042</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 15:50:03.042</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -93.6</font></p>
+ <p><font color="Black"> RSRQ: -11.1</font></p>
+ <p><font color="Black"> SINR: 10.8</font></p>
+ <p><font color="Black"> % QPSK: 0.2%</font></p>
+ <p><font color="Black"> % 16QAM: 27.8%</font></p>
+ <p><font color="Black"> % 64QAM: 72%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 43</font></p>
+ <p><font color="Black"> Resource Blocks Max: 49</font></p>
+ <p><font color="Black"> Resource Blocks Min: 24</font></p>
+ <p><font color="Black"> RBs When Allocated: 86</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 11.4</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97769473</font></p>
+ <p><font color="Black"> Celda final: 97769473</font></p>
+ <p><font color="Black"> PCI inicial: 441</font></p>
+ <p><font color="Black"> PCI final: 441</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.32161,28.4839516666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17648</font></p>
+ <p><font color="Black"> Throughput: 10996Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 15:54:09.904</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 15:54:09.904</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -102.3</font></p>
+ <p><font color="Black"> RSRQ: -14.6</font></p>
+ <p><font color="Black"> SINR: -1.3</font></p>
+ <p><font color="Black"> % QPSK: 75.8%</font></p>
+ <p><font color="Black"> % 16QAM: 22.4%</font></p>
+ <p><font color="Black"> % 64QAM: 1.7%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 70</font></p>
+ <p><font color="Black"> Resource Blocks Max: 75</font></p>
+ <p><font color="Black"> Resource Blocks Min: 52</font></p>
+ <p><font color="Black"> RBs When Allocated: 140</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 5.2</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97487881</font></p>
+ <p><font color="Black"> Celda final: 97334280</font></p>
+ <p><font color="Black"> PCI inicial: 61</font></p>
+ <p><font color="Black"> PCI final: 50</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.318285,28.4770366666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17670</font></p>
+ <p><font color="Black"> Throughput: 90308Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 15:59:28.582</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 15:59:28.582</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -85.4</font></p>
+ <p><font color="Black"> RSRQ: -9.2</font></p>
+ <p><font color="Black"> SINR: 23.3</font></p>
+ <p><font color="Black"> % QPSK: 0.1%</font></p>
+ <p><font color="Black"> % 16QAM: 4.5%</font></p>
+ <p><font color="Black"> % 64QAM: 95.4%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 99</font></p>
+ <p><font color="Black"> Resource Blocks Max: 133</font></p>
+ <p><font color="Black"> Resource Blocks Min: 69</font></p>
+ <p><font color="Black"> RBs When Allocated: 145</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 12.6</font></p>
+ <p><font color="Black"> Rank Indicator 1: 25.4%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 74.6%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 74.6%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97385476</font></p>
+ <p><font color="Black"> Celda final: 97385476</font></p>
+ <p><font color="Black"> PCI inicial: 9</font></p>
+ <p><font color="Black"> PCI final: 9</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3163133333333,28.4860766666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17688</font></p>
+ <p><font color="Black"> Throughput: 30572Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 16:03:33.317</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 16:03:33.317</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -90.6</font></p>
+ <p><font color="Black"> RSRQ: -10.4</font></p>
+ <p><font color="Black"> SINR: 13.3</font></p>
+ <p><font color="Black"> % QPSK: 11.5%</font></p>
+ <p><font color="Black"> % 16QAM: 45.6%</font></p>
+ <p><font color="Black"> % 64QAM: 42.9%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 86</font></p>
+ <p><font color="Black"> Resource Blocks Max: 137</font></p>
+ <p><font color="Black"> Resource Blocks Min: 22</font></p>
+ <p><font color="Black"> RBs When Allocated: 159</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 8.1</font></p>
+ <p><font color="Black"> Rank Indicator 1: 58.3%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 41.7%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 41.7%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97385478</font></p>
+ <p><font color="Black"> Celda final: 97334280</font></p>
+ <p><font color="Black"> PCI inicial: 11</font></p>
+ <p><font color="Black"> PCI final: 50</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3207916666667,28.4854216666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17710</font></p>
+ <p><font color="Black"> Throughput: 26905Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 16:08:57.461</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 16:08:57.461</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -97.7</font></p>
+ <p><font color="Black"> RSRQ: -10.9</font></p>
+ <p><font color="Black"> SINR: 11.1</font></p>
+ <p><font color="Black"> % QPSK: 0%</font></p>
+ <p><font color="Black"> % 16QAM: 30.2%</font></p>
+ <p><font color="Black"> % 64QAM: 69.8%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 47</font></p>
+ <p><font color="Black"> Resource Blocks Max: 91</font></p>
+ <p><font color="Black"> Resource Blocks Min: 12</font></p>
+ <p><font color="Black"> RBs When Allocated: 74</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 11.1</font></p>
+ <p><font color="Black"> Rank Indicator 1: 68.3%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 31.7%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 31.7%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97769473</font></p>
+ <p><font color="Black"> Celda final: 97769473</font></p>
+ <p><font color="Black"> PCI inicial: 441</font></p>
+ <p><font color="Black"> PCI final: 441</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3220266666667,28.4886016666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17728</font></p>
+ <p><font color="Black"> Throughput: 20598Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 16:13:02.390</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 16:13:02.390</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -98.4</font></p>
+ <p><font color="Black"> RSRQ: -11.8</font></p>
+ <p><font color="Black"> SINR: 12.2</font></p>
+ <p><font color="Black"> % QPSK: 0.1%</font></p>
+ <p><font color="Black"> % 16QAM: 29.4%</font></p>
+ <p><font color="Black"> % 64QAM: 70.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 39</font></p>
+ <p><font color="Black"> Resource Blocks Max: 58</font></p>
+ <p><font color="Black"> Resource Blocks Min: 25</font></p>
+ <p><font color="Black"> RBs When Allocated: 55</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 10.3</font></p>
+ <p><font color="Black"> Rank Indicator 1: 65.5%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 34.5%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 34.5%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97769473</font></p>
+ <p><font color="Black"> Celda final: 97769473</font></p>
+ <p><font color="Black"> PCI inicial: 441</font></p>
+ <p><font color="Black"> PCI final: 441</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3220266666667,28.4885316666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17750</font></p>
+ <p><font color="Black"> Throughput: 32628Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 16:18:17.974</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 16:18:17.974</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -97.9</font></p>
+ <p><font color="Black"> RSRQ: -10.4</font></p>
+ <p><font color="Black"> SINR: 11.7</font></p>
+ <p><font color="Black"> % QPSK: 0.1%</font></p>
+ <p><font color="Black"> % 16QAM: 6.8%</font></p>
+ <p><font color="Black"> % 64QAM: 93.1%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 47</font></p>
+ <p><font color="Black"> Resource Blocks Max: 66</font></p>
+ <p><font color="Black"> Resource Blocks Min: 33</font></p>
+ <p><font color="Black"> RBs When Allocated: 92</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 12.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 89.1%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 10.9%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 10.9%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97769473</font></p>
+ <p><font color="Black"> Celda final: 97769473</font></p>
+ <p><font color="Black"> PCI inicial: 441</font></p>
+ <p><font color="Black"> PCI final: 441</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.32204,28.4885733333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17768</font></p>
+ <p><font color="Black"> Throughput: 21312Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 16:22:21.022</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 16:22:21.022</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -98.1</font></p>
+ <p><font color="Black"> RSRQ: -13.4</font></p>
+ <p><font color="Black"> SINR: 8.3</font></p>
+ <p><font color="Black"> % QPSK: 15.6%</font></p>
+ <p><font color="Black"> % 16QAM: 44.8%</font></p>
+ <p><font color="Black"> % 64QAM: 39.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 58</font></p>
+ <p><font color="Black"> Resource Blocks Max: 78</font></p>
+ <p><font color="Black"> Resource Blocks Min: 36</font></p>
+ <p><font color="Black"> RBs When Allocated: 113</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 10</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97334274</font></p>
+ <p><font color="Black"> Celda final: 97334274</font></p>
+ <p><font color="Black"> PCI inicial: 50</font></p>
+ <p><font color="Black"> PCI final: 50</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3203233333333,28.4893966666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17790</font></p>
+ <p><font color="Black"> Throughput: 17701Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 16:27:44.415</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 16:27:44.415</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -91.9</font></p>
+ <p><font color="Black"> RSRQ: -11.7</font></p>
+ <p><font color="Black"> SINR: 11.4</font></p>
+ <p><font color="Black"> % QPSK: 2.3%</font></p>
+ <p><font color="Black"> % 16QAM: 28.8%</font></p>
+ <p><font color="Black"> % 64QAM: 68.9%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 44</font></p>
+ <p><font color="Black"> Resource Blocks Max: 68</font></p>
+ <p><font color="Black"> Resource Blocks Min: 21</font></p>
+ <p><font color="Black"> RBs When Allocated: 87</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 9.4</font></p>
+ <p><font color="Black"> Rank Indicator 1: 87.3%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 12.7%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 12.7%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97334274</font></p>
+ <p><font color="Black"> Celda final: 97334274</font></p>
+ <p><font color="Black"> PCI inicial: 50</font></p>
+ <p><font color="Black"> PCI final: 50</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3189433333333,28.4873916666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17808</font></p>
+ <p><font color="Black"> Throughput: 13373Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 16:31:48.051</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 16:31:48.051</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -111.7</font></p>
+ <p><font color="Black"> RSRQ: -13.1</font></p>
+ <p><font color="Black"> SINR: 3.5</font></p>
+ <p><font color="Black"> % QPSK: 14.4%</font></p>
+ <p><font color="Black"> % 16QAM: 76.2%</font></p>
+ <p><font color="Black"> % 64QAM: 9.4%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 39</font></p>
+ <p><font color="Black"> Resource Blocks Max: 47</font></p>
+ <p><font color="Black"> Resource Blocks Min: 24</font></p>
+ <p><font color="Black"> RBs When Allocated: 77</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 8.3</font></p>
+ <p><font color="Black"> Rank Indicator 1: 95.2%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 4.8%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 4.8%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97411074</font></p>
+ <p><font color="Black"> Celda final: 97411074</font></p>
+ <p><font color="Black"> PCI inicial: 383</font></p>
+ <p><font color="Black"> PCI final: 383</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.32289,28.491</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17830</font></p>
+ <p><font color="Black"> Throughput: 40116Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 16:37:15.964</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 16:37:15.964</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -87.5</font></p>
+ <p><font color="Black"> RSRQ: -11.2</font></p>
+ <p><font color="Black"> SINR: 8.5</font></p>
+ <p><font color="Black"> % QPSK: 11.7%</font></p>
+ <p><font color="Black"> % 16QAM: 62.5%</font></p>
+ <p><font color="Black"> % 64QAM: 25.7%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 101</font></p>
+ <p><font color="Black"> Resource Blocks Max: 119</font></p>
+ <p><font color="Black"> Resource Blocks Min: 85</font></p>
+ <p><font color="Black"> RBs When Allocated: 145</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 10.3</font></p>
+ <p><font color="Black"> Rank Indicator 1: 69.5%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 30.5%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 30.5%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 98460675</font></p>
+ <p><font color="Black"> Celda final: 98460675</font></p>
+ <p><font color="Black"> PCI inicial: 331</font></p>
+ <p><font color="Black"> PCI final: 331</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.328025,28.4901966666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17848</font></p>
+ <p><font color="Black"> Throughput: 17724Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 16:41:16.609</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 16:41:16.609</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -101.1</font></p>
+ <p><font color="Black"> RSRQ: -12.6</font></p>
+ <p><font color="Black"> SINR: 5</font></p>
+ <p><font color="Black"> % QPSK: 2.7%</font></p>
+ <p><font color="Black"> % 16QAM: 80.7%</font></p>
+ <p><font color="Black"> % 64QAM: 16.7%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 44</font></p>
+ <p><font color="Black"> Resource Blocks Max: 49</font></p>
+ <p><font color="Black"> Resource Blocks Min: 34</font></p>
+ <p><font color="Black"> RBs When Allocated: 88</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 8.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97769473</font></p>
+ <p><font color="Black"> Celda final: 97769473</font></p>
+ <p><font color="Black"> PCI inicial: 441</font></p>
+ <p><font color="Black"> PCI final: 441</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3243066666667,28.48733</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17870</font></p>
+ <p><font color="Black"> Throughput: 19926Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 16:46:39.395</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 16:46:39.395</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -78.7</font></p>
+ <p><font color="Black"> RSRQ: -11.7</font></p>
+ <p><font color="Black"> SINR: 14.1</font></p>
+ <p><font color="Black"> % QPSK: 16.7%</font></p>
+ <p><font color="Black"> % 16QAM: 43%</font></p>
+ <p><font color="Black"> % 64QAM: 40.3%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 48</font></p>
+ <p><font color="Black"> Resource Blocks Max: 63</font></p>
+ <p><font color="Black"> Resource Blocks Min: 37</font></p>
+ <p><font color="Black"> RBs When Allocated: 73</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 11.6</font></p>
+ <p><font color="Black"> Rank Indicator 1: 57.9%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 42.1%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 42.1%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97615873</font></p>
+ <p><font color="Black"> Celda final: 97615875</font></p>
+ <p><font color="Black"> PCI inicial: 462</font></p>
+ <p><font color="Black"> PCI final: 463</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3279783333333,28.4855016666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 17888</font></p>
+ <p><font color="Black"> Throughput: 10604Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 16:50:44.343</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 16:50:44.343</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -113.2</font></p>
+ <p><font color="Black"> RSRQ: -14.4</font></p>
+ <p><font color="Black"> SINR: -0.5</font></p>
+ <p><font color="Black"> % QPSK: 62.3%</font></p>
+ <p><font color="Black"> % 16QAM: 36.5%</font></p>
+ <p><font color="Black"> % 64QAM: 1.3%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 57</font></p>
+ <p><font color="Black"> Resource Blocks Max: 64</font></p>
+ <p><font color="Black"> Resource Blocks Min: 41</font></p>
+ <p><font color="Black"> RBs When Allocated: 115</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 5.6</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97385475</font></p>
+ <p><font color="Black"> Celda final: 97385475</font></p>
+ <p><font color="Black"> PCI inicial: 11</font></p>
+ <p><font color="Black"> PCI final: 11</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3259233333333,28.4824066666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 14458</font></p>
+ <p><font color="Black"> Throughput: 19313Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 19:36:07.801</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 19:36:07.801</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -88</font></p>
+ <p><font color="Black"> RSRQ: -11.6</font></p>
+ <p><font color="Black"> SINR: 10.8</font></p>
+ <p><font color="Black"> % QPSK: 25.9%</font></p>
+ <p><font color="Black"> % 16QAM: 41.6%</font></p>
+ <p><font color="Black"> % 64QAM: 32.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 78</font></p>
+ <p><font color="Black"> Resource Blocks Max: 102</font></p>
+ <p><font color="Black"> Resource Blocks Min: 47</font></p>
+ <p><font color="Black"> RBs When Allocated: 141</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 9.4</font></p>
+ <p><font color="Black"> Rank Indicator 1: 90.4%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 9.6%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 9.6%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 98102274</font></p>
+ <p><font color="Black"> Celda final: 98102275</font></p>
+ <p><font color="Black"> PCI inicial: 20</font></p>
+ <p><font color="Black"> PCI final: 19</font></p>
+ <p><font color="Black"> TAC inicial: 4500</font></p>
+ <p><font color="Black"> TAC final: 4500</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3086,28.47597</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 9416</font></p>
+ <p><font color="Black"> Throughput: 9003Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 21:53:39.810</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 21:53:39.810</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -110.9</font></p>
+ <p><font color="Black"> RSRQ: -12.8</font></p>
+ <p><font color="Black"> SINR: 3.5</font></p>
+ <p><font color="Black"> % QPSK: 44.5%</font></p>
+ <p><font color="Black"> % 16QAM: 51.2%</font></p>
+ <p><font color="Black"> % 64QAM: 4.3%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 45</font></p>
+ <p><font color="Black"> Resource Blocks Max: 56</font></p>
+ <p><font color="Black"> Resource Blocks Min: 35</font></p>
+ <p><font color="Black"> RBs When Allocated: 89</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 6.8</font></p>
+ <p><font color="Black"> Rank Indicator 1: 94.9%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 5.1%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 5.1%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97308675</font></p>
+ <p><font color="Black"> Celda final: 97308675</font></p>
+ <p><font color="Black"> PCI inicial: 334</font></p>
+ <p><font color="Black"> PCI final: 334</font></p>
+ <p><font color="Black"> TAC inicial: 4500</font></p>
+ <p><font color="Black"> TAC final: 4500</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3132433333333,28.4816333333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 9736</font></p>
+ <p><font color="Black"> Throughput: 33955Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-05 23:07:27.464</font></p>
+ <p><font color="Black"> Hora: 2017-04-05 23:07:27.464</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062974270</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_TF_SANCRISTOBALDELALAGUNA_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -83.3</font></p>
+ <p><font color="Black"> RSRQ: -11.4</font></p>
+ <p><font color="Black"> SINR: 15.3</font></p>
+ <p><font color="Black"> % QPSK: 2.6%</font></p>
+ <p><font color="Black"> % 16QAM: 37.4%</font></p>
+ <p><font color="Black"> % 64QAM: 59.9%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 56</font></p>
+ <p><font color="Black"> Resource Blocks Max: 74</font></p>
+ <p><font color="Black"> Resource Blocks Min: 37</font></p>
+ <p><font color="Black"> RBs When Allocated: 74</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.6%</font></p>
+ <p><font color="Black"> CQI: 11.7</font></p>
+ <p><font color="Black"> Rank Indicator 1: 40.2%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 59.8%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 59.8%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 97615874</font></p>
+ <p><font color="Black"> Celda final: 97615875</font></p>
+ <p><font color="Black"> PCI inicial: 464</font></p>
+ <p><font color="Black"> PCI final: 463</font></p>
+ <p><font color="Black"> TAC inicial: 4507</font></p>
+ <p><font color="Black"> TAC final: 4507</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3292483333333,28.4854566666667</coordinates>
+</Point>
+</Placemark>
+<name>354201062974270</name>
+</Folder>
+<name>muestras 4G</name>
+</Folder>
+</Folder>
+<ScreenOverlay>
+<name>Absolute Positioning: Top Left</name>
+<Icon>
+<href>Leyenda_SINR.jpg</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="0.86" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>

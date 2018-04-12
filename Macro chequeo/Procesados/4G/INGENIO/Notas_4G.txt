@@ -1,0 +1,168 @@
+Scope			- OK. 
+Systems			- System 4
+Control de Acciones	
+	
+	
+Invalidaciones
+
+ * Test el pais fallidos: "LCC NotReported"
+ * Test PDP/PDN: "LCC NotReported"
+ * Test Youtube (http, v5, medida primer día): "LCC NotReported"
+
+
+
+
+Mallado	final		- OK
+
+
+*****SOBRE LIBRO MUN****** 
+
+
+---------
+-- VOZ --	
+---------
+
+
+General: 
+
+ - CSSR	- OK, mejoramos en todos, excepto en MOV.
+
+NEW	Access Errors	DCR	Success Rate
+VODAFONE	3.13%	0.00%	96.88%
+MOVISTAR	9.38%	0.00%	90.63%
+ORANGE		1.05%	1.06%	97.89%
+YOIGO		4.17%	1.09%	94.79%
+
+
+			
+			
+OLD	Access Errors	DCR	Success Rate
+VODAFONE	6.60%	0.00%	93.40%
+MOVISTAR	2.86%	0.00%	97.14%
+ORANGE		8.65%	1.05%	90.38%
+YOIGO		12.38%	0.00%	87.62%
+
+
+
+ - CST	- OK.
+ - MOS	- OK.
+ - SQNS	- OK.
+ - CDR  - OK.
+
+
+* NOTA:
+VOZ EN AMARILLO. Mala accesibilidad en MOV.
+
+*******************************************************************************************************************
+
+-----------
+-- DATOS --	
+-----------
+
+
+
+General: 
+
+ - D1: 	ok, bajamos en VDF y MOV.
+
+D1 new		D1 old
+VOD-11.6M	VOD-13.8M
+MOV-12.2M	MOV-14.6M
+ORA-7.4M	ORA-6.3M
+YOI-4.2M	YOI-3.5M
+
+
+
+ - D2: 	ok, bajamos mucho en MOV. Viendo las muestras por debajo de 3MB vemos malas condiciones radio en esos TESTs.
+
+D2 new		D2 old
+VOD-71.9%	VOD-74%
+MOV-67.6%	MOV-93%
+ORA-86.7%	ORA-77%
+YOI-62.5%	YOI-62%
+
+
+
+ - D3:  ok, mejoramos en OSP y YOI, empeoramos levemenete en VDF y MOV.
+
+D3 new		D3 old
+VOD-3.5M	VOD-3.9M
+MOV-3.2M	MOV-3.9M
+ORA-3.3M	ORA-2M
+YOI-2.7M	YOI-1.3M
+
+
+
+ - DL_NC: ok, mejoramos en todos excepto en MOV.
+
+DL_NC new	DL_NC old
+VOD-19.5M	VOD-18.4M
+MOV-11.3M	MOV-15.3M
+ORA-11M		ORA-7.9M
+YOI-8.3M	YOI-4.6M
+
+
+	
+ - UL_NC: ok, mejoramos en todos excepto en VDF.
+
+UL_NC new	UL_NC old
+VOD-5.4M	VOD-5.5M
+MOV-8.2M	MOV-5M
+ORA-7M		ORA-3.4M
+YOI-5.1M	YOI-1.9M
+
+
+
+ - LATENCIA: OK.
+
+MEDIANA new	MEDIANA old		MEDIA new	MEDIA old
+VOD-73ms	VOD-96ms		VOD-76ms	VOD-192ms
+MOV-75ms	MOV-72ms		MOV-104ms	MOV-76ms
+ORA-70ms	ORA-88ms		ORA-107ms	ORA-101ms
+YOI-65ms	YOI-160ms		YOI-82ms	YOI-705ms
+
+
+
+
+ - D5: OK.
+
+ - D5 HTTPS: OK, mucho RETAINABILITY en OSP.
+	
+ - D5 Publicas:	OK.
+
+
+
+*********************
+****YOUTUBE V.11*****
+*********************
+
+
+
+ - B1: ok.
+
+ - B2: ok, bajo en VDF y OSP pero mejoramos.
+
+ - B3: ok.
+
+ - B4: ok.
+
+ - B5: ok.
+
+ - B6: ok.
+	
+
+*NOTAS:
+DATOS en AMARILLO. Baja mucho MOV.
+
+*******************************************************************************************************************
+*******************************************************************************************************************
+*******************************************************************************************************************
+
+-------------
+-- 2da rev --	
+-------------
+
+
+
+VOZ EN AMARILLO. Mala accesibilidad en MOV.
+DATOS en AMARILLO. Baja mucho MOV.

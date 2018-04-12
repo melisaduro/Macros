@@ -1,0 +1,170 @@
+Scope			- OK. 
+Systems			- System 1
+Control de Acciones	
+	
+	
+Invalidaciones
+
+ * Test el pais fallidos: "LCC NotReported"
+ * Test PDP/PDN: "LCC NotReported"
+
+
+
+
+
+Mallado	final		- OK
+
+
+*****SOBRE LIBRO MUN****** 
+
+
+---------
+-- VOZ --	
+---------
+
+
+General: 
+
+ - CSSR	- OK, mejoramos en todos o nos mantenemos.
+
+NEW	Access Errors	DCR	Success Rate
+VODAFONE	0.00%	0.00%	100.00%
+MOVISTAR	2.07%	0.00%	97.93%
+ORANGE		0.69%	0.70%	98.61%
+YOIGO		0.69%	0.69%	98.62%
+			
+			
+OLD	Access Errors	DCR	Success Rate
+VODAFONE	0.60%	0.61%	98.80%
+MOVISTAR	2.41%	0.00%	97.59%
+ORANGE		0.60%	0.61%	98.80%
+YOIGO		1.21%	0.00%	98.79%
+
+
+
+
+ - CST	- OK.
+ - MOS	- OK.
+ - SQNS	- OK.
+ - CDR  - OK.
+
+
+* NOTA:
+VOZ EN VERDE.
+
+*******************************************************************************************************************
+
+-----------
+-- DATOS --	
+-----------
+
+
+
+General: 
+
+ - D1: 	ok, mejoramos todos.
+
+D1 new		D1 old
+VOD-28.8M	VOD-27M
+MOV-31M		MOV-26.8M
+ORA-11.5M	ORA-10M
+YOI-6.3M	YOI-6.2M
+
+
+
+ - D2: 	ok, mejoramos todos.
+
+D2 new		D2 old
+VOD-100%	VOD-99%
+MOV-100%	MOV-100%
+ORA-100%	ORA-97%
+YOI-91.2%	YOI-80%
+
+
+
+ - D3:  ok, mejoramos excepto en MOV.
+
+D3 new		D3 old
+VOD-8.3M	VOD-8.3M
+MOV-8.7M	MOV-8.7M
+ORA-5.5M	ORA-4.9M
+YOI-6.6M	YOI-4.9M
+
+
+
+ - DL_NC: ok, mejoramos en todos excepto en VDF.
+
+DL_NC new	DL_NC old
+VOD-47.8M	VOD-50.6M
+MOV-42.3M	MOV-35.6M
+ORA-30.9M	ORA-20.7M
+YOI-12M		YOI-10.9M
+
+YOI-8.3M	YOI-4.6M
+
+
+	
+ - UL_NC: ok, mejoramos en todos excepto en VDF.
+
+UL_NC new	UL_NC old
+VOD-24.3M	VOD-25.5M
+MOV-23.2M	MOV-21.1M
+ORA-17.6M	ORA-12.7M
+YOI-13.1M	YOI-13.2M
+
+
+
+ - LATENCIA: OK.
+
+MEDIANA new	MEDIANA old		MEDIA new	MEDIA old
+VOD-43ms	VOD-53ms		VOD-43ms	VOD-52ms
+MOV-47ms	MOV-49ms		MOV-47ms	MOV-50ms
+ORA-52ms	ORA-49ms		ORA-52ms	ORA-58ms
+YOI-44ms	YOI-68ms		YOI-44ms	YOI-105ms
+
+
+
+
+
+ - D5: OK.
+
+ - D5 HTTPS: OK.
+	
+ - D5 Publicas:	OK.
+
+
+
+*********************
+****YOUTUBE V.11*****
+*********************
+
+
+
+ - B1: ok.
+
+ - B2: ok, bajo en VDF y OSP pero mejoramos.
+
+ - B3: ok.
+
+ - B4: ok.
+
+ - B5: ok.
+
+ - B6: ok.
+	
+
+*NOTAS:
+DATOS en VERDE.
+
+*******************************************************************************************************************
+*******************************************************************************************************************
+*******************************************************************************************************************
+
+-------------
+-- 2da rev --	
+-------------
+
+
+
+VOZ EN VERDE.
+DATOS en VERDE.

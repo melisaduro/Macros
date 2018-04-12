@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="IconoBlockCall">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoDropCall">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <heading>45</heading>
+  <Icon>
+     http://maps.google.com/mapfiles/kml/shapes/arrow.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoEndCall">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <heading>45</heading>
+  <Icon>
+     http://maps.google.com/mapfiles/kml/shapes/arrow.png
+  </Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>12686</name>
+<styleUrl>#IconoBlockCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MOC</font></p>
+ <p><font color="Black"> Cause: </font><font color="Red"><i>Failed, Disconnect received by Calling Party (Normal call clearing)</i></font></p>
+ <p><font color="Black">Failed Call</font></p>
+ <p><font color="Black"> Date: 04/04/2017 8:41:22</font></p>
+ <hr>
+ <h3> A Side </h3>
+ <p><font color="Black"> End PCI: 14</font></p>
+ <p><font color="Black"> End EARFCN: 1301</font></p>
+ <p><font color="Black"> End RSRP: -119.38</font></p>
+ <p><font color="Black"> End RSRQ: -12.94</font></p>
+ <p><font color="Black"> Worst RSRP: 0</font></p>
+ <p><font color="Black"> Worst RSRQ: 0</font></p>
+ <hr>
+ <h3> B Side </h3>
+ <p><font color="Black"> End PCI: 399</font></p>
+ <p><font color="Black"> End EARFCN: 1301</font></p>
+ <p><font color="Black"> End RSRP: -101.08</font></p>
+ <p><font color="Black"> End RSRQ: -9.52</font></p>
+ <hr>
+ <p><font color="Black"> CSFB: Yes </font></p>
+ <p><font color="Black"> CSFB Device Side: A</font></p>
+ <p><font color="Black"> End Call Technology A: LTE 1800</font></p>
+ <p><font color="Black"> End Call Technology B: LTE 800</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.1445,36.4314</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>12714</name>
+<styleUrl>#IconoBlockCall</styleUrl>
+<description>
+<![CDATA[
+ <p><font color="Black"> CallDirection: MOC</font></p>
+ <p><font color="Black"> Cause: </font><font color="Red"><i>Failed, Disconnect received by Calling Party (Normal call clearing)</i></font></p>
+ <p><font color="Black">Failed Call</font></p>
+ <p><font color="Black"> Date: 04/04/2017 9:08:13</font></p>
+ <hr>
+ <h3> A Side </h3>
+ <p><font color="Black"> End PCI: 399</font></p>
+ <p><font color="Black"> End EARFCN: 1301</font></p>
+ <p><font color="Black"> End RSRP: -97.44</font></p>
+ <p><font color="Black"> End RSRQ: -9.97</font></p>
+ <p><font color="Black"> Worst RSRP: 0</font></p>
+ <p><font color="Black"> Worst RSRQ: 0</font></p>
+ <hr>
+ <h3> B Side </h3>
+ <p><font color="Black"> End PCI: 399</font></p>
+ <p><font color="Black"> End EARFCN: 6400</font></p>
+ <p><font color="Black"> End RSRP: -97.69</font></p>
+ <p><font color="Black"> End RSRQ: -8.73</font></p>
+ <hr>
+ <p><font color="Black"> CSFB: Yes </font></p>
+ <p><font color="Black"> CSFB Device Side: A</font></p>
+ <p><font color="Black"> End Call Technology A: LTE 800</font></p>
+ <p><font color="Black"> End Call Technology B: LTE 800</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.1406,36.4286</coordinates>
+</Point>
+</Placemark>
+<ScreenOverlay>
+<name>Absolute Positioning: Top Left</name>
+<Icon>
+<href>Leyenda_Llamadas.jpg</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="0.86" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>

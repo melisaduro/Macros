@@ -1,0 +1,153 @@
+Scope			- OK. 
+Ultima medida		- w26 2016
+Systems			- System 4
+Control de Acciones		
+
+Invalidaciones
+
+ * Test el pais fallidos: "LCC NotReported"
+ * Test Youtube HTTP: "LCC NotReported"
+
+Mallado	final		- OK, se llega al scope.
+
+---------
+-- VOZ --	
+---------
+
+General: 
+
+ - CSSR	- accesibilidad mala, mismos valores que en la old: MVT empeora
+
+NEW		Access Errors	DCR	Success Rate
+VODAFONE		2.56%	2.63%	94.87%
+MOVISTAR		19.48%	1.61%	79.22%
+ORANGE			5.13%	1.35%	93.59%
+YOIGO			14.10%	0.00%	85.90%
+
+			
+			
+OLD		Access Errors	DCR	Success Rate
+VODAFONE		3.81%	1.98%	94.29%
+MOVISTAR		13.08%	0.00%	86.92%
+ORANGE			8.49%	1.03%	90.57%
+YOIGO			8.65%	3.16%	88.46%
+
+
+ - CDR     - Valores similares que en la OLD. VDF empeora.
+
+ - CST	- OK. mejoran todos mnos YOI
+
+ - MOS	- OK. MISMOS VALORES QUE EN LA OLD MENOS OSP QUE MEJORA BASTANTE.
+
+ - SQNS	- OK.
+
+
+
+* NOTA:
+VOZ EN AMARILLO, accesibilidad mala en todos los operadores.
+
+*******************************************************************************************************************
+
+-----------
+-- DATOS --	
+-----------
+
+General: 
+
+ - D1: 	OK, mejoran todos los operadores desde la medida OLD menos YOI.
+
+D1		D1 old
+VOD-5.8M	VOD-5M
+MOV-7.8M	MOV-5.1M
+ORA-6.2M	ORA-4.6M
+YOI-4.6M		YOI-4.9M
+
+
+
+
+ - D2: 	Ok, mejoran OSP y sobre todo MOV.
+
+D2 new		D2 old
+VOD-70.4%	VOD-73%
+MOV-84%	MOV-53%
+ORA-72.4%	ORA-72%
+YOI-68%		YOI-75%
+
+
+
+ - D3:  ok, mejoran todos desde la old
+
+D3 new		D3 old
+VOD-2.1M	VOD-1.6M
+MOV-1.5M	MOV-1.5M
+ORA-2M		ORA-1.6M
+YOI-1.5M		YOI-1.4M
+
+
+
+
+ - DL_NC: OK, Mejoran todos desde la OLD.
+
+DL_NC new	DL_NC old
+VOD-7M		VOD-5.2M
+MOV-8.6M	MOV-8.5M
+ORA-7.6M	ORA-6.3M
+YOI-7.9M		YOI-7.4M
+
+
+
+	
+ - UL_NC: OK. Valores similares desde la OLD.
+
+UL_NC new	UL_NC old
+VOD-1.6M	VOD-1.7M
+MOV-1.7M	MOV-2M
+ORA-2M		ORA-1.6M
+YOI-2.3M		YOI-2M
+
+
+
+ - LATENCIA: OK. MOV sube la media por algunas sesiones fuera de rango y YOI tb empeora
+
+MEDIANA new	MEDIANA old		MEDIA new	MEDIA old
+VOD-58ms	VOD-59ms		VOD-84ms	VOD-70ms
+MOV-75ms	MOV-73ms		MOV-284ms	MOV-103ms
+ORA-71ms	ORA-76ms		ORA-98ms	ORA-74ms
+YOI-88ms	YOI-82ms		YOI-121ms	YOI-81ms
+
+
+ - D5: OK.
+
+ - D5 HTTPS: OK. 
+	
+ - D5 Publicas:	OK.
+
+*********************
+****YOUTUBE V.11*****
+*********************
+
+ - B1: ok.
+
+ - B2: ok.
+
+ - B3: ok.
+
+ - B4: ok.
+
+ - B5: ok.
+
+ - B6: ok.
+	
+B5 new		B5 old			B6 new		B6 old		B1 new		B1 old		B2 new		B2 old		%B3 new		%B3 old
+VOD-399p	720			VOD-2.7		VOD-1		VOD-100%	VOD-0%		VOD-96.3%	VOD-0%		VOD-100%	VOD-2.5%
+MOV-438p	720			MOV-2.8		MOV-0.9		MOV-92.9%	MOV-0%		MOV-89.3%	MOV-0%		MOV-92.9%	MOV-3.1%
+ORA-392p	720			ORA-2.7		ORA-0.9		ORA-92.6%	ORA-100%	ORA-88.9%	ORA-0%		ORA-92.6%	ORA-2.9%
+YOI-400p		720			YOI-2.8		YOI-1		YOI-95.8%	YOI-100%	YOI-91.7%	YOI-0%		YOI-95.8%	YOI-3.4%
+
+	
+
+*NOTAS:
+DATOS en VERDE
+
+*******************************************************************************************************************
+

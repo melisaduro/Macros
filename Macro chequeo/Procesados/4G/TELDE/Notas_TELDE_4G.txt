@@ -1,0 +1,41 @@
+Cliente: Sharing
+Scope :OK
+	
+Invalidaciones:
+	Paradas Tecnicas:no
+	Invalidaciones TTL exceeded, http youtube, url errónea 
+
+Mallado	final: escaso de attempts datos MV y YOI por invalidaciones de cu
+---------
+-- VOZ --
+---------
+ - CCSR	: mejoran todos, sobretodo MV y YOI
+ - CDR	: ok
+ - SQNS : ok
+ - MOS  : ok
+ - CST	: alto elevado en YOI
+
+
+-----------
+-- DATOS --
+-----------	
+ - D1: vdf empeora porque se dobla el %L800 con respecto a la medida anterior
+ - D2: YOI mejora bastante, vdf empeora ligeramente
+ - D3: todos mejoran excepto vdf que se mantiene
+ - DL_NC: todos mejoran excepto vdf que se mantiene
+ - UL_NC: todos mejoran excepto vdf que se mantiene
+ - LATENCIA: ok, ligeramente alto en MV
+ - WEB: ok
+ - D5_ HTTP:ok 
+ - D5_HTTPS: ok
+ - B2: YOI y OSP mejoran, VDF y MV se mantienen similares
+ - B5: OSP el mejor, el resto no alcanza los 600p
+
+
+------------------------------------------------------------------------------------------------------------
+
+2º rev :
+
+	voz: ok verde
+
+	datos: ok verde

@@ -1,0 +1,3716 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="IconoAwful">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBad">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBad">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSo">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGood">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGood">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoAwfulM">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBadM">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBadM">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSoM">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGoodM">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGoodM">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Folder>
+<name>358672057235339</name>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 3900Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:00:37.129</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:00:37.129</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145669</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 4.44</font></p>
+ <p><font color="Black"> Transfer Time: 1.94</font></p>
+ <p><font color="Black"> Ip Service Time: 2.498</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -81.61</font></p>
+ <p><font color="Black"> EcIo AVG: -5.57</font></p>
+ <p><font color="Black"> SC inicial: 464</font></p>
+ <p><font color="Black"> SC final: 464</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+ <p><font color="Black"> CellId inicial: 20200</font></p>
+ <p><font color="Black"> CellId final: 20200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5166933333333,28.121615</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 3128Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:00:46.605</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:00:46.605</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145670</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 2.48</font></p>
+ <p><font color="Black"> Transfer Time: 2.42</font></p>
+ <p><font color="Black"> Ip Service Time: 0.061</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.88</font></p>
+ <p><font color="Black"> EcIo AVG: -5.59</font></p>
+ <p><font color="Black"> SC inicial: 464</font></p>
+ <p><font color="Black"> SC final: 464</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+ <p><font color="Black"> CellId inicial: 20200</font></p>
+ <p><font color="Black"> CellId final: 20200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5166933333333,28.121615</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Google</h3>
+ <p><font color="Black"> Throughput: 905Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:02:34.676</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:02:34.676</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145677</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 2.89</font></p>
+ <p><font color="Black"> Transfer Time: 2.48</font></p>
+ <p><font color="Black"> Ip Service Time: 0.408</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -90.21</font></p>
+ <p><font color="Black"> EcIo AVG: -6.07</font></p>
+ <p><font color="Black"> SC inicial: 464</font></p>
+ <p><font color="Black"> SC final: 464</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 5386</font></p>
+ <p><font color="Black"> CellId final: 5386</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5168983333333,28.12438</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Youtube</h3>
+ <p><font color="Black"> Throughput: 702Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:02:46.441</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:02:46.441</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145678</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 8.6</font></p>
+ <p><font color="Black"> Transfer Time: 8.23</font></p>
+ <p><font color="Black"> Ip Service Time: 0.366</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -90.87</font></p>
+ <p><font color="Black"> EcIo AVG: -5.85</font></p>
+ <p><font color="Black"> SC inicial: 464</font></p>
+ <p><font color="Black"> SC final: 464</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 5386</font></p>
+ <p><font color="Black"> CellId final: 5386</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5168983333333,28.12438</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Ebay</h3>
+ <p><font color="Black"> Throughput: 1146Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:02:55.310</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:02:55.310</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145679</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 5.92</font></p>
+ <p><font color="Black"> Transfer Time: 5.22</font></p>
+ <p><font color="Black"> Ip Service Time: 0.702</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -90.95</font></p>
+ <p><font color="Black"> EcIo AVG: -5.94</font></p>
+ <p><font color="Black"> SC inicial: 464</font></p>
+ <p><font color="Black"> SC final: 464</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 5386</font></p>
+ <p><font color="Black"> CellId final: 5386</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5168983333333,28.12438</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBadM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 854Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:09:10.355</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:09:10.355</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145700</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 4.3</font></p>
+ <p><font color="Black"> Transfer Time: 2.55</font></p>
+ <p><font color="Black"> Ip Service Time: 1.746</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.11</font></p>
+ <p><font color="Black"> EcIo AVG: -6.79</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+ <p><font color="Black"> CellId inicial: 6447</font></p>
+ <p><font color="Black"> CellId final: 6447</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5244166666667,28.12394</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBadM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 655Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:09:16.966</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:09:16.966</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145701</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 3.79</font></p>
+ <p><font color="Black"> Transfer Time: 3.36</font></p>
+ <p><font color="Black"> Ip Service Time: 0.422</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.02</font></p>
+ <p><font color="Black"> EcIo AVG: -6.76</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+ <p><font color="Black"> CellId inicial: 6447</font></p>
+ <p><font color="Black"> CellId final: 6447</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5245983333333,28.12447</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 3627Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:11:12.373</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:11:12.373</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145709</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 4.53</font></p>
+ <p><font color="Black"> Transfer Time: 2.09</font></p>
+ <p><font color="Black"> Ip Service Time: 2.44</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -69.71</font></p>
+ <p><font color="Black"> EcIo AVG: -5.62</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 5873</font></p>
+ <p><font color="Black"> CellId final: 5873</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5224616666667,28.1215866666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 2860Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:11:21.797</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:11:21.797</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145710</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 2.96</font></p>
+ <p><font color="Black"> Transfer Time: 2.65</font></p>
+ <p><font color="Black"> Ip Service Time: 0.313</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -56.56</font></p>
+ <p><font color="Black"> EcIo AVG: -4.61</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 5873</font></p>
+ <p><font color="Black"> CellId final: 5873</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.522445,28.1210266666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Google</h3>
+ <p><font color="Black"> Throughput: 751Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:13:06.204</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:13:06.204</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145717</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 3.45</font></p>
+ <p><font color="Black"> Transfer Time: 3.01</font></p>
+ <p><font color="Black"> Ip Service Time: 0.437</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.16</font></p>
+ <p><font color="Black"> EcIo AVG: -8.48</font></p>
+ <p><font color="Black"> SC inicial: 467</font></p>
+ <p><font color="Black"> SC final: 467</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+ <p><font color="Black"> CellId inicial: 42474</font></p>
+ <p><font color="Black"> CellId final: 42474</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5263216666667,28.1228166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSoM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 528Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:15:09.588</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:15:09.588</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145722</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 3.06</font></p>
+ <p><font color="Black"> Transfer Time: 1.57</font></p>
+ <p><font color="Black"> Ip Service Time: 1.494</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -90.79</font></p>
+ <p><font color="Black"> EcIo AVG: -7.6</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5264866666667,28.1179933333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 744Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:15:13.949</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:15:13.949</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145723</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 1.34</font></p>
+ <p><font color="Black"> Transfer Time: 1.14</font></p>
+ <p><font color="Black"> Ip Service Time: 0.197</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -90.36</font></p>
+ <p><font color="Black"> EcIo AVG: -5.45</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.526345,28.1178233333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 2538Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:16:30.945</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:16:30.945</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145731</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 3.26</font></p>
+ <p><font color="Black"> Transfer Time: 1.54</font></p>
+ <p><font color="Black"> Ip Service Time: 1.716</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -87.61</font></p>
+ <p><font color="Black"> EcIo AVG: -5.52</font></p>
+ <p><font color="Black"> SC inicial: 440</font></p>
+ <p><font color="Black"> SC final: 440</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 14841</font></p>
+ <p><font color="Black"> CellId final: 14841</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.52771,28.11786</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 2324Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:16:43.286</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:16:43.286</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145732</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 2.88</font></p>
+ <p><font color="Black"> Transfer Time: 1.68</font></p>
+ <p><font color="Black"> Ip Service Time: 1.201</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.64</font></p>
+ <p><font color="Black"> EcIo AVG: -5.33</font></p>
+ <p><font color="Black"> SC inicial: 440</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 14841</font></p>
+ <p><font color="Black"> CellId final: 14841</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5278566666667,28.1185766666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBadM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 697Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:19:03.610</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:19:03.610</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145740</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 4.15</font></p>
+ <p><font color="Black"> Transfer Time: 3.14</font></p>
+ <p><font color="Black"> Ip Service Time: 1.014</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.6</font></p>
+ <p><font color="Black"> EcIo AVG: -5.91</font></p>
+ <p><font color="Black"> SC inicial: 467</font></p>
+ <p><font color="Black"> SC final: 467</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4339</font></p>
+ <p><font color="Black"> CellId final: 4339</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.52923,28.1201816666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSoM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 715Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:19:09.440</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:19:09.440</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145741</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 3</font></p>
+ <p><font color="Black"> Transfer Time: 2.92</font></p>
+ <p><font color="Black"> Ip Service Time: 0.08</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -76.84</font></p>
+ <p><font color="Black"> EcIo AVG: -4.98</font></p>
+ <p><font color="Black"> SC inicial: 467</font></p>
+ <p><font color="Black"> SC final: 467</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4339</font></p>
+ <p><font color="Black"> CellId final: 4339</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5283766666667,28.1200416666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 1753Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:20:41.240</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:20:41.240</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145749</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 5.97</font></p>
+ <p><font color="Black"> Transfer Time: 4.32</font></p>
+ <p><font color="Black"> Ip Service Time: 1.655</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -90.23</font></p>
+ <p><font color="Black"> EcIo AVG: -8.07</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4338</font></p>
+ <p><font color="Black"> CellId final: 4338</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5283816666667,28.1182516666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 2401Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:20:52.490</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:20:52.490</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145750</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 3.47</font></p>
+ <p><font color="Black"> Transfer Time: 3.15</font></p>
+ <p><font color="Black"> Ip Service Time: 0.314</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.53</font></p>
+ <p><font color="Black"> EcIo AVG: -7.46</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4338</font></p>
+ <p><font color="Black"> CellId final: 4338</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5283816666667,28.1182516666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Google</h3>
+ <p><font color="Black"> Throughput: 814Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:22:36.427</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:22:36.427</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145757</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 3.18</font></p>
+ <p><font color="Black"> Transfer Time: 2.78</font></p>
+ <p><font color="Black"> Ip Service Time: 0.398</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.57</font></p>
+ <p><font color="Black"> EcIo AVG: -9.06</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4338</font></p>
+ <p><font color="Black"> CellId final: 4338</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5283816666667,28.1182516666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Youtube</h3>
+ <p><font color="Black"> Throughput: 769Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:22:47.127</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:22:47.127</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145758</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 7.38</font></p>
+ <p><font color="Black"> Transfer Time: 7.1</font></p>
+ <p><font color="Black"> Ip Service Time: 0.283</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.59</font></p>
+ <p><font color="Black"> EcIo AVG: -9.45</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4338</font></p>
+ <p><font color="Black"> CellId final: 4338</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5283816666667,28.1182516666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Ebay</h3>
+ <p><font color="Black"> Throughput: 936Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:22:56.856</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:22:56.856</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145759</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 5.96</font></p>
+ <p><font color="Black"> Transfer Time: 5.3</font></p>
+ <p><font color="Black"> Ip Service Time: 0.658</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.59</font></p>
+ <p><font color="Black"> EcIo AVG: -9.22</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4338</font></p>
+ <p><font color="Black"> CellId final: 4338</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5283816666667,28.1182516666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGoodM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 532Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:24:32.097</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:24:32.097</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145762</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 2.43</font></p>
+ <p><font color="Black"> Transfer Time: 1.18</font></p>
+ <p><font color="Black"> Ip Service Time: 1.247</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.02</font></p>
+ <p><font color="Black"> EcIo AVG: -9.09</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4338</font></p>
+ <p><font color="Black"> CellId final: 4338</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5305166666667,28.1179116666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 601Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:24:36.687</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:24:36.687</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145763</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 1.73</font></p>
+ <p><font color="Black"> Transfer Time: 1.43</font></p>
+ <p><font color="Black"> Ip Service Time: 0.301</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -82.65</font></p>
+ <p><font color="Black"> EcIo AVG: -7.21</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4338</font></p>
+ <p><font color="Black"> CellId final: 4338</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5307983333333,28.11785</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 2353Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:25:55.738</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:25:55.738</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145771</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 2.57</font></p>
+ <p><font color="Black"> Transfer Time: 1.66</font></p>
+ <p><font color="Black"> Ip Service Time: 0.905</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.83</font></p>
+ <p><font color="Black"> EcIo AVG: -7.63</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4338</font></p>
+ <p><font color="Black"> CellId final: 4338</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.53321,28.1188666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 2398Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:26:04.887</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:26:04.887</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145772</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 1.8</font></p>
+ <p><font color="Black"> Transfer Time: 1.63</font></p>
+ <p><font color="Black"> Ip Service Time: 0.165</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.05</font></p>
+ <p><font color="Black"> EcIo AVG: -5.96</font></p>
+ <p><font color="Black"> SC inicial: 440</font></p>
+ <p><font color="Black"> SC final: 440</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4338</font></p>
+ <p><font color="Black"> CellId final: 4338</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5337616666667,28.11906</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fallo</name>
+<styleUrl>#IconoAwfulM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 0Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:28:39.108</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:28:39.108</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145780</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 0</font></p>
+ <p><font color="Black"> Transfer Time: 0</font></p>
+ <p><font color="Black"> Ip Service Time: </font></p>
+ <p><font color="Black"> Resolución DNS: </font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.3</font></p>
+ <p><font color="Black"> EcIo AVG: -6.55</font></p>
+ <p><font color="Black"> SC inicial: 256</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4340</font></p>
+ <p><font color="Black"> CellId final: 14841</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.531635,28.1185733333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGoodM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 1068Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:28:44.031</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:28:44.031</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145781</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 2.07</font></p>
+ <p><font color="Black"> Transfer Time: 2.01</font></p>
+ <p><font color="Black"> Ip Service Time: 0.062</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.21</font></p>
+ <p><font color="Black"> EcIo AVG: -5.57</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 14841</font></p>
+ <p><font color="Black"> CellId final: 14841</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5313483333333,28.1185716666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 4439Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:29:57.860</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:29:57.860</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145789</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 3.1</font></p>
+ <p><font color="Black"> Transfer Time: 1.7</font></p>
+ <p><font color="Black"> Ip Service Time: 1.398</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.4</font></p>
+ <p><font color="Black"> EcIo AVG: -5.91</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5264683333333,28.1188216666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 3228Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:30:05.954</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:30:05.954</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145790</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 2.43</font></p>
+ <p><font color="Black"> Transfer Time: 2.35</font></p>
+ <p><font color="Black"> Ip Service Time: 0.089</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.98</font></p>
+ <p><font color="Black"> EcIo AVG: -5.94</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5263666666667,28.1186066666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Google</h3>
+ <p><font color="Black"> Throughput: 565Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:31:56.169</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:31:56.169</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145797</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 4.28</font></p>
+ <p><font color="Black"> Transfer Time: 3.88</font></p>
+ <p><font color="Black"> Ip Service Time: 0.395</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -96.29</font></p>
+ <p><font color="Black"> EcIo AVG: -9.13</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.527625,28.1171416666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSoM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 502Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:33:43.787</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:33:43.787</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145802</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 2.68</font></p>
+ <p><font color="Black"> Transfer Time: 1.69</font></p>
+ <p><font color="Black"> Ip Service Time: 0.99</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.01</font></p>
+ <p><font color="Black"> EcIo AVG: -6.95</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5263166666667,28.117865</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 891Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:33:47.992</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:33:47.992</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145803</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 1.29</font></p>
+ <p><font color="Black"> Transfer Time: 0.96</font></p>
+ <p><font color="Black"> Ip Service Time: 0.233</font></p>
+ <p><font color="Black"> Resolución DNS: 0.091</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.6</font></p>
+ <p><font color="Black"> EcIo AVG: -5.9</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5260683333333,28.11776</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 1114Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:35:03.455</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:35:03.455</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145811</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 5.51</font></p>
+ <p><font color="Black"> Transfer Time: 3.51</font></p>
+ <p><font color="Black"> Ip Service Time: 1.173</font></p>
+ <p><font color="Black"> Resolución DNS: 0.825</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.98</font></p>
+ <p><font color="Black"> EcIo AVG: -6.64</font></p>
+ <p><font color="Black"> SC inicial: 440</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 14841</font></p>
+ <p><font color="Black"> CellId final: 14841</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5244016666667,28.117905</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 3228Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:35:10.429</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:35:10.429</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145812</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 1.58</font></p>
+ <p><font color="Black"> Transfer Time: 1.21</font></p>
+ <p><font color="Black"> Ip Service Time: 0.236</font></p>
+ <p><font color="Black"> Resolución DNS: 0.138</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -80.67</font></p>
+ <p><font color="Black"> EcIo AVG: -4.52</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 14841</font></p>
+ <p><font color="Black"> CellId final: 14841</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.52438,28.1179433333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBadM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 1048Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:37:31.650</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:37:31.650</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145820</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 4.99</font></p>
+ <p><font color="Black"> Transfer Time: 2.03</font></p>
+ <p><font color="Black"> Ip Service Time: 2.962</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -93.19</font></p>
+ <p><font color="Black"> EcIo AVG: -10.29</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+ <p><font color="Black"> CellId inicial: 6447</font></p>
+ <p><font color="Black"> CellId final: 6447</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.522025,28.120195</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSoM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 918Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:37:37.163</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:37:37.163</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145821</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 2.62</font></p>
+ <p><font color="Black"> Transfer Time: 2.37</font></p>
+ <p><font color="Black"> Ip Service Time: 0.251</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.19</font></p>
+ <p><font color="Black"> EcIo AVG: -8.43</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+ <p><font color="Black"> CellId inicial: 6447</font></p>
+ <p><font color="Black"> CellId final: 6447</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.522025,28.120195</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 2600Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:38:57.154</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:38:57.154</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145829</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 4.53</font></p>
+ <p><font color="Black"> Transfer Time: 2.64</font></p>
+ <p><font color="Black"> Ip Service Time: 1.887</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -92.74</font></p>
+ <p><font color="Black"> EcIo AVG: -8.23</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+ <p><font color="Black"> CellId inicial: 6447</font></p>
+ <p><font color="Black"> CellId final: 6447</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.522025,28.120195</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 2161Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:39:07.105</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:39:07.105</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145830</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 3.56</font></p>
+ <p><font color="Black"> Transfer Time: 3.5</font></p>
+ <p><font color="Black"> Ip Service Time: 0.061</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -92.43</font></p>
+ <p><font color="Black"> EcIo AVG: -7.35</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+ <p><font color="Black"> CellId inicial: 6447</font></p>
+ <p><font color="Black"> CellId final: 6447</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.522025,28.120195</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Google</h3>
+ <p><font color="Black"> Throughput: 1016Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:40:52.182</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:40:52.182</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145837</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 2.62</font></p>
+ <p><font color="Black"> Transfer Time: 2.24</font></p>
+ <p><font color="Black"> Ip Service Time: 0.373</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.4</font></p>
+ <p><font color="Black"> EcIo AVG: -4.97</font></p>
+ <p><font color="Black"> SC inicial: 440</font></p>
+ <p><font color="Black"> SC final: 440</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+ <p><font color="Black"> CellId inicial: 14839</font></p>
+ <p><font color="Black"> CellId final: 14839</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5222083333333,28.119725</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Youtube</h3>
+ <p><font color="Black"> Throughput: 748Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:41:03.088</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:41:03.088</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145838</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 8.23</font></p>
+ <p><font color="Black"> Transfer Time: 7.67</font></p>
+ <p><font color="Black"> Ip Service Time: 0.558</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.89</font></p>
+ <p><font color="Black"> EcIo AVG: -5.48</font></p>
+ <p><font color="Black"> SC inicial: 440</font></p>
+ <p><font color="Black"> SC final: 440</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+ <p><font color="Black"> CellId inicial: 14839</font></p>
+ <p><font color="Black"> CellId final: 14839</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5224033333333,28.11954</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Ebay</h3>
+ <p><font color="Black"> Throughput: 1056Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:41:12.090</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:41:12.090</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145839</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 5.46</font></p>
+ <p><font color="Black"> Transfer Time: 4.71</font></p>
+ <p><font color="Black"> Ip Service Time: 0.752</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.47</font></p>
+ <p><font color="Black"> EcIo AVG: -6.95</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+ <p><font color="Black"> CellId inicial: 14839</font></p>
+ <p><font color="Black"> CellId final: 14839</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5224383333333,28.1193916666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSoM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 494Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:42:46.778</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:42:46.778</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145842</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 3.16</font></p>
+ <p><font color="Black"> Transfer Time: 1.74</font></p>
+ <p><font color="Black"> Ip Service Time: 1.418</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -87.72</font></p>
+ <p><font color="Black"> EcIo AVG: -8.24</font></p>
+ <p><font color="Black"> SC inicial: 440</font></p>
+ <p><font color="Black"> SC final: 440</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 14841</font></p>
+ <p><font color="Black"> CellId final: 14841</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5248333333333,28.118145</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 540Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:42:51.412</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:42:51.412</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145843</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 1.6</font></p>
+ <p><font color="Black"> Transfer Time: 1.45</font></p>
+ <p><font color="Black"> Ip Service Time: 0.149</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.8</font></p>
+ <p><font color="Black"> EcIo AVG: -5.81</font></p>
+ <p><font color="Black"> SC inicial: 440</font></p>
+ <p><font color="Black"> SC final: 440</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 14841</font></p>
+ <p><font color="Black"> CellId final: 14841</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5251366666667,28.11828</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 3376Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:44:01.266</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:44:01.266</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145851</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 2.39</font></p>
+ <p><font color="Black"> Transfer Time: 1.16</font></p>
+ <p><font color="Black"> Ip Service Time: 1.235</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83</font></p>
+ <p><font color="Black"> EcIo AVG: -5.29</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.52727,28.119285</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 5399Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:44:12.294</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:44:12.294</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145852</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 0.92</font></p>
+ <p><font color="Black"> Transfer Time: 0.72</font></p>
+ <p><font color="Black"> Ip Service Time: 0.195</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -74.7</font></p>
+ <p><font color="Black"> EcIo AVG: -4.7</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5277883333333,28.1192866666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBadM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 760Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:46:35.141</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:46:35.141</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145860</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 6.22</font></p>
+ <p><font color="Black"> Transfer Time: 2.88</font></p>
+ <p><font color="Black"> Ip Service Time: 3.342</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.59</font></p>
+ <p><font color="Black"> EcIo AVG: -7.65</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 440</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 14841</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5263833333333,28.118805</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSoM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 724Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:46:41.851</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:46:41.851</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145861</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 3.41</font></p>
+ <p><font color="Black"> Transfer Time: 3.05</font></p>
+ <p><font color="Black"> Ip Service Time: 0.355</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.2</font></p>
+ <p><font color="Black"> EcIo AVG: -5.99</font></p>
+ <p><font color="Black"> SC inicial: 440</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 14841</font></p>
+ <p><font color="Black"> CellId final: 14841</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5264033333333,28.118465</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 2294Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:47:54.509</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:47:54.509</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145869</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 5.27</font></p>
+ <p><font color="Black"> Transfer Time: 3.3</font></p>
+ <p><font color="Black"> Ip Service Time: 1.973</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -87.04</font></p>
+ <p><font color="Black"> EcIo AVG: -7.27</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5245433333333,28.1176233333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 2293Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:48:02.559</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:48:02.559</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145870</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 3.6</font></p>
+ <p><font color="Black"> Transfer Time: 3.3</font></p>
+ <p><font color="Black"> Ip Service Time: 0.297</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -81.84</font></p>
+ <p><font color="Black"> EcIo AVG: -7.58</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5247566666667,28.1177666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Google</h3>
+ <p><font color="Black"> Throughput: 1159Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:49:48.208</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:49:48.208</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145877</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 2.59</font></p>
+ <p><font color="Black"> Transfer Time: 1.97</font></p>
+ <p><font color="Black"> Ip Service Time: 0.622</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.68</font></p>
+ <p><font color="Black"> EcIo AVG: -4.96</font></p>
+ <p><font color="Black"> SC inicial: 440</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5236916666667,28.1167666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Youtube</h3>
+ <p><font color="Black"> Throughput: 863Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:49:58.091</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:49:58.091</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145878</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 6.4</font></p>
+ <p><font color="Black"> Transfer Time: 6.16</font></p>
+ <p><font color="Black"> Ip Service Time: 0.242</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84</font></p>
+ <p><font color="Black"> EcIo AVG: -6.23</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5235033333333,28.1171733333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Ebay</h3>
+ <p><font color="Black"> Throughput: 1015Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:50:06.766</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:50:06.766</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145879</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 5.8</font></p>
+ <p><font color="Black"> Transfer Time: 5.2</font></p>
+ <p><font color="Black"> Ip Service Time: 0.602</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -88.62</font></p>
+ <p><font color="Black"> EcIo AVG: -6.02</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5240283333333,28.117475</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSoM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 547Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:51:39.470</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:51:39.470</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145882</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 3.02</font></p>
+ <p><font color="Black"> Transfer Time: 1.57</font></p>
+ <p><font color="Black"> Ip Service Time: 1.454</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.19</font></p>
+ <p><font color="Black"> EcIo AVG: -6.32</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5231683333333,28.1188433333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 977Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:51:43.432</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:51:43.432</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145883</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 1.1</font></p>
+ <p><font color="Black"> Transfer Time: 0.88</font></p>
+ <p><font color="Black"> Ip Service Time: 0.217</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -82.99</font></p>
+ <p><font color="Black"> EcIo AVG: -5.07</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.523075,28.1189566666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 2323Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:52:57.155</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:52:57.155</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145891</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 3.64</font></p>
+ <p><font color="Black"> Transfer Time: 1.68</font></p>
+ <p><font color="Black"> Ip Service Time: 1.955</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -96.63</font></p>
+ <p><font color="Black"> EcIo AVG: -6.94</font></p>
+ <p><font color="Black"> SC inicial: 256</font></p>
+ <p><font color="Black"> SC final: 256</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4340</font></p>
+ <p><font color="Black"> CellId final: 4340</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5211316666667,28.11892</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 4498Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:53:06.625</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:53:06.625</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145892</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 1.05</font></p>
+ <p><font color="Black"> Transfer Time: 0.87</font></p>
+ <p><font color="Black"> Ip Service Time: 0.185</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -95.82</font></p>
+ <p><font color="Black"> EcIo AVG: -6.2</font></p>
+ <p><font color="Black"> SC inicial: 256</font></p>
+ <p><font color="Black"> SC final: 256</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4340</font></p>
+ <p><font color="Black"> CellId final: 4340</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5211316666667,28.11892</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBadM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 1086Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:55:26.335</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:55:26.335</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145900</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 3.74</font></p>
+ <p><font color="Black"> Transfer Time: 1.9</font></p>
+ <p><font color="Black"> Ip Service Time: 1.837</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -97.61</font></p>
+ <p><font color="Black"> EcIo AVG: -8.01</font></p>
+ <p><font color="Black"> SC inicial: 256</font></p>
+ <p><font color="Black"> SC final: 256</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4340</font></p>
+ <p><font color="Black"> CellId final: 4340</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5211316666667,28.11892</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSoM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 736Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:55:32.611</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:55:32.611</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145901</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 3.04</font></p>
+ <p><font color="Black"> Transfer Time: 2.72</font></p>
+ <p><font color="Black"> Ip Service Time: 0.316</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -95.97</font></p>
+ <p><font color="Black"> EcIo AVG: -6.66</font></p>
+ <p><font color="Black"> SC inicial: 256</font></p>
+ <p><font color="Black"> SC final: 256</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4340</font></p>
+ <p><font color="Black"> CellId final: 4340</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5211316666667,28.11892</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 3641Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:56:55.079</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:56:55.079</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145909</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 4.54</font></p>
+ <p><font color="Black"> Transfer Time: 2.08</font></p>
+ <p><font color="Black"> Ip Service Time: 2.463</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -97.05</font></p>
+ <p><font color="Black"> EcIo AVG: -7.52</font></p>
+ <p><font color="Black"> SC inicial: 256</font></p>
+ <p><font color="Black"> SC final: 256</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4340</font></p>
+ <p><font color="Black"> CellId final: 4340</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5211316666667,28.11892</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 2664Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:57:04.692</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:57:04.692</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145910</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 2.93</font></p>
+ <p><font color="Black"> Transfer Time: 2.84</font></p>
+ <p><font color="Black"> Ip Service Time: 0.091</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -96.23</font></p>
+ <p><font color="Black"> EcIo AVG: -6.9</font></p>
+ <p><font color="Black"> SC inicial: 256</font></p>
+ <p><font color="Black"> SC final: 256</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4340</font></p>
+ <p><font color="Black"> CellId final: 4340</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5211316666667,28.11892</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Google</h3>
+ <p><font color="Black"> Throughput: 685Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:58:54.209</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:58:54.209</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145917</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 4.12</font></p>
+ <p><font color="Black"> Transfer Time: 3.72</font></p>
+ <p><font color="Black"> Ip Service Time: 0.403</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -95.38</font></p>
+ <p><font color="Black"> EcIo AVG: -8.04</font></p>
+ <p><font color="Black"> SC inicial: 256</font></p>
+ <p><font color="Black"> SC final: 256</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4340</font></p>
+ <p><font color="Black"> CellId final: 4340</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5211316666667,28.11892</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Youtube</h3>
+ <p><font color="Black"> Throughput: 1024Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:59:03.213</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:59:03.213</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145918</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 5.66</font></p>
+ <p><font color="Black"> Transfer Time: 5.42</font></p>
+ <p><font color="Black"> Ip Service Time: 0.237</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -95.47</font></p>
+ <p><font color="Black"> EcIo AVG: -7.41</font></p>
+ <p><font color="Black"> SC inicial: 256</font></p>
+ <p><font color="Black"> SC final: 256</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4340</font></p>
+ <p><font color="Black"> CellId final: 4340</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5211316666667,28.11892</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Ebay</h3>
+ <p><font color="Black"> Throughput: 886Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 10:59:13.105</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 10:59:13.105</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145919</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 6.18</font></p>
+ <p><font color="Black"> Transfer Time: 5.48</font></p>
+ <p><font color="Black"> Ip Service Time: 0.694</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -92.63</font></p>
+ <p><font color="Black"> EcIo AVG: -7.26</font></p>
+ <p><font color="Black"> SC inicial: 256</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4340</font></p>
+ <p><font color="Black"> CellId final: 4340</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5208516666667,28.1189933333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBadM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 537Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:00:40.655</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:00:40.655</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145922</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 4</font></p>
+ <p><font color="Black"> Transfer Time: 1.58</font></p>
+ <p><font color="Black"> Ip Service Time: 2.419</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -82.25</font></p>
+ <p><font color="Black"> EcIo AVG: -8.42</font></p>
+ <p><font color="Black"> SC inicial: 464</font></p>
+ <p><font color="Black"> SC final: 258</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4332</font></p>
+ <p><font color="Black"> CellId final: 4342</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5173516666667,28.1200533333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 724Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:00:44.810</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:00:44.810</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145923</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 1.34</font></p>
+ <p><font color="Black"> Transfer Time: 1.14</font></p>
+ <p><font color="Black"> Ip Service Time: 0.197</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.27</font></p>
+ <p><font color="Black"> EcIo AVG: -5.57</font></p>
+ <p><font color="Black"> SC inicial: 258</font></p>
+ <p><font color="Black"> SC final: 258</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4342</font></p>
+ <p><font color="Black"> CellId final: 4342</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.51752,28.1198983333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 1870Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:02:03.799</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:02:03.799</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145931</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 3.6</font></p>
+ <p><font color="Black"> Transfer Time: 2.09</font></p>
+ <p><font color="Black"> Ip Service Time: 1.515</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -81.13</font></p>
+ <p><font color="Black"> EcIo AVG: -8.22</font></p>
+ <p><font color="Black"> SC inicial: 258</font></p>
+ <p><font color="Black"> SC final: 258</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+ <p><font color="Black"> CellId inicial: 15266</font></p>
+ <p><font color="Black"> CellId final: 15266</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5194683333333,28.1183116666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 3271Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:02:13.749</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:02:13.749</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145932</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 1.4</font></p>
+ <p><font color="Black"> Transfer Time: 1.2</font></p>
+ <p><font color="Black"> Ip Service Time: 0.2</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -74.71</font></p>
+ <p><font color="Black"> EcIo AVG: -5.89</font></p>
+ <p><font color="Black"> SC inicial: 258</font></p>
+ <p><font color="Black"> SC final: 258</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+ <p><font color="Black"> CellId inicial: 15266</font></p>
+ <p><font color="Black"> CellId final: 15266</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.51953,28.1186833333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBadM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 578Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:04:37.465</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:04:37.465</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145940</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 4.96</font></p>
+ <p><font color="Black"> Transfer Time: 3.53</font></p>
+ <p><font color="Black"> Ip Service Time: 1.436</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -55.79</font></p>
+ <p><font color="Black"> EcIo AVG: -7.11</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+ <p><font color="Black"> CellId inicial: 12308</font></p>
+ <p><font color="Black"> CellId final: 12308</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5229533333333,28.1207966666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBadM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 477Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:04:45.081</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:04:45.081</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145941</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 4.65</font></p>
+ <p><font color="Black"> Transfer Time: 4.46</font></p>
+ <p><font color="Black"> Ip Service Time: 0.191</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -56.38</font></p>
+ <p><font color="Black"> EcIo AVG: -6.11</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+ <p><font color="Black"> CellId inicial: 12308</font></p>
+ <p><font color="Black"> CellId final: 12308</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5229533333333,28.1207966666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 2549Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:06:16.696</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:06:16.696</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145949</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 4.99</font></p>
+ <p><font color="Black"> Transfer Time: 2.97</font></p>
+ <p><font color="Black"> Ip Service Time: 2.02</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -76.7</font></p>
+ <p><font color="Black"> EcIo AVG: -6.36</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+ <p><font color="Black"> CellId inicial: 6447</font></p>
+ <p><font color="Black"> CellId final: 6447</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5240933333333,28.1214516666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 2099Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:06:30.929</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:06:30.929</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145950</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 3.7</font></p>
+ <p><font color="Black"> Transfer Time: 3.6</font></p>
+ <p><font color="Black"> Ip Service Time: 0.097</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -81.92</font></p>
+ <p><font color="Black"> EcIo AVG: -4.67</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+ <p><font color="Black"> CellId inicial: 6447</font></p>
+ <p><font color="Black"> CellId final: 6447</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.524945,28.1218533333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Youtube</h3>
+ <p><font color="Black"> Throughput: 775Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:08:29.195</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:08:29.195</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145958</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 7.39</font></p>
+ <p><font color="Black"> Transfer Time: 6.96</font></p>
+ <p><font color="Black"> Ip Service Time: 0.428</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -99.89</font></p>
+ <p><font color="Black"> EcIo AVG: -7.03</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+ <p><font color="Black"> CellId inicial: 6447</font></p>
+ <p><font color="Black"> CellId final: 6447</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5253133333333,28.1208</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Ebay</h3>
+ <p><font color="Black"> Throughput: 1135Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:08:38.049</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:08:38.049</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145959</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 5.07</font></p>
+ <p><font color="Black"> Transfer Time: 4.38</font></p>
+ <p><font color="Black"> Ip Service Time: 0.691</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -94.45</font></p>
+ <p><font color="Black"> EcIo AVG: -6.04</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+ <p><font color="Black"> CellId inicial: 6447</font></p>
+ <p><font color="Black"> CellId final: 6447</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.524945,28.1205366666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSoM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 588Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:10:11.291</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:10:11.291</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145962</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 2.92</font></p>
+ <p><font color="Black"> Transfer Time: 1.33</font></p>
+ <p><font color="Black"> Ip Service Time: 1.59</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.33</font></p>
+ <p><font color="Black"> EcIo AVG: -7.69</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+ <p><font color="Black"> CellId inicial: 6447</font></p>
+ <p><font color="Black"> CellId final: 6447</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.524615,28.1193283333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGoodM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 538Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:10:16.696</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:10:16.696</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145963</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 2.43</font></p>
+ <p><font color="Black"> Transfer Time: 1.56</font></p>
+ <p><font color="Black"> Ip Service Time: 0.869</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.3</font></p>
+ <p><font color="Black"> EcIo AVG: -5.85</font></p>
+ <p><font color="Black"> SC inicial: 466</font></p>
+ <p><font color="Black"> SC final: 466</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+ <p><font color="Black"> CellId inicial: 6447</font></p>
+ <p><font color="Black"> CellId final: 6447</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.524905,28.1192066666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 3112Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:11:28.403</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:11:28.403</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145971</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 2.35</font></p>
+ <p><font color="Black"> Transfer Time: 1.26</font></p>
+ <p><font color="Black"> Ip Service Time: 1.096</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.95</font></p>
+ <p><font color="Black"> EcIo AVG: -6.62</font></p>
+ <p><font color="Black"> SC inicial: 467</font></p>
+ <p><font color="Black"> SC final: 467</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+ <p><font color="Black"> CellId inicial: 6448</font></p>
+ <p><font color="Black"> CellId final: 6448</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5256583333333,28.1192366666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 4442Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:11:36.295</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:11:36.295</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145972</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 1.06</font></p>
+ <p><font color="Black"> Transfer Time: 0.88</font></p>
+ <p><font color="Black"> Ip Service Time: 0.18</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.1</font></p>
+ <p><font color="Black"> EcIo AVG: -6.17</font></p>
+ <p><font color="Black"> SC inicial: 467</font></p>
+ <p><font color="Black"> SC final: 467</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+ <p><font color="Black"> CellId inicial: 6448</font></p>
+ <p><font color="Black"> CellId final: 6448</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5253116666667,28.119165</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBadM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 780Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:13:57.276</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:13:57.276</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145980</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 4.4</font></p>
+ <p><font color="Black"> Transfer Time: 2.65</font></p>
+ <p><font color="Black"> Ip Service Time: 1.756</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.3</font></p>
+ <p><font color="Black"> EcIo AVG: -6.35</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.52483,28.119225</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBadM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 585Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:14:04.386</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:14:04.386</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145981</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 4.19</font></p>
+ <p><font color="Black"> Transfer Time: 3.69</font></p>
+ <p><font color="Black"> Ip Service Time: 0.503</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -82.34</font></p>
+ <p><font color="Black"> EcIo AVG: -6.76</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5251,28.1190833333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 2918Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:15:14.361</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:15:14.361</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145989</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 4.44</font></p>
+ <p><font color="Black"> Transfer Time: 2.47</font></p>
+ <p><font color="Black"> Ip Service Time: 1.965</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -76.48</font></p>
+ <p><font color="Black"> EcIo AVG: -5.86</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.52616,28.1193283333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 1967Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:15:25.154</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:15:25.154</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145990</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 4.17</font></p>
+ <p><font color="Black"> Transfer Time: 3.85</font></p>
+ <p><font color="Black"> Ip Service Time: 0.318</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -74.64</font></p>
+ <p><font color="Black"> EcIo AVG: -4.9</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.52578,28.1192216666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Google</h3>
+ <p><font color="Black"> Throughput: 967Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:17:09.159</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:17:09.159</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145997</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 2.7</font></p>
+ <p><font color="Black"> Transfer Time: 2.3</font></p>
+ <p><font color="Black"> Ip Service Time: 0.396</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.58</font></p>
+ <p><font color="Black"> EcIo AVG: -4.94</font></p>
+ <p><font color="Black"> SC inicial: 467</font></p>
+ <p><font color="Black"> SC final: 467</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4339</font></p>
+ <p><font color="Black"> CellId final: 4339</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5253066666667,28.1192</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Youtube</h3>
+ <p><font color="Black"> Throughput: 850Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:17:18.894</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:17:18.894</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145998</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 6.79</font></p>
+ <p><font color="Black"> Transfer Time: 6.53</font></p>
+ <p><font color="Black"> Ip Service Time: 0.26</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.93</font></p>
+ <p><font color="Black"> EcIo AVG: -5.35</font></p>
+ <p><font color="Black"> SC inicial: 467</font></p>
+ <p><font color="Black"> SC final: 467</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4339</font></p>
+ <p><font color="Black"> CellId final: 4339</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5253066666667,28.1192</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Ebay</h3>
+ <p><font color="Black"> Throughput: 969Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:17:27.911</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:17:27.911</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 145999</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 5.93</font></p>
+ <p><font color="Black"> Transfer Time: 5.23</font></p>
+ <p><font color="Black"> Ip Service Time: 0.698</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.24</font></p>
+ <p><font color="Black"> EcIo AVG: -6.16</font></p>
+ <p><font color="Black"> SC inicial: 467</font></p>
+ <p><font color="Black"> SC final: 467</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4339</font></p>
+ <p><font color="Black"> CellId final: 4339</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5253066666667,28.1192</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSoM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 562Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:19:01.490</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:19:01.490</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 146002</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 2.55</font></p>
+ <p><font color="Black"> Transfer Time: 1.34</font></p>
+ <p><font color="Black"> Ip Service Time: 1.21</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.71</font></p>
+ <p><font color="Black"> EcIo AVG: -7.47</font></p>
+ <p><font color="Black"> SC inicial: 467</font></p>
+ <p><font color="Black"> SC final: 467</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4339</font></p>
+ <p><font color="Black"> CellId final: 4339</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5253066666667,28.1192</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGoodM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 668Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:19:05.902</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:19:05.902</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 146003</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 1.52</font></p>
+ <p><font color="Black"> Transfer Time: 1.28</font></p>
+ <p><font color="Black"> Ip Service Time: 0.234</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -82.56</font></p>
+ <p><font color="Black"> EcIo AVG: -5.89</font></p>
+ <p><font color="Black"> SC inicial: 467</font></p>
+ <p><font color="Black"> SC final: 467</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4339</font></p>
+ <p><font color="Black"> CellId final: 4339</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5253066666667,28.1192</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 2652Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:20:22.733</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:20:22.733</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 146011</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 2.82</font></p>
+ <p><font color="Black"> Transfer Time: 1.47</font></p>
+ <p><font color="Black"> Ip Service Time: 1.349</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -80.41</font></p>
+ <p><font color="Black"> EcIo AVG: -8.7</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.524425,28.1192216666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 3818Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:20:32.607</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:20:32.607</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 146012</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 1.21</font></p>
+ <p><font color="Black"> Transfer Time: 1.02</font></p>
+ <p><font color="Black"> Ip Service Time: 0.188</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -92.91</font></p>
+ <p><font color="Black"> EcIo AVG: -7.33</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5241033333333,28.1192066666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBadM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 837Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:22:51.006</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:22:51.006</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 146020</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 3.68</font></p>
+ <p><font color="Black"> Transfer Time: 2.42</font></p>
+ <p><font color="Black"> Ip Service Time: 1.26</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.24</font></p>
+ <p><font color="Black"> EcIo AVG: -5.17</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.523045,28.11896</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGoodM</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Mobile Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 1096Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:22:56.355</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:22:56.355</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 146021</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 2.27</font></p>
+ <p><font color="Black"> Transfer Time: 1.93</font></p>
+ <p><font color="Black"> Ip Service Time: 0.339</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.68</font></p>
+ <p><font color="Black"> EcIo AVG: -5.18</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.523045,28.11896</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 3758Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:24:06.258</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:24:06.258</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 146029</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 4.01</font></p>
+ <p><font color="Black"> Transfer Time: 2.02</font></p>
+ <p><font color="Black"> Ip Service Time: 1.994</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -71.12</font></p>
+ <p><font color="Black"> EcIo AVG: -4.4</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5227683333333,28.119515</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 2429Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:24:18.269</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:24:18.269</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 146030</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 3.12</font></p>
+ <p><font color="Black"> Transfer Time: 2.81</font></p>
+ <p><font color="Black"> Ip Service Time: 0.312</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -82.35</font></p>
+ <p><font color="Black"> EcIo AVG: -4.91</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.522725,28.119935</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Google</h3>
+ <p><font color="Black"> Throughput: 1240Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:26:02.746</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:26:02.746</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 146037</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 2.21</font></p>
+ <p><font color="Black"> Transfer Time: 1.82</font></p>
+ <p><font color="Black"> Ip Service Time: 0.39</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -95.09</font></p>
+ <p><font color="Black"> EcIo AVG: -6.55</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5215183333333,28.1199933333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Youtube</h3>
+ <p><font color="Black"> Throughput: 1074Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:26:11.341</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:26:11.341</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 146038</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 5.43</font></p>
+ <p><font color="Black"> Transfer Time: 5.18</font></p>
+ <p><font color="Black"> Ip Service Time: 0.252</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -93.17</font></p>
+ <p><font color="Black"> EcIo AVG: -6.2</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.521405,28.11998</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Ebay</h3>
+ <p><font color="Black"> Throughput: 1072Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:26:20.496</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:26:20.496</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 146039</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 5.67</font></p>
+ <p><font color="Black"> Transfer Time: 4.96</font></p>
+ <p><font color="Black"> Ip Service Time: 0.715</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.73</font></p>
+ <p><font color="Black"> EcIo AVG: -7.32</font></p>
+ <p><font color="Black"> SC inicial: 465</font></p>
+ <p><font color="Black"> SC final: 465</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 4333</font></p>
+ <p><font color="Black"> CellId final: 4333</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5212033333333,28.11991</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 0s Pause</h3>
+ <p><font color="Black"> Throughput: 1907Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:32:44.906</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:32:44.906</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 146069</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 6.22</font></p>
+ <p><font color="Black"> Transfer Time: 3.97</font></p>
+ <p><font color="Black"> Ip Service Time: 2.254</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.24</font></p>
+ <p><font color="Black"> EcIo AVG: -6.43</font></p>
+ <p><font color="Black"> SC inicial: 464</font></p>
+ <p><font color="Black"> SC final: 464</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 20200</font></p>
+ <p><font color="Black"> CellId final: 20200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.51708,28.1212833333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Kepler 30s Pause</h3>
+ <p><font color="Black"> Throughput: 2019Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-03 11:32:56.298</font></p>
+ <p><font color="Black"> Hora: 2017-04-03 11:32:56.298</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 146070</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Session Time: 3.81</font></p>
+ <p><font color="Black"> Transfer Time: 3.74</font></p>
+ <p><font color="Black"> Ip Service Time: 0.064</font></p>
+ <p><font color="Black"> Resolución DNS: 0</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -70.99</font></p>
+ <p><font color="Black"> EcIo AVG: -5.74</font></p>
+ <p><font color="Black"> SC inicial: 464</font></p>
+ <p><font color="Black"> SC final: 464</font></p>
+ <p><font color="Black"> LAC inicial: 55763</font></p>
+ <p><font color="Black"> LAC final: 55763</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+ <p><font color="Black"> CellId inicial: 20200</font></p>
+ <p><font color="Black"> CellId final: 20200</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.516915,28.121125</coordinates>
+</Point>
+</Placemark>
+<name>358672057235339</name>
+</Folder>
+<ScreenOverlay>
+<name>Absolute Positioning: Top Left</name>
+<Icon>
+<href>Leyenda_WEB_2x2.jpg</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="0.86" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>

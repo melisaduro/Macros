@@ -1,0 +1,41 @@
+Cliente: Sharing
+Scope :ok
+	
+Invalidaciones:
+	Paradas Tecnicas:no
+	Invalidado BurstFail MV datos, http youtube y url errónea
+
+Mallado	final:
+---------
+-- VOZ --
+---------
+ - CCSR	: mejora OSP y empeora YOI
+ - CDR	: ok
+ - SQNS : ok
+ - MOS  : ok
+ - CST	: ok
+
+
+-----------
+-- DATOS --
+-----------	
+ - D1: todos mejoran excepto vdf que se mantiene similar
+ - D2: empeora vdf
+ - D3: empeora vdf
+ - DL_NC: todos mejoran
+ - UL_NC: empeora vdf, el resto mejora
+ - LATENCIA: alto en todos excepto en OSP
+ - WEB: caídas en todos los operadores
+ - D5_ HTTP: ok
+ - D5_HTTPS: ok
+ - B2: empeora vdf
+ - B5: ok
+
+
+------------------------------------------------------------------------------------------------------------
+
+2º rev :
+
+	voz: ok verde
+
+	datos: ok amarillo, vdf empeora en UL aunque las condiciones radio son similares

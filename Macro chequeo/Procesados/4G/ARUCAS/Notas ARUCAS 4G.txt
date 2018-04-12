@@ -1,0 +1,53 @@
+Cliente: Sharing
+Scope :	OK
+Control de Acciones : 	
+
+Corrupta	20170403ADD_GC_ARUCAS_1_4G	VODAFONE NO REALIZA LLAMADA COMPLETADA
+Extraer logs cada 2h		REINICIO EL SYSTEMA
+Corrupta	20170403ADD_GC_ARUCAS_1_4G	VODAFONE NO REALIZA LLAMADA COMPLETADA
+Otros		APAGO EL EQUIPO Y LO VUELVO A ENCENDER
+OK	20170403ADD_GC_ARUCAS_1_4G	fin entidad
+
+
+
+	
+Invalidaciones: Wrong url el pais
+	
+
+Mallado	final: Hay una zona no mallada a la izda de la entidad para el contorno VDF.
+Se sigue adelante, porque es inviable la ampliación. 
+
+Cobertura:	
+---------
+-- VOZ --
+---------
+ - CCSR	: 3 Access fail en todos los operadores, salvo VDF. 
+ - CDR	: OK
+ - SQNS : OK, 1 para VDF.
+ - MOS  : OK, bajo para yoigo
+ - CST	: Un pelín alto ~ 7 s... 13.6 s establecimiento MOV.
+
+
+-----------
+-- DATOS --
+-----------	
+ - D1: OK
+ - D2: OK
+ - D3: OK
+ - DL_NC: OK
+ - UL_NC: OK
+ - LATENCIA: OK, sube un pelín para mov
+ - WEB:	OK
+ - D5_ HTTP : OK
+ - D5_HTTPS : OK
+ - B2: OK
+ - B5: OK
+
+
+------------------------------------------------------------------------------------------------------------
+
+2º rev :
+
+	voz : VERDE	
+
+	datos : VERDE

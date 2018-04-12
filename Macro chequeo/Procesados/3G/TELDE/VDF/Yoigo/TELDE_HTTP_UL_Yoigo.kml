@@ -1,0 +1,4287 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="IconoAwful">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBad">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBad">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSo">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGood">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGood">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoAwfulM">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBadM">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBadM">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSoM">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGoodM">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGoodM">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Folder>
+<name>Customer Experience</name>
+<Folder>
+<name>358672057638565</name>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2605Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 15:19:40.866</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 15:19:40.866</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.8</font></p>
+ <p><font color="Black"> DTX: 11.4%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 28%</font></p>
+ <p><font color="Black"> Transport Blocks: 9077</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -76.2</font></p>
+ <p><font color="Black"> EcIo AVG: -6.22</font></p>
+ <p><font color="Black"> CellId inicial: 41711</font></p>
+ <p><font color="Black"> CellId final: 41711</font></p>
+ <p><font color="Black"> SC inicial: 5</font></p>
+ <p><font color="Black"> SC final: 5</font></p>
+ <p><font color="Black"> LAC inicial: 3508</font></p>
+ <p><font color="Black"> LAC final: 3508</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.38957,27.9795933333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2146Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 15:23:45.512</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 15:23:45.512</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.2</font></p>
+ <p><font color="Black"> DTX: 7.6%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 12%</font></p>
+ <p><font color="Black"> Transport Blocks: 5982</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.03</font></p>
+ <p><font color="Black"> EcIo AVG: -6.12</font></p>
+ <p><font color="Black"> CellId inicial: 10082</font></p>
+ <p><font color="Black"> CellId final: 10082</font></p>
+ <p><font color="Black"> SC inicial: 113</font></p>
+ <p><font color="Black"> SC final: 113</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.38957,27.9795933333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 487Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 15:29:40.721</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 15:29:40.721</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 24.3</font></p>
+ <p><font color="Black"> DTX: 3.2%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 76%</font></p>
+ <p><font color="Black"> Transport Blocks: 1298</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -96.45</font></p>
+ <p><font color="Black"> EcIo AVG: -6.67</font></p>
+ <p><font color="Black"> CellId inicial: 10082</font></p>
+ <p><font color="Black"> CellId final: 10082</font></p>
+ <p><font color="Black"> SC inicial: 113</font></p>
+ <p><font color="Black"> SC final: 113</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3851366666667,27.9768033333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2380Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 15:33:57.176</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 15:33:57.176</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.8</font></p>
+ <p><font color="Black"> DTX: 7.6%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 13%</font></p>
+ <p><font color="Black"> Transport Blocks: 6551</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -82.18</font></p>
+ <p><font color="Black"> EcIo AVG: -4.58</font></p>
+ <p><font color="Black"> CellId inicial: 10082</font></p>
+ <p><font color="Black"> CellId final: 10082</font></p>
+ <p><font color="Black"> SC inicial: 113</font></p>
+ <p><font color="Black"> SC final: 113</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3801816666667,27.9806416666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2440Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 15:40:06.683</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 15:40:06.683</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.9</font></p>
+ <p><font color="Black"> DTX: 11.3%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 16%</font></p>
+ <p><font color="Black"> Transport Blocks: 6679</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.2</font></p>
+ <p><font color="Black"> EcIo AVG: -4.05</font></p>
+ <p><font color="Black"> CellId inicial: 10083</font></p>
+ <p><font color="Black"> CellId final: 10083</font></p>
+ <p><font color="Black"> SC inicial: 113</font></p>
+ <p><font color="Black"> SC final: 113</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3836066666667,27.9822466666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 536Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 15:44:44.216</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 15:44:44.216</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 27.6</font></p>
+ <p><font color="Black"> DTX: 2.1%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 97%</font></p>
+ <p><font color="Black"> Transport Blocks: 1410</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -103</font></p>
+ <p><font color="Black"> EcIo AVG: -6.13</font></p>
+ <p><font color="Black"> CellId inicial: 10082</font></p>
+ <p><font color="Black"> CellId final: 10082</font></p>
+ <p><font color="Black"> SC inicial: 105</font></p>
+ <p><font color="Black"> SC final: 105</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.37727,27.985355</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 518Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 15:50:21.470</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 15:50:21.470</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 27.9</font></p>
+ <p><font color="Black"> DTX: 2.2%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 97%</font></p>
+ <p><font color="Black"> Transport Blocks: 1350</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -103.1</font></p>
+ <p><font color="Black"> EcIo AVG: -6.64</font></p>
+ <p><font color="Black"> CellId inicial: 10082</font></p>
+ <p><font color="Black"> CellId final: 10082</font></p>
+ <p><font color="Black"> SC inicial: 105</font></p>
+ <p><font color="Black"> SC final: 105</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3772683333333,27.98535</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1134Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 15:54:58.293</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 15:54:58.293</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 28.5</font></p>
+ <p><font color="Black"> DTX: 3.6%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 90%</font></p>
+ <p><font color="Black"> Transport Blocks: 2998</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -95.85</font></p>
+ <p><font color="Black"> EcIo AVG: -6.97</font></p>
+ <p><font color="Black"> CellId inicial: 10082</font></p>
+ <p><font color="Black"> CellId final: 10082</font></p>
+ <p><font color="Black"> SC inicial: 105</font></p>
+ <p><font color="Black"> SC final: 105</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.377105,27.985745</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fallo</name>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 0Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 16:01:01.279</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 16:01:01.279</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 26.5</font></p>
+ <p><font color="Black"> DTX: 1.1%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 97%</font></p>
+ <p><font color="Black"> Transport Blocks: 935</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -102.7</font></p>
+ <p><font color="Black"> EcIo AVG: -7.27</font></p>
+ <p><font color="Black"> CellId inicial: 10082</font></p>
+ <p><font color="Black"> CellId final: 10082</font></p>
+ <p><font color="Black"> SC inicial: 105</font></p>
+ <p><font color="Black"> SC final: 105</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3786466666667,27.9813416666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fallo</name>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 0Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 16:05:25.816</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 16:05:25.816</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 25.1</font></p>
+ <p><font color="Black"> DTX: 1.6%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 92%</font></p>
+ <p><font color="Black"> Transport Blocks: 1024</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -95.75</font></p>
+ <p><font color="Black"> EcIo AVG: -8.77</font></p>
+ <p><font color="Black"> CellId inicial: 10083</font></p>
+ <p><font color="Black"> CellId final: 10083</font></p>
+ <p><font color="Black"> SC inicial: 113</font></p>
+ <p><font color="Black"> SC final: 113</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3931283333333,27.9805816666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2313Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 16:11:18.612</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 16:11:18.612</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.9</font></p>
+ <p><font color="Black"> DTX: 6.4%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 11%</font></p>
+ <p><font color="Black"> Transport Blocks: 6635</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.83</font></p>
+ <p><font color="Black"> EcIo AVG: -5.24</font></p>
+ <p><font color="Black"> CellId inicial: 10081</font></p>
+ <p><font color="Black"> CellId final: 10081</font></p>
+ <p><font color="Black"> SC inicial: 97</font></p>
+ <p><font color="Black"> SC final: 97</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3945416666667,27.99403</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fallo</name>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 0Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 16:16:30.671</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 16:16:30.671</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 19.8</font></p>
+ <p><font color="Black"> DTX: 29.1%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 75%</font></p>
+ <p><font color="Black"> Transport Blocks: 525</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -99.88</font></p>
+ <p><font color="Black"> EcIo AVG: -7.06</font></p>
+ <p><font color="Black"> CellId inicial: 10081</font></p>
+ <p><font color="Black"> CellId final: 10081</font></p>
+ <p><font color="Black"> SC inicial: 97</font></p>
+ <p><font color="Black"> SC final: 33</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4011666666667,27.9926216666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1310Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 16:22:15.523</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 16:22:15.523</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 27.6</font></p>
+ <p><font color="Black"> DTX: 5.2%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 34%</font></p>
+ <p><font color="Black"> Transport Blocks: 3746</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.84</font></p>
+ <p><font color="Black"> EcIo AVG: -6.24</font></p>
+ <p><font color="Black"> CellId inicial: 10083</font></p>
+ <p><font color="Black"> CellId final: 10083</font></p>
+ <p><font color="Black"> SC inicial: 113</font></p>
+ <p><font color="Black"> SC final: 113</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.399125,27.9902083333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fallo</name>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 0Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 16:27:23.384</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 16:27:23.384</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 23.6</font></p>
+ <p><font color="Black"> DTX: 8%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 90%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 10%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 90%</font></p>
+ <p><font color="Black"> Transport Blocks: 706</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -102.34</font></p>
+ <p><font color="Black"> EcIo AVG: -8.09</font></p>
+ <p><font color="Black"> CellId inicial: 10081</font></p>
+ <p><font color="Black"> CellId final: 10081</font></p>
+ <p><font color="Black"> SC inicial: 201</font></p>
+ <p><font color="Black"> SC final: 201</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3996533333333,27.9940433333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2426Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 16:33:00.298</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 16:33:00.298</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.9</font></p>
+ <p><font color="Black"> DTX: 10.1%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 17%</font></p>
+ <p><font color="Black"> Transport Blocks: 6498</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -72</font></p>
+ <p><font color="Black"> EcIo AVG: -3.39</font></p>
+ <p><font color="Black"> CellId inicial: 10082</font></p>
+ <p><font color="Black"> CellId final: 10082</font></p>
+ <p><font color="Black"> SC inicial: 105</font></p>
+ <p><font color="Black"> SC final: 105</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3910366666667,27.9934716666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2311Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 16:37:13.657</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 16:37:13.657</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.9</font></p>
+ <p><font color="Black"> DTX: 4.9%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 12%</font></p>
+ <p><font color="Black"> Transport Blocks: 6729</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.65</font></p>
+ <p><font color="Black"> EcIo AVG: -5.04</font></p>
+ <p><font color="Black"> CellId inicial: 10082</font></p>
+ <p><font color="Black"> CellId final: 10082</font></p>
+ <p><font color="Black"> SC inicial: 105</font></p>
+ <p><font color="Black"> SC final: 105</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3910683333333,27.9908833333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 816Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 16:42:51.062</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 16:42:51.062</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.5</font></p>
+ <p><font color="Black"> DTX: 2%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 93%</font></p>
+ <p><font color="Black"> Transport Blocks: 2027</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -92.63</font></p>
+ <p><font color="Black"> EcIo AVG: -5.79</font></p>
+ <p><font color="Black"> CellId inicial: 10081</font></p>
+ <p><font color="Black"> CellId final: 10081</font></p>
+ <p><font color="Black"> SC inicial: 97</font></p>
+ <p><font color="Black"> SC final: 97</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.411055,27.9978416666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2546Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 16:47:06.043</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 16:47:06.043</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30</font></p>
+ <p><font color="Black"> DTX: 10.4%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 22%</font></p>
+ <p><font color="Black"> Transport Blocks: 7340</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.08</font></p>
+ <p><font color="Black"> EcIo AVG: -4.15</font></p>
+ <p><font color="Black"> CellId inicial: 10013</font></p>
+ <p><font color="Black"> CellId final: 10013</font></p>
+ <p><font color="Black"> SC inicial: 161</font></p>
+ <p><font color="Black"> SC final: 161</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.424285,27.9939933333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fallo</name>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 0Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 16:53:52.013</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 16:53:52.013</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 21.6</font></p>
+ <p><font color="Black"> DTX: 2.7%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 41%</font></p>
+ <p><font color="Black"> Transport Blocks: 4162</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -92.92</font></p>
+ <p><font color="Black"> EcIo AVG: -12</font></p>
+ <p><font color="Black"> CellId inicial: 35082</font></p>
+ <p><font color="Black"> CellId final: 35082</font></p>
+ <p><font color="Black"> SC inicial: 157</font></p>
+ <p><font color="Black"> SC final: 157</font></p>
+ <p><font color="Black"> LAC inicial: 3508</font></p>
+ <p><font color="Black"> LAC final: 3508</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4210766666667,27.988855</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1109Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 16:58:31.701</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 16:58:31.701</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 27.5</font></p>
+ <p><font color="Black"> DTX: 5.3%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 15%</font></p>
+ <p><font color="Black"> Transport Blocks: 13100</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.82</font></p>
+ <p><font color="Black"> EcIo AVG: -12.63</font></p>
+ <p><font color="Black"> CellId inicial: 35082</font></p>
+ <p><font color="Black"> CellId final: 35082</font></p>
+ <p><font color="Black"> SC inicial: 157</font></p>
+ <p><font color="Black"> SC final: 157</font></p>
+ <p><font color="Black"> LAC inicial: 3508</font></p>
+ <p><font color="Black"> LAC final: 3508</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4209766666667,27.9887183333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 753Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 17:04:25.054</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 17:04:25.054</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 23.9</font></p>
+ <p><font color="Black"> DTX: 4.8%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 4%</font></p>
+ <p><font color="Black"> Transport Blocks: 2192</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -75.48</font></p>
+ <p><font color="Black"> EcIo AVG: -11.8</font></p>
+ <p><font color="Black"> CellId inicial: 45082</font></p>
+ <p><font color="Black"> CellId final: 45082</font></p>
+ <p><font color="Black"> SC inicial: 157</font></p>
+ <p><font color="Black"> SC final: 157</font></p>
+ <p><font color="Black"> LAC inicial: 3508</font></p>
+ <p><font color="Black"> LAC final: 3508</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4226016666667,27.9853133333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1114Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 17:08:39.784</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 17:08:39.784</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 27.7</font></p>
+ <p><font color="Black"> DTX: 5.6%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 8%</font></p>
+ <p><font color="Black"> Transport Blocks: 13609</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.76</font></p>
+ <p><font color="Black"> EcIo AVG: -12.02</font></p>
+ <p><font color="Black"> CellId inicial: 35082</font></p>
+ <p><font color="Black"> CellId final: 35082</font></p>
+ <p><font color="Black"> SC inicial: 157</font></p>
+ <p><font color="Black"> SC final: 157</font></p>
+ <p><font color="Black"> LAC inicial: 3508</font></p>
+ <p><font color="Black"> LAC final: 3508</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4198566666667,27.9860216666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1074Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 17:14:27.785</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 17:14:27.785</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 26.8</font></p>
+ <p><font color="Black"> DTX: 3.6%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 6%</font></p>
+ <p><font color="Black"> Transport Blocks: 12697</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.01</font></p>
+ <p><font color="Black"> EcIo AVG: -12.26</font></p>
+ <p><font color="Black"> CellId inicial: 35082</font></p>
+ <p><font color="Black"> CellId final: 35082</font></p>
+ <p><font color="Black"> SC inicial: 157</font></p>
+ <p><font color="Black"> SC final: 157</font></p>
+ <p><font color="Black"> LAC inicial: 3508</font></p>
+ <p><font color="Black"> LAC final: 3508</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4217916666667,27.99201</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 619Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 17:19:02.155</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 17:19:02.155</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 23.8</font></p>
+ <p><font color="Black"> DTX: 2.4%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 28%</font></p>
+ <p><font color="Black"> Transport Blocks: 8211</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.15</font></p>
+ <p><font color="Black"> EcIo AVG: -8.39</font></p>
+ <p><font color="Black"> CellId inicial: 45082</font></p>
+ <p><font color="Black"> CellId final: 45082</font></p>
+ <p><font color="Black"> SC inicial: 149</font></p>
+ <p><font color="Black"> SC final: 237</font></p>
+ <p><font color="Black"> LAC inicial: 3508</font></p>
+ <p><font color="Black"> LAC final: 3508</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4105083333333,27.9962583333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1103Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 17:24:37.224</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 17:24:37.224</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 28.8</font></p>
+ <p><font color="Black"> DTX: 7%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 75%</font></p>
+ <p><font color="Black"> Transport Blocks: 3261</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -92.5</font></p>
+ <p><font color="Black"> EcIo AVG: -6.27</font></p>
+ <p><font color="Black"> CellId inicial: 10014</font></p>
+ <p><font color="Black"> CellId final: 10014</font></p>
+ <p><font color="Black"> SC inicial: 145</font></p>
+ <p><font color="Black"> SC final: 145</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4152283333333,28.000635</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fallo</name>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 0Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 17:29:23.279</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 17:29:23.279</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 24.4</font></p>
+ <p><font color="Black"> DTX: 0.5%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 97%</font></p>
+ <p><font color="Black"> Transport Blocks: 545</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -105.14</font></p>
+ <p><font color="Black"> EcIo AVG: -8.54</font></p>
+ <p><font color="Black"> CellId inicial: 10014</font></p>
+ <p><font color="Black"> CellId final: 10014</font></p>
+ <p><font color="Black"> SC inicial: 145</font></p>
+ <p><font color="Black"> SC final: 145</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4178066666667,28.0011566666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2357Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 17:35:16.877</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 17:35:16.877</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.8</font></p>
+ <p><font color="Black"> DTX: 8.9%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 17%</font></p>
+ <p><font color="Black"> Transport Blocks: 7225</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -61.37</font></p>
+ <p><font color="Black"> EcIo AVG: -6.52</font></p>
+ <p><font color="Black"> CellId inicial: 10016</font></p>
+ <p><font color="Black"> CellId final: 10016</font></p>
+ <p><font color="Black"> SC inicial: 161</font></p>
+ <p><font color="Black"> SC final: 161</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4197416666667,27.996205</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 778Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 17:39:43.767</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 17:39:43.767</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 28</font></p>
+ <p><font color="Black"> DTX: 3.5%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 64%</font></p>
+ <p><font color="Black"> Transport Blocks: 10046</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -93.65</font></p>
+ <p><font color="Black"> EcIo AVG: -8.92</font></p>
+ <p><font color="Black"> CellId inicial: 10016</font></p>
+ <p><font color="Black"> CellId final: 10016</font></p>
+ <p><font color="Black"> SC inicial: 161</font></p>
+ <p><font color="Black"> SC final: 161</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4216633333333,27.9932783333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2506Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 17:45:34.338</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 17:45:34.338</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.4</font></p>
+ <p><font color="Black"> DTX: 12.6%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 18%</font></p>
+ <p><font color="Black"> Transport Blocks: 7382</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -72.68</font></p>
+ <p><font color="Black"> EcIo AVG: -5.11</font></p>
+ <p><font color="Black"> CellId inicial: 10016</font></p>
+ <p><font color="Black"> CellId final: 10016</font></p>
+ <p><font color="Black"> SC inicial: 161</font></p>
+ <p><font color="Black"> SC final: 161</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.418425,27.9957883333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2141Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 17:49:42.413</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 17:49:42.413</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.6</font></p>
+ <p><font color="Black"> DTX: 7.5%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 62%</font></p>
+ <p><font color="Black"> Transport Blocks: 6277</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -90.89</font></p>
+ <p><font color="Black"> EcIo AVG: -6.89</font></p>
+ <p><font color="Black"> CellId inicial: 10014</font></p>
+ <p><font color="Black"> CellId final: 10014</font></p>
+ <p><font color="Black"> SC inicial: 145</font></p>
+ <p><font color="Black"> SC final: 153</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.41383,27.9975816666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1725Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 18:07:12.480</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 18:07:12.480</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 27.7</font></p>
+ <p><font color="Black"> DTX: 6.5%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 10%</font></p>
+ <p><font color="Black"> Transport Blocks: 4795</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -80.26</font></p>
+ <p><font color="Black"> EcIo AVG: -8.06</font></p>
+ <p><font color="Black"> CellId inicial: 10014</font></p>
+ <p><font color="Black"> CellId final: 10014</font></p>
+ <p><font color="Black"> SC inicial: 145</font></p>
+ <p><font color="Black"> SC final: 145</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4175433333333,27.9982583333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1826Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 18:11:21.157</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 18:11:21.157</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 27.8</font></p>
+ <p><font color="Black"> DTX: 8.5%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 16%</font></p>
+ <p><font color="Black"> Transport Blocks: 5183</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -73.1</font></p>
+ <p><font color="Black"> EcIo AVG: -5.81</font></p>
+ <p><font color="Black"> CellId inicial: 10014</font></p>
+ <p><font color="Black"> CellId final: 10014</font></p>
+ <p><font color="Black"> SC inicial: 145</font></p>
+ <p><font color="Black"> SC final: 145</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.417435,27.9975183333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 764Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 18:16:59.786</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 18:16:59.786</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 26.7</font></p>
+ <p><font color="Black"> DTX: 2.4%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 42%</font></p>
+ <p><font color="Black"> Transport Blocks: 10031</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -94.31</font></p>
+ <p><font color="Black"> EcIo AVG: -7.17</font></p>
+ <p><font color="Black"> CellId inicial: 10015</font></p>
+ <p><font color="Black"> CellId final: 10015</font></p>
+ <p><font color="Black"> SC inicial: 153</font></p>
+ <p><font color="Black"> SC final: 145</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.41244,27.9989633333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 664Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 18:21:25.387</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 18:21:25.387</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 27.2</font></p>
+ <p><font color="Black"> DTX: 5.2%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 77%</font></p>
+ <p><font color="Black"> Transport Blocks: 1724</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -97.31</font></p>
+ <p><font color="Black"> EcIo AVG: -6.69</font></p>
+ <p><font color="Black"> CellId inicial: 10015</font></p>
+ <p><font color="Black"> CellId final: 10015</font></p>
+ <p><font color="Black"> SC inicial: 97</font></p>
+ <p><font color="Black"> SC final: 97</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.41231,27.99579</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fallo</name>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 0Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 18:27:55.662</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 18:27:55.662</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 21.1</font></p>
+ <p><font color="Black"> DTX: 11.3%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 94%</font></p>
+ <p><font color="Black"> Transport Blocks: 462</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -103.94</font></p>
+ <p><font color="Black"> EcIo AVG: -8.13</font></p>
+ <p><font color="Black"> CellId inicial: 10011</font></p>
+ <p><font color="Black"> CellId final: 10011</font></p>
+ <p><font color="Black"> SC inicial: 145</font></p>
+ <p><font color="Black"> SC final: 145</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4127466666667,28.0019233333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1329Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 18:32:18.296</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 18:32:18.296</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.2</font></p>
+ <p><font color="Black"> DTX: 23.2%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 66%</font></p>
+ <p><font color="Black"> Transport Blocks: 3928</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.63</font></p>
+ <p><font color="Black"> EcIo AVG: -7.68</font></p>
+ <p><font color="Black"> CellId inicial: 45062</font></p>
+ <p><font color="Black"> CellId final: 45021</font></p>
+ <p><font color="Black"> SC inicial: 347</font></p>
+ <p><font color="Black"> SC final: 308</font></p>
+ <p><font color="Black"> LAC inicial: 3508</font></p>
+ <p><font color="Black"> LAC final: 3508</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4122916666667,28.0047633333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 571Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 18:38:10.065</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 18:38:10.065</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 27.7</font></p>
+ <p><font color="Black"> DTX: 1.8%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 94%</font></p>
+ <p><font color="Black"> Transport Blocks: 1472</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -96.35</font></p>
+ <p><font color="Black"> EcIo AVG: -6.71</font></p>
+ <p><font color="Black"> CellId inicial: 10014</font></p>
+ <p><font color="Black"> CellId final: 10014</font></p>
+ <p><font color="Black"> SC inicial: 145</font></p>
+ <p><font color="Black"> SC final: 145</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4142083333333,27.999105</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 426Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 18:42:34.357</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 18:42:34.357</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 23.9</font></p>
+ <p><font color="Black"> DTX: 2.5%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 46%</font></p>
+ <p><font color="Black"> Transport Blocks: 7039</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -94.47</font></p>
+ <p><font color="Black"> EcIo AVG: -6.15</font></p>
+ <p><font color="Black"> CellId inicial: 10012</font></p>
+ <p><font color="Black"> CellId final: 10012</font></p>
+ <p><font color="Black"> SC inicial: 153</font></p>
+ <p><font color="Black"> SC final: 201</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4013166666667,27.9957566666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2098Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 18:48:11.987</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 18:48:11.987</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.6</font></p>
+ <p><font color="Black"> DTX: 8.4%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 52%</font></p>
+ <p><font color="Black"> Transport Blocks: 5958</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -90.89</font></p>
+ <p><font color="Black"> EcIo AVG: -5.7</font></p>
+ <p><font color="Black"> CellId inicial: 10081</font></p>
+ <p><font color="Black"> CellId final: 10081</font></p>
+ <p><font color="Black"> SC inicial: 201</font></p>
+ <p><font color="Black"> SC final: 201</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4025066666667,28.0001933333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 790Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 18:52:35.939</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 18:52:35.939</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 27.8</font></p>
+ <p><font color="Black"> DTX: 2.9%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 47%</font></p>
+ <p><font color="Black"> Transport Blocks: 10102</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -92.92</font></p>
+ <p><font color="Black"> EcIo AVG: -6.49</font></p>
+ <p><font color="Black"> CellId inicial: 10052</font></p>
+ <p><font color="Black"> CellId final: 10052</font></p>
+ <p><font color="Black"> SC inicial: 201</font></p>
+ <p><font color="Black"> SC final: 201</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4048233333333,28.00034</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 544Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 18:58:22.560</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 18:58:22.560</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 28.8</font></p>
+ <p><font color="Black"> DTX: 2.7%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 95%</font></p>
+ <p><font color="Black"> Transport Blocks: 1290</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -95.66</font></p>
+ <p><font color="Black"> EcIo AVG: -6.39</font></p>
+ <p><font color="Black"> CellId inicial: 10055</font></p>
+ <p><font color="Black"> CellId final: 10055</font></p>
+ <p><font color="Black"> SC inicial: 145</font></p>
+ <p><font color="Black"> SC final: 145</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4094666666667,27.999855</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 738Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 19:02:38.896</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 19:02:38.896</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 23.8</font></p>
+ <p><font color="Black"> DTX: 13.6%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 57%</font></p>
+ <p><font color="Black"> Transport Blocks: 1934</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -92.92</font></p>
+ <p><font color="Black"> EcIo AVG: -8.74</font></p>
+ <p><font color="Black"> CellId inicial: 10011</font></p>
+ <p><font color="Black"> CellId final: 10011</font></p>
+ <p><font color="Black"> SC inicial: 145</font></p>
+ <p><font color="Black"> SC final: 145</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4141566666667,27.99876</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 716Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 19:08:09.970</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 19:08:09.970</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.6</font></p>
+ <p><font color="Black"> DTX: 3.8%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 98%</font></p>
+ <p><font color="Black"> Transport Blocks: 1829</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -98.05</font></p>
+ <p><font color="Black"> EcIo AVG: -8.31</font></p>
+ <p><font color="Black"> CellId inicial: 10012</font></p>
+ <p><font color="Black"> CellId final: 10012</font></p>
+ <p><font color="Black"> SC inicial: 153</font></p>
+ <p><font color="Black"> SC final: 153</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4148033333333,27.991825</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 521Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 19:12:24.436</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 19:12:24.436</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 26</font></p>
+ <p><font color="Black"> DTX: 1.8%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 66%</font></p>
+ <p><font color="Black"> Transport Blocks: 6886</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -100.6</font></p>
+ <p><font color="Black"> EcIo AVG: -6.9</font></p>
+ <p><font color="Black"> CellId inicial: 10012</font></p>
+ <p><font color="Black"> CellId final: 10012</font></p>
+ <p><font color="Black"> SC inicial: 153</font></p>
+ <p><font color="Black"> SC final: 153</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.41163,27.98836</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fallo</name>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 0Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 19:18:33.256</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 19:18:33.256</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 27.4</font></p>
+ <p><font color="Black"> DTX: 8.7%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 96%</font></p>
+ <p><font color="Black"> Transport Blocks: 653</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -97.45</font></p>
+ <p><font color="Black"> EcIo AVG: -6.46</font></p>
+ <p><font color="Black"> CellId inicial: 10055</font></p>
+ <p><font color="Black"> CellId final: 10055</font></p>
+ <p><font color="Black"> SC inicial: 201</font></p>
+ <p><font color="Black"> SC final: 201</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.41192,27.9937966666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 509Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 19:22:47.205</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 19:22:47.205</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 28</font></p>
+ <p><font color="Black"> DTX: 2.1%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 98%</font></p>
+ <p><font color="Black"> Transport Blocks: 1325</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -100.52</font></p>
+ <p><font color="Black"> EcIo AVG: -6.69</font></p>
+ <p><font color="Black"> CellId inicial: 10086</font></p>
+ <p><font color="Black"> CellId final: 10086</font></p>
+ <p><font color="Black"> SC inicial: 153</font></p>
+ <p><font color="Black"> SC final: 153</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4104166666667,27.9913816666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fallo</name>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 0Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 19:28:49.303</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 19:28:49.303</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 15.8</font></p>
+ <p><font color="Black"> DTX: 15.3%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 84%</font></p>
+ <p><font color="Black"> Transport Blocks: 595</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -111.42</font></p>
+ <p><font color="Black"> EcIo AVG: -10.96</font></p>
+ <p><font color="Black"> CellId inicial: 10012</font></p>
+ <p><font color="Black"> CellId final: 10012</font></p>
+ <p><font color="Black"> SC inicial: 153</font></p>
+ <p><font color="Black"> SC final: 161</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4188433333333,27.9916716666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 487Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 19:33:06.747</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 19:33:06.747</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 25.9</font></p>
+ <p><font color="Black"> DTX: 1.4%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 71%</font></p>
+ <p><font color="Black"> Transport Blocks: 6329</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -95.62</font></p>
+ <p><font color="Black"> EcIo AVG: -6.37</font></p>
+ <p><font color="Black"> CellId inicial: 10012</font></p>
+ <p><font color="Black"> CellId final: 10012</font></p>
+ <p><font color="Black"> SC inicial: 153</font></p>
+ <p><font color="Black"> SC final: 153</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4181,27.9931516666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 961Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 19:38:24.327</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 19:38:24.327</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 27.9</font></p>
+ <p><font color="Black"> DTX: 3.6%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 5%</font></p>
+ <p><font color="Black"> Transport Blocks: 13395</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.62</font></p>
+ <p><font color="Black"> EcIo AVG: -7</font></p>
+ <p><font color="Black"> CellId inicial: 10081</font></p>
+ <p><font color="Black"> CellId final: 10081</font></p>
+ <p><font color="Black"> SC inicial: 97</font></p>
+ <p><font color="Black"> SC final: 97</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.41051,27.999275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1337Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 19:42:18.623</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 19:42:18.623</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 27</font></p>
+ <p><font color="Black"> DTX: 32.3%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 50%</font></p>
+ <p><font color="Black"> Transport Blocks: 5489</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -72.48</font></p>
+ <p><font color="Black"> EcIo AVG: -4.52</font></p>
+ <p><font color="Black"> CellId inicial: 10011</font></p>
+ <p><font color="Black"> CellId final: 10011</font></p>
+ <p><font color="Black"> SC inicial: 145</font></p>
+ <p><font color="Black"> SC final: 145</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4187966666667,27.9990816666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fallo</name>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 0Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 20:11:19.258</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 20:11:19.258</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 23.9</font></p>
+ <p><font color="Black"> DTX: 1.4%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 44%</font></p>
+ <p><font color="Black"> Transport Blocks: 7123</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -87.16</font></p>
+ <p><font color="Black"> EcIo AVG: -6.43</font></p>
+ <p><font color="Black"> CellId inicial: 10016</font></p>
+ <p><font color="Black"> CellId final: 10016</font></p>
+ <p><font color="Black"> SC inicial: 145</font></p>
+ <p><font color="Black"> SC final: 145</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.41173,28.0055583333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1207Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 20:25:05.046</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 20:25:05.046</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.5</font></p>
+ <p><font color="Black"> DTX: 3.9%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 54%</font></p>
+ <p><font color="Black"> Transport Blocks: 4835</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.84</font></p>
+ <p><font color="Black"> EcIo AVG: -4.58</font></p>
+ <p><font color="Black"> CellId inicial: 10084</font></p>
+ <p><font color="Black"> CellId final: 10084</font></p>
+ <p><font color="Black"> SC inicial: 97</font></p>
+ <p><font color="Black"> SC final: 97</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3997166666667,28.0032583333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3021Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 22:05:18.555</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 22:05:18.555</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.5</font></p>
+ <p><font color="Black"> DTX: 16.8%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 21%</font></p>
+ <p><font color="Black"> Transport Blocks: 8600</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -62.91</font></p>
+ <p><font color="Black"> EcIo AVG: -5.06</font></p>
+ <p><font color="Black"> CellId inicial: 27537</font></p>
+ <p><font color="Black"> CellId final: 27537</font></p>
+ <p><font color="Black"> SC inicial: 29</font></p>
+ <p><font color="Black"> SC final: 29</font></p>
+ <p><font color="Black"> LAC inicial: 3508</font></p>
+ <p><font color="Black"> LAC final: 3508</font></p>
+ <p><font color="Black"> UARFCN inicial: 3011</font></p>
+ <p><font color="Black"> UARFCN final: 3011</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3928316666667,27.9848316666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1653Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 22:09:23.394</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 22:09:23.394</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.2</font></p>
+ <p><font color="Black"> DTX: 55.9%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 6%</font></p>
+ <p><font color="Black"> Transport Blocks: 8693</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -61.39</font></p>
+ <p><font color="Black"> EcIo AVG: -5.6</font></p>
+ <p><font color="Black"> CellId inicial: 27537</font></p>
+ <p><font color="Black"> CellId final: 27537</font></p>
+ <p><font color="Black"> SC inicial: 29</font></p>
+ <p><font color="Black"> SC final: 29</font></p>
+ <p><font color="Black"> LAC inicial: 3508</font></p>
+ <p><font color="Black"> LAC final: 3508</font></p>
+ <p><font color="Black"> UARFCN inicial: 3011</font></p>
+ <p><font color="Black"> UARFCN final: 3011</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3928316666667,27.9848316666667</coordinates>
+</Point>
+</Placemark>
+<name>358672057638565</name>
+</Folder>
+</Folder>
+<Folder>
+<name>Network Capability</name>
+<Folder>
+<name>358672057638565</name>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2153Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 15:22:22.448</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 15:22:22.448</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 27.8</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 0%</font></p>
+ <p><font color="Black"> Transport Blocks: 5055</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.22</font></p>
+ <p><font color="Black"> EcIo AVG: -6.11</font></p>
+ <p><font color="Black"> CellId inicial: 10082</font></p>
+ <p><font color="Black"> CellId final: 10082</font></p>
+ <p><font color="Black"> SC inicial: 113</font></p>
+ <p><font color="Black"> SC final: 113</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.38957,27.9795933333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1716Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 15:26:29.833</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 15:26:29.833</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 27</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 10%</font></p>
+ <p><font color="Black"> Transport Blocks: 4076</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.44</font></p>
+ <p><font color="Black"> EcIo AVG: -6.35</font></p>
+ <p><font color="Black"> CellId inicial: 10082</font></p>
+ <p><font color="Black"> CellId final: 10082</font></p>
+ <p><font color="Black"> SC inicial: 113</font></p>
+ <p><font color="Black"> SC final: 113</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3905783333333,27.97829</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2194Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 15:32:34.690</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 15:32:34.690</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 28.4</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 4%</font></p>
+ <p><font color="Black"> Transport Blocks: 5469</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.1</font></p>
+ <p><font color="Black"> EcIo AVG: -5.58</font></p>
+ <p><font color="Black"> CellId inicial: 10082</font></p>
+ <p><font color="Black"> CellId final: 10082</font></p>
+ <p><font color="Black"> SC inicial: 113</font></p>
+ <p><font color="Black"> SC final: 113</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3892383333333,27.9797666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 178Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 15:37:05.417</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 15:37:05.417</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 22.5</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 99%</font></p>
+ <p><font color="Black"> Transport Blocks: 394</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -102.44</font></p>
+ <p><font color="Black"> EcIo AVG: -7.37</font></p>
+ <p><font color="Black"> CellId inicial: 10083</font></p>
+ <p><font color="Black"> CellId final: 10083</font></p>
+ <p><font color="Black"> SC inicial: 113</font></p>
+ <p><font color="Black"> SC final: 113</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.38158,27.9779</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 630Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 15:43:03.839</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 15:43:03.839</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 27.6</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 97%</font></p>
+ <p><font color="Black"> Transport Blocks: 1407</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -103.39</font></p>
+ <p><font color="Black"> EcIo AVG: -6.14</font></p>
+ <p><font color="Black"> CellId inicial: 10082</font></p>
+ <p><font color="Black"> CellId final: 10082</font></p>
+ <p><font color="Black"> SC inicial: 105</font></p>
+ <p><font color="Black"> SC final: 105</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.37727,27.985355</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 607Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 15:47:28.570</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 15:47:28.570</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 28.4</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 97%</font></p>
+ <p><font color="Black"> Transport Blocks: 1327</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -102.92</font></p>
+ <p><font color="Black"> EcIo AVG: -6.61</font></p>
+ <p><font color="Black"> CellId inicial: 10082</font></p>
+ <p><font color="Black"> CellId final: 10082</font></p>
+ <p><font color="Black"> SC inicial: 105</font></p>
+ <p><font color="Black"> SC final: 105</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3772683333333,27.98535</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 310Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 15:53:31.810</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 15:53:31.810</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 24.2</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 94%</font></p>
+ <p><font color="Black"> Transport Blocks: 669</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -103.08</font></p>
+ <p><font color="Black"> EcIo AVG: -7.89</font></p>
+ <p><font color="Black"> CellId inicial: 10082</font></p>
+ <p><font color="Black"> CellId final: 10082</font></p>
+ <p><font color="Black"> SC inicial: 105</font></p>
+ <p><font color="Black"> SC final: 105</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.375665,27.9853616666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 519Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 16:03:40.579</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 16:03:40.579</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 25.8</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 92%</font></p>
+ <p><font color="Black"> Transport Blocks: 1158</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -97.04</font></p>
+ <p><font color="Black"> EcIo AVG: -8.66</font></p>
+ <p><font color="Black"> CellId inicial: 10083</font></p>
+ <p><font color="Black"> CellId final: 10083</font></p>
+ <p><font color="Black"> SC inicial: 113</font></p>
+ <p><font color="Black"> SC final: 113</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3919033333333,27.9788416666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3036Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 16:08:20.285</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 16:08:20.285</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 0%</font></p>
+ <p><font color="Black"> Transport Blocks: 7173</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -62.13</font></p>
+ <p><font color="Black"> EcIo AVG: -4.68</font></p>
+ <p><font color="Black"> CellId inicial: 10083</font></p>
+ <p><font color="Black"> CellId final: 10083</font></p>
+ <p><font color="Black"> SC inicial: 113</font></p>
+ <p><font color="Black"> SC final: 113</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.39246,27.9894283333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 457Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 16:14:13.994</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 16:14:13.994</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 19.9</font></p>
+ <p><font color="Black"> DTX: 12.9%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 28%</font></p>
+ <p><font color="Black"> Transport Blocks: 1017</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -94.08</font></p>
+ <p><font color="Black"> EcIo AVG: -6.47</font></p>
+ <p><font color="Black"> CellId inicial: 10083</font></p>
+ <p><font color="Black"> CellId final: 10083</font></p>
+ <p><font color="Black"> SC inicial: 113</font></p>
+ <p><font color="Black"> SC final: 113</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3981133333333,27.9939416666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1936Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 16:19:17.349</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 16:19:17.349</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 28.2</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 0%</font></p>
+ <p><font color="Black"> Transport Blocks: 5106</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.68</font></p>
+ <p><font color="Black"> EcIo AVG: -5.01</font></p>
+ <p><font color="Black"> CellId inicial: 10083</font></p>
+ <p><font color="Black"> CellId final: 10083</font></p>
+ <p><font color="Black"> SC inicial: 113</font></p>
+ <p><font color="Black"> SC final: 113</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.39749,27.99057</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 251Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 16:24:57.896</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 16:24:57.896</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 23.4</font></p>
+ <p><font color="Black"> DTX: 8.9%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 93%</font></p>
+ <p><font color="Black"> Transport Blocks: 551</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -94.19</font></p>
+ <p><font color="Black"> EcIo AVG: -7.07</font></p>
+ <p><font color="Black"> CellId inicial: 10081</font></p>
+ <p><font color="Black"> CellId final: 10081</font></p>
+ <p><font color="Black"> SC inicial: 97</font></p>
+ <p><font color="Black"> SC final: 97</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3998933333333,27.99437</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2990Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 16:30:12.641</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 16:30:12.641</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.9</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 0%</font></p>
+ <p><font color="Black"> Transport Blocks: 7115</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -57.2</font></p>
+ <p><font color="Black"> EcIo AVG: -5.62</font></p>
+ <p><font color="Black"> CellId inicial: 10081</font></p>
+ <p><font color="Black"> CellId final: 10081</font></p>
+ <p><font color="Black"> SC inicial: 97</font></p>
+ <p><font color="Black"> SC final: 97</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.392355,27.9950616666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2774Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 16:35:47.644</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 16:35:47.644</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.8</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 0%</font></p>
+ <p><font color="Black"> Transport Blocks: 6928</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -59.48</font></p>
+ <p><font color="Black"> EcIo AVG: -4.2</font></p>
+ <p><font color="Black"> CellId inicial: 10082</font></p>
+ <p><font color="Black"> CellId final: 10082</font></p>
+ <p><font color="Black"> SC inicial: 105</font></p>
+ <p><font color="Black"> SC final: 105</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3904233333333,27.9927933333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2540Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 16:40:04.628</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 16:40:04.628</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.1</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 1%</font></p>
+ <p><font color="Black"> Transport Blocks: 6266</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.55</font></p>
+ <p><font color="Black"> EcIo AVG: -5.9</font></p>
+ <p><font color="Black"> CellId inicial: 10081</font></p>
+ <p><font color="Black"> CellId final: 10081</font></p>
+ <p><font color="Black"> SC inicial: 97</font></p>
+ <p><font color="Black"> SC final: 97</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3945333333333,27.9951733333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1272Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 16:45:44.864</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 16:45:44.864</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.6</font></p>
+ <p><font color="Black"> DTX: 2.3%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 1%</font></p>
+ <p><font color="Black"> Transport Blocks: 7021</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -73.75</font></p>
+ <p><font color="Black"> EcIo AVG: -4.8</font></p>
+ <p><font color="Black"> CellId inicial: 10011</font></p>
+ <p><font color="Black"> CellId final: 10011</font></p>
+ <p><font color="Black"> SC inicial: 145</font></p>
+ <p><font color="Black"> SC final: 145</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.41934,27.99913</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 217Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 16:49:58.865</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 16:49:58.865</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 21.9</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 97%</font></p>
+ <p><font color="Black"> Transport Blocks: 1746</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -110.94</font></p>
+ <p><font color="Black"> EcIo AVG: -9.67</font></p>
+ <p><font color="Black"> CellId inicial: 10081</font></p>
+ <p><font color="Black"> CellId final: 10013</font></p>
+ <p><font color="Black"> SC inicial: 161</font></p>
+ <p><font color="Black"> SC final: 161</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4247433333333,27.98992</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2808Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 16:56:56.068</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 16:56:56.068</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.8</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 48%</font></p>
+ <p><font color="Black"> Transport Blocks: 7083</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.63</font></p>
+ <p><font color="Black"> EcIo AVG: -12.31</font></p>
+ <p><font color="Black"> CellId inicial: 35082</font></p>
+ <p><font color="Black"> CellId final: 35082</font></p>
+ <p><font color="Black"> SC inicial: 157</font></p>
+ <p><font color="Black"> SC final: 157</font></p>
+ <p><font color="Black"> LAC inicial: 3508</font></p>
+ <p><font color="Black"> LAC final: 3508</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4219483333333,27.990105</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1040Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 17:07:09.203</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 17:07:09.203</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 26.6</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 43%</font></p>
+ <p><font color="Black"> Transport Blocks: 10614</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.18</font></p>
+ <p><font color="Black"> EcIo AVG: -12.42</font></p>
+ <p><font color="Black"> CellId inicial: 35082</font></p>
+ <p><font color="Black"> CellId final: 35082</font></p>
+ <p><font color="Black"> SC inicial: 157</font></p>
+ <p><font color="Black"> SC final: 157</font></p>
+ <p><font color="Black"> LAC inicial: 3508</font></p>
+ <p><font color="Black"> LAC final: 3508</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4185066666667,27.986945</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1310Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 17:11:26.608</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 17:11:26.608</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 27.4</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 0%</font></p>
+ <p><font color="Black"> Transport Blocks: 13618</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -65.13</font></p>
+ <p><font color="Black"> EcIo AVG: -11.6</font></p>
+ <p><font color="Black"> CellId inicial: 35083</font></p>
+ <p><font color="Black"> CellId final: 35083</font></p>
+ <p><font color="Black"> SC inicial: 157</font></p>
+ <p><font color="Black"> SC final: 157</font></p>
+ <p><font color="Black"> LAC inicial: 3508</font></p>
+ <p><font color="Black"> LAC final: 3508</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4185866666667,27.9944083333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1162Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 17:17:12.855</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 17:17:12.855</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 27.3</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 6%</font></p>
+ <p><font color="Black"> Transport Blocks: 13056</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -92.12</font></p>
+ <p><font color="Black"> EcIo AVG: -11.76</font></p>
+ <p><font color="Black"> CellId inicial: 45082</font></p>
+ <p><font color="Black"> CellId final: 45082</font></p>
+ <p><font color="Black"> SC inicial: 157</font></p>
+ <p><font color="Black"> SC final: 157</font></p>
+ <p><font color="Black"> LAC inicial: 3508</font></p>
+ <p><font color="Black"> LAC final: 3508</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4201133333333,27.9918083333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 481Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 17:21:55.050</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 17:21:55.050</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 24.4</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 97%</font></p>
+ <p><font color="Black"> Transport Blocks: 832</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -102.06</font></p>
+ <p><font color="Black"> EcIo AVG: -6.63</font></p>
+ <p><font color="Black"> CellId inicial: 10011</font></p>
+ <p><font color="Black"> CellId final: 10011</font></p>
+ <p><font color="Black"> SC inicial: 145</font></p>
+ <p><font color="Black"> SC final: 145</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4148233333333,28.00226</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 412Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 17:27:21.905</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 17:27:21.905</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 22.4</font></p>
+ <p><font color="Black"> DTX: 11.4%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 89%</font></p>
+ <p><font color="Black"> Transport Blocks: 979</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -100.68</font></p>
+ <p><font color="Black"> EcIo AVG: -8.91</font></p>
+ <p><font color="Black"> CellId inicial: 10014</font></p>
+ <p><font color="Black"> CellId final: 10014</font></p>
+ <p><font color="Black"> SC inicial: 145</font></p>
+ <p><font color="Black"> SC final: 145</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4194583333333,28.000575</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 278Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 17:32:15.976</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 17:32:15.976</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 24.8</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 97%</font></p>
+ <p><font color="Black"> Transport Blocks: 539</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -105.2</font></p>
+ <p><font color="Black"> EcIo AVG: -7.91</font></p>
+ <p><font color="Black"> CellId inicial: 10014</font></p>
+ <p><font color="Black"> CellId final: 10014</font></p>
+ <p><font color="Black"> SC inicial: 145</font></p>
+ <p><font color="Black"> SC final: 145</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4178066666667,28.0011566666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1217Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 17:38:07.709</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 17:38:07.709</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 28</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 0%</font></p>
+ <p><font color="Black"> Transport Blocks: 14327</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -73.07</font></p>
+ <p><font color="Black"> EcIo AVG: -6.64</font></p>
+ <p><font color="Black"> CellId inicial: 10015</font></p>
+ <p><font color="Black"> CellId final: 10015</font></p>
+ <p><font color="Black"> SC inicial: 153</font></p>
+ <p><font color="Black"> SC final: 153</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4191433333333,27.9948216666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 296Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 17:42:36.165</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 17:42:36.165</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 26.4</font></p>
+ <p><font color="Black"> DTX: 1.3%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 37%</font></p>
+ <p><font color="Black"> Transport Blocks: 2993</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -88.21</font></p>
+ <p><font color="Black"> EcIo AVG: -8.31</font></p>
+ <p><font color="Black"> CellId inicial: 10016</font></p>
+ <p><font color="Black"> CellId final: 10016</font></p>
+ <p><font color="Black"> SC inicial: 161</font></p>
+ <p><font color="Black"> SC final: 161</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4220816666667,27.9943666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3171Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 17:48:20.406</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 17:48:20.406</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.1</font></p>
+ <p><font color="Black"> DTX: 1.8%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 9%</font></p>
+ <p><font color="Black"> Transport Blocks: 9172</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.17</font></p>
+ <p><font color="Black"> EcIo AVG: -4</font></p>
+ <p><font color="Black"> CellId inicial: 10015</font></p>
+ <p><font color="Black"> CellId final: 10015</font></p>
+ <p><font color="Black"> SC inicial: 153</font></p>
+ <p><font color="Black"> SC final: 153</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.41575,27.996885</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 368Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 17:52:36.976</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 17:52:36.976</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 28.2</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 94%</font></p>
+ <p><font color="Black"> Transport Blocks: 775</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -96.24</font></p>
+ <p><font color="Black"> EcIo AVG: -6.29</font></p>
+ <p><font color="Black"> CellId inicial: 10015</font></p>
+ <p><font color="Black"> CellId final: 10015</font></p>
+ <p><font color="Black"> SC inicial: 153</font></p>
+ <p><font color="Black"> SC final: 153</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.413805,27.995075</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2684Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 18:10:00.482</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 18:10:00.482</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.8</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 0%</font></p>
+ <p><font color="Black"> Transport Blocks: 7321</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -82.78</font></p>
+ <p><font color="Black"> EcIo AVG: -6.54</font></p>
+ <p><font color="Black"> CellId inicial: 10014</font></p>
+ <p><font color="Black"> CellId final: 10014</font></p>
+ <p><font color="Black"> SC inicial: 145</font></p>
+ <p><font color="Black"> SC final: 145</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4175433333333,27.9982583333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2800Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 18:14:00.942</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 18:14:00.942</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.9</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 28%</font></p>
+ <p><font color="Black"> Transport Blocks: 7787</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -80.34</font></p>
+ <p><font color="Black"> EcIo AVG: -4.66</font></p>
+ <p><font color="Black"> CellId inicial: 10014</font></p>
+ <p><font color="Black"> CellId final: 10014</font></p>
+ <p><font color="Black"> SC inicial: 145</font></p>
+ <p><font color="Black"> SC final: 145</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4156783333333,27.99894</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1252Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 18:19:50.031</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 18:19:50.031</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.8</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 72%</font></p>
+ <p><font color="Black"> Transport Blocks: 3248</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -92.82</font></p>
+ <p><font color="Black"> EcIo AVG: -5.08</font></p>
+ <p><font color="Black"> CellId inicial: 10015</font></p>
+ <p><font color="Black"> CellId final: 10015</font></p>
+ <p><font color="Black"> SC inicial: 153</font></p>
+ <p><font color="Black"> SC final: 153</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.41261,27.9963366666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 466Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 18:24:19.061</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 18:24:19.061</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 27.6</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 98%</font></p>
+ <p><font color="Black"> Transport Blocks: 976</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -100.22</font></p>
+ <p><font color="Black"> EcIo AVG: -6.55</font></p>
+ <p><font color="Black"> CellId inicial: 10015</font></p>
+ <p><font color="Black"> CellId final: 10015</font></p>
+ <p><font color="Black"> SC inicial: 153</font></p>
+ <p><font color="Black"> SC final: 153</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4135516666667,27.99743</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 968Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 18:30:46.010</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 18:30:46.010</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.1</font></p>
+ <p><font color="Black"> DTX: 0.1%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 95%</font></p>
+ <p><font color="Black"> Transport Blocks: 2445</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -96.74</font></p>
+ <p><font color="Black"> EcIo AVG: -8.06</font></p>
+ <p><font color="Black"> CellId inicial: 39261</font></p>
+ <p><font color="Black"> CellId final: 39261</font></p>
+ <p><font color="Black"> SC inicial: 308</font></p>
+ <p><font color="Black"> SC final: 308</font></p>
+ <p><font color="Black"> LAC inicial: 3508</font></p>
+ <p><font color="Black"> LAC final: 3508</font></p>
+ <p><font color="Black"> UARFCN inicial: 10813</font></p>
+ <p><font color="Black"> UARFCN final: 10813</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.413475,28.005135</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2893Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 18:35:08.722</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 18:35:08.722</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 29.8</font></p>
+ <p><font color="Black"> DTX: 3.2%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 1%</font></p>
+ <p><font color="Black"> Transport Blocks: 8123</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -71.07</font></p>
+ <p><font color="Black"> EcIo AVG: -5.91</font></p>
+ <p><font color="Black"> CellId inicial: 35022</font></p>
+ <p><font color="Black"> CellId final: 35022</font></p>
+ <p><font color="Black"> SC inicial: 109</font></p>
+ <p><font color="Black"> SC final: 308</font></p>
+ <p><font color="Black"> LAC inicial: 3508</font></p>
+ <p><font color="Black"> LAC final: 3508</font></p>
+ <p><font color="Black"> UARFCN inicial: 10838</font></p>
+ <p><font color="Black"> UARFCN final: 10838</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4144483333333,28.0018383333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1560Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 18:40:52.894</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 18:40:52.894</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 28.6</font></p>
+ <p><font color="Black"> DTX: 2.6%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 35%</font></p>
+ <p><font color="Black"> Transport Blocks: 4738</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.74</font></p>
+ <p><font color="Black"> EcIo AVG: -5.64</font></p>
+ <p><font color="Black"> CellId inicial: 10015</font></p>
+ <p><font color="Black"> CellId final: 10015</font></p>
+ <p><font color="Black"> SC inicial: 153</font></p>
+ <p><font color="Black"> SC final: 97</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.40151,27.9973983333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1756Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 18:45:30.281</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 18:45:30.281</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 28.5</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 46%</font></p>
+ <p><font color="Black"> Transport Blocks: 4152</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.97</font></p>
+ <p><font color="Black"> EcIo AVG: -5.2</font></p>
+ <p><font color="Black"> CellId inicial: 10084</font></p>
+ <p><font color="Black"> CellId final: 10084</font></p>
+ <p><font color="Black"> SC inicial: 97</font></p>
+ <p><font color="Black"> SC final: 97</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.399705,27.9961466666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3551Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 18:50:55.338</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 18:50:55.338</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 5%</font></p>
+ <p><font color="Black"> Transport Blocks: 9299</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.62</font></p>
+ <p><font color="Black"> EcIo AVG: -4.3</font></p>
+ <p><font color="Black"> CellId inicial: 10052</font></p>
+ <p><font color="Black"> CellId final: 10052</font></p>
+ <p><font color="Black"> SC inicial: 201</font></p>
+ <p><font color="Black"> SC final: 201</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4017716666667,28.00067</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 699Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 19:01:04.627</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 19:01:04.627</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 24</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 78%</font></p>
+ <p><font color="Black"> Transport Blocks: 1519</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -94.56</font></p>
+ <p><font color="Black"> EcIo AVG: -6.47</font></p>
+ <p><font color="Black"> CellId inicial: 10011</font></p>
+ <p><font color="Black"> CellId final: 10011</font></p>
+ <p><font color="Black"> SC inicial: 145</font></p>
+ <p><font color="Black"> SC final: 145</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4125616666667,27.9992383333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 986Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 19:05:22.449</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 19:05:22.449</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.1</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 95%</font></p>
+ <p><font color="Black"> Transport Blocks: 2441</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.8</font></p>
+ <p><font color="Black"> EcIo AVG: -7.38</font></p>
+ <p><font color="Black"> CellId inicial: 10011</font></p>
+ <p><font color="Black"> CellId final: 10011</font></p>
+ <p><font color="Black"> SC inicial: 145</font></p>
+ <p><font color="Black"> SC final: 145</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4161066666667,27.9982933333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3505Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 19:10:48.732</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 19:10:48.732</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.3</font></p>
+ <p><font color="Black"> DTX: 0.8%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 8%</font></p>
+ <p><font color="Black"> Transport Blocks: 9476</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -75.32</font></p>
+ <p><font color="Black"> EcIo AVG: -4.33</font></p>
+ <p><font color="Black"> CellId inicial: 10012</font></p>
+ <p><font color="Black"> CellId final: 10012</font></p>
+ <p><font color="Black"> SC inicial: 153</font></p>
+ <p><font color="Black"> SC final: 153</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4122733333333,27.9907033333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 442Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 19:15:05.342</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 19:15:05.342</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 26.1</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 0%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 100%</font></p>
+ <p><font color="Black"> % TTI 2ms: 0%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 89%</font></p>
+ <p><font color="Black"> Transport Blocks: 5084</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -98.65</font></p>
+ <p><font color="Black"> EcIo AVG: -6.53</font></p>
+ <p><font color="Black"> CellId inicial: 10055</font></p>
+ <p><font color="Black"> CellId final: 10055</font></p>
+ <p><font color="Black"> SC inicial: 201</font></p>
+ <p><font color="Black"> SC final: 201</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.41192,27.9937966666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 735Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 19:21:11.814</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 19:21:11.814</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 28.6</font></p>
+ <p><font color="Black"> DTX: 0.1%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 89%</font></p>
+ <p><font color="Black"> Transport Blocks: 1581</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -94.6</font></p>
+ <p><font color="Black"> EcIo AVG: -5.93</font></p>
+ <p><font color="Black"> CellId inicial: 10084</font></p>
+ <p><font color="Black"> CellId final: 10084</font></p>
+ <p><font color="Black"> SC inicial: 97</font></p>
+ <p><font color="Black"> SC final: 201</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4095966666667,27.9925366666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 443Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 19:25:26.277</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 19:25:26.277</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 31.2</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 98%</font></p>
+ <p><font color="Black"> Transport Blocks: 898</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -101.13</font></p>
+ <p><font color="Black"> EcIo AVG: -6.66</font></p>
+ <p><font color="Black"> CellId inicial: 10015</font></p>
+ <p><font color="Black"> CellId final: 10015</font></p>
+ <p><font color="Black"> SC inicial: 153</font></p>
+ <p><font color="Black"> SC final: 153</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10563</font></p>
+ <p><font color="Black"> UARFCN final: 10563</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.414475,27.9914983333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 314Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 19:31:31.763</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 19:31:31.763</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 27</font></p>
+ <p><font color="Black"> DTX: 0.1%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 98%</font></p>
+ <p><font color="Black"> Transport Blocks: 594</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -102.53</font></p>
+ <p><font color="Black"> EcIo AVG: -8.02</font></p>
+ <p><font color="Black"> CellId inicial: 10012</font></p>
+ <p><font color="Black"> CellId final: 10012</font></p>
+ <p><font color="Black"> SC inicial: 153</font></p>
+ <p><font color="Black"> SC final: 153</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4185233333333,27.9914616666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1342Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 19:35:46.012</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 19:35:46.012</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.7</font></p>
+ <p><font color="Black"> DTX: 0.7%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 92%</font></p>
+ <p><font color="Black"> Transport Blocks: 3305</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.39</font></p>
+ <p><font color="Black"> EcIo AVG: -6.23</font></p>
+ <p><font color="Black"> CellId inicial: 10012</font></p>
+ <p><font color="Black"> CellId final: 10012</font></p>
+ <p><font color="Black"> SC inicial: 153</font></p>
+ <p><font color="Black"> SC final: 153</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4129966666667,27.9952766666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1036Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 19:41:01.163</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 19:41:01.163</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.4</font></p>
+ <p><font color="Black"> DTX: 0%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 100%</font></p>
+ <p><font color="Black"> Happy Rate: 89%</font></p>
+ <p><font color="Black"> Transport Blocks: 2345</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -94.11</font></p>
+ <p><font color="Black"> EcIo AVG: -7.47</font></p>
+ <p><font color="Black"> CellId inicial: 10011</font></p>
+ <p><font color="Black"> CellId final: 10011</font></p>
+ <p><font color="Black"> SC inicial: 145</font></p>
+ <p><font color="Black"> SC final: 145</font></p>
+ <p><font color="Black"> LAC inicial: 8001</font></p>
+ <p><font color="Black"> LAC final: 8001</font></p>
+ <p><font color="Black"> UARFCN inicial: 10588</font></p>
+ <p><font color="Black"> UARFCN final: 10588</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.4140833333333,27.9992583333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 778Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-03-31 22:08:00.769</font></p>
+ <p><font color="Black"> Hora: 2017-03-31 22:08:00.769</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057638565</font></p>
+ <p><font color="Black"> LogFile: 20170331_ADD_GC_TELDE_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Serving Grant: 30.8</font></p>
+ <p><font color="Black"> DTX: 86.2%</font></p>
+ <p><font color="Black"> % SF22: 0%</font></p>
+ <p><font color="Black"> % SF22andSF42: 100%</font></p>
+ <p><font color="Black"> % SF4: 0%</font></p>
+ <p><font color="Black"> % SF42: 0%</font></p>
+ <p><font color="Black"> % TTI 2ms: 100%</font></p>
+ <p><font color="Black"> % SHO: 0%</font></p>
+ <p><font color="Black"> Happy Rate: 0%</font></p>
+ <p><font color="Black"> Transport Blocks: 8097</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -63.42</font></p>
+ <p><font color="Black"> EcIo AVG: -6.15</font></p>
+ <p><font color="Black"> CellId inicial: 27537</font></p>
+ <p><font color="Black"> CellId final: 27537</font></p>
+ <p><font color="Black"> SC inicial: 29</font></p>
+ <p><font color="Black"> SC final: 29</font></p>
+ <p><font color="Black"> LAC inicial: 3508</font></p>
+ <p><font color="Black"> LAC final: 3508</font></p>
+ <p><font color="Black"> UARFCN inicial: 3011</font></p>
+ <p><font color="Black"> UARFCN final: 3011</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.3928316666667,27.9848316666667</coordinates>
+</Point>
+</Placemark>
+<name>358672057638565</name>
+</Folder>
+</Folder>
+<ScreenOverlay>
+<name>Absolute Positioning: Top Left</name>
+<Icon>
+<href>Leyenda_FTP_UL_2x2.jpg</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="0.86" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>

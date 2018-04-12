@@ -1,0 +1,41 @@
+Cliente: Sharing
+Scope :ok
+	
+Invalidaciones:
+	Paradas Tecnicas:
+	Invalidaciones por bloqueos y caídas en voz causados por la herramienta
+
+Mallado	final:ok, menos attempts en voz OSP y MOV porque hay bastantes system release
+---------
+-- VOZ --
+---------
+ - CCSR	: mejoran MV y YOI, OSP tiene 2 más
+ - CDR	: ok
+ - SQNS : ok
+ - MOS  : ok
+ - CST	: ok
+
+
+-----------
+-- DATOS --
+-----------	
+ - D1: OSP empeora 0.3M, el resto mejora
+ - D2: Yoi mejora bastante, el resto similar
+ - D3: YOI mejora, resto similar
+ - DL_NC: todos mejoran, YOI el que más
+ - UL_NC: todos mejoran, YOI el que más
+ - LATENCIA: alta en MV, ya lo estaba en la medida anterior
+ - WEB: algunos retainability en OSP y YOI
+ - D5_ HTTP: vdf el mejor con diferencia
+ - D5_HTTPS: vdf el mejor con diferencia
+ - B2: todos mejoran, YOI el que más
+ - B5: ok
+
+
+------------------------------------------------------------------------------------------------------------
+
+2º rev :
+
+	voz: ok amarillo, se ha tenido que remedir en contorno vdf porque había muchos system release en OSP y en MV y no se llegaba al scope
+
+	datos: ok verde

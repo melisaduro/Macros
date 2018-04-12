@@ -1,0 +1,3146 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="IconoAwful">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBad">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBad">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSo">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGood">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGood">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoAwfulM">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBadM">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBadM">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSoM">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGoodM">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGoodM">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Folder>
+<name>Customer Experience</name>
+<Folder>
+<name>358672057235339</name>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 5161Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 16:43:07.293</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 16:43:07.293</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.7</font></p>
+ <p><font color="Black"> HARQ: 4</font></p>
+ <p><font color="Black"> DTX DSCH: 49%</font></p>
+ <p><font color="Black"> % BLER: 9.9%</font></p>
+ <p><font color="Black"> % NACKs: 4.5%</font></p>
+ <p><font color="Black"> % SCCH: 54.7%</font></p>
+ <p><font color="Black"> % QPSK: 9.9%</font></p>
+ <p><font color="Black"> % 16QAM: 90.1%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -70.56</font></p>
+ <p><font color="Black"> EcIo AVG: -8.81</font></p>
+ <p><font color="Black"> CellId inicial: 13234</font></p>
+ <p><font color="Black"> CellId final: 13234</font></p>
+ <p><font color="Black"> SC inicial: 330</font></p>
+ <p><font color="Black"> SC final: 330</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.37197,28.331345</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3907Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 16:52:54.723</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 16:52:54.723</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 49%</font></p>
+ <p><font color="Black"> % BLER: 25.8%</font></p>
+ <p><font color="Black"> % NACKs: 12.7%</font></p>
+ <p><font color="Black"> % SCCH: 52.6%</font></p>
+ <p><font color="Black"> % QPSK: 39.8%</font></p>
+ <p><font color="Black"> % 16QAM: 49%</font></p>
+ <p><font color="Black"> % 64QAM: 11.2%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -63.33</font></p>
+ <p><font color="Black"> EcIo AVG: -7.65</font></p>
+ <p><font color="Black"> CellId inicial: 13234</font></p>
+ <p><font color="Black"> CellId final: 13234</font></p>
+ <p><font color="Black"> SC inicial: 330</font></p>
+ <p><font color="Black"> SC final: 330</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3715833333333,28.33513</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 10960Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 16:56:56.046</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 16:56:56.046</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.7</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 151%</font></p>
+ <p><font color="Black"> % BLER: 18.4%</font></p>
+ <p><font color="Black"> % NACKs: 10.3%</font></p>
+ <p><font color="Black"> % SCCH: 34.2%</font></p>
+ <p><font color="Black"> % QPSK: 5%</font></p>
+ <p><font color="Black"> % 16QAM: 42.7%</font></p>
+ <p><font color="Black"> % 64QAM: 52.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.21</font></p>
+ <p><font color="Black"> EcIo AVG: -5.94</font></p>
+ <p><font color="Black"> CellId inicial: 16977</font></p>
+ <p><font color="Black"> CellId final: 16977</font></p>
+ <p><font color="Black"> SC inicial: 318</font></p>
+ <p><font color="Black"> SC final: 318</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3691583333333,28.34424</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 5349Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 17:02:52.008</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 17:02:52.008</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.8</font></p>
+ <p><font color="Black"> HARQ: 4</font></p>
+ <p><font color="Black"> DTX DSCH: 47%</font></p>
+ <p><font color="Black"> % BLER: 21.3%</font></p>
+ <p><font color="Black"> % NACKs: 11.4%</font></p>
+ <p><font color="Black"> % SCCH: 50.8%</font></p>
+ <p><font color="Black"> % QPSK: 7.3%</font></p>
+ <p><font color="Black"> % 16QAM: 88.4%</font></p>
+ <p><font color="Black"> % 64QAM: 4.4%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.23</font></p>
+ <p><font color="Black"> EcIo AVG: -8.25</font></p>
+ <p><font color="Black"> CellId inicial: 15509</font></p>
+ <p><font color="Black"> CellId final: 15509</font></p>
+ <p><font color="Black"> SC inicial: 330</font></p>
+ <p><font color="Black"> SC final: 330</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3693016666667,28.3424283333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 5062Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 17:07:06.855</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 17:07:06.855</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 16.3</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 102%</font></p>
+ <p><font color="Black"> % BLER: 17.5%</font></p>
+ <p><font color="Black"> % NACKs: 17.6%</font></p>
+ <p><font color="Black"> % SCCH: 55.8%</font></p>
+ <p><font color="Black"> % QPSK: 60%</font></p>
+ <p><font color="Black"> % 16QAM: 38.5%</font></p>
+ <p><font color="Black"> % 64QAM: 1.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.82</font></p>
+ <p><font color="Black"> EcIo AVG: -9.47</font></p>
+ <p><font color="Black"> CellId inicial: 5379</font></p>
+ <p><font color="Black"> CellId final: 5379</font></p>
+ <p><font color="Black"> SC inicial: 313</font></p>
+ <p><font color="Black"> SC final: 313</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3725,28.3491016666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 7637Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 17:12:40.671</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 17:12:40.671</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.3</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 145%</font></p>
+ <p><font color="Black"> % BLER: 13.5%</font></p>
+ <p><font color="Black"> % NACKs: 8.4%</font></p>
+ <p><font color="Black"> % SCCH: 27.2%</font></p>
+ <p><font color="Black"> % QPSK: 12.7%</font></p>
+ <p><font color="Black"> % 16QAM: 82.8%</font></p>
+ <p><font color="Black"> % 64QAM: 4.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.46</font></p>
+ <p><font color="Black"> EcIo AVG: -6.29</font></p>
+ <p><font color="Black"> CellId inicial: 6178</font></p>
+ <p><font color="Black"> CellId final: 6178</font></p>
+ <p><font color="Black"> SC inicial: 313</font></p>
+ <p><font color="Black"> SC final: 316</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3710783333333,28.359485</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3548Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 17:22:53.130</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 17:22:53.130</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 18.4</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 132%</font></p>
+ <p><font color="Black"> % BLER: 23.8%</font></p>
+ <p><font color="Black"> % NACKs: 17.4%</font></p>
+ <p><font color="Black"> % SCCH: 43.7%</font></p>
+ <p><font color="Black"> % QPSK: 47.6%</font></p>
+ <p><font color="Black"> % 16QAM: 46.7%</font></p>
+ <p><font color="Black"> % 64QAM: 5.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -94.67</font></p>
+ <p><font color="Black"> EcIo AVG: -8.63</font></p>
+ <p><font color="Black"> CellId inicial: 6179</font></p>
+ <p><font color="Black"> CellId final: 6179</font></p>
+ <p><font color="Black"> SC inicial: 309</font></p>
+ <p><font color="Black"> SC final: 314</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3711316666667,28.3733866666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2968Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 17:27:05.327</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 17:27:05.327</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.9</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 66%</font></p>
+ <p><font color="Black"> % BLER: 23.9%</font></p>
+ <p><font color="Black"> % NACKs: 33.4%</font></p>
+ <p><font color="Black"> % SCCH: 72.7%</font></p>
+ <p><font color="Black"> % QPSK: 0.1%</font></p>
+ <p><font color="Black"> % 16QAM: 1.3%</font></p>
+ <p><font color="Black"> % 64QAM: 98.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.62</font></p>
+ <p><font color="Black"> EcIo AVG: -8.18</font></p>
+ <p><font color="Black"> CellId inicial: 40621</font></p>
+ <p><font color="Black"> CellId final: 40621</font></p>
+ <p><font color="Black"> SC inicial: 310</font></p>
+ <p><font color="Black"> SC final: 310</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3560583333333,28.3856666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 10018Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 17:33:22.622</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 17:33:22.622</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.7</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 123%</font></p>
+ <p><font color="Black"> % BLER: 18.7%</font></p>
+ <p><font color="Black"> % NACKs: 16.1%</font></p>
+ <p><font color="Black"> % SCCH: 49%</font></p>
+ <p><font color="Black"> % QPSK: 10.2%</font></p>
+ <p><font color="Black"> % 16QAM: 86.2%</font></p>
+ <p><font color="Black"> % 64QAM: 3.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.68</font></p>
+ <p><font color="Black"> EcIo AVG: -7.35</font></p>
+ <p><font color="Black"> CellId inicial: 27978</font></p>
+ <p><font color="Black"> CellId final: 27978</font></p>
+ <p><font color="Black"> SC inicial: 293</font></p>
+ <p><font color="Black"> SC final: 293</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3554433333333,28.3968983333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 13734Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 17:37:16.732</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 17:37:16.732</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.9</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 141%</font></p>
+ <p><font color="Black"> % BLER: 13.2%</font></p>
+ <p><font color="Black"> % NACKs: 9.3%</font></p>
+ <p><font color="Black"> % SCCH: 49.8%</font></p>
+ <p><font color="Black"> % QPSK: 5.1%</font></p>
+ <p><font color="Black"> % 16QAM: 51.2%</font></p>
+ <p><font color="Black"> % 64QAM: 43.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -88.74</font></p>
+ <p><font color="Black"> EcIo AVG: -6.68</font></p>
+ <p><font color="Black"> CellId inicial: 40791</font></p>
+ <p><font color="Black"> CellId final: 40791</font></p>
+ <p><font color="Black"> SC inicial: 293</font></p>
+ <p><font color="Black"> SC final: 293</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.35562,28.3968233333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 5275Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 17:42:58.745</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 17:42:58.745</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 17.9</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 105%</font></p>
+ <p><font color="Black"> % BLER: 15.5%</font></p>
+ <p><font color="Black"> % NACKs: 14.7%</font></p>
+ <p><font color="Black"> % SCCH: 64.3%</font></p>
+ <p><font color="Black"> % QPSK: 70.4%</font></p>
+ <p><font color="Black"> % 16QAM: 28.6%</font></p>
+ <p><font color="Black"> % 64QAM: 1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -88.57</font></p>
+ <p><font color="Black"> EcIo AVG: -6.68</font></p>
+ <p><font color="Black"> CellId inicial: 40791</font></p>
+ <p><font color="Black"> CellId final: 40791</font></p>
+ <p><font color="Black"> SC inicial: 293</font></p>
+ <p><font color="Black"> SC final: 292</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.35369,28.3986033333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3235Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 17:47:08.009</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 17:47:08.009</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 18.6</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 140%</font></p>
+ <p><font color="Black"> % BLER: 24%</font></p>
+ <p><font color="Black"> % NACKs: 15.8%</font></p>
+ <p><font color="Black"> % SCCH: 31.5%</font></p>
+ <p><font color="Black"> % QPSK: 33.9%</font></p>
+ <p><font color="Black"> % 16QAM: 60.8%</font></p>
+ <p><font color="Black"> % 64QAM: 5.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.58</font></p>
+ <p><font color="Black"> EcIo AVG: -9.33</font></p>
+ <p><font color="Black"> CellId inicial: 27977</font></p>
+ <p><font color="Black"> CellId final: 27977</font></p>
+ <p><font color="Black"> SC inicial: 292</font></p>
+ <p><font color="Black"> SC final: 292</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.350965,28.39494</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 12081Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 17:52:47.481</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 17:52:47.481</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.4</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 149%</font></p>
+ <p><font color="Black"> % BLER: 18.7%</font></p>
+ <p><font color="Black"> % NACKs: 9.4%</font></p>
+ <p><font color="Black"> % SCCH: 36.1%</font></p>
+ <p><font color="Black"> % QPSK: 3.1%</font></p>
+ <p><font color="Black"> % 16QAM: 16.3%</font></p>
+ <p><font color="Black"> % 64QAM: 80.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -67.22</font></p>
+ <p><font color="Black"> EcIo AVG: -6.29</font></p>
+ <p><font color="Black"> CellId inicial: 27977</font></p>
+ <p><font color="Black"> CellId final: 27977</font></p>
+ <p><font color="Black"> SC inicial: 292</font></p>
+ <p><font color="Black"> SC final: 292</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3494166666667,28.396545</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 11880Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 17:56:53.080</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 17:56:53.080</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.4</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 156%</font></p>
+ <p><font color="Black"> % BLER: 17%</font></p>
+ <p><font color="Black"> % NACKs: 8.3%</font></p>
+ <p><font color="Black"> % SCCH: 32.2%</font></p>
+ <p><font color="Black"> % QPSK: 2.8%</font></p>
+ <p><font color="Black"> % 16QAM: 31.1%</font></p>
+ <p><font color="Black"> % 64QAM: 66.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.13</font></p>
+ <p><font color="Black"> EcIo AVG: -6.11</font></p>
+ <p><font color="Black"> CellId inicial: 27977</font></p>
+ <p><font color="Black"> CellId final: 27977</font></p>
+ <p><font color="Black"> SC inicial: 292</font></p>
+ <p><font color="Black"> SC final: 292</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3478816666667,28.39946</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3118Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 18:02:41.944</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 18:02:41.944</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 16.1</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 111%</font></p>
+ <p><font color="Black"> % BLER: 18.6%</font></p>
+ <p><font color="Black"> % NACKs: 17.1%</font></p>
+ <p><font color="Black"> % SCCH: 50.4%</font></p>
+ <p><font color="Black"> % QPSK: 65.1%</font></p>
+ <p><font color="Black"> % 16QAM: 26.6%</font></p>
+ <p><font color="Black"> % 64QAM: 8.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -88.24</font></p>
+ <p><font color="Black"> EcIo AVG: -7.64</font></p>
+ <p><font color="Black"> CellId inicial: 40787</font></p>
+ <p><font color="Black"> CellId final: 40787</font></p>
+ <p><font color="Black"> SC inicial: 292</font></p>
+ <p><font color="Black"> SC final: 292</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.34821,28.393925</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 16588Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 18:06:49.668</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 18:06:49.668</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 28.3</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 156%</font></p>
+ <p><font color="Black"> % BLER: 18.2%</font></p>
+ <p><font color="Black"> % NACKs: 3.7%</font></p>
+ <p><font color="Black"> % SCCH: 28.7%</font></p>
+ <p><font color="Black"> % QPSK: 4%</font></p>
+ <p><font color="Black"> % 16QAM: 5.7%</font></p>
+ <p><font color="Black"> % 64QAM: 90.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -76.39</font></p>
+ <p><font color="Black"> EcIo AVG: -5.44</font></p>
+ <p><font color="Black"> CellId inicial: 40787</font></p>
+ <p><font color="Black"> CellId final: 40787</font></p>
+ <p><font color="Black"> SC inicial: 292</font></p>
+ <p><font color="Black"> SC final: 292</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.344495,28.3963883333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3701Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 18:12:34.465</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 18:12:34.465</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.2</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 84%</font></p>
+ <p><font color="Black"> % BLER: 19.6%</font></p>
+ <p><font color="Black"> % NACKs: 23.7%</font></p>
+ <p><font color="Black"> % SCCH: 73%</font></p>
+ <p><font color="Black"> % QPSK: 0.4%</font></p>
+ <p><font color="Black"> % 16QAM: 0.4%</font></p>
+ <p><font color="Black"> % 64QAM: 99.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -71.84</font></p>
+ <p><font color="Black"> EcIo AVG: -6.61</font></p>
+ <p><font color="Black"> CellId inicial: 14081</font></p>
+ <p><font color="Black"> CellId final: 14081</font></p>
+ <p><font color="Black"> SC inicial: 310</font></p>
+ <p><font color="Black"> SC final: 310</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3625483333333,28.3754183333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 9967Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 18:16:17.528</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 18:16:17.528</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.1</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 142%</font></p>
+ <p><font color="Black"> % BLER: 17.7%</font></p>
+ <p><font color="Black"> % NACKs: 11.5%</font></p>
+ <p><font color="Black"> % SCCH: 45.8%</font></p>
+ <p><font color="Black"> % QPSK: 8.3%</font></p>
+ <p><font color="Black"> % 16QAM: 87.1%</font></p>
+ <p><font color="Black"> % 64QAM: 4.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.78</font></p>
+ <p><font color="Black"> EcIo AVG: -7.66</font></p>
+ <p><font color="Black"> CellId inicial: 14080</font></p>
+ <p><font color="Black"> CellId final: 14080</font></p>
+ <p><font color="Black"> SC inicial: 315</font></p>
+ <p><font color="Black"> SC final: 315</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3617566666667,28.3776766666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 15365Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 18:21:52.948</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 18:21:52.948</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 29.2</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 161%</font></p>
+ <p><font color="Black"> % BLER: 13.6%</font></p>
+ <p><font color="Black"> % NACKs: 5.4%</font></p>
+ <p><font color="Black"> % SCCH: 27.1%</font></p>
+ <p><font color="Black"> % QPSK: 6.3%</font></p>
+ <p><font color="Black"> % 16QAM: 6.3%</font></p>
+ <p><font color="Black"> % 64QAM: 87.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -67.32</font></p>
+ <p><font color="Black"> EcIo AVG: -5.51</font></p>
+ <p><font color="Black"> CellId inicial: 14080</font></p>
+ <p><font color="Black"> CellId final: 14080</font></p>
+ <p><font color="Black"> SC inicial: 315</font></p>
+ <p><font color="Black"> SC final: 315</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3614366666667,28.3801583333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 6240Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 18:25:54.145</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 18:25:54.145</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.9</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 112%</font></p>
+ <p><font color="Black"> % BLER: 18.7%</font></p>
+ <p><font color="Black"> % NACKs: 17.2%</font></p>
+ <p><font color="Black"> % SCCH: 53.4%</font></p>
+ <p><font color="Black"> % QPSK: 72%</font></p>
+ <p><font color="Black"> % 16QAM: 27.2%</font></p>
+ <p><font color="Black"> % 64QAM: 0.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -76.89</font></p>
+ <p><font color="Black"> EcIo AVG: -6.07</font></p>
+ <p><font color="Black"> CellId inicial: 14082</font></p>
+ <p><font color="Black"> CellId final: 14082</font></p>
+ <p><font color="Black"> SC inicial: 319</font></p>
+ <p><font color="Black"> SC final: 317</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.36205,28.3768216666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 12061Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 18:31:25.865</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 18:31:25.865</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.6</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 141%</font></p>
+ <p><font color="Black"> % BLER: 17.9%</font></p>
+ <p><font color="Black"> % NACKs: 12.2%</font></p>
+ <p><font color="Black"> % SCCH: 41.3%</font></p>
+ <p><font color="Black"> % QPSK: 4.9%</font></p>
+ <p><font color="Black"> % 16QAM: 56.2%</font></p>
+ <p><font color="Black"> % 64QAM: 38.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -60.21</font></p>
+ <p><font color="Black"> EcIo AVG: -6.2</font></p>
+ <p><font color="Black"> CellId inicial: 40650</font></p>
+ <p><font color="Black"> CellId final: 40650</font></p>
+ <p><font color="Black"> SC inicial: 311</font></p>
+ <p><font color="Black"> SC final: 311</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3636766666667,28.37335</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 17908Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 18:35:24.273</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 18:35:24.273</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 28.6</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 158%</font></p>
+ <p><font color="Black"> % BLER: 11.9%</font></p>
+ <p><font color="Black"> % NACKs: 4.5%</font></p>
+ <p><font color="Black"> % SCCH: 29%</font></p>
+ <p><font color="Black"> % QPSK: 4.6%</font></p>
+ <p><font color="Black"> % 16QAM: 5%</font></p>
+ <p><font color="Black"> % 64QAM: 90.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -69.36</font></p>
+ <p><font color="Black"> EcIo AVG: -5.66</font></p>
+ <p><font color="Black"> CellId inicial: 14083</font></p>
+ <p><font color="Black"> CellId final: 14083</font></p>
+ <p><font color="Black"> SC inicial: 321</font></p>
+ <p><font color="Black"> SC final: 321</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.365635,28.3672983333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 10701Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 18:41:02.934</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 18:41:02.934</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.6</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 131%</font></p>
+ <p><font color="Black"> % BLER: 19.5%</font></p>
+ <p><font color="Black"> % NACKs: 14.2%</font></p>
+ <p><font color="Black"> % SCCH: 47.1%</font></p>
+ <p><font color="Black"> % QPSK: 13.5%</font></p>
+ <p><font color="Black"> % 16QAM: 77.4%</font></p>
+ <p><font color="Black"> % 64QAM: 9.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.94</font></p>
+ <p><font color="Black"> EcIo AVG: -6.12</font></p>
+ <p><font color="Black"> CellId inicial: 14085</font></p>
+ <p><font color="Black"> CellId final: 14085</font></p>
+ <p><font color="Black"> SC inicial: 322</font></p>
+ <p><font color="Black"> SC final: 322</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3653933333333,28.3634566666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 10435Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 18:45:19.311</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 18:45:19.311</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.9</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 129%</font></p>
+ <p><font color="Black"> % BLER: 16.6%</font></p>
+ <p><font color="Black"> % NACKs: 14.1%</font></p>
+ <p><font color="Black"> % SCCH: 46.7%</font></p>
+ <p><font color="Black"> % QPSK: 42.4%</font></p>
+ <p><font color="Black"> % 16QAM: 9.5%</font></p>
+ <p><font color="Black"> % 64QAM: 48.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -69.46</font></p>
+ <p><font color="Black"> EcIo AVG: -7.7</font></p>
+ <p><font color="Black"> CellId inicial: 40650</font></p>
+ <p><font color="Black"> CellId final: 40650</font></p>
+ <p><font color="Black"> SC inicial: 311</font></p>
+ <p><font color="Black"> SC final: 311</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3639733333333,28.369855</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 7880Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 18:54:45.942</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 18:54:45.942</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.1</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 147%</font></p>
+ <p><font color="Black"> % BLER: 18.4%</font></p>
+ <p><font color="Black"> % NACKs: 9.9%</font></p>
+ <p><font color="Black"> % SCCH: 38%</font></p>
+ <p><font color="Black"> % QPSK: 7.6%</font></p>
+ <p><font color="Black"> % 16QAM: 67.7%</font></p>
+ <p><font color="Black"> % 64QAM: 24.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -81.11</font></p>
+ <p><font color="Black"> EcIo AVG: -6.5</font></p>
+ <p><font color="Black"> CellId inicial: 14080</font></p>
+ <p><font color="Black"> CellId final: 14080</font></p>
+ <p><font color="Black"> SC inicial: 315</font></p>
+ <p><font color="Black"> SC final: 315</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3620983333333,28.380195</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1595Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 19:01:29.014</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 19:01:29.014</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 11.5</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 133%</font></p>
+ <p><font color="Black"> % BLER: 15.5%</font></p>
+ <p><font color="Black"> % NACKs: 11%</font></p>
+ <p><font color="Black"> % SCCH: 48.1%</font></p>
+ <p><font color="Black"> % QPSK: 92.2%</font></p>
+ <p><font color="Black"> % 16QAM: 7.8%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -98.69</font></p>
+ <p><font color="Black"> EcIo AVG: -8.86</font></p>
+ <p><font color="Black"> CellId inicial: 26876</font></p>
+ <p><font color="Black"> CellId final: 26876</font></p>
+ <p><font color="Black"> SC inicial: 309</font></p>
+ <p><font color="Black"> SC final: 309</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.37182,28.3790683333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 8422Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 19:05:49.160</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 19:05:49.160</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.5</font></p>
+ <p><font color="Black"> HARQ: 4</font></p>
+ <p><font color="Black"> DTX DSCH: 65%</font></p>
+ <p><font color="Black"> % BLER: 18%</font></p>
+ <p><font color="Black"> % NACKs: 7.1%</font></p>
+ <p><font color="Black"> % SCCH: 33%</font></p>
+ <p><font color="Black"> % QPSK: 1.3%</font></p>
+ <p><font color="Black"> % 16QAM: 25.6%</font></p>
+ <p><font color="Black"> % 64QAM: 73.1%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -63</font></p>
+ <p><font color="Black"> EcIo AVG: -6.08</font></p>
+ <p><font color="Black"> CellId inicial: 31846</font></p>
+ <p><font color="Black"> CellId final: 31846</font></p>
+ <p><font color="Black"> SC inicial: 309</font></p>
+ <p><font color="Black"> SC final: 309</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.367715,28.3775533333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 7259Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 19:11:19.822</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 19:11:19.822</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 16.7</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 114%</font></p>
+ <p><font color="Black"> % BLER: 16.3%</font></p>
+ <p><font color="Black"> % NACKs: 15.2%</font></p>
+ <p><font color="Black"> % SCCH: 49.8%</font></p>
+ <p><font color="Black"> % QPSK: 44.4%</font></p>
+ <p><font color="Black"> % 16QAM: 55.2%</font></p>
+ <p><font color="Black"> % 64QAM: 0.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -90.73</font></p>
+ <p><font color="Black"> EcIo AVG: -8.15</font></p>
+ <p><font color="Black"> CellId inicial: 26876</font></p>
+ <p><font color="Black"> CellId final: 26876</font></p>
+ <p><font color="Black"> SC inicial: 309</font></p>
+ <p><font color="Black"> SC final: 316</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.36829,28.3692783333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 9764Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 19:20:54.761</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 19:20:54.761</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.7</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 141%</font></p>
+ <p><font color="Black"> % BLER: 19%</font></p>
+ <p><font color="Black"> % NACKs: 10.1%</font></p>
+ <p><font color="Black"> % SCCH: 36.6%</font></p>
+ <p><font color="Black"> % QPSK: 7%</font></p>
+ <p><font color="Black"> % 16QAM: 40.1%</font></p>
+ <p><font color="Black"> % 64QAM: 52.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.21</font></p>
+ <p><font color="Black"> EcIo AVG: -7.16</font></p>
+ <p><font color="Black"> CellId inicial: 5380</font></p>
+ <p><font color="Black"> CellId final: 5380</font></p>
+ <p><font color="Black"> SC inicial: 314</font></p>
+ <p><font color="Black"> SC final: 314</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.37469,28.3580016666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 10445Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 19:24:57.687</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 19:24:57.687</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.9</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 126%</font></p>
+ <p><font color="Black"> % BLER: 27.6%</font></p>
+ <p><font color="Black"> % NACKs: 19.9%</font></p>
+ <p><font color="Black"> % SCCH: 48.5%</font></p>
+ <p><font color="Black"> % QPSK: 1.7%</font></p>
+ <p><font color="Black"> % 16QAM: 61.9%</font></p>
+ <p><font color="Black"> % 64QAM: 36.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -92.77</font></p>
+ <p><font color="Black"> EcIo AVG: -8.13</font></p>
+ <p><font color="Black"> CellId inicial: 5379</font></p>
+ <p><font color="Black"> CellId final: 5379</font></p>
+ <p><font color="Black"> SC inicial: 313</font></p>
+ <p><font color="Black"> SC final: 313</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.371015,28.3553233333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 14098Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 19:30:20.270</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 19:30:20.270</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 28.2</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 144%</font></p>
+ <p><font color="Black"> % BLER: 20.2%</font></p>
+ <p><font color="Black"> % NACKs: 11.7%</font></p>
+ <p><font color="Black"> % SCCH: 31%</font></p>
+ <p><font color="Black"> % QPSK: 3.8%</font></p>
+ <p><font color="Black"> % 16QAM: 4.4%</font></p>
+ <p><font color="Black"> % 64QAM: 91.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -67.58</font></p>
+ <p><font color="Black"> EcIo AVG: -6.99</font></p>
+ <p><font color="Black"> CellId inicial: 5379</font></p>
+ <p><font color="Black"> CellId final: 5379</font></p>
+ <p><font color="Black"> SC inicial: 313</font></p>
+ <p><font color="Black"> SC final: 313</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3697183333333,28.3562183333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 8915Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 19:34:06.040</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 19:34:06.040</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.6</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 127%</font></p>
+ <p><font color="Black"> % BLER: 28%</font></p>
+ <p><font color="Black"> % NACKs: 20.7%</font></p>
+ <p><font color="Black"> % SCCH: 46.7%</font></p>
+ <p><font color="Black"> % QPSK: 10.1%</font></p>
+ <p><font color="Black"> % 16QAM: 65.7%</font></p>
+ <p><font color="Black"> % 64QAM: 24.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -66.12</font></p>
+ <p><font color="Black"> EcIo AVG: -8.08</font></p>
+ <p><font color="Black"> CellId inicial: 6178</font></p>
+ <p><font color="Black"> CellId final: 6178</font></p>
+ <p><font color="Black"> SC inicial: 323</font></p>
+ <p><font color="Black"> SC final: 323</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3688133333333,28.3619566666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 7764Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 19:39:42.114</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 19:39:42.114</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 28.4</font></p>
+ <p><font color="Black"> HARQ: 7</font></p>
+ <p><font color="Black"> DTX DSCH: 166%</font></p>
+ <p><font color="Black"> % BLER: 21.9%</font></p>
+ <p><font color="Black"> % NACKs: 8.9%</font></p>
+ <p><font color="Black"> % SCCH: 16%</font></p>
+ <p><font color="Black"> % QPSK: 6.3%</font></p>
+ <p><font color="Black"> % 16QAM: 7.7%</font></p>
+ <p><font color="Black"> % 64QAM: 86%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -64</font></p>
+ <p><font color="Black"> EcIo AVG: -5.18</font></p>
+ <p><font color="Black"> CellId inicial: 6179</font></p>
+ <p><font color="Black"> CellId final: 6179</font></p>
+ <p><font color="Black"> SC inicial: 314</font></p>
+ <p><font color="Black"> SC final: 314</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3705766666667,28.3624</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 12714Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 19:43:43.950</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 19:43:43.950</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.3</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 137%</font></p>
+ <p><font color="Black"> % BLER: 14.6%</font></p>
+ <p><font color="Black"> % NACKs: 11%</font></p>
+ <p><font color="Black"> % SCCH: 38%</font></p>
+ <p><font color="Black"> % QPSK: 4.1%</font></p>
+ <p><font color="Black"> % 16QAM: 70.1%</font></p>
+ <p><font color="Black"> % 64QAM: 25.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -74.49</font></p>
+ <p><font color="Black"> EcIo AVG: -6.52</font></p>
+ <p><font color="Black"> CellId inicial: 14083</font></p>
+ <p><font color="Black"> CellId final: 14083</font></p>
+ <p><font color="Black"> SC inicial: 322</font></p>
+ <p><font color="Black"> SC final: 322</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3655433333333,28.3631416666667</coordinates>
+</Point>
+</Placemark>
+<name>358672057235339</name>
+</Folder>
+</Folder>
+<Folder>
+<name>Network Capability</name>
+<Folder>
+<name>358672057235339</name>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 5267Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 16:44:45.036</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 16:44:45.036</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.1</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 21%</font></p>
+ <p><font color="Black"> % BLER: 17.3%</font></p>
+ <p><font color="Black"> % NACKs: 13.4%</font></p>
+ <p><font color="Black"> % SCCH: 84.5%</font></p>
+ <p><font color="Black"> % QPSK: 2.4%</font></p>
+ <p><font color="Black"> % 16QAM: 97.6%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -69.63</font></p>
+ <p><font color="Black"> EcIo AVG: -10.58</font></p>
+ <p><font color="Black"> CellId inicial: 13234</font></p>
+ <p><font color="Black"> CellId final: 13234</font></p>
+ <p><font color="Black"> SC inicial: 330</font></p>
+ <p><font color="Black"> SC final: 330</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.37197,28.331345</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 5718Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 16:48:56.092</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 16:48:56.092</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.7</font></p>
+ <p><font color="Black"> HARQ: 4</font></p>
+ <p><font color="Black"> DTX DSCH: 24%</font></p>
+ <p><font color="Black"> % BLER: 22.9%</font></p>
+ <p><font color="Black"> % NACKs: 17.6%</font></p>
+ <p><font color="Black"> % SCCH: 69.9%</font></p>
+ <p><font color="Black"> % QPSK: 3.9%</font></p>
+ <p><font color="Black"> % 16QAM: 91.1%</font></p>
+ <p><font color="Black"> % 64QAM: 5%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -55.23</font></p>
+ <p><font color="Black"> EcIo AVG: -7.89</font></p>
+ <p><font color="Black"> CellId inicial: 12424</font></p>
+ <p><font color="Black"> CellId final: 12424</font></p>
+ <p><font color="Black"> SC inicial: 230</font></p>
+ <p><font color="Black"> SC final: 230</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3653883333333,28.3316283333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 5067Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 16:54:28.904</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 16:54:28.904</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 33%</font></p>
+ <p><font color="Black"> % BLER: 19.9%</font></p>
+ <p><font color="Black"> % NACKs: 13.4%</font></p>
+ <p><font color="Black"> % SCCH: 73.9%</font></p>
+ <p><font color="Black"> % QPSK: 3.8%</font></p>
+ <p><font color="Black"> % 16QAM: 88.2%</font></p>
+ <p><font color="Black"> % 64QAM: 7.9%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.24</font></p>
+ <p><font color="Black"> EcIo AVG: -9.67</font></p>
+ <p><font color="Black"> CellId inicial: 15510</font></p>
+ <p><font color="Black"> CellId final: 15510</font></p>
+ <p><font color="Black"> SC inicial: 331</font></p>
+ <p><font color="Black"> SC final: 331</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.371565,28.3351083333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 8587Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 16:58:52.000</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 16:58:52.000</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 27%</font></p>
+ <p><font color="Black"> % BLER: 21.7%</font></p>
+ <p><font color="Black"> % NACKs: 15.9%</font></p>
+ <p><font color="Black"> % SCCH: 71.4%</font></p>
+ <p><font color="Black"> % QPSK: 0.3%</font></p>
+ <p><font color="Black"> % 16QAM: 9.4%</font></p>
+ <p><font color="Black"> % 64QAM: 90.2%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -64.59</font></p>
+ <p><font color="Black"> EcIo AVG: -9.12</font></p>
+ <p><font color="Black"> CellId inicial: 15510</font></p>
+ <p><font color="Black"> CellId final: 15510</font></p>
+ <p><font color="Black"> SC inicial: 331</font></p>
+ <p><font color="Black"> SC final: 331</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3733616666667,28.3349166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3723Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 17:04:27.223</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 17:04:27.223</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 18.6</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 33%</font></p>
+ <p><font color="Black"> % BLER: 17.9%</font></p>
+ <p><font color="Black"> % NACKs: 12%</font></p>
+ <p><font color="Black"> % SCCH: 65.6%</font></p>
+ <p><font color="Black"> % QPSK: 50.5%</font></p>
+ <p><font color="Black"> % 16QAM: 42.3%</font></p>
+ <p><font color="Black"> % 64QAM: 7.2%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -81</font></p>
+ <p><font color="Black"> EcIo AVG: -7.59</font></p>
+ <p><font color="Black"> CellId inicial: 16977</font></p>
+ <p><font color="Black"> CellId final: 16977</font></p>
+ <p><font color="Black"> SC inicial: 318</font></p>
+ <p><font color="Black"> SC final: 330</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.372725,28.349005</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 8021Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 17:08:44.341</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 17:08:44.341</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.7</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 73%</font></p>
+ <p><font color="Black"> % BLER: 25.2%</font></p>
+ <p><font color="Black"> % NACKs: 31.2%</font></p>
+ <p><font color="Black"> % SCCH: 61.1%</font></p>
+ <p><font color="Black"> % QPSK: 5.9%</font></p>
+ <p><font color="Black"> % 16QAM: 83.7%</font></p>
+ <p><font color="Black"> % 64QAM: 10.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -92.42</font></p>
+ <p><font color="Black"> EcIo AVG: -9.72</font></p>
+ <p><font color="Black"> CellId inicial: 2335</font></p>
+ <p><font color="Black"> CellId final: 2335</font></p>
+ <p><font color="Black"> SC inicial: 313</font></p>
+ <p><font color="Black"> SC final: 313</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3713633333333,28.3540066666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3143Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 17:24:32.140</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 17:24:32.140</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.1</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 57%</font></p>
+ <p><font color="Black"> % BLER: 26.9%</font></p>
+ <p><font color="Black"> % NACKs: 39.1%</font></p>
+ <p><font color="Black"> % SCCH: 74.8%</font></p>
+ <p><font color="Black"> % QPSK: 3.8%</font></p>
+ <p><font color="Black"> % 16QAM: 17%</font></p>
+ <p><font color="Black"> % 64QAM: 79.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -74.91</font></p>
+ <p><font color="Black"> EcIo AVG: -7</font></p>
+ <p><font color="Black"> CellId inicial: 40662</font></p>
+ <p><font color="Black"> CellId final: 40662</font></p>
+ <p><font color="Black"> SC inicial: 309</font></p>
+ <p><font color="Black"> SC final: 309</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3666166666667,28.3811383333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 5960Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 17:29:10.229</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 17:29:10.229</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 37%</font></p>
+ <p><font color="Black"> % BLER: 16.5%</font></p>
+ <p><font color="Black"> % NACKs: 12.4%</font></p>
+ <p><font color="Black"> % SCCH: 76.3%</font></p>
+ <p><font color="Black"> % QPSK: 26.1%</font></p>
+ <p><font color="Black"> % 16QAM: 42.2%</font></p>
+ <p><font color="Black"> % 64QAM: 31.7%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.28</font></p>
+ <p><font color="Black"> EcIo AVG: -8.97</font></p>
+ <p><font color="Black"> CellId inicial: 35844</font></p>
+ <p><font color="Black"> CellId final: 35844</font></p>
+ <p><font color="Black"> SC inicial: 294</font></p>
+ <p><font color="Black"> SC final: 292</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.351,28.393385</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 11443Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 17:34:52.005</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 17:34:52.005</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.1</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 47%</font></p>
+ <p><font color="Black"> % BLER: 21.1%</font></p>
+ <p><font color="Black"> % NACKs: 32.8%</font></p>
+ <p><font color="Black"> % SCCH: 85.8%</font></p>
+ <p><font color="Black"> % QPSK: 2.7%</font></p>
+ <p><font color="Black"> % 16QAM: 85%</font></p>
+ <p><font color="Black"> % 64QAM: 12.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -88.84</font></p>
+ <p><font color="Black"> EcIo AVG: -9.44</font></p>
+ <p><font color="Black"> CellId inicial: 27978</font></p>
+ <p><font color="Black"> CellId final: 27978</font></p>
+ <p><font color="Black"> SC inicial: 293</font></p>
+ <p><font color="Black"> SC final: 293</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.35579,28.3988283333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 10298Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 17:38:54.296</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 17:38:54.296</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 57%</font></p>
+ <p><font color="Black"> % BLER: 22.7%</font></p>
+ <p><font color="Black"> % NACKs: 32.7%</font></p>
+ <p><font color="Black"> % SCCH: 82.4%</font></p>
+ <p><font color="Black"> % QPSK: 3.6%</font></p>
+ <p><font color="Black"> % 16QAM: 87.6%</font></p>
+ <p><font color="Black"> % 64QAM: 8.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.9</font></p>
+ <p><font color="Black"> EcIo AVG: -8.38</font></p>
+ <p><font color="Black"> CellId inicial: 40791</font></p>
+ <p><font color="Black"> CellId final: 40791</font></p>
+ <p><font color="Black"> SC inicial: 293</font></p>
+ <p><font color="Black"> SC final: 293</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3584716666667,28.3970866666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 13023Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 17:44:33.235</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 17:44:33.235</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 28.8</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 69%</font></p>
+ <p><font color="Black"> % BLER: 17.2%</font></p>
+ <p><font color="Black"> % NACKs: 20.9%</font></p>
+ <p><font color="Black"> % SCCH: 76.7%</font></p>
+ <p><font color="Black"> % QPSK: 1.1%</font></p>
+ <p><font color="Black"> % 16QAM: 3.6%</font></p>
+ <p><font color="Black"> % 64QAM: 95.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -67.29</font></p>
+ <p><font color="Black"> EcIo AVG: -6.56</font></p>
+ <p><font color="Black"> CellId inicial: 40787</font></p>
+ <p><font color="Black"> CellId final: 40787</font></p>
+ <p><font color="Black"> SC inicial: 292</font></p>
+ <p><font color="Black"> SC final: 292</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.35088,28.3989416666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 13307Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 17:48:54.360</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 17:48:54.360</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.4</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 50%</font></p>
+ <p><font color="Black"> % BLER: 22.7%</font></p>
+ <p><font color="Black"> % NACKs: 36.3%</font></p>
+ <p><font color="Black"> % SCCH: 86.6%</font></p>
+ <p><font color="Black"> % QPSK: 0.8%</font></p>
+ <p><font color="Black"> % 16QAM: 7.5%</font></p>
+ <p><font color="Black"> % 64QAM: 91.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -67.85</font></p>
+ <p><font color="Black"> EcIo AVG: -8.27</font></p>
+ <p><font color="Black"> CellId inicial: 27977</font></p>
+ <p><font color="Black"> CellId final: 27977</font></p>
+ <p><font color="Black"> SC inicial: 292</font></p>
+ <p><font color="Black"> SC final: 292</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3501616666667,28.3998266666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 9666Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 17:54:28.522</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 17:54:28.522</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.6</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 76%</font></p>
+ <p><font color="Black"> % BLER: 16.9%</font></p>
+ <p><font color="Black"> % NACKs: 19.8%</font></p>
+ <p><font color="Black"> % SCCH: 71.3%</font></p>
+ <p><font color="Black"> % QPSK: 0.8%</font></p>
+ <p><font color="Black"> % 16QAM: 11.4%</font></p>
+ <p><font color="Black"> % 64QAM: 87.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -80.41</font></p>
+ <p><font color="Black"> EcIo AVG: -7.83</font></p>
+ <p><font color="Black"> CellId inicial: 17415</font></p>
+ <p><font color="Black"> CellId final: 17415</font></p>
+ <p><font color="Black"> SC inicial: 292</font></p>
+ <p><font color="Black"> SC final: 292</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.34463,28.3965383333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 10040Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 17:58:39.608</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 17:58:39.608</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.7</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 57%</font></p>
+ <p><font color="Black"> % BLER: 21.1%</font></p>
+ <p><font color="Black"> % NACKs: 31.3%</font></p>
+ <p><font color="Black"> % SCCH: 80.6%</font></p>
+ <p><font color="Black"> % QPSK: 8%</font></p>
+ <p><font color="Black"> % 16QAM: 50.3%</font></p>
+ <p><font color="Black"> % 64QAM: 41.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -71.12</font></p>
+ <p><font color="Black"> EcIo AVG: -6.97</font></p>
+ <p><font color="Black"> CellId inicial: 27977</font></p>
+ <p><font color="Black"> CellId final: 27977</font></p>
+ <p><font color="Black"> SC inicial: 292</font></p>
+ <p><font color="Black"> SC final: 292</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.345195,28.3980166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 7336Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 18:04:27.002</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 18:04:27.002</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.1</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 54%</font></p>
+ <p><font color="Black"> % BLER: 21.7%</font></p>
+ <p><font color="Black"> % NACKs: 32.9%</font></p>
+ <p><font color="Black"> % SCCH: 75.5%</font></p>
+ <p><font color="Black"> % QPSK: 22.7%</font></p>
+ <p><font color="Black"> % 16QAM: 52.8%</font></p>
+ <p><font color="Black"> % 64QAM: 24.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.44</font></p>
+ <p><font color="Black"> EcIo AVG: -7.04</font></p>
+ <p><font color="Black"> CellId inicial: 40787</font></p>
+ <p><font color="Black"> CellId final: 40787</font></p>
+ <p><font color="Black"> SC inicial: 292</font></p>
+ <p><font color="Black"> SC final: 292</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3495166666667,28.3950033333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2689Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 18:08:34.569</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 18:08:34.569</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.5</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 88%</font></p>
+ <p><font color="Black"> % BLER: 22.1%</font></p>
+ <p><font color="Black"> % NACKs: 24.4%</font></p>
+ <p><font color="Black"> % SCCH: 67.5%</font></p>
+ <p><font color="Black"> % QPSK: 0.3%</font></p>
+ <p><font color="Black"> % 16QAM: 1.3%</font></p>
+ <p><font color="Black"> % 64QAM: 98.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.94</font></p>
+ <p><font color="Black"> EcIo AVG: -9.36</font></p>
+ <p><font color="Black"> CellId inicial: 40787</font></p>
+ <p><font color="Black"> CellId final: 40787</font></p>
+ <p><font color="Black"> SC inicial: 292</font></p>
+ <p><font color="Black"> SC final: 310</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3492616666667,28.3879633333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 8124Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 18:14:16.434</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 18:14:16.434</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.8</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 49%</font></p>
+ <p><font color="Black"> % BLER: 15.6%</font></p>
+ <p><font color="Black"> % NACKs: 24.8%</font></p>
+ <p><font color="Black"> % SCCH: 80.3%</font></p>
+ <p><font color="Black"> % QPSK: 47.9%</font></p>
+ <p><font color="Black"> % 16QAM: 40.4%</font></p>
+ <p><font color="Black"> % 64QAM: 11.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.58</font></p>
+ <p><font color="Black"> EcIo AVG: -8.97</font></p>
+ <p><font color="Black"> CellId inicial: 40650</font></p>
+ <p><font color="Black"> CellId final: 40650</font></p>
+ <p><font color="Black"> SC inicial: 311</font></p>
+ <p><font color="Black"> SC final: 311</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3620616666667,28.37246</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 6853Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 18:18:05.885</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 18:18:05.885</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.4</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 100%</font></p>
+ <p><font color="Black"> % BLER: 20.9%</font></p>
+ <p><font color="Black"> % NACKs: 20.6%</font></p>
+ <p><font color="Black"> % SCCH: 53.8%</font></p>
+ <p><font color="Black"> % QPSK: 7.3%</font></p>
+ <p><font color="Black"> % 16QAM: 79.5%</font></p>
+ <p><font color="Black"> % 64QAM: 13.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.34</font></p>
+ <p><font color="Black"> EcIo AVG: -9.1</font></p>
+ <p><font color="Black"> CellId inicial: 14080</font></p>
+ <p><font color="Black"> CellId final: 14080</font></p>
+ <p><font color="Black"> SC inicial: 315</font></p>
+ <p><font color="Black"> SC final: 315</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3622883333333,28.3798066666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 19704Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 18:23:26.592</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 18:23:26.592</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 28.4</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 64%</font></p>
+ <p><font color="Black"> % BLER: 9.4%</font></p>
+ <p><font color="Black"> % NACKs: 13%</font></p>
+ <p><font color="Black"> % SCCH: 81.8%</font></p>
+ <p><font color="Black"> % QPSK: 1.6%</font></p>
+ <p><font color="Black"> % 16QAM: 4%</font></p>
+ <p><font color="Black"> % 64QAM: 94.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -66.17</font></p>
+ <p><font color="Black"> EcIo AVG: -8.05</font></p>
+ <p><font color="Black"> CellId inicial: 14080</font></p>
+ <p><font color="Black"> CellId final: 14080</font></p>
+ <p><font color="Black"> SC inicial: 315</font></p>
+ <p><font color="Black"> SC final: 315</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3614366666667,28.3801583333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2441Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 18:27:40.024</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 18:27:40.024</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 28.3</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 124%</font></p>
+ <p><font color="Black"> % BLER: 4.3%</font></p>
+ <p><font color="Black"> % NACKs: 3.4%</font></p>
+ <p><font color="Black"> % SCCH: 42.2%</font></p>
+ <p><font color="Black"> % QPSK: 0.2%</font></p>
+ <p><font color="Black"> % 16QAM: 0.1%</font></p>
+ <p><font color="Black"> % 64QAM: 99.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -61.29</font></p>
+ <p><font color="Black"> EcIo AVG: -7.94</font></p>
+ <p><font color="Black"> CellId inicial: 40621</font></p>
+ <p><font color="Black"> CellId final: 40621</font></p>
+ <p><font color="Black"> SC inicial: 310</font></p>
+ <p><font color="Black"> SC final: 310</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3648633333333,28.3755716666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 16371Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 18:32:59.940</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 18:32:59.940</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.1</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 53%</font></p>
+ <p><font color="Black"> % BLER: 15.1%</font></p>
+ <p><font color="Black"> % NACKs: 22.5%</font></p>
+ <p><font color="Black"> % SCCH: 81.3%</font></p>
+ <p><font color="Black"> % QPSK: 0.6%</font></p>
+ <p><font color="Black"> % 16QAM: 47%</font></p>
+ <p><font color="Black"> % 64QAM: 52.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -68.45</font></p>
+ <p><font color="Black"> EcIo AVG: -7.86</font></p>
+ <p><font color="Black"> CellId inicial: 40650</font></p>
+ <p><font color="Black"> CellId final: 40650</font></p>
+ <p><font color="Black"> SC inicial: 311</font></p>
+ <p><font color="Black"> SC final: 311</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.36445,28.3694716666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 18853Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 18:37:11.010</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 18:37:11.010</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 28.1</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 52%</font></p>
+ <p><font color="Black"> % BLER: 15.6%</font></p>
+ <p><font color="Black"> % NACKs: 23.5%</font></p>
+ <p><font color="Black"> % SCCH: 80.2%</font></p>
+ <p><font color="Black"> % QPSK: 1.5%</font></p>
+ <p><font color="Black"> % 16QAM: 5.7%</font></p>
+ <p><font color="Black"> % 64QAM: 92.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -65.19</font></p>
+ <p><font color="Black"> EcIo AVG: -7.83</font></p>
+ <p><font color="Black"> CellId inicial: 14083</font></p>
+ <p><font color="Black"> CellId final: 14083</font></p>
+ <p><font color="Black"> SC inicial: 321</font></p>
+ <p><font color="Black"> SC final: 321</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3664766666667,28.3657116666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 6334Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 18:42:55.336</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 18:42:55.336</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 17.9</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 57%</font></p>
+ <p><font color="Black"> % BLER: 15.3%</font></p>
+ <p><font color="Black"> % NACKs: 22.2%</font></p>
+ <p><font color="Black"> % SCCH: 72.9%</font></p>
+ <p><font color="Black"> % QPSK: 52.8%</font></p>
+ <p><font color="Black"> % 16QAM: 46.4%</font></p>
+ <p><font color="Black"> % 64QAM: 0.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.08</font></p>
+ <p><font color="Black"> EcIo AVG: -8.81</font></p>
+ <p><font color="Black"> CellId inicial: 6177</font></p>
+ <p><font color="Black"> CellId final: 6177</font></p>
+ <p><font color="Black"> SC inicial: 311</font></p>
+ <p><font color="Black"> SC final: 311</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.36406,28.3672116666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 9008Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 18:46:55.380</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 18:46:55.380</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.1</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 43%</font></p>
+ <p><font color="Black"> % BLER: 17.8%</font></p>
+ <p><font color="Black"> % NACKs: 27.7%</font></p>
+ <p><font color="Black"> % SCCH: 90.8%</font></p>
+ <p><font color="Black"> % QPSK: 31.6%</font></p>
+ <p><font color="Black"> % 16QAM: 63.6%</font></p>
+ <p><font color="Black"> % 64QAM: 4.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -87.68</font></p>
+ <p><font color="Black"> EcIo AVG: -9.46</font></p>
+ <p><font color="Black"> CellId inicial: 40650</font></p>
+ <p><font color="Black"> CellId final: 40650</font></p>
+ <p><font color="Black"> SC inicial: 311</font></p>
+ <p><font color="Black"> SC final: 311</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3636416666667,28.3697533333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 9254Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 18:52:17.401</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 18:52:17.401</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.6</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 73%</font></p>
+ <p><font color="Black"> % BLER: 19.8%</font></p>
+ <p><font color="Black"> % NACKs: 27.3%</font></p>
+ <p><font color="Black"> % SCCH: 73.6%</font></p>
+ <p><font color="Black"> % QPSK: 27%</font></p>
+ <p><font color="Black"> % 16QAM: 40%</font></p>
+ <p><font color="Black"> % 64QAM: 33%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -69.42</font></p>
+ <p><font color="Black"> EcIo AVG: -10</font></p>
+ <p><font color="Black"> CellId inicial: 40650</font></p>
+ <p><font color="Black"> CellId final: 40650</font></p>
+ <p><font color="Black"> SC inicial: 311</font></p>
+ <p><font color="Black"> SC final: 311</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3620516666667,28.3717616666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 10809Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 18:56:57.206</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 18:56:57.206</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.9</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 51%</font></p>
+ <p><font color="Black"> % BLER: 24.8%</font></p>
+ <p><font color="Black"> % NACKs: 37.9%</font></p>
+ <p><font color="Black"> % SCCH: 81.1%</font></p>
+ <p><font color="Black"> % QPSK: 5.5%</font></p>
+ <p><font color="Black"> % 16QAM: 86.4%</font></p>
+ <p><font color="Black"> % 64QAM: 8.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -76.87</font></p>
+ <p><font color="Black"> EcIo AVG: -7.49</font></p>
+ <p><font color="Black"> CellId inicial: 40662</font></p>
+ <p><font color="Black"> CellId final: 40662</font></p>
+ <p><font color="Black"> SC inicial: 309</font></p>
+ <p><font color="Black"> SC final: 309</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3692283333333,28.3815583333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3336Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 19:03:24.724</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 19:03:24.724</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 18.8</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 23%</font></p>
+ <p><font color="Black"> % BLER: 12.9%</font></p>
+ <p><font color="Black"> % NACKs: 10.2%</font></p>
+ <p><font color="Black"> % SCCH: 76.5%</font></p>
+ <p><font color="Black"> % QPSK: 71.9%</font></p>
+ <p><font color="Black"> % 16QAM: 28.1%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.15</font></p>
+ <p><font color="Black"> EcIo AVG: -9.72</font></p>
+ <p><font color="Black"> CellId inicial: 31846</font></p>
+ <p><font color="Black"> CellId final: 31846</font></p>
+ <p><font color="Black"> SC inicial: 309</font></p>
+ <p><font color="Black"> SC final: 309</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.36814,28.37841</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 8677Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 19:07:22.132</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 19:07:22.132</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.5</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 23%</font></p>
+ <p><font color="Black"> % BLER: 14.6%</font></p>
+ <p><font color="Black"> % NACKs: 11.4%</font></p>
+ <p><font color="Black"> % SCCH: 85%</font></p>
+ <p><font color="Black"> % QPSK: 0.4%</font></p>
+ <p><font color="Black"> % 16QAM: 40.8%</font></p>
+ <p><font color="Black"> % 64QAM: 58.9%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -61.76</font></p>
+ <p><font color="Black"> EcIo AVG: -8.99</font></p>
+ <p><font color="Black"> CellId inicial: 31846</font></p>
+ <p><font color="Black"> CellId final: 31846</font></p>
+ <p><font color="Black"> SC inicial: 309</font></p>
+ <p><font color="Black"> SC final: 309</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 3062</font></p>
+ <p><font color="Black"> UARFCN final: 3062</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3677,28.377505</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3698Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 19:13:12.854</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 19:13:12.854</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 14.9</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 45%</font></p>
+ <p><font color="Black"> % BLER: 19.3%</font></p>
+ <p><font color="Black"> % NACKs: 29.1%</font></p>
+ <p><font color="Black"> % SCCH: 86.2%</font></p>
+ <p><font color="Black"> % QPSK: 94.5%</font></p>
+ <p><font color="Black"> % 16QAM: 5.5%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -92.06</font></p>
+ <p><font color="Black"> EcIo AVG: -8.74</font></p>
+ <p><font color="Black"> CellId inicial: 19231</font></p>
+ <p><font color="Black"> CellId final: 19231</font></p>
+ <p><font color="Black"> SC inicial: 316</font></p>
+ <p><font color="Black"> SC final: 316</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3737166666667,28.347115</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 15272Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 19:17:12.787</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 19:17:12.787</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.1</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 79%</font></p>
+ <p><font color="Black"> % BLER: 18.9%</font></p>
+ <p><font color="Black"> % NACKs: 20.6%</font></p>
+ <p><font color="Black"> % SCCH: 70%</font></p>
+ <p><font color="Black"> % QPSK: 3.1%</font></p>
+ <p><font color="Black"> % 16QAM: 43.3%</font></p>
+ <p><font color="Black"> % 64QAM: 53.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -65.33</font></p>
+ <p><font color="Black"> EcIo AVG: -7.33</font></p>
+ <p><font color="Black"> CellId inicial: 2911</font></p>
+ <p><font color="Black"> CellId final: 2911</font></p>
+ <p><font color="Black"> SC inicial: 318</font></p>
+ <p><font color="Black"> SC final: 318</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3736583333333,28.3444216666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4437Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 19:22:33.714</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 19:22:33.714</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 15.1</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 71%</font></p>
+ <p><font color="Black"> % BLER: 26%</font></p>
+ <p><font color="Black"> % NACKs: 33.1%</font></p>
+ <p><font color="Black"> % SCCH: 70.7%</font></p>
+ <p><font color="Black"> % QPSK: 64.3%</font></p>
+ <p><font color="Black"> % 16QAM: 35.7%</font></p>
+ <p><font color="Black"> % 64QAM: 0.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -99.45</font></p>
+ <p><font color="Black"> EcIo AVG: -9.84</font></p>
+ <p><font color="Black"> CellId inicial: 220</font></p>
+ <p><font color="Black"> CellId final: 220</font></p>
+ <p><font color="Black"> SC inicial: 218</font></p>
+ <p><font color="Black"> SC final: 314</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10713</font></p>
+ <p><font color="Black"> UARFCN final: 10713</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3747566666667,28.358095</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 11513Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 19:26:33.619</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 19:26:33.619</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.9</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 92%</font></p>
+ <p><font color="Black"> % BLER: 19.3%</font></p>
+ <p><font color="Black"> % NACKs: 19.4%</font></p>
+ <p><font color="Black"> % SCCH: 55.8%</font></p>
+ <p><font color="Black"> % QPSK: 0.7%</font></p>
+ <p><font color="Black"> % 16QAM: 12.1%</font></p>
+ <p><font color="Black"> % 64QAM: 87.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -73.81</font></p>
+ <p><font color="Black"> EcIo AVG: -12.05</font></p>
+ <p><font color="Black"> CellId inicial: 6178</font></p>
+ <p><font color="Black"> CellId final: 6178</font></p>
+ <p><font color="Black"> SC inicial: 313</font></p>
+ <p><font color="Black"> SC final: 313</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.37016,28.3556216666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 15295Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 19:31:45.558</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 19:31:45.558</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.2</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 48%</font></p>
+ <p><font color="Black"> % BLER: 22.3%</font></p>
+ <p><font color="Black"> % NACKs: 34.2%</font></p>
+ <p><font color="Black"> % SCCH: 82.4%</font></p>
+ <p><font color="Black"> % QPSK: 0.3%</font></p>
+ <p><font color="Black"> % 16QAM: 10.8%</font></p>
+ <p><font color="Black"> % 64QAM: 88.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -87.25</font></p>
+ <p><font color="Black"> EcIo AVG: -9.97</font></p>
+ <p><font color="Black"> CellId inicial: 6178</font></p>
+ <p><font color="Black"> CellId final: 6178</font></p>
+ <p><font color="Black"> SC inicial: 313</font></p>
+ <p><font color="Black"> SC final: 313</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.369835,28.3583916666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 10394Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 19:35:44.945</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 19:35:44.945</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.9</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 108%</font></p>
+ <p><font color="Black"> % BLER: 18.5%</font></p>
+ <p><font color="Black"> % NACKs: 17.4%</font></p>
+ <p><font color="Black"> % SCCH: 42.5%</font></p>
+ <p><font color="Black"> % QPSK: 2.8%</font></p>
+ <p><font color="Black"> % 16QAM: 14.7%</font></p>
+ <p><font color="Black"> % 64QAM: 82.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -61.89</font></p>
+ <p><font color="Black"> EcIo AVG: -8.3</font></p>
+ <p><font color="Black"> CellId inicial: 14085</font></p>
+ <p><font color="Black"> CellId final: 14085</font></p>
+ <p><font color="Black"> SC inicial: 314</font></p>
+ <p><font color="Black"> SC final: 314</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3688233333333,28.36204</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 13630Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 19:41:24.109</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 19:41:24.109</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.7</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 66%</font></p>
+ <p><font color="Black"> % BLER: 22.4%</font></p>
+ <p><font color="Black"> % NACKs: 28.5%</font></p>
+ <p><font color="Black"> % SCCH: 66.2%</font></p>
+ <p><font color="Black"> % QPSK: 12.2%</font></p>
+ <p><font color="Black"> % 16QAM: 13.1%</font></p>
+ <p><font color="Black"> % 64QAM: 74.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -62.68</font></p>
+ <p><font color="Black"> EcIo AVG: -8.29</font></p>
+ <p><font color="Black"> CellId inicial: 6179</font></p>
+ <p><font color="Black"> CellId final: 6179</font></p>
+ <p><font color="Black"> SC inicial: 314</font></p>
+ <p><font color="Black"> SC final: 313</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.368805,28.3610733333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 18483Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-07 19:45:10.867</font></p>
+ <p><font color="Black"> Hora: 2017-04-07 19:45:10.867</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235339</font></p>
+ <p><font color="Black"> LogFile: 20170407_ADD_TF_CANDELARIA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.9</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 55%</font></p>
+ <p><font color="Black"> % BLER: 15.4%</font></p>
+ <p><font color="Black"> % NACKs: 22.1%</font></p>
+ <p><font color="Black"> % SCCH: 80.5%</font></p>
+ <p><font color="Black"> % QPSK: 0.4%</font></p>
+ <p><font color="Black"> % 16QAM: 7.4%</font></p>
+ <p><font color="Black"> % 64QAM: 92.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -68.89</font></p>
+ <p><font color="Black"> EcIo AVG: -8.17</font></p>
+ <p><font color="Black"> CellId inicial: 14084</font></p>
+ <p><font color="Black"> CellId final: 14084</font></p>
+ <p><font color="Black"> SC inicial: 321</font></p>
+ <p><font color="Black"> SC final: 321</font></p>
+ <p><font color="Black"> LAC inicial: 55767</font></p>
+ <p><font color="Black"> LAC final: 55767</font></p>
+ <p><font color="Black"> UARFCN inicial: 10738</font></p>
+ <p><font color="Black"> UARFCN final: 10738</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.3664666666667,28.3652216666667</coordinates>
+</Point>
+</Placemark>
+<name>358672057235339</name>
+</Folder>
+</Folder>
+<ScreenOverlay>
+<name>Absolute Positioning: Top Left</name>
+<Icon>
+<href>Leyenda_FTP_DL_2x2.jpg</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="0.86" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>

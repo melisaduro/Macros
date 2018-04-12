@@ -1,0 +1,65 @@
+Cliente: Sharing
+Scope :	OK
+Control de Acciones : 
+
+20170410_ADD_MA_RINCONDELAVICTORIA_1_4G	
+	
+	
+20170410_ADD_MA_RINCONDELAVICTORIA_1_4G	al iniciar la campania en datos,yoigo no se conecta a internet
+	
+20170410_ADD_MA_RINCONDELAVICTORIA_1_4G	fin de la entidad
+
+
+	
+Invalidaciones:Paradas técnicas, Burst Fail, Url erronea el pais, HTTP youtube.
+
+	Paradas Tecnicas: Si
+
+Mallado	final: OK (NOTA, se han tomado prácticamente el doble de las medidas de la vez anterior, mallando zonas nuevas, lo que puede haber provocado una pérdida de 
+
+Cobertura:	
+---------
+-- VOZ --
+---------
+ - CCSR	: ok (un bloqueo mov)
+ - CDR	: ok
+ - SQNS : ok 
+ - MOS  : ok (mejoran)
+ - CST	: ok (una vez más percentil 95 de 13s para mov)
+
+
+-----------
+-- DATOS --
+-----------	
+ - D1: Baja VDF 3,5 mb. Se han comprobado las condiciones radio, y salvo por la pérdida de 3RBs, en general pese a una mejora leve de las mismas, hay una bajada del TH. 
+       Al comprobar el mallado se observa que al haber el doble de tests, se han mallado nuevas zonas que pueden explicar la diferencia.
+       MOV mejora 7 mb, OSP 1.
+ - D2: OK
+ - D3: OK. Mejoran OSP y MOV
+ - DL_NC: OK.Mejoran OSP (10MB) y MOV (6.5MB)
+ - UL_NC: OK. Mejoran todos:
+
+VDF 1.9   
+MOV 2.8   
+OSP 14.2   
+YOI 1.8   
+
+ - LATENCIA: OK
+ - WEB:	OK
+ - D5_ HTTP : OK
+ - D5_HTTPS : OK
+ - B2: OK
+ - B5: OK
+
+633p
+680p
+646p
+591p
+
+------------------------------------------------------------------------------------------------------------
+
+2º rev :
+
+	voz : OK
+
+	datos : OK

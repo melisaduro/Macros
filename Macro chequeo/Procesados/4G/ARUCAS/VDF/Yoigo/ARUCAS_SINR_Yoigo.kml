@@ -1,0 +1,1680 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="IconoAwful">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBad">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBad">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSo">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGood">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGood">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoAwfulM">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBadM">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBadM">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSoM">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGoodM">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGoodM">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Folder>
+<name>Customer Experience</name>
+<Folder>
+<name>muestras 4G</name>
+<Folder>
+<name>354201062970955</name>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 1971</font></p>
+ <p><font color="Black"> Throughput: 8566Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 12:52:52.598</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 12:52:52.598</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -105.4</font></p>
+ <p><font color="Black"> RSRQ: -8.9</font></p>
+ <p><font color="Black"> SINR: 13.6</font></p>
+ <p><font color="Black"> % QPSK: 14.5%</font></p>
+ <p><font color="Black"> % 16QAM: 36.3%</font></p>
+ <p><font color="Black"> % 64QAM: 49.2%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 24</font></p>
+ <p><font color="Black"> Resource Blocks Max: 25</font></p>
+ <p><font color="Black"> Resource Blocks Min: 22</font></p>
+ <p><font color="Black"> RBs When Allocated: 47</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.2%</font></p>
+ <p><font color="Black"> CQI: 11</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933413</font></p>
+ <p><font color="Black"> Celda final: 89933413</font></p>
+ <p><font color="Black"> PCI inicial: 183</font></p>
+ <p><font color="Black"> PCI final: 183</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.516695,28.12433</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 2023</font></p>
+ <p><font color="Black"> Throughput: 6924Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 13:05:10.254</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 13:05:10.254</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -110.8</font></p>
+ <p><font color="Black"> RSRQ: -9.9</font></p>
+ <p><font color="Black"> SINR: 4.6</font></p>
+ <p><font color="Black"> % QPSK: 13.9%</font></p>
+ <p><font color="Black"> % 16QAM: 77.2%</font></p>
+ <p><font color="Black"> % 64QAM: 8.9%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 24</font></p>
+ <p><font color="Black"> Resource Blocks Max: 25</font></p>
+ <p><font color="Black"> Resource Blocks Min: 23</font></p>
+ <p><font color="Black"> RBs When Allocated: 48</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.2%</font></p>
+ <p><font color="Black"> CQI: 8</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933415</font></p>
+ <p><font color="Black"> Celda final: 89933158</font></p>
+ <p><font color="Black"> PCI inicial: 185</font></p>
+ <p><font color="Black"> PCI final: 154</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.522405,28.1195733333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 2041</font></p>
+ <p><font color="Black"> Throughput: 9869Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 13:08:52.125</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 13:08:52.125</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -88.4</font></p>
+ <p><font color="Black"> RSRQ: -5.9</font></p>
+ <p><font color="Black"> SINR: 18.9</font></p>
+ <p><font color="Black"> % QPSK: 7.1%</font></p>
+ <p><font color="Black"> % 16QAM: 8.4%</font></p>
+ <p><font color="Black"> % 64QAM: 84.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 24</font></p>
+ <p><font color="Black"> Resource Blocks Max: 29</font></p>
+ <p><font color="Black"> Resource Blocks Min: 22</font></p>
+ <p><font color="Black"> RBs When Allocated: 45</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.2%</font></p>
+ <p><font color="Black"> CQI: 13.8</font></p>
+ <p><font color="Black"> Rank Indicator 1: 87.7%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 12.3%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 12.3%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933158</font></p>
+ <p><font color="Black"> Celda final: 89933158</font></p>
+ <p><font color="Black"> PCI inicial: 154</font></p>
+ <p><font color="Black"> PCI final: 154</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5215333333333,28.1169383333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 2063</font></p>
+ <p><font color="Black"> Throughput: 8556Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 13:14:29.770</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 13:14:29.770</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -93</font></p>
+ <p><font color="Black"> RSRQ: -6.9</font></p>
+ <p><font color="Black"> SINR: 18.2</font></p>
+ <p><font color="Black"> % QPSK: 21.4%</font></p>
+ <p><font color="Black"> % 16QAM: 13.4%</font></p>
+ <p><font color="Black"> % 64QAM: 65.2%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 51</font></p>
+ <p><font color="Black"> Resource Blocks Max: 61</font></p>
+ <p><font color="Black"> Resource Blocks Min: 44</font></p>
+ <p><font color="Black"> RBs When Allocated: 80</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 11.7</font></p>
+ <p><font color="Black"> Rank Indicator 1: 35.5%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 64.5%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 64.5%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89637130</font></p>
+ <p><font color="Black"> Celda final: 89637130</font></p>
+ <p><font color="Black"> PCI inicial: 132</font></p>
+ <p><font color="Black"> PCI final: 132</font></p>
+ <p><font color="Black"> TAC inicial: 35010</font></p>
+ <p><font color="Black"> TAC final: 35010</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5243083333333,28.120845</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 2081</font></p>
+ <p><font color="Black"> Throughput: 2433Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 13:18:42.967</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 13:18:42.967</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -104.6</font></p>
+ <p><font color="Black"> RSRQ: -7.4</font></p>
+ <p><font color="Black"> SINR: 13.6</font></p>
+ <p><font color="Black"> % QPSK: 25.2%</font></p>
+ <p><font color="Black"> % 16QAM: 8.4%</font></p>
+ <p><font color="Black"> % 64QAM: 66.4%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 17</font></p>
+ <p><font color="Black"> Resource Blocks Max: 20</font></p>
+ <p><font color="Black"> Resource Blocks Min: 11</font></p>
+ <p><font color="Black"> RBs When Allocated: 35</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.2%</font></p>
+ <p><font color="Black"> CQI: 12.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933157</font></p>
+ <p><font color="Black"> Celda final: 89933157</font></p>
+ <p><font color="Black"> PCI inicial: 153</font></p>
+ <p><font color="Black"> PCI final: 153</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5305,28.1194266666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 2103</font></p>
+ <p><font color="Black"> Throughput: 6351Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 13:24:19.240</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 13:24:19.240</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -82.5</font></p>
+ <p><font color="Black"> RSRQ: -6</font></p>
+ <p><font color="Black"> SINR: 25.5</font></p>
+ <p><font color="Black"> % QPSK: 16.4%</font></p>
+ <p><font color="Black"> % 16QAM: 22.6%</font></p>
+ <p><font color="Black"> % 64QAM: 61%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 33</font></p>
+ <p><font color="Black"> Resource Blocks Max: 36</font></p>
+ <p><font color="Black"> Resource Blocks Min: 28</font></p>
+ <p><font color="Black"> RBs When Allocated: 41</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 13</font></p>
+ <p><font color="Black"> Rank Indicator 1: 67.9%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 32.1%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 32.1%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933159</font></p>
+ <p><font color="Black"> Celda final: 89933159</font></p>
+ <p><font color="Black"> PCI inicial: 155</font></p>
+ <p><font color="Black"> PCI final: 155</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5290766666667,28.1171116666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 2121</font></p>
+ <p><font color="Black"> Throughput: 2858Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 13:28:28.447</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 13:28:28.447</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -92.2</font></p>
+ <p><font color="Black"> RSRQ: -8.2</font></p>
+ <p><font color="Black"> SINR: 16.3</font></p>
+ <p><font color="Black"> % QPSK: 20.3%</font></p>
+ <p><font color="Black"> % 16QAM: 19%</font></p>
+ <p><font color="Black"> % 64QAM: 60.7%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 18</font></p>
+ <p><font color="Black"> Resource Blocks Max: 21</font></p>
+ <p><font color="Black"> Resource Blocks Min: 15</font></p>
+ <p><font color="Black"> RBs When Allocated: 37</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.2%</font></p>
+ <p><font color="Black"> CQI: 14.4</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933159</font></p>
+ <p><font color="Black"> Celda final: 89933159</font></p>
+ <p><font color="Black"> PCI inicial: 155</font></p>
+ <p><font color="Black"> PCI final: 155</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5309516666667,28.1172366666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 2157</font></p>
+ <p><font color="Black"> Throughput: 2911Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 13:37:13.248</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 13:37:13.248</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -97.7</font></p>
+ <p><font color="Black"> RSRQ: -7.5</font></p>
+ <p><font color="Black"> SINR: 16.1</font></p>
+ <p><font color="Black"> % QPSK: 29.5%</font></p>
+ <p><font color="Black"> % 16QAM: 22.4%</font></p>
+ <p><font color="Black"> % 64QAM: 48%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 36</font></p>
+ <p><font color="Black"> Resource Blocks Max: 44</font></p>
+ <p><font color="Black"> Resource Blocks Min: 27</font></p>
+ <p><font color="Black"> RBs When Allocated: 71</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 11.3</font></p>
+ <p><font color="Black"> Rank Indicator 1: 76.3%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 23.7%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 23.7%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89637130</font></p>
+ <p><font color="Black"> Celda final: 89637130</font></p>
+ <p><font color="Black"> PCI inicial: 132</font></p>
+ <p><font color="Black"> PCI final: 132</font></p>
+ <p><font color="Black"> TAC inicial: 35010</font></p>
+ <p><font color="Black"> TAC final: 35010</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5243733333333,28.1225766666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 2175</font></p>
+ <p><font color="Black"> Throughput: 3775Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 13:41:23.057</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 13:41:23.057</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -108.1</font></p>
+ <p><font color="Black"> RSRQ: -10.3</font></p>
+ <p><font color="Black"> SINR: 10.1</font></p>
+ <p><font color="Black"> % QPSK: 32.3%</font></p>
+ <p><font color="Black"> % 16QAM: 51.1%</font></p>
+ <p><font color="Black"> % 64QAM: 16.6%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 23</font></p>
+ <p><font color="Black"> Resource Blocks Max: 24</font></p>
+ <p><font color="Black"> Resource Blocks Min: 20</font></p>
+ <p><font color="Black"> RBs When Allocated: 46</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.2%</font></p>
+ <p><font color="Black"> CQI: 10.6</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933158</font></p>
+ <p><font color="Black"> Celda final: 89933158</font></p>
+ <p><font color="Black"> PCI inicial: 154</font></p>
+ <p><font color="Black"> PCI final: 154</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.52253,28.122075</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 2197</font></p>
+ <p><font color="Black"> Throughput: 8539Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 13:46:57.830</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 13:46:57.830</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -102.8</font></p>
+ <p><font color="Black"> RSRQ: -6.6</font></p>
+ <p><font color="Black"> SINR: 11.9</font></p>
+ <p><font color="Black"> % QPSK: 13.7%</font></p>
+ <p><font color="Black"> % 16QAM: 17.1%</font></p>
+ <p><font color="Black"> % 64QAM: 69.3%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 37</font></p>
+ <p><font color="Black"> Resource Blocks Max: 43</font></p>
+ <p><font color="Black"> Resource Blocks Min: 25</font></p>
+ <p><font color="Black"> RBs When Allocated: 43</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 10.9</font></p>
+ <p><font color="Black"> Rank Indicator 1: 47.8%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 52.2%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 52.2%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933158</font></p>
+ <p><font color="Black"> Celda final: 89933158</font></p>
+ <p><font color="Black"> PCI inicial: 154</font></p>
+ <p><font color="Black"> PCI final: 154</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5224833333333,28.1193783333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 2237</font></p>
+ <p><font color="Black"> Throughput: 14210Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 13:56:34.386</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 13:56:34.386</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -73.2</font></p>
+ <p><font color="Black"> RSRQ: -5.4</font></p>
+ <p><font color="Black"> SINR: 28.3</font></p>
+ <p><font color="Black"> % QPSK: 10.3%</font></p>
+ <p><font color="Black"> % 16QAM: 14.1%</font></p>
+ <p><font color="Black"> % 64QAM: 75.6%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 39</font></p>
+ <p><font color="Black"> Resource Blocks Max: 43</font></p>
+ <p><font color="Black"> Resource Blocks Min: 36</font></p>
+ <p><font color="Black"> RBs When Allocated: 44</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 12.8</font></p>
+ <p><font color="Black"> Rank Indicator 1: 21.3%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 78.7%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 78.7%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933158</font></p>
+ <p><font color="Black"> Celda final: 89933158</font></p>
+ <p><font color="Black"> PCI inicial: 154</font></p>
+ <p><font color="Black"> PCI final: 154</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.52358,28.1172583333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 2255</font></p>
+ <p><font color="Black"> Throughput: 15925Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 14:00:37.514</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 14:00:37.514</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -70.1</font></p>
+ <p><font color="Black"> RSRQ: -5.7</font></p>
+ <p><font color="Black"> SINR: 29.7</font></p>
+ <p><font color="Black"> % QPSK: 15.6%</font></p>
+ <p><font color="Black"> % 16QAM: 6.7%</font></p>
+ <p><font color="Black"> % 64QAM: 77.8%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 40</font></p>
+ <p><font color="Black"> Resource Blocks Max: 41</font></p>
+ <p><font color="Black"> Resource Blocks Min: 38</font></p>
+ <p><font color="Black"> RBs When Allocated: 44</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 12.8</font></p>
+ <p><font color="Black"> Rank Indicator 1: 0%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 100%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933158</font></p>
+ <p><font color="Black"> Celda final: 89933158</font></p>
+ <p><font color="Black"> PCI inicial: 154</font></p>
+ <p><font color="Black"> PCI final: 154</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5248366666667,28.1177783333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 2277</font></p>
+ <p><font color="Black"> Throughput: 8782Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 14:06:10.538</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 14:06:10.538</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -91.8</font></p>
+ <p><font color="Black"> RSRQ: -7.2</font></p>
+ <p><font color="Black"> SINR: 22.1</font></p>
+ <p><font color="Black"> % QPSK: 11%</font></p>
+ <p><font color="Black"> % 16QAM: 19.7%</font></p>
+ <p><font color="Black"> % 64QAM: 69.3%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 39</font></p>
+ <p><font color="Black"> Resource Blocks Max: 42</font></p>
+ <p><font color="Black"> Resource Blocks Min: 36</font></p>
+ <p><font color="Black"> RBs When Allocated: 44</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 14.2</font></p>
+ <p><font color="Black"> Rank Indicator 1: 0%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 100%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933159</font></p>
+ <p><font color="Black"> Celda final: 89933159</font></p>
+ <p><font color="Black"> PCI inicial: 155</font></p>
+ <p><font color="Black"> PCI final: 155</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5262116666667,28.117795</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 2295</font></p>
+ <p><font color="Black"> Throughput: 10457Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 14:10:10.372</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 14:10:10.372</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -87</font></p>
+ <p><font color="Black"> RSRQ: -6.4</font></p>
+ <p><font color="Black"> SINR: 24.6</font></p>
+ <p><font color="Black"> % QPSK: 11.2%</font></p>
+ <p><font color="Black"> % 16QAM: 33%</font></p>
+ <p><font color="Black"> % 64QAM: 55.8%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 39</font></p>
+ <p><font color="Black"> Resource Blocks Max: 43</font></p>
+ <p><font color="Black"> Resource Blocks Min: 36</font></p>
+ <p><font color="Black"> RBs When Allocated: 44</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 12.7</font></p>
+ <p><font color="Black"> Rank Indicator 1: 28.4%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 71.6%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 71.6%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933159</font></p>
+ <p><font color="Black"> Celda final: 89933159</font></p>
+ <p><font color="Black"> PCI inicial: 155</font></p>
+ <p><font color="Black"> PCI final: 155</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5262533333333,28.117825</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 2317</font></p>
+ <p><font color="Black"> Throughput: 9220Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 14:15:35.804</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 14:15:35.804</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -87.7</font></p>
+ <p><font color="Black"> RSRQ: -6.3</font></p>
+ <p><font color="Black"> SINR: 17.1</font></p>
+ <p><font color="Black"> % QPSK: 7.1%</font></p>
+ <p><font color="Black"> % 16QAM: 12%</font></p>
+ <p><font color="Black"> % 64QAM: 81%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 29</font></p>
+ <p><font color="Black"> Resource Blocks Max: 34</font></p>
+ <p><font color="Black"> Resource Blocks Min: 22</font></p>
+ <p><font color="Black"> RBs When Allocated: 35</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 11.2</font></p>
+ <p><font color="Black"> Rank Indicator 1: 47.5%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 52.5%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 52.5%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933158</font></p>
+ <p><font color="Black"> Celda final: 89933158</font></p>
+ <p><font color="Black"> PCI inicial: 154</font></p>
+ <p><font color="Black"> PCI final: 154</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5242816666667,28.11702</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> TestId: 2335</font></p>
+ <p><font color="Black"> Throughput: 8742Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 14:19:39.404</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 14:19:39.404</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -89.9</font></p>
+ <p><font color="Black"> RSRQ: -5.9</font></p>
+ <p><font color="Black"> SINR: 19.7</font></p>
+ <p><font color="Black"> % QPSK: 16.7%</font></p>
+ <p><font color="Black"> % 16QAM: 9.8%</font></p>
+ <p><font color="Black"> % 64QAM: 73.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 33</font></p>
+ <p><font color="Black"> Resource Blocks Max: 41</font></p>
+ <p><font color="Black"> Resource Blocks Min: 25</font></p>
+ <p><font color="Black"> RBs When Allocated: 43</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 10.9</font></p>
+ <p><font color="Black"> Rank Indicator 1: 41.4%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 58.6%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 58.6%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933158</font></p>
+ <p><font color="Black"> Celda final: 89933158</font></p>
+ <p><font color="Black"> PCI inicial: 154</font></p>
+ <p><font color="Black"> PCI final: 154</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5223383333333,28.117455</coordinates>
+</Point>
+</Placemark>
+<name>354201062970955</name>
+</Folder>
+<name>muestras 4G</name>
+</Folder>
+</Folder>
+<Folder>
+<name>Network Capability</name>
+<Folder>
+<name>muestras 4G</name>
+<Folder>
+<name>354201062970955</name>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 1980</font></p>
+ <p><font color="Black"> Throughput: 13248Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 12:54:29.331</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 12:54:29.331</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -95.7</font></p>
+ <p><font color="Black"> RSRQ: -9.2</font></p>
+ <p><font color="Black"> SINR: 19.3</font></p>
+ <p><font color="Black"> % QPSK: 2.3%</font></p>
+ <p><font color="Black"> % 16QAM: 5.7%</font></p>
+ <p><font color="Black"> % 64QAM: 92%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 20</font></p>
+ <p><font color="Black"> Resource Blocks Max: 24</font></p>
+ <p><font color="Black"> Resource Blocks Min: 17</font></p>
+ <p><font color="Black"> RBs When Allocated: 40</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.2%</font></p>
+ <p><font color="Black"> CQI: 13.9</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933413</font></p>
+ <p><font color="Black"> Celda final: 89933413</font></p>
+ <p><font color="Black"> PCI inicial: 183</font></p>
+ <p><font color="Black"> PCI final: 183</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.516705,28.124305</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 2032</font></p>
+ <p><font color="Black"> Throughput: 26117Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 13:06:47.196</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 13:06:47.196</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -81.7</font></p>
+ <p><font color="Black"> RSRQ: -6.9</font></p>
+ <p><font color="Black"> SINR: 22.5</font></p>
+ <p><font color="Black"> % QPSK: 0.9%</font></p>
+ <p><font color="Black"> % 16QAM: 22.1%</font></p>
+ <p><font color="Black"> % 64QAM: 77%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 44</font></p>
+ <p><font color="Black"> Resource Blocks Max: 49</font></p>
+ <p><font color="Black"> Resource Blocks Min: 32</font></p>
+ <p><font color="Black"> RBs When Allocated: 48</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 12.2</font></p>
+ <p><font color="Black"> Rank Indicator 1: 29%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 71%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 71%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933158</font></p>
+ <p><font color="Black"> Celda final: 89933158</font></p>
+ <p><font color="Black"> PCI inicial: 154</font></p>
+ <p><font color="Black"> PCI final: 154</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5239233333333,28.1162933333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 2072</font></p>
+ <p><font color="Black"> Throughput: 26582Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 13:16:09.184</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 13:16:09.184</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -78.4</font></p>
+ <p><font color="Black"> RSRQ: -7.3</font></p>
+ <p><font color="Black"> SINR: 24.4</font></p>
+ <p><font color="Black"> % QPSK: 0.7%</font></p>
+ <p><font color="Black"> % 16QAM: 9.9%</font></p>
+ <p><font color="Black"> % 64QAM: 89.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 41</font></p>
+ <p><font color="Black"> Resource Blocks Max: 49</font></p>
+ <p><font color="Black"> Resource Blocks Min: 24</font></p>
+ <p><font color="Black"> RBs When Allocated: 45</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 12.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 29.2%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 70.8%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 70.8%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933157</font></p>
+ <p><font color="Black"> Celda final: 89933157</font></p>
+ <p><font color="Black"> PCI inicial: 153</font></p>
+ <p><font color="Black"> PCI final: 153</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5262883333333,28.1192216666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 2090</font></p>
+ <p><font color="Black"> Throughput: 24933Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 13:20:24.992</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 13:20:24.992</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -77.5</font></p>
+ <p><font color="Black"> RSRQ: -7</font></p>
+ <p><font color="Black"> SINR: 23</font></p>
+ <p><font color="Black"> % QPSK: 2.7%</font></p>
+ <p><font color="Black"> % 16QAM: 14.7%</font></p>
+ <p><font color="Black"> % 64QAM: 82.6%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 41</font></p>
+ <p><font color="Black"> Resource Blocks Max: 48</font></p>
+ <p><font color="Black"> Resource Blocks Min: 25</font></p>
+ <p><font color="Black"> RBs When Allocated: 47</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 12.3</font></p>
+ <p><font color="Black"> Rank Indicator 1: 26.2%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 73.8%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 73.8%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933159</font></p>
+ <p><font color="Black"> Celda final: 89933159</font></p>
+ <p><font color="Black"> PCI inicial: 155</font></p>
+ <p><font color="Black"> PCI final: 155</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.527435,28.1176233333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 2112</font></p>
+ <p><font color="Black"> Throughput: 14253Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 13:25:55.061</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 13:25:55.061</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -92.1</font></p>
+ <p><font color="Black"> RSRQ: -9.7</font></p>
+ <p><font color="Black"> SINR: 12.9</font></p>
+ <p><font color="Black"> % QPSK: 0.5%</font></p>
+ <p><font color="Black"> % 16QAM: 19%</font></p>
+ <p><font color="Black"> % 64QAM: 80.5%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 24</font></p>
+ <p><font color="Black"> Resource Blocks Max: 25</font></p>
+ <p><font color="Black"> Resource Blocks Min: 23</font></p>
+ <p><font color="Black"> RBs When Allocated: 49</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.2%</font></p>
+ <p><font color="Black"> CQI: 12.4</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933159</font></p>
+ <p><font color="Black"> Celda final: 89933159</font></p>
+ <p><font color="Black"> PCI inicial: 155</font></p>
+ <p><font color="Black"> PCI final: 155</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5309516666667,28.1172366666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 2130</font></p>
+ <p><font color="Black"> Throughput: 11233Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 13:30:11.479</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 13:30:11.479</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -92</font></p>
+ <p><font color="Black"> RSRQ: -8.9</font></p>
+ <p><font color="Black"> SINR: 16.9</font></p>
+ <p><font color="Black"> % QPSK: 1%</font></p>
+ <p><font color="Black"> % 16QAM: 6%</font></p>
+ <p><font color="Black"> % 64QAM: 93%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 21</font></p>
+ <p><font color="Black"> Resource Blocks Max: 24</font></p>
+ <p><font color="Black"> Resource Blocks Min: 18</font></p>
+ <p><font color="Black"> RBs When Allocated: 42</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.2%</font></p>
+ <p><font color="Black"> CQI: 14</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933159</font></p>
+ <p><font color="Black"> Celda final: 89933159</font></p>
+ <p><font color="Black"> PCI inicial: 155</font></p>
+ <p><font color="Black"> PCI final: 155</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5309516666667,28.1172366666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 2166</font></p>
+ <p><font color="Black"> Throughput: 28325Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 13:38:51.715</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 13:38:51.715</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -96.7</font></p>
+ <p><font color="Black"> RSRQ: -10.5</font></p>
+ <p><font color="Black"> SINR: 11.9</font></p>
+ <p><font color="Black"> % QPSK: 4.4%</font></p>
+ <p><font color="Black"> % 16QAM: 30.3%</font></p>
+ <p><font color="Black"> % 64QAM: 65.3%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 69</font></p>
+ <p><font color="Black"> Resource Blocks Max: 73</font></p>
+ <p><font color="Black"> Resource Blocks Min: 54</font></p>
+ <p><font color="Black"> RBs When Allocated: 139</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 11.3</font></p>
+ <p><font color="Black"> Rank Indicator 1: 100%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 0%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89637130</font></p>
+ <p><font color="Black"> Celda final: 89637130</font></p>
+ <p><font color="Black"> PCI inicial: 132</font></p>
+ <p><font color="Black"> PCI final: 132</font></p>
+ <p><font color="Black"> TAC inicial: 35010</font></p>
+ <p><font color="Black"> TAC final: 35010</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.52253,28.122075</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 2184</font></p>
+ <p><font color="Black"> Throughput: 18841Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 13:43:06.312</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 13:43:06.312</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -98.8</font></p>
+ <p><font color="Black"> RSRQ: -11.8</font></p>
+ <p><font color="Black"> SINR: 6.2</font></p>
+ <p><font color="Black"> % QPSK: 34.8%</font></p>
+ <p><font color="Black"> % 16QAM: 42.3%</font></p>
+ <p><font color="Black"> % 64QAM: 22.9%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 78</font></p>
+ <p><font color="Black"> Resource Blocks Max: 88</font></p>
+ <p><font color="Black"> Resource Blocks Min: 61</font></p>
+ <p><font color="Black"> RBs When Allocated: 141</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 7.4</font></p>
+ <p><font color="Black"> Rank Indicator 1: 57.1%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 42.9%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 42.9%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933157</font></p>
+ <p><font color="Black"> Celda final: 89637141</font></p>
+ <p><font color="Black"> PCI inicial: 153</font></p>
+ <p><font color="Black"> PCI final: 396</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35010</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.522185,28.1207083333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 2206</font></p>
+ <p><font color="Black"> Throughput: 40651Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 13:48:33.687</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 13:48:33.687</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -71.2</font></p>
+ <p><font color="Black"> RSRQ: -7.2</font></p>
+ <p><font color="Black"> SINR: 28.2</font></p>
+ <p><font color="Black"> % QPSK: 0.4%</font></p>
+ <p><font color="Black"> % 16QAM: 0.3%</font></p>
+ <p><font color="Black"> % 64QAM: 99.4%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 41</font></p>
+ <p><font color="Black"> Resource Blocks Max: 49</font></p>
+ <p><font color="Black"> Resource Blocks Min: 25</font></p>
+ <p><font color="Black"> RBs When Allocated: 49</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 12.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 24.6%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 75.4%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 75.4%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933158</font></p>
+ <p><font color="Black"> Celda final: 89933158</font></p>
+ <p><font color="Black"> PCI inicial: 154</font></p>
+ <p><font color="Black"> PCI final: 154</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5237433333333,28.1178416666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 2224</font></p>
+ <p><font color="Black"> Throughput: 17176Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 13:52:42.960</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 13:52:42.960</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -80.9</font></p>
+ <p><font color="Black"> RSRQ: -8.8</font></p>
+ <p><font color="Black"> SINR: 20.8</font></p>
+ <p><font color="Black"> % QPSK: 6.1%</font></p>
+ <p><font color="Black"> % 16QAM: 41.5%</font></p>
+ <p><font color="Black"> % 64QAM: 52.3%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 35</font></p>
+ <p><font color="Black"> Resource Blocks Max: 47</font></p>
+ <p><font color="Black"> Resource Blocks Min: 26</font></p>
+ <p><font color="Black"> RBs When Allocated: 49</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 12.6</font></p>
+ <p><font color="Black"> Rank Indicator 1: 42.5%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 57.5%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 57.5%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933157</font></p>
+ <p><font color="Black"> Celda final: 89933157</font></p>
+ <p><font color="Black"> PCI inicial: 153</font></p>
+ <p><font color="Black"> PCI final: 153</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.52781,28.1181266666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 2246</font></p>
+ <p><font color="Black"> Throughput: 45072Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 13:58:11.251</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 13:58:11.251</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -70.2</font></p>
+ <p><font color="Black"> RSRQ: -7.5</font></p>
+ <p><font color="Black"> SINR: 30</font></p>
+ <p><font color="Black"> % QPSK: 1.3%</font></p>
+ <p><font color="Black"> % 16QAM: 1%</font></p>
+ <p><font color="Black"> % 64QAM: 97.8%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 46</font></p>
+ <p><font color="Black"> Resource Blocks Max: 48</font></p>
+ <p><font color="Black"> Resource Blocks Min: 39</font></p>
+ <p><font color="Black"> RBs When Allocated: 48</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 12.5</font></p>
+ <p><font color="Black"> Rank Indicator 1: 0%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 100%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933158</font></p>
+ <p><font color="Black"> Celda final: 89933158</font></p>
+ <p><font color="Black"> PCI inicial: 154</font></p>
+ <p><font color="Black"> PCI final: 154</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5248366666667,28.1177783333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 2264</font></p>
+ <p><font color="Black"> Throughput: 36423Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 14:02:17.023</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 14:02:17.023</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -70.4</font></p>
+ <p><font color="Black"> RSRQ: -7.2</font></p>
+ <p><font color="Black"> SINR: 29.9</font></p>
+ <p><font color="Black"> % QPSK: 2.6%</font></p>
+ <p><font color="Black"> % 16QAM: 2.2%</font></p>
+ <p><font color="Black"> % 64QAM: 95.2%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 45</font></p>
+ <p><font color="Black"> Resource Blocks Max: 48</font></p>
+ <p><font color="Black"> Resource Blocks Min: 39</font></p>
+ <p><font color="Black"> RBs When Allocated: 48</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.5%</font></p>
+ <p><font color="Black"> CQI: 12.4</font></p>
+ <p><font color="Black"> Rank Indicator 1: 0%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 100%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933158</font></p>
+ <p><font color="Black"> Celda final: 89933158</font></p>
+ <p><font color="Black"> PCI inicial: 154</font></p>
+ <p><font color="Black"> PCI final: 154</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5248416666667,28.11779</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 2286</font></p>
+ <p><font color="Black"> Throughput: 24501Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 14:07:45.284</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 14:07:45.284</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -91.4</font></p>
+ <p><font color="Black"> RSRQ: -8.4</font></p>
+ <p><font color="Black"> SINR: 21.6</font></p>
+ <p><font color="Black"> % QPSK: 4.9%</font></p>
+ <p><font color="Black"> % 16QAM: 23.7%</font></p>
+ <p><font color="Black"> % 64QAM: 71.4%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 44</font></p>
+ <p><font color="Black"> Resource Blocks Max: 49</font></p>
+ <p><font color="Black"> Resource Blocks Min: 27</font></p>
+ <p><font color="Black"> RBs When Allocated: 49</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 11.3</font></p>
+ <p><font color="Black"> Rank Indicator 1: 15%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 85%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 85%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933159</font></p>
+ <p><font color="Black"> Celda final: 89933159</font></p>
+ <p><font color="Black"> PCI inicial: 155</font></p>
+ <p><font color="Black"> PCI final: 155</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5262116666667,28.117795</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 2304</font></p>
+ <p><font color="Black"> Throughput: 28650Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 14:11:49.640</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 14:11:49.640</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -85.7</font></p>
+ <p><font color="Black"> RSRQ: -7.9</font></p>
+ <p><font color="Black"> SINR: 22.1</font></p>
+ <p><font color="Black"> % QPSK: 0.4%</font></p>
+ <p><font color="Black"> % 16QAM: 15.3%</font></p>
+ <p><font color="Black"> % 64QAM: 84.3%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 44</font></p>
+ <p><font color="Black"> Resource Blocks Max: 48</font></p>
+ <p><font color="Black"> Resource Blocks Min: 24</font></p>
+ <p><font color="Black"> RBs When Allocated: 48</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 13.2</font></p>
+ <p><font color="Black"> Rank Indicator 1: 37.9%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 62.1%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 62.1%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933158</font></p>
+ <p><font color="Black"> Celda final: 89933158</font></p>
+ <p><font color="Black"> PCI inicial: 154</font></p>
+ <p><font color="Black"> PCI final: 154</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5255083333333,28.1175066666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 2326</font></p>
+ <p><font color="Black"> Throughput: 27006Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 14:17:13.044</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 14:17:13.044</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -87.9</font></p>
+ <p><font color="Black"> RSRQ: -8.1</font></p>
+ <p><font color="Black"> SINR: 17.1</font></p>
+ <p><font color="Black"> % QPSK: 0.4%</font></p>
+ <p><font color="Black"> % 16QAM: 2.6%</font></p>
+ <p><font color="Black"> % 64QAM: 97.1%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 39</font></p>
+ <p><font color="Black"> Resource Blocks Max: 48</font></p>
+ <p><font color="Black"> Resource Blocks Min: 25</font></p>
+ <p><font color="Black"> RBs When Allocated: 49</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.4%</font></p>
+ <p><font color="Black"> CQI: 11.3</font></p>
+ <p><font color="Black"> Rank Indicator 1: 45.5%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 54.5%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 54.5%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933158</font></p>
+ <p><font color="Black"> Celda final: 89933158</font></p>
+ <p><font color="Black"> PCI inicial: 154</font></p>
+ <p><font color="Black"> PCI final: 154</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5242816666667,28.11702</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> TestId: 2344</font></p>
+ <p><font color="Black"> Throughput: 20897Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 14:21:17.375</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 14:21:17.375</font></p>
+ <p><font color="Black"> Equipo de Medidas: 354201062970955</font></p>
+ <p><font color="Black"> LogFile: 20170403_ADD_GC_ARUCAS_1_4G</font></p>
+ <p><font color="Black"> Uso LTE: 100%</font></p>
+ <p><font color="Black"> Uso WCDMA: 0%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSRP: -82.3</font></p>
+ <p><font color="Black"> RSRQ: -8.7</font></p>
+ <p><font color="Black"> SINR: 20.4</font></p>
+ <p><font color="Black"> % QPSK: 1.7%</font></p>
+ <p><font color="Black"> % 16QAM: 30%</font></p>
+ <p><font color="Black"> % 64QAM: 68.3%</font></p>
+ <p><font color="Black"> Resource Blocks Avg: 33</font></p>
+ <p><font color="Black"> Resource Blocks Max: 38</font></p>
+ <p><font color="Black"> Resource Blocks Min: 23</font></p>
+ <p><font color="Black"> RBs When Allocated: 46</font></p>
+ <p><font color="Black"> Shared Channel Use: 0.3%</font></p>
+ <p><font color="Black"> CQI: 12.1</font></p>
+ <p><font color="Black"> Rank Indicator 1: 40.8%</font></p>
+ <p><font color="Black"> Rank Indicator 2: 59.2%</font></p>
+ <p><font color="Black"> % TM 1: 0%</font></p>
+ <p><font color="Black"> % TM 2: 0%</font></p>
+ <p><font color="Black"> % TM 3: 100%</font></p>
+ <p><font color="Black"> % TM 4: 0%</font></p>
+ <p><font color="Black"> % TM 5: 0%</font></p>
+ <p><font color="Black"> % MIMO: 59.2%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Celda inicial: 89933158</font></p>
+ <p><font color="Black"> Celda final: 89933158</font></p>
+ <p><font color="Black"> PCI inicial: 154</font></p>
+ <p><font color="Black"> PCI final: 154</font></p>
+ <p><font color="Black"> TAC inicial: 35004</font></p>
+ <p><font color="Black"> TAC final: 35004</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-15.5242183333333,28.1155866666667</coordinates>
+</Point>
+</Placemark>
+<name>354201062970955</name>
+</Folder>
+<name>muestras 4G</name>
+</Folder>
+</Folder>
+<ScreenOverlay>
+<name>Absolute Positioning: Top Left</name>
+<Icon>
+<href>Leyenda_SINR.jpg</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="0.86" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>

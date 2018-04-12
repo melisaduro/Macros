@@ -1,0 +1,2287 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="IconoAwful">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBad">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBad">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSo">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGood">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGood">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoAwfulM">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBadM">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBadM">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSoM">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGoodM">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGoodM">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Folder>
+<name>Customer Experience</name>
+<Folder>
+<name>358672057235180</name>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1132Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 14:09:27.072</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 14:09:27.072</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 14.3</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 85%</font></p>
+ <p><font color="Black"> % BLER: 43.2%</font></p>
+ <p><font color="Black"> % NACKs: 52.1%</font></p>
+ <p><font color="Black"> % SCCH: 57.2%</font></p>
+ <p><font color="Black"> % QPSK: 58.4%</font></p>
+ <p><font color="Black"> % 16QAM: 39.3%</font></p>
+ <p><font color="Black"> % 64QAM: 2.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -92.33</font></p>
+ <p><font color="Black"> EcIo AVG: -9.09</font></p>
+ <p><font color="Black"> CellId inicial: 17596</font></p>
+ <p><font color="Black"> CellId final: 17596</font></p>
+ <p><font color="Black"> SC inicial: 290</font></p>
+ <p><font color="Black"> SC final: 290</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5057783333333,28.4008316666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 8407Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 14:13:52.671</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 14:13:52.671</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 121%</font></p>
+ <p><font color="Black"> % BLER: 20.1%</font></p>
+ <p><font color="Black"> % NACKs: 16.6%</font></p>
+ <p><font color="Black"> % SCCH: 32.4%</font></p>
+ <p><font color="Black"> % QPSK: 0.4%</font></p>
+ <p><font color="Black"> % 16QAM: 13.7%</font></p>
+ <p><font color="Black"> % 64QAM: 85.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -82.05</font></p>
+ <p><font color="Black"> EcIo AVG: -8.32</font></p>
+ <p><font color="Black"> CellId inicial: 17596</font></p>
+ <p><font color="Black"> CellId final: 17596</font></p>
+ <p><font color="Black"> SC inicial: 306</font></p>
+ <p><font color="Black"> SC final: 306</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5099333333333,28.4036866666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 6199Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 14:20:31.934</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 14:20:31.934</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.8</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 140%</font></p>
+ <p><font color="Black"> % BLER: 23.7%</font></p>
+ <p><font color="Black"> % NACKs: 16.9%</font></p>
+ <p><font color="Black"> % SCCH: 34.7%</font></p>
+ <p><font color="Black"> % QPSK: 4.1%</font></p>
+ <p><font color="Black"> % 16QAM: 49.1%</font></p>
+ <p><font color="Black"> % 64QAM: 46.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -92.15</font></p>
+ <p><font color="Black"> EcIo AVG: -7.86</font></p>
+ <p><font color="Black"> CellId inicial: 17598</font></p>
+ <p><font color="Black"> CellId final: 17598</font></p>
+ <p><font color="Black"> SC inicial: 306</font></p>
+ <p><font color="Black"> SC final: 306</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5176033333333,28.40034</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 7182Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 14:24:39.012</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 14:24:39.012</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.1</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 124%</font></p>
+ <p><font color="Black"> % BLER: 22.8%</font></p>
+ <p><font color="Black"> % NACKs: 21.4%</font></p>
+ <p><font color="Black"> % SCCH: 43.8%</font></p>
+ <p><font color="Black"> % QPSK: 1.9%</font></p>
+ <p><font color="Black"> % 16QAM: 56.4%</font></p>
+ <p><font color="Black"> % 64QAM: 41.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -81.69</font></p>
+ <p><font color="Black"> EcIo AVG: -9.89</font></p>
+ <p><font color="Black"> CellId inicial: 17596</font></p>
+ <p><font color="Black"> CellId final: 17596</font></p>
+ <p><font color="Black"> SC inicial: 290</font></p>
+ <p><font color="Black"> SC final: 290</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5197466666667,28.3895783333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 6578Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 14:30:15.135</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 14:30:15.135</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.5</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 136%</font></p>
+ <p><font color="Black"> % BLER: 25.4%</font></p>
+ <p><font color="Black"> % NACKs: 17.5%</font></p>
+ <p><font color="Black"> % SCCH: 29%</font></p>
+ <p><font color="Black"> % QPSK: 1.8%</font></p>
+ <p><font color="Black"> % 16QAM: 51.1%</font></p>
+ <p><font color="Black"> % 64QAM: 47.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -88.21</font></p>
+ <p><font color="Black"> EcIo AVG: -7.52</font></p>
+ <p><font color="Black"> CellId inicial: 25388</font></p>
+ <p><font color="Black"> CellId final: 25388</font></p>
+ <p><font color="Black"> SC inicial: 434</font></p>
+ <p><font color="Black"> SC final: 434</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5233233333333,28.3864533333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 11046Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 14:34:24.621</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 14:34:24.621</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.7</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 138%</font></p>
+ <p><font color="Black"> % BLER: 15.1%</font></p>
+ <p><font color="Black"> % NACKs: 10.8%</font></p>
+ <p><font color="Black"> % SCCH: 30%</font></p>
+ <p><font color="Black"> % QPSK: 0.5%</font></p>
+ <p><font color="Black"> % 16QAM: 6.8%</font></p>
+ <p><font color="Black"> % 64QAM: 92.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.94</font></p>
+ <p><font color="Black"> EcIo AVG: -6.92</font></p>
+ <p><font color="Black"> CellId inicial: 25390</font></p>
+ <p><font color="Black"> CellId final: 25390</font></p>
+ <p><font color="Black"> SC inicial: 450</font></p>
+ <p><font color="Black"> SC final: 450</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5340216666667,28.3829533333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 9193Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 14:40:06.765</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 14:40:06.765</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 29.1</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 155%</font></p>
+ <p><font color="Black"> % BLER: 15%</font></p>
+ <p><font color="Black"> % NACKs: 8.8%</font></p>
+ <p><font color="Black"> % SCCH: 24.5%</font></p>
+ <p><font color="Black"> % QPSK: 1.9%</font></p>
+ <p><font color="Black"> % 16QAM: 9.2%</font></p>
+ <p><font color="Black"> % 64QAM: 88.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -71.42</font></p>
+ <p><font color="Black"> EcIo AVG: -5.32</font></p>
+ <p><font color="Black"> CellId inicial: 25390</font></p>
+ <p><font color="Black"> CellId final: 25390</font></p>
+ <p><font color="Black"> SC inicial: 450</font></p>
+ <p><font color="Black"> SC final: 450</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5321666666667,28.3817183333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 4302Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 14:44:20.418</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 14:44:20.418</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.6</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 76%</font></p>
+ <p><font color="Black"> % BLER: 40.3%</font></p>
+ <p><font color="Black"> % NACKs: 40.6%</font></p>
+ <p><font color="Black"> % SCCH: 57.1%</font></p>
+ <p><font color="Black"> % QPSK: 11.3%</font></p>
+ <p><font color="Black"> % 16QAM: 76.5%</font></p>
+ <p><font color="Black"> % 64QAM: 12.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 92%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -90.06</font></p>
+ <p><font color="Black"> EcIo AVG: -7.37</font></p>
+ <p><font color="Black"> CellId inicial: 25051</font></p>
+ <p><font color="Black"> CellId final: 25051</font></p>
+ <p><font color="Black"> SC inicial: 37</font></p>
+ <p><font color="Black"> SC final: 37</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5485283333333,28.3818733333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 5592Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 14:54:16.656</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 14:54:16.656</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 17.3</font></p>
+ <p><font color="Black"> HARQ: 7</font></p>
+ <p><font color="Black"> DTX DSCH: 128%</font></p>
+ <p><font color="Black"> % BLER: 32.7%</font></p>
+ <p><font color="Black"> % NACKs: 27%</font></p>
+ <p><font color="Black"> % SCCH: 34%</font></p>
+ <p><font color="Black"> % QPSK: 24.1%</font></p>
+ <p><font color="Black"> % 16QAM: 68.1%</font></p>
+ <p><font color="Black"> % 64QAM: 7.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -88.64</font></p>
+ <p><font color="Black"> EcIo AVG: -6.85</font></p>
+ <p><font color="Black"> CellId inicial: 25063</font></p>
+ <p><font color="Black"> CellId final: 25063</font></p>
+ <p><font color="Black"> SC inicial: 370</font></p>
+ <p><font color="Black"> SC final: 370</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5406066666667,28.3955716666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2141Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 14:59:57.505</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 14:59:57.505</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 12.5</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 104%</font></p>
+ <p><font color="Black"> % BLER: 47.8%</font></p>
+ <p><font color="Black"> % NACKs: 47.5%</font></p>
+ <p><font color="Black"> % SCCH: 45.9%</font></p>
+ <p><font color="Black"> % QPSK: 52%</font></p>
+ <p><font color="Black"> % 16QAM: 45%</font></p>
+ <p><font color="Black"> % 64QAM: 3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -95.71</font></p>
+ <p><font color="Black"> EcIo AVG: -9.23</font></p>
+ <p><font color="Black"> CellId inicial: 25390</font></p>
+ <p><font color="Black"> CellId final: 25390</font></p>
+ <p><font color="Black"> SC inicial: 450</font></p>
+ <p><font color="Black"> SC final: 362</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.53723,28.3949083333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 671Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 15:04:57.640</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 15:04:57.640</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 17</font></p>
+ <p><font color="Black"> HARQ: 4</font></p>
+ <p><font color="Black"> DTX DSCH: 49%</font></p>
+ <p><font color="Black"> % BLER: 35.3%</font></p>
+ <p><font color="Black"> % NACKs: 17.4%</font></p>
+ <p><font color="Black"> % SCCH: 49.2%</font></p>
+ <p><font color="Black"> % QPSK: 49.8%</font></p>
+ <p><font color="Black"> % 16QAM: 49.6%</font></p>
+ <p><font color="Black"> % 64QAM: 0.6%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.42</font></p>
+ <p><font color="Black"> EcIo AVG: -11.51</font></p>
+ <p><font color="Black"> CellId inicial: 30500</font></p>
+ <p><font color="Black"> CellId final: 30500</font></p>
+ <p><font color="Black"> SC inicial: 37</font></p>
+ <p><font color="Black"> SC final: 37</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 2959</font></p>
+ <p><font color="Black"> UARFCN final: 2959</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5275983333333,28.3938133333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2397Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 15:11:06.485</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 15:11:06.485</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.7</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 89%</font></p>
+ <p><font color="Black"> % BLER: 39%</font></p>
+ <p><font color="Black"> % NACKs: 28.1%</font></p>
+ <p><font color="Black"> % SCCH: 36.1%</font></p>
+ <p><font color="Black"> % QPSK: 14.9%</font></p>
+ <p><font color="Black"> % 16QAM: 80.9%</font></p>
+ <p><font color="Black"> % 64QAM: 4.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 48%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -90.38</font></p>
+ <p><font color="Black"> EcIo AVG: -7.35</font></p>
+ <p><font color="Black"> CellId inicial: 17597</font></p>
+ <p><font color="Black"> CellId final: 17597</font></p>
+ <p><font color="Black"> SC inicial: 298</font></p>
+ <p><font color="Black"> SC final: 37</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5265266666667,28.3933833333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 8599Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 15:15:40.177</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 15:15:40.177</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.3</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 133%</font></p>
+ <p><font color="Black"> % BLER: 20.4%</font></p>
+ <p><font color="Black"> % NACKs: 16.2%</font></p>
+ <p><font color="Black"> % SCCH: 35.8%</font></p>
+ <p><font color="Black"> % QPSK: 3.4%</font></p>
+ <p><font color="Black"> % 16QAM: 92%</font></p>
+ <p><font color="Black"> % 64QAM: 4.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -103.57</font></p>
+ <p><font color="Black"> EcIo AVG: -8.97</font></p>
+ <p><font color="Black"> CellId inicial: 25388</font></p>
+ <p><font color="Black"> CellId final: 25388</font></p>
+ <p><font color="Black"> SC inicial: 434</font></p>
+ <p><font color="Black"> SC final: 434</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5237733333333,28.390065</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fallo</name>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 0Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 15:22:11.581</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 15:22:11.581</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 14.5</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 147%</font></p>
+ <p><font color="Black"> % BLER: 35.8%</font></p>
+ <p><font color="Black"> % NACKs: 20.6%</font></p>
+ <p><font color="Black"> % SCCH: 23.6%</font></p>
+ <p><font color="Black"> % QPSK: 45.7%</font></p>
+ <p><font color="Black"> % 16QAM: 50.9%</font></p>
+ <p><font color="Black"> % 64QAM: 3.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 99%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -105.71</font></p>
+ <p><font color="Black"> EcIo AVG: -12.64</font></p>
+ <p><font color="Black"> CellId inicial: 17596</font></p>
+ <p><font color="Black"> CellId final: 30373</font></p>
+ <p><font color="Black"> SC inicial: 290</font></p>
+ <p><font color="Black"> SC final: 434</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 2959</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5142833333333,28.3951483333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 8903Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 15:32:22.551</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 15:32:22.551</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.4</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 127%</font></p>
+ <p><font color="Black"> % BLER: 16.8%</font></p>
+ <p><font color="Black"> % NACKs: 12.1%</font></p>
+ <p><font color="Black"> % SCCH: 35.3%</font></p>
+ <p><font color="Black"> % QPSK: 1.7%</font></p>
+ <p><font color="Black"> % 16QAM: 28.2%</font></p>
+ <p><font color="Black"> % 64QAM: 70.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -76.59</font></p>
+ <p><font color="Black"> EcIo AVG: -7.75</font></p>
+ <p><font color="Black"> CellId inicial: 17224</font></p>
+ <p><font color="Black"> CellId final: 17224</font></p>
+ <p><font color="Black"> SC inicial: 306</font></p>
+ <p><font color="Black"> SC final: 306</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5227366666667,28.3990416666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 11623Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 15:47:06.138</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 15:47:06.138</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.8</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 145%</font></p>
+ <p><font color="Black"> % BLER: 17.4%</font></p>
+ <p><font color="Black"> % NACKs: 13.2%</font></p>
+ <p><font color="Black"> % SCCH: 26.8%</font></p>
+ <p><font color="Black"> % QPSK: 0.7%</font></p>
+ <p><font color="Black"> % 16QAM: 13.6%</font></p>
+ <p><font color="Black"> % 64QAM: 85.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -82.09</font></p>
+ <p><font color="Black"> EcIo AVG: -6.16</font></p>
+ <p><font color="Black"> CellId inicial: 25085</font></p>
+ <p><font color="Black"> CellId final: 25085</font></p>
+ <p><font color="Black"> SC inicial: 242</font></p>
+ <p><font color="Black"> SC final: 242</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5413783333333,28.3939183333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 7942Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 15:52:36.303</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 15:52:36.303</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.3</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 140%</font></p>
+ <p><font color="Black"> % BLER: 18.1%</font></p>
+ <p><font color="Black"> % NACKs: 11.2%</font></p>
+ <p><font color="Black"> % SCCH: 31.9%</font></p>
+ <p><font color="Black"> % QPSK: 2.3%</font></p>
+ <p><font color="Black"> % 16QAM: 15.7%</font></p>
+ <p><font color="Black"> % 64QAM: 82%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.38</font></p>
+ <p><font color="Black"> EcIo AVG: -8.56</font></p>
+ <p><font color="Black"> CellId inicial: 17224</font></p>
+ <p><font color="Black"> CellId final: 17224</font></p>
+ <p><font color="Black"> SC inicial: 306</font></p>
+ <p><font color="Black"> SC final: 306</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5219216666667,28.396975</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2292Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 15:57:06.317</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 15:57:06.317</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.9</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 160%</font></p>
+ <p><font color="Black"> % BLER: 13.9%</font></p>
+ <p><font color="Black"> % NACKs: 7.9%</font></p>
+ <p><font color="Black"> % SCCH: 20%</font></p>
+ <p><font color="Black"> % QPSK: 11.3%</font></p>
+ <p><font color="Black"> % 16QAM: 57%</font></p>
+ <p><font color="Black"> % 64QAM: 31.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.01</font></p>
+ <p><font color="Black"> EcIo AVG: -8.43</font></p>
+ <p><font color="Black"> CellId inicial: 17223</font></p>
+ <p><font color="Black"> CellId final: 17223</font></p>
+ <p><font color="Black"> SC inicial: 298</font></p>
+ <p><font color="Black"> SC final: 306</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.52233,28.3954016666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 9698Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 16:02:56.644</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 16:02:56.644</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.8</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 136%</font></p>
+ <p><font color="Black"> % BLER: 17.1%</font></p>
+ <p><font color="Black"> % NACKs: 13.2%</font></p>
+ <p><font color="Black"> % SCCH: 34.5%</font></p>
+ <p><font color="Black"> % QPSK: 1.4%</font></p>
+ <p><font color="Black"> % 16QAM: 78%</font></p>
+ <p><font color="Black"> % 64QAM: 20.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -99.77</font></p>
+ <p><font color="Black"> EcIo AVG: -7.96</font></p>
+ <p><font color="Black"> CellId inicial: 17223</font></p>
+ <p><font color="Black"> CellId final: 17223</font></p>
+ <p><font color="Black"> SC inicial: 298</font></p>
+ <p><font color="Black"> SC final: 298</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.52533,28.39283</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 8147Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 16:07:19.830</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 16:07:19.830</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 28.8</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 140%</font></p>
+ <p><font color="Black"> % BLER: 19.5%</font></p>
+ <p><font color="Black"> % NACKs: 11.4%</font></p>
+ <p><font color="Black"> % SCCH: 33.8%</font></p>
+ <p><font color="Black"> % QPSK: 1.3%</font></p>
+ <p><font color="Black"> % 16QAM: 5.2%</font></p>
+ <p><font color="Black"> % 64QAM: 93.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -66.76</font></p>
+ <p><font color="Black"> EcIo AVG: -9.02</font></p>
+ <p><font color="Black"> CellId inicial: 17224</font></p>
+ <p><font color="Black"> CellId final: 17224</font></p>
+ <p><font color="Black"> SC inicial: 306</font></p>
+ <p><font color="Black"> SC final: 306</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5201083333333,28.3938466666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 4161Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 16:13:41.567</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 16:13:41.567</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.9</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 125%</font></p>
+ <p><font color="Black"> % BLER: 33.7%</font></p>
+ <p><font color="Black"> % NACKs: 26.6%</font></p>
+ <p><font color="Black"> % SCCH: 42.8%</font></p>
+ <p><font color="Black"> % QPSK: 3.2%</font></p>
+ <p><font color="Black"> % 16QAM: 64.5%</font></p>
+ <p><font color="Black"> % 64QAM: 32.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -103.55</font></p>
+ <p><font color="Black"> EcIo AVG: -10.2</font></p>
+ <p><font color="Black"> CellId inicial: 17222</font></p>
+ <p><font color="Black"> CellId final: 17222</font></p>
+ <p><font color="Black"> SC inicial: 290</font></p>
+ <p><font color="Black"> SC final: 290</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5061883333333,28.3900233333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 8621Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 16:18:25.500</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 16:18:25.500</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.9</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 144%</font></p>
+ <p><font color="Black"> % BLER: 27.1%</font></p>
+ <p><font color="Black"> % NACKs: 15.2%</font></p>
+ <p><font color="Black"> % SCCH: 31.4%</font></p>
+ <p><font color="Black"> % QPSK: 2.4%</font></p>
+ <p><font color="Black"> % 16QAM: 49.6%</font></p>
+ <p><font color="Black"> % 64QAM: 47.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.33</font></p>
+ <p><font color="Black"> EcIo AVG: -6.16</font></p>
+ <p><font color="Black"> CellId inicial: 17605</font></p>
+ <p><font color="Black"> CellId final: 17605</font></p>
+ <p><font color="Black"> SC inicial: 442</font></p>
+ <p><font color="Black"> SC final: 442</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5228783333333,28.3867483333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 12646Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 16:24:09.135</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 16:24:09.135</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.3</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 141%</font></p>
+ <p><font color="Black"> % BLER: 8.6%</font></p>
+ <p><font color="Black"> % NACKs: 5.7%</font></p>
+ <p><font color="Black"> % SCCH: 38.9%</font></p>
+ <p><font color="Black"> % QPSK: 0.4%</font></p>
+ <p><font color="Black"> % 16QAM: 33.2%</font></p>
+ <p><font color="Black"> % 64QAM: 66.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.94</font></p>
+ <p><font color="Black"> EcIo AVG: -8.85</font></p>
+ <p><font color="Black"> CellId inicial: 17222</font></p>
+ <p><font color="Black"> CellId final: 17222</font></p>
+ <p><font color="Black"> SC inicial: 290</font></p>
+ <p><font color="Black"> SC final: 290</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.51218,28.3909816666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2515Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 16:28:26.890</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 16:28:26.890</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.8</font></p>
+ <p><font color="Black"> HARQ: 7</font></p>
+ <p><font color="Black"> DTX DSCH: 138%</font></p>
+ <p><font color="Black"> % BLER: 36.5%</font></p>
+ <p><font color="Black"> % NACKs: 23.8%</font></p>
+ <p><font color="Black"> % SCCH: 28.6%</font></p>
+ <p><font color="Black"> % QPSK: 1.6%</font></p>
+ <p><font color="Black"> % 16QAM: 43.1%</font></p>
+ <p><font color="Black"> % 64QAM: 55.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -96.71</font></p>
+ <p><font color="Black"> EcIo AVG: -9.19</font></p>
+ <p><font color="Black"> CellId inicial: 17222</font></p>
+ <p><font color="Black"> CellId final: 17222</font></p>
+ <p><font color="Black"> SC inicial: 290</font></p>
+ <p><font color="Black"> SC final: 290</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.51046,28.3885033333333</coordinates>
+</Point>
+</Placemark>
+<name>358672057235180</name>
+</Folder>
+</Folder>
+<Folder>
+<name>Network Capability</name>
+<Folder>
+<name>358672057235180</name>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3654Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 14:04:57.743</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 14:04:57.743</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.1</font></p>
+ <p><font color="Black"> HARQ: 7</font></p>
+ <p><font color="Black"> DTX DSCH: 102%</font></p>
+ <p><font color="Black"> % BLER: 37.1%</font></p>
+ <p><font color="Black"> % NACKs: 36.3%</font></p>
+ <p><font color="Black"> % SCCH: 43.8%</font></p>
+ <p><font color="Black"> % QPSK: 2.5%</font></p>
+ <p><font color="Black"> % 16QAM: 81.3%</font></p>
+ <p><font color="Black"> % 64QAM: 16.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -90.22</font></p>
+ <p><font color="Black"> EcIo AVG: -10.33</font></p>
+ <p><font color="Black"> CellId inicial: 17604</font></p>
+ <p><font color="Black"> CellId final: 17221</font></p>
+ <p><font color="Black"> SC inicial: 434</font></p>
+ <p><font color="Black"> SC final: 306</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5076216666667,28.40227</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4877Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 14:11:22.371</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 14:11:22.371</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.5</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 74%</font></p>
+ <p><font color="Black"> % BLER: 42.3%</font></p>
+ <p><font color="Black"> % NACKs: 53.6%</font></p>
+ <p><font color="Black"> % SCCH: 65.5%</font></p>
+ <p><font color="Black"> % QPSK: 4.3%</font></p>
+ <p><font color="Black"> % 16QAM: 72.7%</font></p>
+ <p><font color="Black"> % 64QAM: 23%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.46</font></p>
+ <p><font color="Black"> EcIo AVG: -10.2</font></p>
+ <p><font color="Black"> CellId inicial: 17596</font></p>
+ <p><font color="Black"> CellId final: 17596</font></p>
+ <p><font color="Black"> SC inicial: 290</font></p>
+ <p><font color="Black"> SC final: 290</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5062283333333,28.3989716666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2845Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 14:15:44.812</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 14:15:44.812</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.7</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 152%</font></p>
+ <p><font color="Black"> % BLER: 25.8%</font></p>
+ <p><font color="Black"> % NACKs: 12.3%</font></p>
+ <p><font color="Black"> % SCCH: 23.7%</font></p>
+ <p><font color="Black"> % QPSK: 5.4%</font></p>
+ <p><font color="Black"> % 16QAM: 62.7%</font></p>
+ <p><font color="Black"> % 64QAM: 31.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -81.89</font></p>
+ <p><font color="Black"> EcIo AVG: -11.21</font></p>
+ <p><font color="Black"> CellId inicial: 17598</font></p>
+ <p><font color="Black"> CellId final: 17598</font></p>
+ <p><font color="Black"> SC inicial: 306</font></p>
+ <p><font color="Black"> SC final: 306</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.50868,28.4039066666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 10759Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 14:22:13.212</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 14:22:13.212</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.1</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 73%</font></p>
+ <p><font color="Black"> % BLER: 16.1%</font></p>
+ <p><font color="Black"> % NACKs: 19%</font></p>
+ <p><font color="Black"> % SCCH: 62.8%</font></p>
+ <p><font color="Black"> % QPSK: 0.6%</font></p>
+ <p><font color="Black"> % 16QAM: 26.3%</font></p>
+ <p><font color="Black"> % 64QAM: 73.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -73.99</font></p>
+ <p><font color="Black"> EcIo AVG: -9.28</font></p>
+ <p><font color="Black"> CellId inicial: 17598</font></p>
+ <p><font color="Black"> CellId final: 17598</font></p>
+ <p><font color="Black"> SC inicial: 306</font></p>
+ <p><font color="Black"> SC final: 306</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5193566666667,28.3953183333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 15943Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 14:26:29.447</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 14:26:29.447</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 28.5</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 67%</font></p>
+ <p><font color="Black"> % BLER: 12.4%</font></p>
+ <p><font color="Black"> % NACKs: 17%</font></p>
+ <p><font color="Black"> % SCCH: 67.5%</font></p>
+ <p><font color="Black"> % QPSK: 0.3%</font></p>
+ <p><font color="Black"> % 16QAM: 11.7%</font></p>
+ <p><font color="Black"> % 64QAM: 88%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -64.93</font></p>
+ <p><font color="Black"> EcIo AVG: -7.07</font></p>
+ <p><font color="Black"> CellId inicial: 25389</font></p>
+ <p><font color="Black"> CellId final: 25389</font></p>
+ <p><font color="Black"> SC inicial: 442</font></p>
+ <p><font color="Black"> SC final: 442</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.524345,28.38503</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 11725Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 14:32:00.307</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 14:32:00.307</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.3</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 70%</font></p>
+ <p><font color="Black"> % BLER: 14.3%</font></p>
+ <p><font color="Black"> % NACKs: 20%</font></p>
+ <p><font color="Black"> % SCCH: 65.5%</font></p>
+ <p><font color="Black"> % QPSK: 0.3%</font></p>
+ <p><font color="Black"> % 16QAM: 62.6%</font></p>
+ <p><font color="Black"> % 64QAM: 37.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -75.48</font></p>
+ <p><font color="Black"> EcIo AVG: -7.98</font></p>
+ <p><font color="Black"> CellId inicial: 25390</font></p>
+ <p><font color="Black"> CellId final: 25390</font></p>
+ <p><font color="Black"> SC inicial: 450</font></p>
+ <p><font color="Black"> SC final: 450</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.529365,28.3835166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 12809Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 14:36:05.425</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 14:36:05.425</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.8</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 52%</font></p>
+ <p><font color="Black"> % BLER: 14%</font></p>
+ <p><font color="Black"> % NACKs: 21.6%</font></p>
+ <p><font color="Black"> % SCCH: 70.3%</font></p>
+ <p><font color="Black"> % QPSK: 0.2%</font></p>
+ <p><font color="Black"> % 16QAM: 1.5%</font></p>
+ <p><font color="Black"> % 64QAM: 98.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -73.9</font></p>
+ <p><font color="Black"> EcIo AVG: -7.43</font></p>
+ <p><font color="Black"> CellId inicial: 25390</font></p>
+ <p><font color="Black"> CellId final: 25390</font></p>
+ <p><font color="Black"> SC inicial: 450</font></p>
+ <p><font color="Black"> SC final: 450</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5345733333333,28.3823466666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 7783Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 14:41:47.227</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 14:41:47.227</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.4</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 51%</font></p>
+ <p><font color="Black"> % BLER: 26.6%</font></p>
+ <p><font color="Black"> % NACKs: 40.7%</font></p>
+ <p><font color="Black"> % SCCH: 71.8%</font></p>
+ <p><font color="Black"> % QPSK: 21%</font></p>
+ <p><font color="Black"> % 16QAM: 76.1%</font></p>
+ <p><font color="Black"> % 64QAM: 2.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -93.35</font></p>
+ <p><font color="Black"> EcIo AVG: -8.62</font></p>
+ <p><font color="Black"> CellId inicial: 25390</font></p>
+ <p><font color="Black"> CellId final: 25390</font></p>
+ <p><font color="Black"> SC inicial: 450</font></p>
+ <p><font color="Black"> SC final: 450</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.541905,28.3788916666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1860Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 14:46:20.642</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 14:46:20.642</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 14.7</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 82%</font></p>
+ <p><font color="Black"> % BLER: 48.4%</font></p>
+ <p><font color="Black"> % NACKs: 60.1%</font></p>
+ <p><font color="Black"> % SCCH: 60.5%</font></p>
+ <p><font color="Black"> % QPSK: 51.6%</font></p>
+ <p><font color="Black"> % 16QAM: 47.7%</font></p>
+ <p><font color="Black"> % 64QAM: 0.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -95.21</font></p>
+ <p><font color="Black"> EcIo AVG: -9.37</font></p>
+ <p><font color="Black"> CellId inicial: 25390</font></p>
+ <p><font color="Black"> CellId final: 25390</font></p>
+ <p><font color="Black"> SC inicial: 370</font></p>
+ <p><font color="Black"> SC final: 370</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.553065,28.3886083333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 7599Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 14:56:01.648</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 14:56:01.648</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.1</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 73%</font></p>
+ <p><font color="Black"> % BLER: 33.6%</font></p>
+ <p><font color="Black"> % NACKs: 44.2%</font></p>
+ <p><font color="Black"> % SCCH: 66.8%</font></p>
+ <p><font color="Black"> % QPSK: 7.2%</font></p>
+ <p><font color="Black"> % 16QAM: 84.9%</font></p>
+ <p><font color="Black"> % 64QAM: 8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.67</font></p>
+ <p><font color="Black"> EcIo AVG: -7.5</font></p>
+ <p><font color="Black"> CellId inicial: 17597</font></p>
+ <p><font color="Black"> CellId final: 17597</font></p>
+ <p><font color="Black"> SC inicial: 370</font></p>
+ <p><font color="Black"> SC final: 370</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5452533333333,28.3947366666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3193Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 15:01:52.220</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 15:01:52.220</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 16.5</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 67%</font></p>
+ <p><font color="Black"> % BLER: 25.6%</font></p>
+ <p><font color="Black"> % NACKs: 35.3%</font></p>
+ <p><font color="Black"> % SCCH: 67.5%</font></p>
+ <p><font color="Black"> % QPSK: 50.3%</font></p>
+ <p><font color="Black"> % 16QAM: 49.5%</font></p>
+ <p><font color="Black"> % 64QAM: 0.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 92%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -94.43</font></p>
+ <p><font color="Black"> EcIo AVG: -8.13</font></p>
+ <p><font color="Black"> CellId inicial: 17259</font></p>
+ <p><font color="Black"> CellId final: 17259</font></p>
+ <p><font color="Black"> SC inicial: 370</font></p>
+ <p><font color="Black"> SC final: 378</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5319083333333,28.3978</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3225Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 15:07:01.505</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 15:07:01.505</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.3</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 38%</font></p>
+ <p><font color="Black"> % BLER: 28.5%</font></p>
+ <p><font color="Black"> % NACKs: 17.8%</font></p>
+ <p><font color="Black"> % SCCH: 68.6%</font></p>
+ <p><font color="Black"> % QPSK: 0.8%</font></p>
+ <p><font color="Black"> % 16QAM: 84.6%</font></p>
+ <p><font color="Black"> % 64QAM: 14.6%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -97.46</font></p>
+ <p><font color="Black"> EcIo AVG: -9.24</font></p>
+ <p><font color="Black"> CellId inicial: 17221</font></p>
+ <p><font color="Black"> CellId final: 25051</font></p>
+ <p><font color="Black"> SC inicial: 37</font></p>
+ <p><font color="Black"> SC final: 37</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5302983333333,28.3955683333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2405Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 15:13:11.506</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 15:13:11.506</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 15.5</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 75%</font></p>
+ <p><font color="Black"> % BLER: 39.4%</font></p>
+ <p><font color="Black"> % NACKs: 43.3%</font></p>
+ <p><font color="Black"> % SCCH: 57.8%</font></p>
+ <p><font color="Black"> % QPSK: 47.2%</font></p>
+ <p><font color="Black"> % 16QAM: 49.5%</font></p>
+ <p><font color="Black"> % 64QAM: 3.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 86%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -87.72</font></p>
+ <p><font color="Black"> EcIo AVG: -8.07</font></p>
+ <p><font color="Black"> CellId inicial: 25388</font></p>
+ <p><font color="Black"> CellId final: 25388</font></p>
+ <p><font color="Black"> SC inicial: 434</font></p>
+ <p><font color="Black"> SC final: 434</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.528465,28.38876</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 10545Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 15:17:20.192</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 15:17:20.192</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.7</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 72%</font></p>
+ <p><font color="Black"> % BLER: 17.6%</font></p>
+ <p><font color="Black"> % NACKs: 24.5%</font></p>
+ <p><font color="Black"> % SCCH: 59.5%</font></p>
+ <p><font color="Black"> % QPSK: 1%</font></p>
+ <p><font color="Black"> % 16QAM: 24.6%</font></p>
+ <p><font color="Black"> % 64QAM: 74.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -71.74</font></p>
+ <p><font color="Black"> EcIo AVG: -9.51</font></p>
+ <p><font color="Black"> CellId inicial: 17597</font></p>
+ <p><font color="Black"> CellId final: 17597</font></p>
+ <p><font color="Black"> SC inicial: 298</font></p>
+ <p><font color="Black"> SC final: 298</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5220233333333,28.39197</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 7949Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 15:24:20.437</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 15:24:20.437</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.4</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 25%</font></p>
+ <p><font color="Black"> % BLER: 14.7%</font></p>
+ <p><font color="Black"> % NACKs: 11.2%</font></p>
+ <p><font color="Black"> % SCCH: 72.9%</font></p>
+ <p><font color="Black"> % QPSK: 0.1%</font></p>
+ <p><font color="Black"> % 16QAM: 10.2%</font></p>
+ <p><font color="Black"> % 64QAM: 89.8%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -63.9</font></p>
+ <p><font color="Black"> EcIo AVG: -9.04</font></p>
+ <p><font color="Black"> CellId inicial: 32902</font></p>
+ <p><font color="Black"> CellId final: 32902</font></p>
+ <p><font color="Black"> SC inicial: 426</font></p>
+ <p><font color="Black"> SC final: 426</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 2959</font></p>
+ <p><font color="Black"> UARFCN final: 2959</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5143033333333,28.401775</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2919Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 15:34:39.643</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 15:34:39.643</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.9</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 118%</font></p>
+ <p><font color="Black"> % BLER: 21.2%</font></p>
+ <p><font color="Black"> % NACKs: 17.3%</font></p>
+ <p><font color="Black"> % SCCH: 43.2%</font></p>
+ <p><font color="Black"> % QPSK: 8.2%</font></p>
+ <p><font color="Black"> % 16QAM: 57.8%</font></p>
+ <p><font color="Black"> % 64QAM: 33.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -96.42</font></p>
+ <p><font color="Black"> EcIo AVG: -8.93</font></p>
+ <p><font color="Black"> CellId inicial: 17224</font></p>
+ <p><font color="Black"> CellId final: 17224</font></p>
+ <p><font color="Black"> SC inicial: 306</font></p>
+ <p><font color="Black"> SC final: 306</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5206316666667,28.4009066666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 7266Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 15:44:41.829</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 15:44:41.829</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.7</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 103%</font></p>
+ <p><font color="Black"> % BLER: 24.2%</font></p>
+ <p><font color="Black"> % NACKs: 23.9%</font></p>
+ <p><font color="Black"> % SCCH: 47.8%</font></p>
+ <p><font color="Black"> % QPSK: 1.9%</font></p>
+ <p><font color="Black"> % 16QAM: 77.5%</font></p>
+ <p><font color="Black"> % 64QAM: 20.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.18</font></p>
+ <p><font color="Black"> EcIo AVG: -11.2</font></p>
+ <p><font color="Black"> CellId inicial: 25085</font></p>
+ <p><font color="Black"> CellId final: 25085</font></p>
+ <p><font color="Black"> SC inicial: 242</font></p>
+ <p><font color="Black"> SC final: 242</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5384483333333,28.3969033333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3917Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 15:48:43.243</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 15:48:43.243</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.8</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 79%</font></p>
+ <p><font color="Black"> % BLER: 49.2%</font></p>
+ <p><font color="Black"> % NACKs: 62.7%</font></p>
+ <p><font color="Black"> % SCCH: 65.3%</font></p>
+ <p><font color="Black"> % QPSK: 10.3%</font></p>
+ <p><font color="Black"> % 16QAM: 84.5%</font></p>
+ <p><font color="Black"> % 64QAM: 5.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.05</font></p>
+ <p><font color="Black"> EcIo AVG: -8.57</font></p>
+ <p><font color="Black"> CellId inicial: 25085</font></p>
+ <p><font color="Black"> CellId final: 25085</font></p>
+ <p><font color="Black"> SC inicial: 242</font></p>
+ <p><font color="Black"> SC final: 242</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5351633333333,28.3973233333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 9121Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 15:54:27.007</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 15:54:27.007</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.5</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 65%</font></p>
+ <p><font color="Black"> % BLER: 21%</font></p>
+ <p><font color="Black"> % NACKs: 28.8%</font></p>
+ <p><font color="Black"> % SCCH: 67.8%</font></p>
+ <p><font color="Black"> % QPSK: 0.8%</font></p>
+ <p><font color="Black"> % 16QAM: 48.5%</font></p>
+ <p><font color="Black"> % 64QAM: 50.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -93.09</font></p>
+ <p><font color="Black"> EcIo AVG: -8.92</font></p>
+ <p><font color="Black"> CellId inicial: 17224</font></p>
+ <p><font color="Black"> CellId final: 17224</font></p>
+ <p><font color="Black"> SC inicial: 306</font></p>
+ <p><font color="Black"> SC final: 306</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5237216666667,28.3939483333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3769Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 15:58:55.292</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 15:58:55.292</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.2</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 123%</font></p>
+ <p><font color="Black"> % BLER: 16.3%</font></p>
+ <p><font color="Black"> % NACKs: 17.2%</font></p>
+ <p><font color="Black"> % SCCH: 38.7%</font></p>
+ <p><font color="Black"> % QPSK: 0.9%</font></p>
+ <p><font color="Black"> % 16QAM: 42.9%</font></p>
+ <p><font color="Black"> % 64QAM: 56.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -90.3</font></p>
+ <p><font color="Black"> EcIo AVG: -11</font></p>
+ <p><font color="Black"> CellId inicial: 17224</font></p>
+ <p><font color="Black"> CellId final: 17223</font></p>
+ <p><font color="Black"> SC inicial: 306</font></p>
+ <p><font color="Black"> SC final: 298</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5248016666667,28.3940533333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 10154Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 16:04:53.380</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 16:04:53.380</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.1</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 23%</font></p>
+ <p><font color="Black"> % BLER: 21.6%</font></p>
+ <p><font color="Black"> % NACKs: 39.5%</font></p>
+ <p><font color="Black"> % SCCH: 86.4%</font></p>
+ <p><font color="Black"> % QPSK: 0.5%</font></p>
+ <p><font color="Black"> % 16QAM: 73.8%</font></p>
+ <p><font color="Black"> % 64QAM: 25.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -96.38</font></p>
+ <p><font color="Black"> EcIo AVG: -9.39</font></p>
+ <p><font color="Black"> CellId inicial: 17223</font></p>
+ <p><font color="Black"> CellId final: 17223</font></p>
+ <p><font color="Black"> SC inicial: 298</font></p>
+ <p><font color="Black"> SC final: 298</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.52505,28.392505</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 5687Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 16:09:00.214</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 16:09:00.214</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 93%</font></p>
+ <p><font color="Black"> % BLER: 15.9%</font></p>
+ <p><font color="Black"> % NACKs: 18.2%</font></p>
+ <p><font color="Black"> % SCCH: 52.5%</font></p>
+ <p><font color="Black"> % QPSK: 0.5%</font></p>
+ <p><font color="Black"> % 16QAM: 21.6%</font></p>
+ <p><font color="Black"> % 64QAM: 77.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -80.95</font></p>
+ <p><font color="Black"> EcIo AVG: -9.72</font></p>
+ <p><font color="Black"> CellId inicial: 17224</font></p>
+ <p><font color="Black"> CellId final: 17224</font></p>
+ <p><font color="Black"> SC inicial: 306</font></p>
+ <p><font color="Black"> SC final: 306</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5180483333333,28.3947916666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4378Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 16:15:42.218</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 16:15:42.218</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 109%</font></p>
+ <p><font color="Black"> % BLER: 29.1%</font></p>
+ <p><font color="Black"> % NACKs: 25.1%</font></p>
+ <p><font color="Black"> % SCCH: 43.6%</font></p>
+ <p><font color="Black"> % QPSK: 7.1%</font></p>
+ <p><font color="Black"> % 16QAM: 49.6%</font></p>
+ <p><font color="Black"> % 64QAM: 43.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -87.45</font></p>
+ <p><font color="Black"> EcIo AVG: -11.91</font></p>
+ <p><font color="Black"> CellId inicial: 17222</font></p>
+ <p><font color="Black"> CellId final: 17222</font></p>
+ <p><font color="Black"> SC inicial: 290</font></p>
+ <p><font color="Black"> SC final: 290</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.51136,28.3876216666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 5718Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 16:20:06.745</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 16:20:06.745</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.8</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 99%</font></p>
+ <p><font color="Black"> % BLER: 24.6%</font></p>
+ <p><font color="Black"> % NACKs: 24.6%</font></p>
+ <p><font color="Black"> % SCCH: 52.7%</font></p>
+ <p><font color="Black"> % QPSK: 2.2%</font></p>
+ <p><font color="Black"> % 16QAM: 83.1%</font></p>
+ <p><font color="Black"> % 64QAM: 14.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -94.43</font></p>
+ <p><font color="Black"> EcIo AVG: -11.67</font></p>
+ <p><font color="Black"> CellId inicial: 17222</font></p>
+ <p><font color="Black"> CellId final: 17222</font></p>
+ <p><font color="Black"> SC inicial: 290</font></p>
+ <p><font color="Black"> SC final: 290</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5120866666667,28.3877183333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 6270Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 16:25:52.682</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 16:25:52.682</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.6</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 101%</font></p>
+ <p><font color="Black"> % BLER: 12.9%</font></p>
+ <p><font color="Black"> % NACKs: 14%</font></p>
+ <p><font color="Black"> % SCCH: 51.5%</font></p>
+ <p><font color="Black"> % QPSK: 0.8%</font></p>
+ <p><font color="Black"> % 16QAM: 27.1%</font></p>
+ <p><font color="Black"> % 64QAM: 72%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -92.17</font></p>
+ <p><font color="Black"> EcIo AVG: -11.41</font></p>
+ <p><font color="Black"> CellId inicial: 17222</font></p>
+ <p><font color="Black"> CellId final: 17222</font></p>
+ <p><font color="Black"> SC inicial: 290</font></p>
+ <p><font color="Black"> SC final: 290</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.51218,28.3909816666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2986Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-06 16:30:39.574</font></p>
+ <p><font color="Black"> Hora: 2017-04-06 16:30:39.574</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057235180</font></p>
+ <p><font color="Black"> LogFile: 20170406_ADD_TF_LAOROTAVA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.5</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 70%</font></p>
+ <p><font color="Black"> % BLER: 33.6%</font></p>
+ <p><font color="Black"> % NACKs: 46.3%</font></p>
+ <p><font color="Black"> % SCCH: 68.2%</font></p>
+ <p><font color="Black"> % QPSK: 3.7%</font></p>
+ <p><font color="Black"> % 16QAM: 75.1%</font></p>
+ <p><font color="Black"> % 64QAM: 21.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -101.15</font></p>
+ <p><font color="Black"> EcIo AVG: -11.33</font></p>
+ <p><font color="Black"> CellId inicial: 32901</font></p>
+ <p><font color="Black"> CellId final: </font></p>
+ <p><font color="Black"> SC inicial: 290</font></p>
+ <p><font color="Black"> SC final: 290</font></p>
+ <p><font color="Black"> LAC inicial: 7120</font></p>
+ <p><font color="Black"> LAC final: 7120</font></p>
+ <p><font color="Black"> UARFCN inicial: 2959</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-16.5061683333333,28.3900633333333</coordinates>
+</Point>
+</Placemark>
+<name>358672057235180</name>
+</Folder>
+</Folder>
+<ScreenOverlay>
+<name>Absolute Positioning: Top Left</name>
+<Icon>
+<href>Leyenda_FTP_DL_2x2.jpg</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="0.86" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>

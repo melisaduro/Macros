@@ -1,0 +1,103 @@
+Cliente: Sharing
+Scope :	ok
+	
+Invalidaciones: HTTP youtube, wrong URL elpais, Burstfail
+	
+Mallado	final: OK
+
+Cobertura:	
+---------
+-- VOZ --
+---------
+ - CCSR	: Hay muchos Access error. 
+
+RESUMEN
+Vodafone tiene 3 Bloqueos y 0 Caídas
+Movistar tiene 5 Bloqueos y 0 Caídas
+Orange tiene 5 Bloqueos y 0 Caídas
+Yoigo tiene 8 Bloqueos y 0 Caídas
+
+
+ - CDR	: OK
+ - SQNS : OK
+ - MOS  : OK
+ - CST	: Un pelín largo en general, para yoigo en particular.
+
+ 6.75   
+ 5.71   
+ 5.77   
+ 7.18   
+
+
+
+-----------
+-- DATOS --  (NO HAY MEDIDA ANTERIOR PARA COMPARAR, scanner telefono ok)
+-----------	
+ - D1: OK
+
+ 8,907   
+ 7,456   
+ 5,164   
+ 4,596   
+ 
+ - D2: Muy bajo para YOI
+
+0.97 
+0.88 
+0.83 
+0.67 
+
+ - D3: OK
+
+ 2,033   
+ 1,623   
+ 1,916   
+ 1,578   
+
+ - DL_NC: OK
+
+ 9,551   
+ 9,602   
+ 7,507   
+ 5,893   
+
+ - UL_NC: OK
+
+ 2,583   
+ 2,044   
+ 2,330   
+ 1,490   
+
+ - LATENCIA: Baja para OSP
+
+58.0
+76.0
+123.0
+75.0
+
+
+ - WEB:	OK
+ - D5_ HTTP : Muchos errores en general, sobretodo para OSP.
+
+1
+5
+10
+4
+
+ - D5_HTTPS :Muchos errores para YOI, tanto en access como retain. En retain también para MOV.
+ACC     RET
+0	1
+1	4
+0	1
+4	5
+ - B2: Bajo para YOI	
+ - B5: OK, algo bajos en general.
+
+Hay muchos errores de retainability para web en general.
+------------------------------------------------------------------------------------------------------------
+
+2º rev :
+
+	voz : AMARILLO
+
+	datos : AMARILLO

@@ -1,0 +1,4265 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="IconoAwful">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBad">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBad">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSo">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGood">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGood">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoAwfulM">
+<IconStyle>
+  <color>ff000000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryBadM">
+<IconStyle>
+  <color>ff0000ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoBadM">
+<IconStyle>
+  <color>ff00a0ff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoSoSoM">
+<IconStyle>
+  <color>ff00ffff</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoGoodM">
+<IconStyle>
+  <color>ff00a000</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Style id="IconoVeryGoodM">
+<IconStyle>
+  <color>ff00ff00</color>
+  <scale>0.75</scale>
+  <Icon>
+     http://www.earthpoint.us/Dots/GoogleEarth/shapes/triangle.png
+  </Icon>
+</IconStyle>
+</Style>
+<Folder>
+<name>Customer Experience</name>
+<Folder>
+<name>358672057219432</name>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 5827Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 15:16:58.061</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 15:16:58.061</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.2</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 132%</font></p>
+ <p><font color="Black"> % BLER: 16.7%</font></p>
+ <p><font color="Black"> % NACKs: 12.1%</font></p>
+ <p><font color="Black"> % SCCH: 28%</font></p>
+ <p><font color="Black"> % QPSK: 2.1%</font></p>
+ <p><font color="Black"> % 16QAM: 48.4%</font></p>
+ <p><font color="Black"> % 64QAM: 49.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -87.29</font></p>
+ <p><font color="Black"> EcIo AVG: -10.38</font></p>
+ <p><font color="Black"> CellId inicial: 21945</font></p>
+ <p><font color="Black"> CellId final: 21945</font></p>
+ <p><font color="Black"> SC inicial: 8</font></p>
+ <p><font color="Black"> SC final: 8</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10688</font></p>
+ <p><font color="Black"> UARFCN final: 10688</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15659333333333,36.4255716666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 9214Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 15:22:10.883</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 15:22:10.883</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.8</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 125%</font></p>
+ <p><font color="Black"> % BLER: 18.6%</font></p>
+ <p><font color="Black"> % NACKs: 13.3%</font></p>
+ <p><font color="Black"> % SCCH: 29.9%</font></p>
+ <p><font color="Black"> % QPSK: 0.9%</font></p>
+ <p><font color="Black"> % 16QAM: 60.9%</font></p>
+ <p><font color="Black"> % 64QAM: 38.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -90.61</font></p>
+ <p><font color="Black"> EcIo AVG: -10.4</font></p>
+ <p><font color="Black"> CellId inicial: 21945</font></p>
+ <p><font color="Black"> CellId final: 21945</font></p>
+ <p><font color="Black"> SC inicial: 8</font></p>
+ <p><font color="Black"> SC final: 8</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10688</font></p>
+ <p><font color="Black"> UARFCN final: 10688</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15659333333333,36.4255716666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2065Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 15:26:13.512</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 15:26:13.512</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.1</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 119%</font></p>
+ <p><font color="Black"> % BLER: 30.7%</font></p>
+ <p><font color="Black"> % NACKs: 30.2%</font></p>
+ <p><font color="Black"> % SCCH: 36.9%</font></p>
+ <p><font color="Black"> % QPSK: 18.8%</font></p>
+ <p><font color="Black"> % 16QAM: 78.4%</font></p>
+ <p><font color="Black"> % 64QAM: 2.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 90%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.57</font></p>
+ <p><font color="Black"> EcIo AVG: -7.42</font></p>
+ <p><font color="Black"> CellId inicial: 17092</font></p>
+ <p><font color="Black"> CellId final: 17092</font></p>
+ <p><font color="Black"> SC inicial: 196</font></p>
+ <p><font color="Black"> SC final: 196</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15564833333333,36.42665</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 5433Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 15:33:15.727</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 15:33:15.727</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 132%</font></p>
+ <p><font color="Black"> % BLER: 34.7%</font></p>
+ <p><font color="Black"> % NACKs: 24.6%</font></p>
+ <p><font color="Black"> % SCCH: 31.3%</font></p>
+ <p><font color="Black"> % QPSK: 7.5%</font></p>
+ <p><font color="Black"> % 16QAM: 57.9%</font></p>
+ <p><font color="Black"> % 64QAM: 34.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -76.05</font></p>
+ <p><font color="Black"> EcIo AVG: -5.92</font></p>
+ <p><font color="Black"> CellId inicial: 27120</font></p>
+ <p><font color="Black"> CellId final: 27120</font></p>
+ <p><font color="Black"> SC inicial: 238</font></p>
+ <p><font color="Black"> SC final: 238</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15121166666667,36.4289033333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 4945Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 15:37:05.111</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 15:37:05.111</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.4</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 123%</font></p>
+ <p><font color="Black"> % BLER: 23.6%</font></p>
+ <p><font color="Black"> % NACKs: 17.7%</font></p>
+ <p><font color="Black"> % SCCH: 39.8%</font></p>
+ <p><font color="Black"> % QPSK: 3.2%</font></p>
+ <p><font color="Black"> % 16QAM: 83.3%</font></p>
+ <p><font color="Black"> % 64QAM: 13.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -81.37</font></p>
+ <p><font color="Black"> EcIo AVG: -8.22</font></p>
+ <p><font color="Black"> CellId inicial: 20043</font></p>
+ <p><font color="Black"> CellId final: 20043</font></p>
+ <p><font color="Black"> SC inicial: 8</font></p>
+ <p><font color="Black"> SC final: 8</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15351333333333,36.4324416666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3111Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 15:42:43.474</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 15:42:43.474</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.1</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 122%</font></p>
+ <p><font color="Black"> % BLER: 15.6%</font></p>
+ <p><font color="Black"> % NACKs: 11.9%</font></p>
+ <p><font color="Black"> % SCCH: 37.8%</font></p>
+ <p><font color="Black"> % QPSK: 37.7%</font></p>
+ <p><font color="Black"> % 16QAM: 62.3%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -93.06</font></p>
+ <p><font color="Black"> EcIo AVG: -9.51</font></p>
+ <p><font color="Black"> CellId inicial: 20075</font></p>
+ <p><font color="Black"> CellId final: 20075</font></p>
+ <p><font color="Black"> SC inicial: 318</font></p>
+ <p><font color="Black"> SC final: 318</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.149815,36.43513</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3661Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 15:46:53.207</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 15:46:53.207</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.2</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 97%</font></p>
+ <p><font color="Black"> % BLER: 31.1%</font></p>
+ <p><font color="Black"> % NACKs: 36.3%</font></p>
+ <p><font color="Black"> % SCCH: 53.1%</font></p>
+ <p><font color="Black"> % QPSK: 24.7%</font></p>
+ <p><font color="Black"> % 16QAM: 74.8%</font></p>
+ <p><font color="Black"> % 64QAM: 0.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -87.3</font></p>
+ <p><font color="Black"> EcIo AVG: -10.26</font></p>
+ <p><font color="Black"> CellId inicial: 24886</font></p>
+ <p><font color="Black"> CellId final: 24886</font></p>
+ <p><font color="Black"> SC inicial: 94</font></p>
+ <p><font color="Black"> SC final: 94</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.148405,36.4307783333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 9210Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 15:52:39.944</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 15:52:39.944</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.3</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 123%</font></p>
+ <p><font color="Black"> % BLER: 27.4%</font></p>
+ <p><font color="Black"> % NACKs: 23.2%</font></p>
+ <p><font color="Black"> % SCCH: 38.8%</font></p>
+ <p><font color="Black"> % QPSK: 7.6%</font></p>
+ <p><font color="Black"> % 16QAM: 84.3%</font></p>
+ <p><font color="Black"> % 64QAM: 8.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -97.89</font></p>
+ <p><font color="Black"> EcIo AVG: -9.75</font></p>
+ <p><font color="Black"> CellId inicial: 24037</font></p>
+ <p><font color="Black"> CellId final: 24037</font></p>
+ <p><font color="Black"> SC inicial: 78</font></p>
+ <p><font color="Black"> SC final: 78</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14410666666667,36.4323716666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 11847Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 15:56:50.632</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 15:56:50.632</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.8</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 155%</font></p>
+ <p><font color="Black"> % BLER: 11.2%</font></p>
+ <p><font color="Black"> % NACKs: 4.9%</font></p>
+ <p><font color="Black"> % SCCH: 19.1%</font></p>
+ <p><font color="Black"> % QPSK: 3.2%</font></p>
+ <p><font color="Black"> % 16QAM: 17.2%</font></p>
+ <p><font color="Black"> % 64QAM: 79.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -75.43</font></p>
+ <p><font color="Black"> EcIo AVG: -5.12</font></p>
+ <p><font color="Black"> CellId inicial: 20097</font></p>
+ <p><font color="Black"> CellId final: 20097</font></p>
+ <p><font color="Black"> SC inicial: 510</font></p>
+ <p><font color="Black"> SC final: 510</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10688</font></p>
+ <p><font color="Black"> UARFCN final: 10688</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.141755,36.4363966666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2416Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 16:02:24.110</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 16:02:24.110</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.4</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 60%</font></p>
+ <p><font color="Black"> % BLER: 30.1%</font></p>
+ <p><font color="Black"> % NACKs: 11.8%</font></p>
+ <p><font color="Black"> % SCCH: 38.7%</font></p>
+ <p><font color="Black"> % QPSK: 4.6%</font></p>
+ <p><font color="Black"> % 16QAM: 87.3%</font></p>
+ <p><font color="Black"> % 64QAM: 8%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.06</font></p>
+ <p><font color="Black"> EcIo AVG: -11.16</font></p>
+ <p><font color="Black"> CellId inicial: 30685</font></p>
+ <p><font color="Black"> CellId final: 30685</font></p>
+ <p><font color="Black"> SC inicial: 0</font></p>
+ <p><font color="Black"> SC final: 510</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 2959</font></p>
+ <p><font color="Black"> UARFCN final: 2959</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14576666666667,36.4335216666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 9582Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 16:06:20.212</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 16:06:20.212</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.4</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 143%</font></p>
+ <p><font color="Black"> % BLER: 24.2%</font></p>
+ <p><font color="Black"> % NACKs: 12.1%</font></p>
+ <p><font color="Black"> % SCCH: 28.4%</font></p>
+ <p><font color="Black"> % QPSK: 1.7%</font></p>
+ <p><font color="Black"> % 16QAM: 46.4%</font></p>
+ <p><font color="Black"> % 64QAM: 52%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -87.15</font></p>
+ <p><font color="Black"> EcIo AVG: -7.93</font></p>
+ <p><font color="Black"> CellId inicial: 24919</font></p>
+ <p><font color="Black"> CellId final: 24919</font></p>
+ <p><font color="Black"> SC inicial: 78</font></p>
+ <p><font color="Black"> SC final: 78</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14542666666667,36.4317266666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 12988Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 16:12:07.214</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 16:12:07.214</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.3</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 145%</font></p>
+ <p><font color="Black"> % BLER: 15.5%</font></p>
+ <p><font color="Black"> % NACKs: 9.6%</font></p>
+ <p><font color="Black"> % SCCH: 22.3%</font></p>
+ <p><font color="Black"> % QPSK: 1.5%</font></p>
+ <p><font color="Black"> % 16QAM: 15%</font></p>
+ <p><font color="Black"> % 64QAM: 83.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -76.8</font></p>
+ <p><font color="Black"> EcIo AVG: -6.71</font></p>
+ <p><font color="Black"> CellId inicial: 20093</font></p>
+ <p><font color="Black"> CellId final: 20093</font></p>
+ <p><font color="Black"> SC inicial: 78</font></p>
+ <p><font color="Black"> SC final: 78</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14499666666667,36.43026</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 12086Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 16:16:02.053</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 16:16:02.053</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 139%</font></p>
+ <p><font color="Black"> % BLER: 16.8%</font></p>
+ <p><font color="Black"> % NACKs: 11.2%</font></p>
+ <p><font color="Black"> % SCCH: 38.2%</font></p>
+ <p><font color="Black"> % QPSK: 0.3%</font></p>
+ <p><font color="Black"> % 16QAM: 16.1%</font></p>
+ <p><font color="Black"> % 64QAM: 83.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -81.85</font></p>
+ <p><font color="Black"> EcIo AVG: -8.4</font></p>
+ <p><font color="Black"> CellId inicial: 24038</font></p>
+ <p><font color="Black"> CellId final: 24038</font></p>
+ <p><font color="Black"> SC inicial: 86</font></p>
+ <p><font color="Black"> SC final: 86</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14542666666667,36.4291866666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3040Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 16:21:17.105</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 16:21:17.105</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.2</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 114%</font></p>
+ <p><font color="Black"> % BLER: 35.8%</font></p>
+ <p><font color="Black"> % NACKs: 31.9%</font></p>
+ <p><font color="Black"> % SCCH: 48%</font></p>
+ <p><font color="Black"> % QPSK: 1%</font></p>
+ <p><font color="Black"> % 16QAM: 61.8%</font></p>
+ <p><font color="Black"> % 64QAM: 37.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -87.77</font></p>
+ <p><font color="Black"> EcIo AVG: -9.77</font></p>
+ <p><font color="Black"> CellId inicial: 20093</font></p>
+ <p><font color="Black"> CellId final: 20093</font></p>
+ <p><font color="Black"> SC inicial: 86</font></p>
+ <p><font color="Black"> SC final: 86</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14450833333333,36.4279883333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 6069Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 16:25:14.157</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 16:25:14.157</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.7</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 122%</font></p>
+ <p><font color="Black"> % BLER: 27.3%</font></p>
+ <p><font color="Black"> % NACKs: 23.7%</font></p>
+ <p><font color="Black"> % SCCH: 44.3%</font></p>
+ <p><font color="Black"> % QPSK: 2.5%</font></p>
+ <p><font color="Black"> % 16QAM: 82.2%</font></p>
+ <p><font color="Black"> % 64QAM: 15.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -97.11</font></p>
+ <p><font color="Black"> EcIo AVG: -10.74</font></p>
+ <p><font color="Black"> CellId inicial: 24038</font></p>
+ <p><font color="Black"> CellId final: 24038</font></p>
+ <p><font color="Black"> SC inicial: 86</font></p>
+ <p><font color="Black"> SC final: 86</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14219166666667,36.4292633333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 4829Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 16:30:41.397</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 16:30:41.397</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.6</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 93%</font></p>
+ <p><font color="Black"> % BLER: 18.7%</font></p>
+ <p><font color="Black"> % NACKs: 20.9%</font></p>
+ <p><font color="Black"> % SCCH: 52%</font></p>
+ <p><font color="Black"> % QPSK: 0.4%</font></p>
+ <p><font color="Black"> % 16QAM: 91.5%</font></p>
+ <p><font color="Black"> % 64QAM: 8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -96.69</font></p>
+ <p><font color="Black"> EcIo AVG: -9.15</font></p>
+ <p><font color="Black"> CellId inicial: 25384</font></p>
+ <p><font color="Black"> CellId final: 25384</font></p>
+ <p><font color="Black"> SC inicial: 222</font></p>
+ <p><font color="Black"> SC final: 222</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.13990333333333,36.4277433333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3303Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 16:34:46.157</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 16:34:46.157</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.5</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 132%</font></p>
+ <p><font color="Black"> % BLER: 14%</font></p>
+ <p><font color="Black"> % NACKs: 9.3%</font></p>
+ <p><font color="Black"> % SCCH: 29.3%</font></p>
+ <p><font color="Black"> % QPSK: 3.7%</font></p>
+ <p><font color="Black"> % 16QAM: 94.8%</font></p>
+ <p><font color="Black"> % 64QAM: 1.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -94.18</font></p>
+ <p><font color="Black"> EcIo AVG: -9.25</font></p>
+ <p><font color="Black"> CellId inicial: 24920</font></p>
+ <p><font color="Black"> CellId final: 24920</font></p>
+ <p><font color="Black"> SC inicial: 86</font></p>
+ <p><font color="Black"> SC final: 86</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14438666666667,36.4252483333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 4980Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 16:39:50.167</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 16:39:50.167</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.5</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 126%</font></p>
+ <p><font color="Black"> % BLER: 30.3%</font></p>
+ <p><font color="Black"> % NACKs: 21.7%</font></p>
+ <p><font color="Black"> % SCCH: 35.7%</font></p>
+ <p><font color="Black"> % QPSK: 1.9%</font></p>
+ <p><font color="Black"> % 16QAM: 83.2%</font></p>
+ <p><font color="Black"> % 64QAM: 14.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.69</font></p>
+ <p><font color="Black"> EcIo AVG: -7.54</font></p>
+ <p><font color="Black"> CellId inicial: 24920</font></p>
+ <p><font color="Black"> CellId final: 24920</font></p>
+ <p><font color="Black"> SC inicial: 86</font></p>
+ <p><font color="Black"> SC final: 86</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14593166666667,36.4285783333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 6893Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 16:43:53.864</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 16:43:53.864</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.3</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 121%</font></p>
+ <p><font color="Black"> % BLER: 28.9%</font></p>
+ <p><font color="Black"> % NACKs: 22.9%</font></p>
+ <p><font color="Black"> % SCCH: 42.1%</font></p>
+ <p><font color="Black"> % QPSK: 1%</font></p>
+ <p><font color="Black"> % 16QAM: 34%</font></p>
+ <p><font color="Black"> % 64QAM: 65%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -82.16</font></p>
+ <p><font color="Black"> EcIo AVG: -8.72</font></p>
+ <p><font color="Black"> CellId inicial: 25384</font></p>
+ <p><font color="Black"> CellId final: 25384</font></p>
+ <p><font color="Black"> SC inicial: 222</font></p>
+ <p><font color="Black"> SC final: 222</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14835833333333,36.428535</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 8206Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 16:49:14.364</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 16:49:14.364</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.5</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 129%</font></p>
+ <p><font color="Black"> % BLER: 28.8%</font></p>
+ <p><font color="Black"> % NACKs: 21.3%</font></p>
+ <p><font color="Black"> % SCCH: 28.7%</font></p>
+ <p><font color="Black"> % QPSK: 1.1%</font></p>
+ <p><font color="Black"> % 16QAM: 46.7%</font></p>
+ <p><font color="Black"> % 64QAM: 52.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.72</font></p>
+ <p><font color="Black"> EcIo AVG: -7.02</font></p>
+ <p><font color="Black"> CellId inicial: 24039</font></p>
+ <p><font color="Black"> CellId final: 24039</font></p>
+ <p><font color="Black"> SC inicial: 94</font></p>
+ <p><font color="Black"> SC final: 94</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14726833333333,36.4306733333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 9563Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 16:53:11.418</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 16:53:11.418</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.3</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 148%</font></p>
+ <p><font color="Black"> % BLER: 17.2%</font></p>
+ <p><font color="Black"> % NACKs: 9.4%</font></p>
+ <p><font color="Black"> % SCCH: 26%</font></p>
+ <p><font color="Black"> % QPSK: 4.7%</font></p>
+ <p><font color="Black"> % 16QAM: 42.8%</font></p>
+ <p><font color="Black"> % 64QAM: 52.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -81.58</font></p>
+ <p><font color="Black"> EcIo AVG: -7.52</font></p>
+ <p><font color="Black"> CellId inicial: 20093</font></p>
+ <p><font color="Black"> CellId final: 20093</font></p>
+ <p><font color="Black"> SC inicial: 94</font></p>
+ <p><font color="Black"> SC final: 94</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.147805,36.4297016666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 5807Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 16:58:32.805</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 16:58:32.805</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.5</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 111%</font></p>
+ <p><font color="Black"> % BLER: 30.1%</font></p>
+ <p><font color="Black"> % NACKs: 29%</font></p>
+ <p><font color="Black"> % SCCH: 44.3%</font></p>
+ <p><font color="Black"> % QPSK: 2.5%</font></p>
+ <p><font color="Black"> % 16QAM: 63.1%</font></p>
+ <p><font color="Black"> % 64QAM: 34.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -80.9</font></p>
+ <p><font color="Black"> EcIo AVG: -7.33</font></p>
+ <p><font color="Black"> CellId inicial: 20093</font></p>
+ <p><font color="Black"> CellId final: 20093</font></p>
+ <p><font color="Black"> SC inicial: 222</font></p>
+ <p><font color="Black"> SC final: 222</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.148785,36.4294633333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2398Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 17:02:35.320</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 17:02:35.320</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.6</font></p>
+ <p><font color="Black"> HARQ: 7</font></p>
+ <p><font color="Black"> DTX DSCH: 95%</font></p>
+ <p><font color="Black"> % BLER: 28.6%</font></p>
+ <p><font color="Black"> % NACKs: 20.1%</font></p>
+ <p><font color="Black"> % SCCH: 34.3%</font></p>
+ <p><font color="Black"> % QPSK: 10.6%</font></p>
+ <p><font color="Black"> % 16QAM: 81.4%</font></p>
+ <p><font color="Black"> % 64QAM: 7.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 48%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -75.28</font></p>
+ <p><font color="Black"> EcIo AVG: -6.91</font></p>
+ <p><font color="Black"> CellId inicial: 20093</font></p>
+ <p><font color="Black"> CellId final: 20093</font></p>
+ <p><font color="Black"> SC inicial: 222</font></p>
+ <p><font color="Black"> SC final: 238</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15095666666667,36.427255</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 8496Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 17:21:54.620</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 17:21:54.620</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.2</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 129%</font></p>
+ <p><font color="Black"> % BLER: 19.1%</font></p>
+ <p><font color="Black"> % NACKs: 15.8%</font></p>
+ <p><font color="Black"> % SCCH: 34%</font></p>
+ <p><font color="Black"> % QPSK: 0.9%</font></p>
+ <p><font color="Black"> % 16QAM: 89.4%</font></p>
+ <p><font color="Black"> % 64QAM: 9.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.84</font></p>
+ <p><font color="Black"> EcIo AVG: -6.44</font></p>
+ <p><font color="Black"> CellId inicial: 20095</font></p>
+ <p><font color="Black"> CellId final: 20095</font></p>
+ <p><font color="Black"> SC inicial: 238</font></p>
+ <p><font color="Black"> SC final: 238</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15367333333333,36.4320966666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 6323Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 17:25:43.548</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 17:25:43.548</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.6</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 109%</font></p>
+ <p><font color="Black"> % BLER: 35.9%</font></p>
+ <p><font color="Black"> % NACKs: 33.7%</font></p>
+ <p><font color="Black"> % SCCH: 47.2%</font></p>
+ <p><font color="Black"> % QPSK: 2.1%</font></p>
+ <p><font color="Black"> % 16QAM: 89.6%</font></p>
+ <p><font color="Black"> % 64QAM: 8.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -80.03</font></p>
+ <p><font color="Black"> EcIo AVG: -7.92</font></p>
+ <p><font color="Black"> CellId inicial: 20095</font></p>
+ <p><font color="Black"> CellId final: 20095</font></p>
+ <p><font color="Black"> SC inicial: 238</font></p>
+ <p><font color="Black"> SC final: 238</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15295166666667,36.4304366666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 4956Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 17:31:19.806</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 17:31:19.806</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.3</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 111%</font></p>
+ <p><font color="Black"> % BLER: 25.1%</font></p>
+ <p><font color="Black"> % NACKs: 24.3%</font></p>
+ <p><font color="Black"> % SCCH: 55%</font></p>
+ <p><font color="Black"> % QPSK: 0.7%</font></p>
+ <p><font color="Black"> % 16QAM: 90.1%</font></p>
+ <p><font color="Black"> % 64QAM: 9.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -80.17</font></p>
+ <p><font color="Black"> EcIo AVG: -8.65</font></p>
+ <p><font color="Black"> CellId inicial: 20095</font></p>
+ <p><font color="Black"> CellId final: 20095</font></p>
+ <p><font color="Black"> SC inicial: 238</font></p>
+ <p><font color="Black"> SC final: 238</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15329333333333,36.4290633333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2527Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 17:35:41.587</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 17:35:41.587</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.4</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 90%</font></p>
+ <p><font color="Black"> % BLER: 29.1%</font></p>
+ <p><font color="Black"> % NACKs: 14.3%</font></p>
+ <p><font color="Black"> % SCCH: 32.2%</font></p>
+ <p><font color="Black"> % QPSK: 8.3%</font></p>
+ <p><font color="Black"> % 16QAM: 74.7%</font></p>
+ <p><font color="Black"> % 64QAM: 17%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 29%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -89.32</font></p>
+ <p><font color="Black"> EcIo AVG: -8.77</font></p>
+ <p><font color="Black"> CellId inicial: 20075</font></p>
+ <p><font color="Black"> CellId final: 20075</font></p>
+ <p><font color="Black"> SC inicial: 318</font></p>
+ <p><font color="Black"> SC final: 318</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15114833333333,36.421515</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 5241Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 17:40:59.790</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 17:40:59.790</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.8</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 100%</font></p>
+ <p><font color="Black"> % BLER: 35.4%</font></p>
+ <p><font color="Black"> % NACKs: 38.4%</font></p>
+ <p><font color="Black"> % SCCH: 48.9%</font></p>
+ <p><font color="Black"> % QPSK: 18.5%</font></p>
+ <p><font color="Black"> % 16QAM: 79.4%</font></p>
+ <p><font color="Black"> % 64QAM: 2.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.93</font></p>
+ <p><font color="Black"> EcIo AVG: -9.2</font></p>
+ <p><font color="Black"> CellId inicial: 20077</font></p>
+ <p><font color="Black"> CellId final: 20077</font></p>
+ <p><font color="Black"> SC inicial: 334</font></p>
+ <p><font color="Black"> SC final: 334</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15601666666667,36.420825</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 10205Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 17:44:43.194</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 17:44:43.194</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.6</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 139%</font></p>
+ <p><font color="Black"> % BLER: 16.4%</font></p>
+ <p><font color="Black"> % NACKs: 13.9%</font></p>
+ <p><font color="Black"> % SCCH: 25.8%</font></p>
+ <p><font color="Black"> % QPSK: 0.3%</font></p>
+ <p><font color="Black"> % 16QAM: 28.4%</font></p>
+ <p><font color="Black"> % 64QAM: 71.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -75.4</font></p>
+ <p><font color="Black"> EcIo AVG: -7.14</font></p>
+ <p><font color="Black"> CellId inicial: 20077</font></p>
+ <p><font color="Black"> CellId final: 20077</font></p>
+ <p><font color="Black"> SC inicial: 334</font></p>
+ <p><font color="Black"> SC final: 334</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15576666666667,36.4191183333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3641Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 17:49:43.911</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 17:49:43.911</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.7</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 64%</font></p>
+ <p><font color="Black"> % BLER: 18.4%</font></p>
+ <p><font color="Black"> % NACKs: 6.7%</font></p>
+ <p><font color="Black"> % SCCH: 34.1%</font></p>
+ <p><font color="Black"> % QPSK: 0.9%</font></p>
+ <p><font color="Black"> % 16QAM: 40.8%</font></p>
+ <p><font color="Black"> % 64QAM: 58.3%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -65.93</font></p>
+ <p><font color="Black"> EcIo AVG: -10.01</font></p>
+ <p><font color="Black"> CellId inicial: 31457</font></p>
+ <p><font color="Black"> CellId final: 31457</font></p>
+ <p><font color="Black"> SC inicial: 318</font></p>
+ <p><font color="Black"> SC final: 318</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 2959</font></p>
+ <p><font color="Black"> UARFCN final: 2959</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15217666666667,36.4196116666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 6547Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 17:54:43.573</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 17:54:43.573</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.7</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 159%</font></p>
+ <p><font color="Black"> % BLER: 7.6%</font></p>
+ <p><font color="Black"> % NACKs: 5.4%</font></p>
+ <p><font color="Black"> % SCCH: 19.4%</font></p>
+ <p><font color="Black"> % QPSK: 4.4%</font></p>
+ <p><font color="Black"> % 16QAM: 37.9%</font></p>
+ <p><font color="Black"> % 64QAM: 57.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -63.89</font></p>
+ <p><font color="Black"> EcIo AVG: -8.65</font></p>
+ <p><font color="Black"> CellId inicial: 17094</font></p>
+ <p><font color="Black"> CellId final: 17094</font></p>
+ <p><font color="Black"> SC inicial: 188</font></p>
+ <p><font color="Black"> SC final: 188</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.149135,36.4233483333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 9873Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 18:00:43.143</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 18:00:43.143</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 125%</font></p>
+ <p><font color="Black"> % BLER: 21.5%</font></p>
+ <p><font color="Black"> % NACKs: 18.1%</font></p>
+ <p><font color="Black"> % SCCH: 32.5%</font></p>
+ <p><font color="Black"> % QPSK: 0.6%</font></p>
+ <p><font color="Black"> % 16QAM: 63.4%</font></p>
+ <p><font color="Black"> % 64QAM: 36%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -71.34</font></p>
+ <p><font color="Black"> EcIo AVG: -7.41</font></p>
+ <p><font color="Black"> CellId inicial: 17094</font></p>
+ <p><font color="Black"> CellId final: 17094</font></p>
+ <p><font color="Black"> SC inicial: 188</font></p>
+ <p><font color="Black"> SC final: 188</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14797833333333,36.4236083333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2527Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 18:05:36.029</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 18:05:36.029</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.7</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 87%</font></p>
+ <p><font color="Black"> % BLER: 40%</font></p>
+ <p><font color="Black"> % NACKs: 27.9%</font></p>
+ <p><font color="Black"> % SCCH: 44.8%</font></p>
+ <p><font color="Black"> % QPSK: 11.9%</font></p>
+ <p><font color="Black"> % 16QAM: 73.6%</font></p>
+ <p><font color="Black"> % 64QAM: 14.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 60%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.27</font></p>
+ <p><font color="Black"> EcIo AVG: -7.27</font></p>
+ <p><font color="Black"> CellId inicial: 20091</font></p>
+ <p><font color="Black"> CellId final: 20091</font></p>
+ <p><font color="Black"> SC inicial: 196</font></p>
+ <p><font color="Black"> SC final: 196</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15241166666667,36.424645</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 1341Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 18:11:21.196</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 18:11:21.196</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.7</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 62%</font></p>
+ <p><font color="Black"> % BLER: 25.6%</font></p>
+ <p><font color="Black"> % NACKs: 11%</font></p>
+ <p><font color="Black"> % SCCH: 35.3%</font></p>
+ <p><font color="Black"> % QPSK: 5.9%</font></p>
+ <p><font color="Black"> % 16QAM: 71.2%</font></p>
+ <p><font color="Black"> % 64QAM: 22.9%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -73.95</font></p>
+ <p><font color="Black"> EcIo AVG: -7.23</font></p>
+ <p><font color="Black"> CellId inicial: 27119</font></p>
+ <p><font color="Black"> CellId final: 27119</font></p>
+ <p><font color="Black"> SC inicial: 188</font></p>
+ <p><font color="Black"> SC final: 188</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.16293666666667,36.424865</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 7122Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 18:15:21.962</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 18:15:21.962</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.7</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 128%</font></p>
+ <p><font color="Black"> % BLER: 21.2%</font></p>
+ <p><font color="Black"> % NACKs: 17.6%</font></p>
+ <p><font color="Black"> % SCCH: 29.6%</font></p>
+ <p><font color="Black"> % QPSK: 1.9%</font></p>
+ <p><font color="Black"> % 16QAM: 88.3%</font></p>
+ <p><font color="Black"> % 64QAM: 9.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.42</font></p>
+ <p><font color="Black"> EcIo AVG: -6.9</font></p>
+ <p><font color="Black"> CellId inicial: 27120</font></p>
+ <p><font color="Black"> CellId final: 27120</font></p>
+ <p><font color="Black"> SC inicial: 238</font></p>
+ <p><font color="Black"> SC final: 238</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15815833333333,36.42856</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 7758Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 18:20:34.849</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 18:20:34.849</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.7</font></p>
+ <p><font color="Black"> HARQ: 7</font></p>
+ <p><font color="Black"> DTX DSCH: 122%</font></p>
+ <p><font color="Black"> % BLER: 22.4%</font></p>
+ <p><font color="Black"> % NACKs: 21.1%</font></p>
+ <p><font color="Black"> % SCCH: 36.7%</font></p>
+ <p><font color="Black"> % QPSK: 6.3%</font></p>
+ <p><font color="Black"> % 16QAM: 70.1%</font></p>
+ <p><font color="Black"> % 64QAM: 23.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -80.16</font></p>
+ <p><font color="Black"> EcIo AVG: -6.81</font></p>
+ <p><font color="Black"> CellId inicial: 27120</font></p>
+ <p><font color="Black"> CellId final: 27120</font></p>
+ <p><font color="Black"> SC inicial: 238</font></p>
+ <p><font color="Black"> SC final: 238</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15638,36.428845</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 4799Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 18:24:35.546</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 18:24:35.546</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.8</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 113%</font></p>
+ <p><font color="Black"> % BLER: 38.1%</font></p>
+ <p><font color="Black"> % NACKs: 34.4%</font></p>
+ <p><font color="Black"> % SCCH: 48.1%</font></p>
+ <p><font color="Black"> % QPSK: 8.4%</font></p>
+ <p><font color="Black"> % 16QAM: 75.2%</font></p>
+ <p><font color="Black"> % 64QAM: 16.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -75.47</font></p>
+ <p><font color="Black"> EcIo AVG: -6.15</font></p>
+ <p><font color="Black"> CellId inicial: 20046</font></p>
+ <p><font color="Black"> CellId final: 20046</font></p>
+ <p><font color="Black"> SC inicial: 294</font></p>
+ <p><font color="Black"> SC final: 294</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.16434666666667,36.4301116666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 8584Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 18:29:33.667</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 18:29:33.667</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.1</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 133%</font></p>
+ <p><font color="Black"> % BLER: 16.9%</font></p>
+ <p><font color="Black"> % NACKs: 15.4%</font></p>
+ <p><font color="Black"> % SCCH: 31.4%</font></p>
+ <p><font color="Black"> % QPSK: 0.5%</font></p>
+ <p><font color="Black"> % 16QAM: 70.9%</font></p>
+ <p><font color="Black"> % 64QAM: 28.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -70.48</font></p>
+ <p><font color="Black"> EcIo AVG: -6.08</font></p>
+ <p><font color="Black"> CellId inicial: 20046</font></p>
+ <p><font color="Black"> CellId final: 20046</font></p>
+ <p><font color="Black"> SC inicial: 294</font></p>
+ <p><font color="Black"> SC final: 294</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.170425,36.42894</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 11612Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 18:38:27.643</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 18:38:27.643</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.4</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 124%</font></p>
+ <p><font color="Black"> % BLER: 26.8%</font></p>
+ <p><font color="Black"> % NACKs: 20%</font></p>
+ <p><font color="Black"> % SCCH: 44.3%</font></p>
+ <p><font color="Black"> % QPSK: 1.5%</font></p>
+ <p><font color="Black"> % 16QAM: 61.3%</font></p>
+ <p><font color="Black"> % 64QAM: 37.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.84</font></p>
+ <p><font color="Black"> EcIo AVG: -5.97</font></p>
+ <p><font color="Black"> CellId inicial: 20046</font></p>
+ <p><font color="Black"> CellId final: 20046</font></p>
+ <p><font color="Black"> SC inicial: 294</font></p>
+ <p><font color="Black"> SC final: 294</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.16555666666667,36.4294166666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 10744Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 18:42:21.042</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 18:42:21.042</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 149%</font></p>
+ <p><font color="Black"> % BLER: 11.8%</font></p>
+ <p><font color="Black"> % NACKs: 8.3%</font></p>
+ <p><font color="Black"> % SCCH: 21.9%</font></p>
+ <p><font color="Black"> % QPSK: 1.2%</font></p>
+ <p><font color="Black"> % 16QAM: 19.2%</font></p>
+ <p><font color="Black"> % 64QAM: 79.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.68</font></p>
+ <p><font color="Black"> EcIo AVG: -6.32</font></p>
+ <p><font color="Black"> CellId inicial: 20046</font></p>
+ <p><font color="Black"> CellId final: 20046</font></p>
+ <p><font color="Black"> SC inicial: 294</font></p>
+ <p><font color="Black"> SC final: 294</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.16789333333333,36.4292983333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 9951Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 18:47:28.827</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 18:47:28.827</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.2</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 138%</font></p>
+ <p><font color="Black"> % BLER: 29.2%</font></p>
+ <p><font color="Black"> % NACKs: 15.8%</font></p>
+ <p><font color="Black"> % SCCH: 41.9%</font></p>
+ <p><font color="Black"> % QPSK: 2%</font></p>
+ <p><font color="Black"> % 16QAM: 56.9%</font></p>
+ <p><font color="Black"> % 64QAM: 41.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.11</font></p>
+ <p><font color="Black"> EcIo AVG: -6.74</font></p>
+ <p><font color="Black"> CellId inicial: 24816</font></p>
+ <p><font color="Black"> CellId final: 24816</font></p>
+ <p><font color="Black"> SC inicial: 334</font></p>
+ <p><font color="Black"> SC final: 334</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.16019833333333,36.4215333333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3994Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 18:51:25.819</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 18:51:25.819</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.7</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 106%</font></p>
+ <p><font color="Black"> % BLER: 23.6%</font></p>
+ <p><font color="Black"> % NACKs: 25.9%</font></p>
+ <p><font color="Black"> % SCCH: 49.6%</font></p>
+ <p><font color="Black"> % QPSK: 37.9%</font></p>
+ <p><font color="Black"> % 16QAM: 45.6%</font></p>
+ <p><font color="Black"> % 64QAM: 16.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -82.95</font></p>
+ <p><font color="Black"> EcIo AVG: -8.71</font></p>
+ <p><font color="Black"> CellId inicial: 24815</font></p>
+ <p><font color="Black"> CellId final: 24815</font></p>
+ <p><font color="Black"> SC inicial: 230</font></p>
+ <p><font color="Black"> SC final: 230</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15954666666667,36.4186716666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 9037Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 18:56:39.905</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 18:56:39.905</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.4</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 112%</font></p>
+ <p><font color="Black"> % BLER: 24.2%</font></p>
+ <p><font color="Black"> % NACKs: 23.2%</font></p>
+ <p><font color="Black"> % SCCH: 37.1%</font></p>
+ <p><font color="Black"> % QPSK: 2.2%</font></p>
+ <p><font color="Black"> % 16QAM: 87%</font></p>
+ <p><font color="Black"> % 64QAM: 10.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -94.59</font></p>
+ <p><font color="Black"> EcIo AVG: -7.2</font></p>
+ <p><font color="Black"> CellId inicial: 24954</font></p>
+ <p><font color="Black"> CellId final: 24954</font></p>
+ <p><font color="Black"> SC inicial: 14</font></p>
+ <p><font color="Black"> SC final: 14</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.16471333333333,36.419965</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 8959Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 19:00:29.069</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 19:00:29.069</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.8</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 122%</font></p>
+ <p><font color="Black"> % BLER: 31.3%</font></p>
+ <p><font color="Black"> % NACKs: 22.5%</font></p>
+ <p><font color="Black"> % SCCH: 43.9%</font></p>
+ <p><font color="Black"> % QPSK: 3%</font></p>
+ <p><font color="Black"> % 16QAM: 76.4%</font></p>
+ <p><font color="Black"> % 64QAM: 20.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -88.83</font></p>
+ <p><font color="Black"> EcIo AVG: -5.72</font></p>
+ <p><font color="Black"> CellId inicial: 20047</font></p>
+ <p><font color="Black"> CellId final: 20047</font></p>
+ <p><font color="Black"> SC inicial: 302</font></p>
+ <p><font color="Black"> SC final: 302</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.16987666666667,36.4192866666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 14053Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 19:05:23.486</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 19:05:23.486</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 28.5</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 136%</font></p>
+ <p><font color="Black"> % BLER: 19.1%</font></p>
+ <p><font color="Black"> % NACKs: 15.8%</font></p>
+ <p><font color="Black"> % SCCH: 24.1%</font></p>
+ <p><font color="Black"> % QPSK: 1.9%</font></p>
+ <p><font color="Black"> % 16QAM: 18.9%</font></p>
+ <p><font color="Black"> % 64QAM: 79.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -57.24</font></p>
+ <p><font color="Black"> EcIo AVG: -4.64</font></p>
+ <p><font color="Black"> CellId inicial: 24954</font></p>
+ <p><font color="Black"> CellId final: 24954</font></p>
+ <p><font color="Black"> SC inicial: 14</font></p>
+ <p><font color="Black"> SC final: 14</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.17201166666667,36.4172666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 12055Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 19:09:33.249</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 19:09:33.249</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 29.7</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 152%</font></p>
+ <p><font color="Black"> % BLER: 7%</font></p>
+ <p><font color="Black"> % NACKs: 4.7%</font></p>
+ <p><font color="Black"> % SCCH: 26.8%</font></p>
+ <p><font color="Black"> % QPSK: 0.8%</font></p>
+ <p><font color="Black"> % 16QAM: 19%</font></p>
+ <p><font color="Black"> % 64QAM: 80.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -60.06</font></p>
+ <p><font color="Black"> EcIo AVG: -4.09</font></p>
+ <p><font color="Black"> CellId inicial: 24954</font></p>
+ <p><font color="Black"> CellId final: 24954</font></p>
+ <p><font color="Black"> SC inicial: 14</font></p>
+ <p><font color="Black"> SC final: 14</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.16775666666667,36.417685</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 3044Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 19:23:38.715</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 19:23:38.715</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.4</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 41%</font></p>
+ <p><font color="Black"> % BLER: 37.7%</font></p>
+ <p><font color="Black"> % NACKs: 23.8%</font></p>
+ <p><font color="Black"> % SCCH: 58.4%</font></p>
+ <p><font color="Black"> % QPSK: 4.7%</font></p>
+ <p><font color="Black"> % 16QAM: 82.2%</font></p>
+ <p><font color="Black"> % 64QAM: 13%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -63.78</font></p>
+ <p><font color="Black"> EcIo AVG: -8.54</font></p>
+ <p><font color="Black"> CellId inicial: 20094</font></p>
+ <p><font color="Black"> CellId final: 20094</font></p>
+ <p><font color="Black"> SC inicial: 196</font></p>
+ <p><font color="Black"> SC final: 196</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14919833333333,36.4239283333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Customer Experience</h3>
+ <p><font color="Black"> Throughput: 2978Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 19:28:44.667</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 19:28:44.667</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.1</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 109%</font></p>
+ <p><font color="Black"> % BLER: 24%</font></p>
+ <p><font color="Black"> % NACKs: 23.7%</font></p>
+ <p><font color="Black"> % SCCH: 42.6%</font></p>
+ <p><font color="Black"> % QPSK: 1.7%</font></p>
+ <p><font color="Black"> % 16QAM: 90.7%</font></p>
+ <p><font color="Black"> % 64QAM: 7.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -96.67</font></p>
+ <p><font color="Black"> EcIo AVG: -10.04</font></p>
+ <p><font color="Black"> CellId inicial: 20090</font></p>
+ <p><font color="Black"> CellId final: 20090</font></p>
+ <p><font color="Black"> SC inicial: 222</font></p>
+ <p><font color="Black"> SC final: 222</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14093666666667,36.4293483333333</coordinates>
+</Point>
+</Placemark>
+<name>358672057219432</name>
+</Folder>
+</Folder>
+<Folder>
+<name>Network Capability</name>
+<Folder>
+<name>358672057219432</name>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 9393Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 15:18:33.738</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 15:18:33.738</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.2</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 75%</font></p>
+ <p><font color="Black"> % BLER: 7.8%</font></p>
+ <p><font color="Black"> % NACKs: 9.6%</font></p>
+ <p><font color="Black"> % SCCH: 59%</font></p>
+ <p><font color="Black"> % QPSK: 0.7%</font></p>
+ <p><font color="Black"> % 16QAM: 76.4%</font></p>
+ <p><font color="Black"> % 64QAM: 22.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -86.91</font></p>
+ <p><font color="Black"> EcIo AVG: -11.25</font></p>
+ <p><font color="Black"> CellId inicial: 21945</font></p>
+ <p><font color="Black"> CellId final: 21945</font></p>
+ <p><font color="Black"> SC inicial: 8</font></p>
+ <p><font color="Black"> SC final: 8</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10688</font></p>
+ <p><font color="Black"> UARFCN final: 10688</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15659333333333,36.4255716666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 8006Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 15:23:38.079</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 15:23:38.079</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 60%</font></p>
+ <p><font color="Black"> % BLER: 10.5%</font></p>
+ <p><font color="Black"> % NACKs: 15.3%</font></p>
+ <p><font color="Black"> % SCCH: 68.1%</font></p>
+ <p><font color="Black"> % QPSK: 0.1%</font></p>
+ <p><font color="Black"> % 16QAM: 52.6%</font></p>
+ <p><font color="Black"> % 64QAM: 47.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -90.82</font></p>
+ <p><font color="Black"> EcIo AVG: -11.36</font></p>
+ <p><font color="Black"> CellId inicial: 21945</font></p>
+ <p><font color="Black"> CellId final: 21945</font></p>
+ <p><font color="Black"> SC inicial: 8</font></p>
+ <p><font color="Black"> SC final: 8</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10688</font></p>
+ <p><font color="Black"> UARFCN final: 10688</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15659333333333,36.4255716666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4161Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 15:28:32.667</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 15:28:32.667</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.9</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 54%</font></p>
+ <p><font color="Black"> % BLER: 42.7%</font></p>
+ <p><font color="Black"> % NACKs: 66.9%</font></p>
+ <p><font color="Black"> % SCCH: 74.1%</font></p>
+ <p><font color="Black"> % QPSK: 6.7%</font></p>
+ <p><font color="Black"> % 16QAM: 74.8%</font></p>
+ <p><font color="Black"> % 64QAM: 18.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -87.81</font></p>
+ <p><font color="Black"> EcIo AVG: -9.1</font></p>
+ <p><font color="Black"> CellId inicial: 27119</font></p>
+ <p><font color="Black"> CellId final: 27119</font></p>
+ <p><font color="Black"> SC inicial: 230</font></p>
+ <p><font color="Black"> SC final: 230</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15551833333333,36.426435</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 13891Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 15:34:45.641</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 15:34:45.641</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.1</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 61%</font></p>
+ <p><font color="Black"> % BLER: 16%</font></p>
+ <p><font color="Black"> % NACKs: 23.5%</font></p>
+ <p><font color="Black"> % SCCH: 65.7%</font></p>
+ <p><font color="Black"> % QPSK: 0.7%</font></p>
+ <p><font color="Black"> % 16QAM: 49.7%</font></p>
+ <p><font color="Black"> % 64QAM: 49.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -76.87</font></p>
+ <p><font color="Black"> EcIo AVG: -8.14</font></p>
+ <p><font color="Black"> CellId inicial: 27120</font></p>
+ <p><font color="Black"> CellId final: 27120</font></p>
+ <p><font color="Black"> SC inicial: 238</font></p>
+ <p><font color="Black"> SC final: 238</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15377333333333,36.4320133333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 8182Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 15:38:33.070</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 15:38:33.070</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.7</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 64%</font></p>
+ <p><font color="Black"> % BLER: 22.8%</font></p>
+ <p><font color="Black"> % NACKs: 33.7%</font></p>
+ <p><font color="Black"> % SCCH: 60.6%</font></p>
+ <p><font color="Black"> % QPSK: 0.6%</font></p>
+ <p><font color="Black"> % 16QAM: 79%</font></p>
+ <p><font color="Black"> % 64QAM: 20.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -72.72</font></p>
+ <p><font color="Black"> EcIo AVG: -9.99</font></p>
+ <p><font color="Black"> CellId inicial: 20095</font></p>
+ <p><font color="Black"> CellId final: 20095</font></p>
+ <p><font color="Black"> SC inicial: 238</font></p>
+ <p><font color="Black"> SC final: 8</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15395,36.4331683333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4499Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 15:44:28.662</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 15:44:28.662</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 81%</font></p>
+ <p><font color="Black"> % BLER: 26.8%</font></p>
+ <p><font color="Black"> % NACKs: 33%</font></p>
+ <p><font color="Black"> % SCCH: 56.1%</font></p>
+ <p><font color="Black"> % QPSK: 3%</font></p>
+ <p><font color="Black"> % 16QAM: 93.7%</font></p>
+ <p><font color="Black"> % 64QAM: 3.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -94.24</font></p>
+ <p><font color="Black"> EcIo AVG: -8.73</font></p>
+ <p><font color="Black"> CellId inicial: 24886</font></p>
+ <p><font color="Black"> CellId final: 24886</font></p>
+ <p><font color="Black"> SC inicial: 8</font></p>
+ <p><font color="Black"> SC final: 8</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14991,36.4330833333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2111Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 15:49:02.227</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 15:49:02.227</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 17.7</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 93%</font></p>
+ <p><font color="Black"> % BLER: 56.7%</font></p>
+ <p><font color="Black"> % NACKs: 58.5%</font></p>
+ <p><font color="Black"> % SCCH: 51.7%</font></p>
+ <p><font color="Black"> % QPSK: 6.9%</font></p>
+ <p><font color="Black"> % 16QAM: 90.8%</font></p>
+ <p><font color="Black"> % 64QAM: 2.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -98.47</font></p>
+ <p><font color="Black"> EcIo AVG: -10.9</font></p>
+ <p><font color="Black"> CellId inicial: 24886</font></p>
+ <p><font color="Black"> CellId final: 24886</font></p>
+ <p><font color="Black"> SC inicial: 8</font></p>
+ <p><font color="Black"> SC final: 8</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14813333333333,36.4333716666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1067Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 15:54:31.285</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 15:54:31.285</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.8</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 41%</font></p>
+ <p><font color="Black"> % BLER: 20.5%</font></p>
+ <p><font color="Black"> % NACKs: 13.8%</font></p>
+ <p><font color="Black"> % SCCH: 56.9%</font></p>
+ <p><font color="Black"> % QPSK: 46.4%</font></p>
+ <p><font color="Black"> % 16QAM: 53.6%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -64.83</font></p>
+ <p><font color="Black"> EcIo AVG: -7.69</font></p>
+ <p><font color="Black"> CellId inicial: 35909</font></p>
+ <p><font color="Black"> CellId final: 35909</font></p>
+ <p><font color="Black"> SC inicial: 0</font></p>
+ <p><font color="Black"> SC final: 0</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 2959</font></p>
+ <p><font color="Black"> UARFCN final: 2959</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14296333333333,36.4350683333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4392Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 15:58:41.194</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 15:58:41.194</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.9</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 24%</font></p>
+ <p><font color="Black"> % BLER: 12.4%</font></p>
+ <p><font color="Black"> % NACKs: 9.4%</font></p>
+ <p><font color="Black"> % SCCH: 73%</font></p>
+ <p><font color="Black"> % QPSK: 0.5%</font></p>
+ <p><font color="Black"> % 16QAM: 99.5%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -70.74</font></p>
+ <p><font color="Black"> EcIo AVG: -9.52</font></p>
+ <p><font color="Black"> CellId inicial: 35909</font></p>
+ <p><font color="Black"> CellId final: 35909</font></p>
+ <p><font color="Black"> SC inicial: 0</font></p>
+ <p><font color="Black"> SC final: 0</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 2959</font></p>
+ <p><font color="Black"> UARFCN final: 2959</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14260666666667,36.43315</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1643Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 16:03:59.680</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 16:03:59.680</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.6</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 40%</font></p>
+ <p><font color="Black"> % BLER: 30.3%</font></p>
+ <p><font color="Black"> % NACKs: 17.7%</font></p>
+ <p><font color="Black"> % SCCH: 62.3%</font></p>
+ <p><font color="Black"> % QPSK: 28.6%</font></p>
+ <p><font color="Black"> % 16QAM: 68.7%</font></p>
+ <p><font color="Black"> % 64QAM: 2.6%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.2</font></p>
+ <p><font color="Black"> EcIo AVG: -10.07</font></p>
+ <p><font color="Black"> CellId inicial: 30685</font></p>
+ <p><font color="Black"> CellId final: 30685</font></p>
+ <p><font color="Black"> SC inicial: 510</font></p>
+ <p><font color="Black"> SC final: 510</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 2959</font></p>
+ <p><font color="Black"> UARFCN final: 2959</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14664,36.433495</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1335Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 16:07:55.055</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 16:07:55.055</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 22.2</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 164%</font></p>
+ <p><font color="Black"> % BLER: 30.1%</font></p>
+ <p><font color="Black"> % NACKs: 10.7%</font></p>
+ <p><font color="Black"> % SCCH: 18.7%</font></p>
+ <p><font color="Black"> % QPSK: 0.9%</font></p>
+ <p><font color="Black"> % 16QAM: 85.6%</font></p>
+ <p><font color="Black"> % 64QAM: 13.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -87.05</font></p>
+ <p><font color="Black"> EcIo AVG: -11.35</font></p>
+ <p><font color="Black"> CellId inicial: 20084</font></p>
+ <p><font color="Black"> CellId final: 20084</font></p>
+ <p><font color="Black"> SC inicial: 78</font></p>
+ <p><font color="Black"> SC final: 86</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14325833333333,36.429895</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 10338Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 16:13:43.827</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 16:13:43.827</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.6</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 56%</font></p>
+ <p><font color="Black"> % BLER: 23.7%</font></p>
+ <p><font color="Black"> % NACKs: 34.1%</font></p>
+ <p><font color="Black"> % SCCH: 63%</font></p>
+ <p><font color="Black"> % QPSK: 1.6%</font></p>
+ <p><font color="Black"> % 16QAM: 73.9%</font></p>
+ <p><font color="Black"> % 64QAM: 24.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -72.92</font></p>
+ <p><font color="Black"> EcIo AVG: -6.99</font></p>
+ <p><font color="Black"> CellId inicial: 24039</font></p>
+ <p><font color="Black"> CellId final: 24039</font></p>
+ <p><font color="Black"> SC inicial: 94</font></p>
+ <p><font color="Black"> SC final: 94</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14618666666667,36.4305133333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 5846Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 16:17:38.058</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 16:17:38.058</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.1</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 92%</font></p>
+ <p><font color="Black"> % BLER: 17.9%</font></p>
+ <p><font color="Black"> % NACKs: 20.5%</font></p>
+ <p><font color="Black"> % SCCH: 61.1%</font></p>
+ <p><font color="Black"> % QPSK: 0.6%</font></p>
+ <p><font color="Black"> % 16QAM: 48.7%</font></p>
+ <p><font color="Black"> % 64QAM: 50.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -85.86</font></p>
+ <p><font color="Black"> EcIo AVG: -10.52</font></p>
+ <p><font color="Black"> CellId inicial: 24037</font></p>
+ <p><font color="Black"> CellId final: 24037</font></p>
+ <p><font color="Black"> SC inicial: 86</font></p>
+ <p><font color="Black"> SC final: 86</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14507166666667,36.42817</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3466Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 16:22:51.568</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 16:22:51.568</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.2</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 87%</font></p>
+ <p><font color="Black"> % BLER: 46%</font></p>
+ <p><font color="Black"> % NACKs: 53.5%</font></p>
+ <p><font color="Black"> % SCCH: 57.4%</font></p>
+ <p><font color="Black"> % QPSK: 4.5%</font></p>
+ <p><font color="Black"> % 16QAM: 65%</font></p>
+ <p><font color="Black"> % 64QAM: 30.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -90.34</font></p>
+ <p><font color="Black"> EcIo AVG: -9.98</font></p>
+ <p><font color="Black"> CellId inicial: 24038</font></p>
+ <p><font color="Black"> CellId final: 24038</font></p>
+ <p><font color="Black"> SC inicial: 86</font></p>
+ <p><font color="Black"> SC final: 86</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14359333333333,36.4279083333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fallo</name>
+<styleUrl>#IconoAwful</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 0Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 16:26:53.183</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 16:26:53.183</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.5</font></p>
+ <p><font color="Black"> HARQ: 3</font></p>
+ <p><font color="Black"> DTX DSCH: 196%</font></p>
+ <p><font color="Black"> % BLER: 10.8%</font></p>
+ <p><font color="Black"> % NACKs: 1%</font></p>
+ <p><font color="Black"> % SCCH: 1.8%</font></p>
+ <p><font color="Black"> % QPSK: 49.2%</font></p>
+ <p><font color="Black"> % 16QAM: 50.8%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -100.17</font></p>
+ <p><font color="Black"> EcIo AVG: -10.17</font></p>
+ <p><font color="Black"> CellId inicial: 20085</font></p>
+ <p><font color="Black"> CellId final: 24920</font></p>
+ <p><font color="Black"> SC inicial: 86</font></p>
+ <p><font color="Black"> SC final: 86</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14119,36.4289883333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 5507Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 16:32:16.003</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 16:32:16.003</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.6</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 59%</font></p>
+ <p><font color="Black"> % BLER: 17.4%</font></p>
+ <p><font color="Black"> % NACKs: 24.5%</font></p>
+ <p><font color="Black"> % SCCH: 72%</font></p>
+ <p><font color="Black"> % QPSK: 0.3%</font></p>
+ <p><font color="Black"> % 16QAM: 73.4%</font></p>
+ <p><font color="Black"> % 64QAM: 26.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -98.13</font></p>
+ <p><font color="Black"> EcIo AVG: -10</font></p>
+ <p><font color="Black"> CellId inicial: 25384</font></p>
+ <p><font color="Black"> CellId final: 25384</font></p>
+ <p><font color="Black"> SC inicial: 222</font></p>
+ <p><font color="Black"> SC final: 222</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.13995833333333,36.4276983333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 6627Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 16:36:19.280</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 16:36:19.280</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.8</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 104%</font></p>
+ <p><font color="Black"> % BLER: 25%</font></p>
+ <p><font color="Black"> % NACKs: 25.3%</font></p>
+ <p><font color="Black"> % SCCH: 52.4%</font></p>
+ <p><font color="Black"> % QPSK: 1.3%</font></p>
+ <p><font color="Black"> % 16QAM: 59%</font></p>
+ <p><font color="Black"> % 64QAM: 39.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -88.5</font></p>
+ <p><font color="Black"> EcIo AVG: -11.06</font></p>
+ <p><font color="Black"> CellId inicial: 24920</font></p>
+ <p><font color="Black"> CellId final: 24920</font></p>
+ <p><font color="Black"> SC inicial: 86</font></p>
+ <p><font color="Black"> SC final: 86</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14425,36.4253383333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4719Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 16:41:33.584</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 16:41:33.584</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 78%</font></p>
+ <p><font color="Black"> % BLER: 33.4%</font></p>
+ <p><font color="Black"> % NACKs: 42%</font></p>
+ <p><font color="Black"> % SCCH: 66.4%</font></p>
+ <p><font color="Black"> % QPSK: 2.1%</font></p>
+ <p><font color="Black"> % 16QAM: 83.2%</font></p>
+ <p><font color="Black"> % 64QAM: 14.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.91</font></p>
+ <p><font color="Black"> EcIo AVG: -9.8</font></p>
+ <p><font color="Black"> CellId inicial: 24921</font></p>
+ <p><font color="Black"> CellId final: 24921</font></p>
+ <p><font color="Black"> SC inicial: 94</font></p>
+ <p><font color="Black"> SC final: 94</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14728,36.4292466666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3733Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 16:45:33.015</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 16:45:33.015</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.4</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 63%</font></p>
+ <p><font color="Black"> % BLER: 23.9%</font></p>
+ <p><font color="Black"> % NACKs: 32.5%</font></p>
+ <p><font color="Black"> % SCCH: 68.9%</font></p>
+ <p><font color="Black"> % QPSK: 1.4%</font></p>
+ <p><font color="Black"> % 16QAM: 43.2%</font></p>
+ <p><font color="Black"> % 64QAM: 55.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -76.7</font></p>
+ <p><font color="Black"> EcIo AVG: -9.89</font></p>
+ <p><font color="Black"> CellId inicial: 25384</font></p>
+ <p><font color="Black"> CellId final: 25384</font></p>
+ <p><font color="Black"> SC inicial: 222</font></p>
+ <p><font color="Black"> SC final: 222</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14792333333333,36.4280266666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 6232Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 16:50:51.991</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 16:50:51.991</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.7</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 60%</font></p>
+ <p><font color="Black"> % BLER: 32.8%</font></p>
+ <p><font color="Black"> % NACKs: 47.3%</font></p>
+ <p><font color="Black"> % SCCH: 76%</font></p>
+ <p><font color="Black"> % QPSK: 3.2%</font></p>
+ <p><font color="Black"> % 16QAM: 81.1%</font></p>
+ <p><font color="Black"> % 64QAM: 15.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -88.58</font></p>
+ <p><font color="Black"> EcIo AVG: -9.25</font></p>
+ <p><font color="Black"> CellId inicial: 20086</font></p>
+ <p><font color="Black"> CellId final: 20086</font></p>
+ <p><font color="Black"> SC inicial: 222</font></p>
+ <p><font color="Black"> SC final: 222</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.148525,36.4304716666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 7683Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 16:54:41.921</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 16:54:41.921</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.2</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 86%</font></p>
+ <p><font color="Black"> % BLER: 20.3%</font></p>
+ <p><font color="Black"> % NACKs: 23.8%</font></p>
+ <p><font color="Black"> % SCCH: 62.7%</font></p>
+ <p><font color="Black"> % QPSK: 0.5%</font></p>
+ <p><font color="Black"> % 16QAM: 86.3%</font></p>
+ <p><font color="Black"> % 64QAM: 13.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.41</font></p>
+ <p><font color="Black"> EcIo AVG: -9.57</font></p>
+ <p><font color="Black"> CellId inicial: 24039</font></p>
+ <p><font color="Black"> CellId final: 24039</font></p>
+ <p><font color="Black"> SC inicial: 94</font></p>
+ <p><font color="Black"> SC final: 94</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14737,36.4304433333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2584Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 17:00:05.024</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 17:00:05.024</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.2</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 66%</font></p>
+ <p><font color="Black"> % BLER: 42%</font></p>
+ <p><font color="Black"> % NACKs: 37.7%</font></p>
+ <p><font color="Black"> % SCCH: 52.2%</font></p>
+ <p><font color="Black"> % QPSK: 7.8%</font></p>
+ <p><font color="Black"> % 16QAM: 77.5%</font></p>
+ <p><font color="Black"> % 64QAM: 14.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 42%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -84.32</font></p>
+ <p><font color="Black"> EcIo AVG: -8.58</font></p>
+ <p><font color="Black"> CellId inicial: 20093</font></p>
+ <p><font color="Black"> CellId final: 20093</font></p>
+ <p><font color="Black"> SC inicial: 222</font></p>
+ <p><font color="Black"> SC final: 222</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14940666666667,36.4283083333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1321Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 17:04:41.689</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 17:04:41.689</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.8</font></p>
+ <p><font color="Black"> HARQ: 5</font></p>
+ <p><font color="Black"> DTX DSCH: 44%</font></p>
+ <p><font color="Black"> % BLER: 36.9%</font></p>
+ <p><font color="Black"> % NACKs: 25.7%</font></p>
+ <p><font color="Black"> % SCCH: 63.5%</font></p>
+ <p><font color="Black"> % QPSK: 8.2%</font></p>
+ <p><font color="Black"> % 16QAM: 59.6%</font></p>
+ <p><font color="Black"> % 64QAM: 32.2%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.99</font></p>
+ <p><font color="Black"> EcIo AVG: -7.93</font></p>
+ <p><font color="Black"> CellId inicial: 17095</font></p>
+ <p><font color="Black"> CellId final: 17095</font></p>
+ <p><font color="Black"> SC inicial: 196</font></p>
+ <p><font color="Black"> SC final: 222</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14851833333333,36.42721</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 10625Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 17:23:22.248</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 17:23:22.248</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.2</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 57%</font></p>
+ <p><font color="Black"> % BLER: 9.8%</font></p>
+ <p><font color="Black"> % NACKs: 13.5%</font></p>
+ <p><font color="Black"> % SCCH: 75.2%</font></p>
+ <p><font color="Black"> % QPSK: 0.2%</font></p>
+ <p><font color="Black"> % 16QAM: 94.9%</font></p>
+ <p><font color="Black"> % 64QAM: 4.8%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -82.43</font></p>
+ <p><font color="Black"> EcIo AVG: -9.36</font></p>
+ <p><font color="Black"> CellId inicial: 20095</font></p>
+ <p><font color="Black"> CellId final: 20095</font></p>
+ <p><font color="Black"> SC inicial: 238</font></p>
+ <p><font color="Black"> SC final: 238</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15367333333333,36.4320966666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 5979Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 17:27:13.471</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 17:27:13.471</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 77%</font></p>
+ <p><font color="Black"> % BLER: 21.9%</font></p>
+ <p><font color="Black"> % NACKs: 27.6%</font></p>
+ <p><font color="Black"> % SCCH: 63.6%</font></p>
+ <p><font color="Black"> % QPSK: 0.7%</font></p>
+ <p><font color="Black"> % 16QAM: 56.8%</font></p>
+ <p><font color="Black"> % 64QAM: 42.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -82.25</font></p>
+ <p><font color="Black"> EcIo AVG: -7.98</font></p>
+ <p><font color="Black"> CellId inicial: 20095</font></p>
+ <p><font color="Black"> CellId final: 20095</font></p>
+ <p><font color="Black"> SC inicial: 8</font></p>
+ <p><font color="Black"> SC final: 8</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15169,36.43043</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3906Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 17:33:12.228</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 17:33:12.228</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 71%</font></p>
+ <p><font color="Black"> % BLER: 28.4%</font></p>
+ <p><font color="Black"> % NACKs: 37.7%</font></p>
+ <p><font color="Black"> % SCCH: 62.7%</font></p>
+ <p><font color="Black"> % QPSK: 16.7%</font></p>
+ <p><font color="Black"> % 16QAM: 81.5%</font></p>
+ <p><font color="Black"> % 64QAM: 1.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -81.31</font></p>
+ <p><font color="Black"> EcIo AVG: -8.71</font></p>
+ <p><font color="Black"> CellId inicial: 24886</font></p>
+ <p><font color="Black"> CellId final: 24886</font></p>
+ <p><font color="Black"> SC inicial: 8</font></p>
+ <p><font color="Black"> SC final: 8</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15377833333333,36.4242416666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3164Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 17:37:25.259</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 17:37:25.259</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.6</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 135%</font></p>
+ <p><font color="Black"> % BLER: 11.4%</font></p>
+ <p><font color="Black"> % NACKs: 7.7%</font></p>
+ <p><font color="Black"> % SCCH: 34.8%</font></p>
+ <p><font color="Black"> % QPSK: 0.9%</font></p>
+ <p><font color="Black"> % 16QAM: 55.7%</font></p>
+ <p><font color="Black"> % 64QAM: 43.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -90.69</font></p>
+ <p><font color="Black"> EcIo AVG: -11.84</font></p>
+ <p><font color="Black"> CellId inicial: 20075</font></p>
+ <p><font color="Black"> CellId final: 20075</font></p>
+ <p><font color="Black"> SC inicial: 318</font></p>
+ <p><font color="Black"> SC final: 318</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.151285,36.4215283333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 15720Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 17:42:24.467</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 17:42:24.467</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 52%</font></p>
+ <p><font color="Black"> % BLER: 10.6%</font></p>
+ <p><font color="Black"> % NACKs: 16.2%</font></p>
+ <p><font color="Black"> % SCCH: 78.5%</font></p>
+ <p><font color="Black"> % QPSK: 0.1%</font></p>
+ <p><font color="Black"> % 16QAM: 20.3%</font></p>
+ <p><font color="Black"> % 64QAM: 79.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -70.42</font></p>
+ <p><font color="Black"> EcIo AVG: -10.24</font></p>
+ <p><font color="Black"> CellId inicial: 20077</font></p>
+ <p><font color="Black"> CellId final: 20077</font></p>
+ <p><font color="Black"> SC inicial: 334</font></p>
+ <p><font color="Black"> SC final: 334</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.156145,36.41973</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 11401Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 17:46:09.281</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 17:46:09.281</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.1</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 78%</font></p>
+ <p><font color="Black"> % BLER: 16.7%</font></p>
+ <p><font color="Black"> % NACKs: 19.7%</font></p>
+ <p><font color="Black"> % SCCH: 56.6%</font></p>
+ <p><font color="Black"> % QPSK: 1%</font></p>
+ <p><font color="Black"> % 16QAM: 61.9%</font></p>
+ <p><font color="Black"> % 64QAM: 37.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.29</font></p>
+ <p><font color="Black"> EcIo AVG: -8.06</font></p>
+ <p><font color="Black"> CellId inicial: 20074</font></p>
+ <p><font color="Black"> CellId final: 20074</font></p>
+ <p><font color="Black"> SC inicial: 334</font></p>
+ <p><font color="Black"> SC final: 334</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15434666666667,36.4184183333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 3633Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 17:52:18.575</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 17:52:18.575</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.3</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 114%</font></p>
+ <p><font color="Black"> % BLER: 16.8%</font></p>
+ <p><font color="Black"> % NACKs: 10.1%</font></p>
+ <p><font color="Black"> % SCCH: 30.4%</font></p>
+ <p><font color="Black"> % QPSK: 5.2%</font></p>
+ <p><font color="Black"> % 16QAM: 63.5%</font></p>
+ <p><font color="Black"> % 64QAM: 31.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 77%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -93.34</font></p>
+ <p><font color="Black"> EcIo AVG: -8.04</font></p>
+ <p><font color="Black"> CellId inicial: 17094</font></p>
+ <p><font color="Black"> CellId final: 17094</font></p>
+ <p><font color="Black"> SC inicial: 230</font></p>
+ <p><font color="Black"> SC final: 180</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.149695,36.42207</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 8730Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 17:56:16.475</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 17:56:16.475</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.5</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 66%</font></p>
+ <p><font color="Black"> % BLER: 22.4%</font></p>
+ <p><font color="Black"> % NACKs: 28.5%</font></p>
+ <p><font color="Black"> % SCCH: 71.2%</font></p>
+ <p><font color="Black"> % QPSK: 0.3%</font></p>
+ <p><font color="Black"> % 16QAM: 77.3%</font></p>
+ <p><font color="Black"> % 64QAM: 22.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -78.19</font></p>
+ <p><font color="Black"> EcIo AVG: -8.96</font></p>
+ <p><font color="Black"> CellId inicial: 17094</font></p>
+ <p><font color="Black"> CellId final: 17094</font></p>
+ <p><font color="Black"> SC inicial: 188</font></p>
+ <p><font color="Black"> SC final: 188</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14988,36.423125</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4994Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 18:03:02.704</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 18:03:02.704</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.3</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 14%</font></p>
+ <p><font color="Black"> % BLER: 16%</font></p>
+ <p><font color="Black"> % NACKs: 14.8%</font></p>
+ <p><font color="Black"> % SCCH: 82.3%</font></p>
+ <p><font color="Black"> % QPSK: 2.3%</font></p>
+ <p><font color="Black"> % 16QAM: 49.9%</font></p>
+ <p><font color="Black"> % 64QAM: 47.9%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -52.84</font></p>
+ <p><font color="Black"> EcIo AVG: -9.08</font></p>
+ <p><font color="Black"> CellId inicial: 17092</font></p>
+ <p><font color="Black"> CellId final: 30678</font></p>
+ <p><font color="Black"> SC inicial: 230</font></p>
+ <p><font color="Black"> SC final: 188</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 2959</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14917666666667,36.4246733333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 4362Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 18:07:06.925</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 18:07:06.925</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 21.1</font></p>
+ <p><font color="Black"> HARQ: 8</font></p>
+ <p><font color="Black"> DTX DSCH: 52%</font></p>
+ <p><font color="Black"> % BLER: 35.7%</font></p>
+ <p><font color="Black"> % NACKs: 42.3%</font></p>
+ <p><font color="Black"> % SCCH: 64.3%</font></p>
+ <p><font color="Black"> % QPSK: 16.9%</font></p>
+ <p><font color="Black"> % 16QAM: 74.6%</font></p>
+ <p><font color="Black"> % 64QAM: 8.5%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 57%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -77.97</font></p>
+ <p><font color="Black"> EcIo AVG: -9.41</font></p>
+ <p><font color="Black"> CellId inicial: 27119</font></p>
+ <p><font color="Black"> CellId final: 27119</font></p>
+ <p><font color="Black"> SC inicial: 230</font></p>
+ <p><font color="Black"> SC final: 230</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15646166666667,36.4264183333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 11035Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 18:12:58.088</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 18:12:58.088</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.4</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 63%</font></p>
+ <p><font color="Black"> % BLER: 10.8%</font></p>
+ <p><font color="Black"> % NACKs: 13.6%</font></p>
+ <p><font color="Black"> % SCCH: 64.2%</font></p>
+ <p><font color="Black"> % QPSK: 0.5%</font></p>
+ <p><font color="Black"> % 16QAM: 66.6%</font></p>
+ <p><font color="Black"> % 64QAM: 32.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -72.34</font></p>
+ <p><font color="Black"> EcIo AVG: -9.11</font></p>
+ <p><font color="Black"> CellId inicial: 20047</font></p>
+ <p><font color="Black"> CellId final: 24921</font></p>
+ <p><font color="Black"> SC inicial: 94</font></p>
+ <p><font color="Black"> SC final: 94</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.16100833333333,36.4261633333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 9842Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 18:17:00.685</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 18:17:00.685</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.3</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 52%</font></p>
+ <p><font color="Black"> % BLER: 25.4%</font></p>
+ <p><font color="Black"> % NACKs: 38.4%</font></p>
+ <p><font color="Black"> % SCCH: 78%</font></p>
+ <p><font color="Black"> % QPSK: 2.1%</font></p>
+ <p><font color="Black"> % 16QAM: 77.8%</font></p>
+ <p><font color="Black"> % 64QAM: 20.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -83.92</font></p>
+ <p><font color="Black"> EcIo AVG: -8.84</font></p>
+ <p><font color="Black"> CellId inicial: 27120</font></p>
+ <p><font color="Black"> CellId final: 27120</font></p>
+ <p><font color="Black"> SC inicial: 294</font></p>
+ <p><font color="Black"> SC final: 238</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.158655,36.4296583333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 11354Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 18:34:59.403</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 18:34:59.403</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.7</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 46%</font></p>
+ <p><font color="Black"> % BLER: 16%</font></p>
+ <p><font color="Black"> % NACKs: 24.6%</font></p>
+ <p><font color="Black"> % SCCH: 79.9%</font></p>
+ <p><font color="Black"> % QPSK: 4.8%</font></p>
+ <p><font color="Black"> % 16QAM: 51.8%</font></p>
+ <p><font color="Black"> % 64QAM: 43.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -79.74</font></p>
+ <p><font color="Black"> EcIo AVG: -8.86</font></p>
+ <p><font color="Black"> CellId inicial: 27120</font></p>
+ <p><font color="Black"> CellId final: 27120</font></p>
+ <p><font color="Black"> SC inicial: 238</font></p>
+ <p><font color="Black"> SC final: 238</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.156885,36.4292733333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 19315Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 18:40:04.440</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 18:40:04.440</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 28.3</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 56%</font></p>
+ <p><font color="Black"> % BLER: 9.9%</font></p>
+ <p><font color="Black"> % NACKs: 15.3%</font></p>
+ <p><font color="Black"> % SCCH: 76.9%</font></p>
+ <p><font color="Black"> % QPSK: 0.3%</font></p>
+ <p><font color="Black"> % 16QAM: 3.8%</font></p>
+ <p><font color="Black"> % 64QAM: 95.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -61</font></p>
+ <p><font color="Black"> EcIo AVG: -8.52</font></p>
+ <p><font color="Black"> CellId inicial: 20046</font></p>
+ <p><font color="Black"> CellId final: 20046</font></p>
+ <p><font color="Black"> SC inicial: 294</font></p>
+ <p><font color="Black"> SC final: 294</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.16995333333333,36.4286866666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 9061Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 18:43:55.885</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 18:43:55.885</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.5</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 53%</font></p>
+ <p><font color="Black"> % BLER: 30.6%</font></p>
+ <p><font color="Black"> % NACKs: 42.9%</font></p>
+ <p><font color="Black"> % SCCH: 71.9%</font></p>
+ <p><font color="Black"> % QPSK: 8.1%</font></p>
+ <p><font color="Black"> % 16QAM: 59.2%</font></p>
+ <p><font color="Black"> % 64QAM: 32.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -74.69</font></p>
+ <p><font color="Black"> EcIo AVG: -7.47</font></p>
+ <p><font color="Black"> CellId inicial: 20046</font></p>
+ <p><font color="Black"> CellId final: 20046</font></p>
+ <p><font color="Black"> SC inicial: 294</font></p>
+ <p><font color="Black"> SC final: 238</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.16329166666667,36.429655</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 2155Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 18:49:02.637</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 18:49:02.637</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 19.1</font></p>
+ <p><font color="Black"> HARQ: 12</font></p>
+ <p><font color="Black"> DTX DSCH: 54%</font></p>
+ <p><font color="Black"> % BLER: 34.6%</font></p>
+ <p><font color="Black"> % NACKs: 51.6%</font></p>
+ <p><font color="Black"> % SCCH: 80.2%</font></p>
+ <p><font color="Black"> % QPSK: 34.7%</font></p>
+ <p><font color="Black"> % 16QAM: 56.9%</font></p>
+ <p><font color="Black"> % 64QAM: 8.4%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -91.85</font></p>
+ <p><font color="Black"> EcIo AVG: -9.84</font></p>
+ <p><font color="Black"> CellId inicial: 24816</font></p>
+ <p><font color="Black"> CellId final: 27119</font></p>
+ <p><font color="Black"> SC inicial: 334</font></p>
+ <p><font color="Black"> SC final: 334</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.16088333333333,36.4200916666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 12373Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 18:53:08.657</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 18:53:08.657</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 25.2</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 50%</font></p>
+ <p><font color="Black"> % BLER: 16.7%</font></p>
+ <p><font color="Black"> % NACKs: 25.7%</font></p>
+ <p><font color="Black"> % SCCH: 68.9%</font></p>
+ <p><font color="Black"> % QPSK: 0.9%</font></p>
+ <p><font color="Black"> % 16QAM: 88.9%</font></p>
+ <p><font color="Black"> % 64QAM: 10.2%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -90.2</font></p>
+ <p><font color="Black"> EcIo AVG: -8.78</font></p>
+ <p><font color="Black"> CellId inicial: 24954</font></p>
+ <p><font color="Black"> CellId final: 24954</font></p>
+ <p><font color="Black"> SC inicial: 14</font></p>
+ <p><font color="Black"> SC final: 14</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.16223,36.4188583333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1422Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 18:58:14.561</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 18:58:14.561</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 17.9</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 51%</font></p>
+ <p><font color="Black"> % BLER: 36.6%</font></p>
+ <p><font color="Black"> % NACKs: 24.9%</font></p>
+ <p><font color="Black"> % SCCH: 52%</font></p>
+ <p><font color="Black"> % QPSK: 47.8%</font></p>
+ <p><font color="Black"> % 16QAM: 50.5%</font></p>
+ <p><font color="Black"> % 64QAM: 1.7%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 6%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -92.35</font></p>
+ <p><font color="Black"> EcIo AVG: -7.79</font></p>
+ <p><font color="Black"> CellId inicial: 24954</font></p>
+ <p><font color="Black"> CellId final: 24954</font></p>
+ <p><font color="Black"> SC inicial: 14</font></p>
+ <p><font color="Black"> SC final: 168</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.16612833333333,36.4216466666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 11721Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 19:02:01.998</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 19:02:01.998</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 24.5</font></p>
+ <p><font color="Black"> HARQ: 9</font></p>
+ <p><font color="Black"> DTX DSCH: 59%</font></p>
+ <p><font color="Black"> % BLER: 21.9%</font></p>
+ <p><font color="Black"> % NACKs: 30.9%</font></p>
+ <p><font color="Black"> % SCCH: 78%</font></p>
+ <p><font color="Black"> % QPSK: 1.4%</font></p>
+ <p><font color="Black"> % 16QAM: 82.7%</font></p>
+ <p><font color="Black"> % 64QAM: 15.9%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -81.88</font></p>
+ <p><font color="Black"> EcIo AVG: -7.55</font></p>
+ <p><font color="Black"> CellId inicial: 24953</font></p>
+ <p><font color="Black"> CellId final: 24953</font></p>
+ <p><font color="Black"> SC inicial: 6</font></p>
+ <p><font color="Black"> SC final: 6</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.1668,36.4202816666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoSoSo</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 7096Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 19:07:19.058</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 19:07:19.058</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.3</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 124%</font></p>
+ <p><font color="Black"> % BLER: 16%</font></p>
+ <p><font color="Black"> % NACKs: 13.4%</font></p>
+ <p><font color="Black"> % SCCH: 34.4%</font></p>
+ <p><font color="Black"> % QPSK: 3.7%</font></p>
+ <p><font color="Black"> % 16QAM: 56.2%</font></p>
+ <p><font color="Black"> % 64QAM: 40.1%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -72.29</font></p>
+ <p><font color="Black"> EcIo AVG: -4.79</font></p>
+ <p><font color="Black"> CellId inicial: 20047</font></p>
+ <p><font color="Black"> CellId final: 20047</font></p>
+ <p><font color="Black"> SC inicial: 6</font></p>
+ <p><font color="Black"> SC final: 6</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.16851833333333,36.418365</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 10994Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 19:11:04.992</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 19:11:04.992</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.6</font></p>
+ <p><font color="Black"> HARQ: 11</font></p>
+ <p><font color="Black"> DTX DSCH: 89%</font></p>
+ <p><font color="Black"> % BLER: 16.1%</font></p>
+ <p><font color="Black"> % NACKs: 19.4%</font></p>
+ <p><font color="Black"> % SCCH: 49.2%</font></p>
+ <p><font color="Black"> % QPSK: 1.4%</font></p>
+ <p><font color="Black"> % 16QAM: 71.3%</font></p>
+ <p><font color="Black"> % 64QAM: 27.3%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -60.32</font></p>
+ <p><font color="Black"> EcIo AVG: -5.72</font></p>
+ <p><font color="Black"> CellId inicial: 24954</font></p>
+ <p><font color="Black"> CellId final: 24954</font></p>
+ <p><font color="Black"> SC inicial: 6</font></p>
+ <p><font color="Black"> SC final: 14</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.17167166666667,36.4170216666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 13204Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 19:16:07.047</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 19:16:07.047</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 26.7</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 57%</font></p>
+ <p><font color="Black"> % BLER: 12.9%</font></p>
+ <p><font color="Black"> % NACKs: 18.8%</font></p>
+ <p><font color="Black"> % SCCH: 67.5%</font></p>
+ <p><font color="Black"> % QPSK: 0.3%</font></p>
+ <p><font color="Black"> % 16QAM: 61.6%</font></p>
+ <p><font color="Black"> % 64QAM: 38%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -75.52</font></p>
+ <p><font color="Black"> EcIo AVG: -9.16</font></p>
+ <p><font color="Black"> CellId inicial: 24815</font></p>
+ <p><font color="Black"> CellId final: 24815</font></p>
+ <p><font color="Black"> SC inicial: 326</font></p>
+ <p><font color="Black"> SC final: 326</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15857833333333,36.4172266666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryGood</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 15732Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 19:19:51.610</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 19:19:51.610</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 27.2</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 61%</font></p>
+ <p><font color="Black"> % BLER: 13%</font></p>
+ <p><font color="Black"> % NACKs: 18.3%</font></p>
+ <p><font color="Black"> % SCCH: 66.7%</font></p>
+ <p><font color="Black"> % QPSK: 0.2%</font></p>
+ <p><font color="Black"> % 16QAM: 42.8%</font></p>
+ <p><font color="Black"> % 64QAM: 57%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -66.58</font></p>
+ <p><font color="Black"> EcIo AVG: -8.29</font></p>
+ <p><font color="Black"> CellId inicial: 24815</font></p>
+ <p><font color="Black"> CellId final: 24815</font></p>
+ <p><font color="Black"> SC inicial: 326</font></p>
+ <p><font color="Black"> SC final: 326</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10638</font></p>
+ <p><font color="Black"> UARFCN final: 10638</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.15795166666667,36.4169983333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1347Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 19:26:06.477</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 19:26:06.477</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 23.8</font></p>
+ <p><font color="Black"> HARQ: 6</font></p>
+ <p><font color="Black"> DTX DSCH: 36%</font></p>
+ <p><font color="Black"> % BLER: 20.9%</font></p>
+ <p><font color="Black"> % NACKs: 15.4%</font></p>
+ <p><font color="Black"> % SCCH: 66%</font></p>
+ <p><font color="Black"> % QPSK: 2%</font></p>
+ <p><font color="Black"> % 16QAM: 98%</font></p>
+ <p><font color="Black"> % 64QAM: 0%</font></p>
+ <p><font color="Black"> Carriers: 1</font></p>
+ <p><font color="Black"> % Dual Carrier: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -88.55</font></p>
+ <p><font color="Black"> EcIo AVG: -9.74</font></p>
+ <p><font color="Black"> CellId inicial: 17093</font></p>
+ <p><font color="Black"> CellId final: 17093</font></p>
+ <p><font color="Black"> SC inicial: 110</font></p>
+ <p><font color="Black"> SC final: 110</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14017,36.4270383333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<styleUrl>#IconoVeryBad</styleUrl>
+<description>
+<![CDATA[
+  <h3> Tipo de Test: Network Capability</h3>
+ <p><font color="Black"> Throughput: 1780Kbps</font></p>
+ <p><font color="Black"> Fecha: 2017-04-04 19:31:13.693</font></p>
+ <p><font color="Black"> Hora: 2017-04-04 19:31:13.693</font></p>
+ <p><font color="Black"> Equipo de Medidas: 358672057219432</font></p>
+ <p><font color="Black"> LogFile: 20170404_ADD_MA_ESTEPONA_1_3G</font></p>
+ <p><font color="Black"> Uso LTE: 0%</font></p>
+ <p><font color="Black"> Uso WCDMA: 100%</font></p>
+ <p><font color="Black"> Uso GSM: 0%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> Codigos: </font></p>
+ <p><font color="Black"> CQI: 20.6</font></p>
+ <p><font color="Black"> HARQ: 10</font></p>
+ <p><font color="Black"> DTX DSCH: 119%</font></p>
+ <p><font color="Black"> % BLER: 34.4%</font></p>
+ <p><font color="Black"> % NACKs: 31.1%</font></p>
+ <p><font color="Black"> % SCCH: 39.7%</font></p>
+ <p><font color="Black"> % QPSK: 2%</font></p>
+ <p><font color="Black"> % 16QAM: 95.4%</font></p>
+ <p><font color="Black"> % 64QAM: 2.6%</font></p>
+ <p><font color="Black"> Carriers: 2</font></p>
+ <p><font color="Black"> % Dual Carrier: 100%</font></p>
+ <p><font color="Black"> ---------------------------------------</font></p>
+ <p><font color="Black"> RSCP AVG: -98.7</font></p>
+ <p><font color="Black"> EcIo AVG: -11.26</font></p>
+ <p><font color="Black"> CellId inicial: 20093</font></p>
+ <p><font color="Black"> CellId final: 20093</font></p>
+ <p><font color="Black"> SC inicial: 222</font></p>
+ <p><font color="Black"> SC final: 222</font></p>
+ <p><font color="Black"> LAC inicial: 3107</font></p>
+ <p><font color="Black"> LAC final: 3107</font></p>
+ <p><font color="Black"> UARFCN inicial: 10663</font></p>
+ <p><font color="Black"> UARFCN final: 10663</font></p>
+]]>
+</description>
+<Point>
+  <coordinates>-5.14069833333333,36.4300766666667</coordinates>
+</Point>
+</Placemark>
+<name>358672057219432</name>
+</Folder>
+</Folder>
+<ScreenOverlay>
+<name>Absolute Positioning: Top Left</name>
+<Icon>
+<href>Leyenda_FTP_DL_2x2.jpg</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0" y="0.86" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document>
+</kml>

@@ -1,0 +1,172 @@
+Scope			- OK. 
+Systems			- System 1
+Control de Acciones	
+
+06/04/2017	17:50	20:10	2.33	Medida	OK	20170406_ADD_MA_MIJAS_1_3G	le hago reboot a Movistar voz porque realiza varios drooper seguidos yse desconecta continuamente
+06/04/2017	20:15	22:20	2.08	Medida	OK	20170406_ADD_MA_MIJAS_1_3G	le hago reboot a ORA Y MOV DATOS porque no realizan ninguna prueba al lanzar la campana, orange datos esta en LTE estando forzada a UMTS le hago reboot . Paro la TASK DE MOV DATOS porque se conecta a LTE estando forzado a UMTS. Parada a repostar
+07/04/2017	7:50	10:00	2.17	Medida	OK	20170407_ADD_MA_MIJAS_1_3G	yoigo tiene poca cobretura por la zona y muestra THRPT bajos
+	
+	
+Invalidaciones
+
+ * Test el pais fallidos: "LCC NotReported"
+ * Test Youtube (http): "LCC NotReported"
+ * Test PDP/PDN: "LCC NotReported"
+ * Test de 4G en 3G voz y datos: "LCC WrongTechnology"
+
+
+
+
+Mallado	final		- OK
+
+
+*****SOBRE LIBRO MUN****** 
+
+
+---------
+-- VOZ --	
+---------
+
+
+General: 
+
+ - CSSR	- OK, mejoramos en VDF y OSP, empeoramos en MOV y YOI.
+
+NEW	Access Errors	DCR	Success Rate
+VODAFONE	1.40%	0.71%	97.89%
+MOVISTAR	1.77%	0.72%	97.53%
+ORANGE		2.78%	0.00%	97.22%
+YOIGO		1.76%	0.00%	98.24%
+			
+			
+OLD	Access Errors	DCR	Success Rate
+VODAFONE	1.45%	0.00%	98.55%
+MOVISTAR	3.21%	0.00%	96.79%
+ORANGE		2.04%	0.00%	97.96%
+YOIGO		2.32%	0.59%	97.10%
+
+
+
+
+ - CST	- OK.
+ - MOS	- OK, baja para MOV, menos uso de WB pero no justifica esta bajada.
+ - SQNS	- OK.
+ - CDR  - OK, aparecen aisladas en MOV y VDF.
+
+
+* NOTA:
+VOZ EN AMARILLO.MOS baja para MOV, menos uso de WB pero no justifica esta bajada.
+
+*******************************************************************************************************************
+
+-----------
+-- DATOS --	
+-----------
+
+
+
+General: 
+
+ - D1: 	ok, mejoramos en todos menos en VDF.
+
+D1 new		D1 old
+VOD-8.6M	VOD-9.8M
+MOV-10.5M	MOV-10M
+ORA-7.3M	ORA-5.4M
+YOI-6.2M	YOI-6M
+
+
+
+ - D2: 	ok, mejoramos en todos menos en VDF.
+
+D2 new		D2 old
+VOD-91.4%	VOD-93%
+MOV-96.4%	MOV-96%
+ORA-84.5%	ORA-79%
+YOI-83.0%	YOI-83%
+
+
+
+ - D3:  ok, mejoramos o mantenemos en todo.
+
+D3 new		D3 old
+VOD-2.2M	VOD-2.2M
+MOV-2.5M	MOV-2.3M
+ORA-2.2M	ORA-2.2M
+YOI-2.2M	YOI-1.5M
+
+
+
+
+ - DL_NC: ok, mejoramos en MOV y OSP.
+
+DL_NC new	DL_NC old
+VOD-9.4M	VOD-10.1M
+MOV-12.9M	MOV-12M
+ORA-8.7M	ORA-8.2M
+YOI-8.1M	YOI-8.9M
+
+
+
+	
+ - UL_NC: ok, mejoramos o mantenemos en todo.
+
+UL_NC new	UL_NC old
+VOD-2.5M	VOD-2.3M
+MOV-2.7M	MOV-2.6M
+ORA-2.5M	ORA-2.5M
+YOI-2.2M	YOI-1.7M
+
+
+
+
+ - LATENCIA: OK empeoramos mediana en YOIGO y en media YOIGO y MOVISTAR.
+
+MEDIANA new	MEDIANA old		MEDIA new	MEDIA old
+VOD-47ms	VOD-49ms		VOD-60ms	VOD-64ms
+MOV-38ms	MOV-50ms		MOV-87ms	MOV-97ms
+ORA-49ms	ORA-55ms		ORA-74ms	ORA-75ms
+YOI-63ms	YOI-71ms		YOI-99ms	YOI-112ms
+
+
+
+ - D5: OK.
+
+ - D5 HTTPS: OK, mucho RETAINABILITY.
+	
+ - D5 Publicas:	OK, mucho RETAINABILITY.
+
+*********************
+****YOUTUBE V.11*****
+*********************
+
+
+
+ - B1: ok.
+
+ - B2: ok.
+
+ - B3: ok.
+
+ - B4: ok.
+
+ - B5: ok.
+
+ - B6: ok.
+	
+
+*NOTAS:
+DATOS en AMARILLO. VDF baja pero menos uso de DC y más uso de u900.
+
+*******************************************************************************************************************
+*******************************************************************************************************************
+*******************************************************************************************************************
+
+-------------
+-- 2da rev --	
+-------------
+
+
+
+VOZ EN VERDE.
+DATOS en AMARILLO. VDF baja pero menos uso de DC y más uso de u900.

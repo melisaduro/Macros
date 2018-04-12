@@ -1,0 +1,52 @@
+Cliente: Sharing
+Scope :	OK
+	
+Invalidaciones: Llamadas wrong technology, http youtube y wrong url el pais.
+
+Mallado	final: OK
+
+Cobertura:	
+---------
+-- VOZ --
+---------
+ - CCSR	: OK
+1
+2
+2
+1
+
+ - CDR	: OK
+ - SQNS : OK, un fallo para OSP
+ - MOS  : OK, todos ~3,5 salvo yoigo bajo con 2.72 (como siempre)
+ - CST	: ok, un pelín alto para VDF, 6,3s
+
+
+-----------
+-- DATOS --
+-----------	
+ - D1: OK, sube casi 3mb VDF
+ - D2: OK 	
+ - D3: OK, Bajan 0,3 y 0,6 VDF y MOV,
+ - DL_NC: OK
+ - UL_NC: OK
+ - LATENCIA: 
+ - WEB:	OK
+ - D5_ HTTP : Hay muchos errores en retainability en general, Además el tiempo de acceso es bastante alto. ~5s
+ - D5_HTTPS : Hay muchos errores en retainability en general, en particular para YOI y MOV, Además el tiempo de acceso es bastante alto. ~5s
+
+0	4	1
+1	2	7
+1	4	4
+0	4	6
+
+ - B2: OK
+ - B5: OK
+
+
+------------------------------------------------------------------------------------------------------------
+
+2º rev :
+
+	voz : VERDE
+
+	datos : VERDE
